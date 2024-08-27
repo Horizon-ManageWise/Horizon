@@ -510,6 +510,23 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 3.1. To-Be Scenario Mapping
 
+### **Segmento 1:** Lider o gerente de proyectos de software 
+
+| Fases | Recibir un proyecto | Asignar tareas dentro del equipo | Realizar el seguimiento de los miembros | Evaluar el trabajo de los miembros tras culminado el proyecto |
+|-|-|-|-|-|
+| **Doing** | - Recibo el proyecto a través de ManageWise con todos los detalles y documentación accesibles <br> - Realizo una reunión virtual en donde se establecen claramente los obetivos y herramientas ofrecidas por la plataforma | - Utilizo ManageWise y esta me sugiere automáticamente la mejor distribución de tareas basada en habilidades y disponibilidad de los miembros <br> - Establezco plazos realistas con la ayuda de la plataforma | - Monitorizo el progreso del equipo  a través de dashboards personalizados <br> - Las alertas automáticas me notifican sobre bloqueos y retrasos | - Utilizo la plataforma para analizar el rendimiento de los miembros basado en datos cuantitativos <br> - Ofrezco retroalimentación constructiva con ayuda de los datos proporcionados por ManageWise |
+| **Thinking** | - Tengo la seguridad de que el equipo cuenta con todas las herramientas y recursos necesarios| - Estoy seguro de que las tareas se han asignado de la mejor manera posible | - Confío en los datos y análisis de la plataforma para realizar un seguimiento efectivo | - Tengo la confianza de que la evaluación a los miembros es justa |
+| **Feeling** | - Me siento confiado sobre la claridad de los objetivos comunicados y la capacidad del equipo <br> - Motivado porque las herramientas simplifican la planificación | - Tranquilidad al saber que las tareas están bien distribuidas y los plazos son realistas | - Menor estrés gracias a la visibilidad constante del progreso <br> - Seguridad en la gestión efectiva del proyecto | Satisfacción al ver mejoras continuas basadas en retroalimentación |
+
+
+### **Segmento 2:** Miembro de un equipo de desarrollo de software 
+
+| Fases | Recibir las tareas del proyecto | Colaborar con el equipo | Desarrollar y probar el código | Entregar el código final y participar en la retrospectiva |
+|-|-|-|-|-|
+| **Doing** | - Recibo las tareas asignadas directamente en ManageWise, la cual incluye la documentación y requisitos | - Me coordino con otros miembros del equipo a través de mensajes desde la plataforma <br> - Accedo a un tablero que muestra el estado del trabajo de todos los miembros del equipo | - Desarrollo y el código y subo una versión preeliminar para ser analizada por el equipo <br> - Accedo a recomendaciones basadas en IA para optimizar el código | - Entrego el código final a través de la plataforma, que también automatiza las revisiones y pruebas finales <br> - Participo en una retroalimentación del equipo basada en datos recopilados durante el proyecto |
+| **Thinking** | - Me queda claro lo que se espera de mi y mis tareas | - Estoy bien alineado con el resto del equipo <br> - ¿Hay alguna área donde puedo colaborar más eficientemente? | - Aprovecho al máximo las herramientas para mejorar la calidad del código | - Estoy listo para recibir una retroalimentación valiosa <br> - ¿Qué aprendizajes puedo aplicar al próximo proyecto? |
+| **Feeling** | - Confianza en mi comprensión del proyecto y las tareas asignadas <br> - Seguridad en mi capacidad para entregar resultados de calidad | - Motivado por la colaboración fluida | - Satisfacción por el uso de herramientas que mejoran la calidad del trabajo <br> - Tranquilidad al saber que los posibles errores se detectan tempranamente | - Orgullo del trabajo presentado y entusiasmado por las oportunidades de mejora | 
+
 ### 3.2. User Stories
 
 ### 3.3. Impact Mapping
