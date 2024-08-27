@@ -488,6 +488,22 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 ### 2.3.5. As-is Scenario Mapping
 
+#### **Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento
+
+|Fases | Recibir un proyecto| Asignar tareas dentro del equipo| Realizar el seguimiento de los miembros | Evaluar el trabajo de los miembros tras culminado el proyecto |
+|-|-|-|-|-|
+| Doing| - Recibimos un proyecto por parte del área encargada <br> - Realizo una reunión con el equipo para evaluar el proyecto| - Asigno tareas especificas a diferentes miembros <br> - Ponemos plazos a los entregables| - Ingreso al repositorio o pregunto a los miembros como van <br> - Anoto los percances y errores que tiene cada miembro| - Una vez culminado el trabajo, reviso mis apuntes y veo que tal se desenvolvió cada miembro del equipo |
+| Thinking| - ¿Será que tenemos las habilidades necesarias para afrontar el proyecto? <br> - ¿Cómo puedo comunicar los objetivos de manera clara? | - Me toca confiar en las habilidades que algunos miembros dicen tener <br> - Espero que los plazos asignados sean realistas | - Ojalá estar hacendo un seguimiento eficiente <br> - Espero que los miembros no mientan sobre sus avances |  - Quiero dar una retroalimentación constructiva basada en hechos reales|
+| Feeling|- Presión por dar a entender de manera clara los objetivos y proyecto en general <br> - Confianza en el equipo, pero preocupación por los desafios| - Responsabilidad por asignar las tareas a los miembros correctos <br> - Presión por dejar en claro las tareas a cada miembro| - Frustración cuando los miembros no siguen el ritmo de trabajo <br> - Dudas de si algun miembro mintió acerca de su avance|- Comprometido con el crecimiento del equipo y su mejora continua <br> - Dudas sobre si un miembro comete habitualmente los mismos errores|
+
+#### **Segmento 2:** Miembros de un equipo de Desarrollo de Software 
+
+|Fases | Recibir un proyecto| Asignar tareas dentro del equipo| Realizar el seguimiento de los miembros | Evaluar el trabajo de los miembros tras culminado el proyecto |
+|-|-|-|-|-|
+| **Doing**| - Recibimos un proyecto por parte del área encargada <br> - Realizo una reunión con el equipo para evaluar el proyecto| - Asigno tareas especificas a diferentes miembros <br> - Ponemos plazos a los entregables| - Ingreso al repositorio o pregunto a los miembros como van <br> - Anoto los percances y errores que tiene cada miembro| - Una vez culminado el trabajo, reviso mis apuntes y veo que tal se desenvolvió cada miembro del equipo |
+| **Thinking**| - ¿Será que tenemos las habilidades necesarias para afrontar el proyecto? <br> - ¿Cómo puedo comunicar los objetivos de manera clara? | - Me toca confiar en las habilidades que algunos miembros dicen tener <br> - Espero que los plazos asignados sean realistas | - Ojalá estar hacendo un seguimiento eficiente <br> - Espero que los miembros no mientan sobre sus avances |  - Quiero dar una retroalimentación constructiva basada en hechos reales|
+| **Feeling**|- Presión por dar a entender de manera clara los objetivos y proyecto en general <br> - Confianza en el equipo, pero preocupación por los desafios| - Responsabilidad por asignar las tareas a los miembros correctos <br> - Presión por dejar en claro las tareas a cada miembro| - Frustración cuando los miembros no siguen el ritmo de trabajo <br> - Dudas de si algun miembro mintió acerca de su avance|- Comprometido con el crecimiento del equipo y su mejora continua <br> - Dudas sobre si un miembro comete habitualmente los mismos errores|
+
 ### 2.4. Ubiquitous Language
 
 ## Capítulo III: Requirements Specification
