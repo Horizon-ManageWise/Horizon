@@ -1002,6 +1002,22 @@ Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y
 
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176927256346696/login.png?ex=66d7212b&is=66d5cfab&hm=17856fff07d7eed4b487db2adb2dd9b5769496b6318f532d19f98c0693f6d936&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176926601777182/crear_cuenta.png?ex=66d7212b&is=66d5cfab&hm=cd800621122e327543004fe3c121f14be5b30e4c09f6c475076d182ee5d44fae&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176927797416088/MenuActividades.png?ex=66d7212c&is=66d5cfac&hm=b651d42304ff10dca16992fc9c4b92e4c3ab9393b24add0aa426a0b02cfeae58&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176957165928498/MenuMiembros.png?ex=66d72133&is=66d5cfb3&hm=8e094494815c8f83385a66a5f65609501619696c8b4af1219488e0eee6466e83&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176957459402783/MenuProgreso.png?ex=66d72133&is=66d5cfb3&hm=317c589a1e96b56b45d9e11823f8ff3651d6985886ba178ebfec7bb45e867313&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176928120246332/MenuCalendario.png?ex=66d7212c&is=66d5cfac&hm=44f7d1c17eedcbddc28d795cb49513ea5f6a45599d7bcc58d2e35a7c3377ed24&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176926039998527/Crear_actividad.png?ex=66d7212b&is=66d5cfab&hm=362cec6f1aef6948924db0c689b31cc5b18c79d840ca544d138766c6bd0bbf14&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176928506249297/MenuConfiguracion.png?ex=66d7212c&is=66d5cfac&hm=09f28f339c66fef80b4b7afc5958d576727997d9932691e4c2ec7d1b26d5410c&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176925465383054/compartir.png?ex=66d7212b&is=66d5cfab&hm=7d3c3b71595dd39e4ef0e742fb16134a64941811f96a3ec9424e68a165f8ab5f&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176956574404689/notificaciones.png?ex=66d72132&is=66d5cfb2&hm=e91b91158418bd61f2a5ba1eab90b4248359f28adcce253a57d1096204896237&">
+
+</p>
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
 #### 4.4.4. Web Applications User Flow Diagrams
