@@ -1019,6 +1019,13 @@ Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y
 </p>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280197418146725969/Board_1.png?ex=66d73441&is=66d5e2c1&hm=8b2ac2f83082ab4b2a0668bf67f55de4b2d4e27c6b536822d51f45b6ba03756d&">
+
+</p>
+
 #### 4.4.3. Web Applications Mock-ups
 
 <p align="center">
