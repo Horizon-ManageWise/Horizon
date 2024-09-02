@@ -1020,6 +1020,22 @@ Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859504164864/Iniciar_sesion.png?ex=66d724d5&is=66d5d355&hm=ac5a683b5f599b5cdb4fd4cf8e80031911196eb3eb97a5a93bdda3b9e99df1ef&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180861421093078/Registrarse.png?ex=66d724d5&is=66d5d355&hm=15a1009c8523bc0827b8f85b1aec196d8af780281dfc490eef2f4aea47526265&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180858682212481/Actividades.png?ex=66d724d5&is=66d5d355&hm=923168519c88400de7c9b64aaf0fc0298822bb09595f966a16544edf93770b9c&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180862402433065/Wireframe_-_7.png?ex=66d724d6&is=66d5d356&hm=1641caebe56c67af4bdb528df344123adfe0f6d7799774bf1d56b596e9c2a6c7&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180861983264900/Wireframe_-_5.png?ex=66d724d6&is=66d5d356&hm=e7467651dd76f1704c710c3d8f6e6f0d86d14d7e6352a070a7e25e87978b1dc6&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180860431237134/Miembros.png?ex=66d724d5&is=66d5d355&hm=753ff637bd1e7f0b8cb8c6d0da634525f8c6e56b883e74785d46ae5c3bf17754&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180858271301642/Wireframe_-_9.png?ex=66d724d5&is=66d5d355&hm=18091b5a305ff4dfd1bb771152998ff09e5dfea9caf255667c8b00d3fc87b6c2&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859969867776/Invitar_Miebros.png?ex=66d724d5&is=66d5d355&hm=10c0d53ba2f717a4e1b7720f4ccd164ed4bf028602e546b1af0f6b79c7114ec0&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180860930363403/Notificaciones.png?ex=66d724d5&is=66d5d355&hm=21e8283cf450f8b070613d95d893c2c3a1e1700a30df3f30c264cb902876bbf9&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859101777975/Crear_actividad.png?ex=66d724d5&is=66d5d355&hm=e01f72d02e8c9d7ac9bd898b495f30593cb46d0dbf21c78d254af2af4e71491f&">
+
+</p>
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
 ### 4.5. Web Applications Prototyping
