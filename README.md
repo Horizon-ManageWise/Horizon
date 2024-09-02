@@ -742,6 +742,9 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines. 
+
+En este capítulo se mostrará el desarrollo de las interfaces y procesos relacionados a la aplicación. Se tiene como objetivo ser llamativa y simple para el usuario. Para ello, se usaron colores atractivos, uso del espacio de manera dinámica independiente del dispositivo enfocado, uso de imágenes y texto que no sobrecarga de información al usuario y la separación de las herramientas según su grupo determinado.
+
 ### 4.1.1. General Style Guidelines.
 
 **Colors:**
