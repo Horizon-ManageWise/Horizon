@@ -980,10 +980,268 @@ Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y
 
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
+
+Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, podemos ver la estructura visual, la cual fue diseñada para adaptarse a nuestros dos segmentos objetivos.
+
+Para nuestro primer segmento enfocado en Lider o gerente de empresa de desarrollo de software en crecimiento, el proceso inicia accediendo a la plataforma y registrándose. El líder o gerente accede a la plataforma "ManageWise" y completa el proceso de registro o inicio de sesión. Si es un usuario nuevo, configura su perfil, incluyendo información sobre su empresa, roles, y preferencias de notificación. Personaliza su Dashboard y otras vistas clave para alinear la información presentada con los objetivos estratégicos de la empresa. Esto incluye seleccionar los KPIs más relevantes, definir prioridades de proyectos, y establecer alertas para actualizaciones importantes.Navega por los proyectos actuales y planificados, categorizados por estado (en curso, pendientes, finalizados) y impacto estratégico. Puede acceder a un mapa visual que muestra cómo cada proyecto contribuye a los objetivos a largo plazo de la empresa.Supervisa el progreso de los proyectos, ajusta recursos, y toma decisiones estratégicas utilizando herramientas de análisis de datos. Puede reorganizar proyectos según prioridades cambiantes y revisar el cumplimiento de plazos y presupuestos.Participa en discusiones estratégicas con otros líderes y stakeholders, utilizando canales de comunicación categorizados por proyectos y temas. Accede a reportes colaborativos y comparte insights con su equipo de liderazgo. Utiliza paneles de control dinámicos y reportes personalizados para revisar el rendimiento general de la empresa y de cada proyecto en particular. Basado en estos análisis, toma decisiones sobre asignación de recursos, ajuste de objetivos y planificación a futuro. Al cierre de un proyecto, revisa informes finales categorizados por lecciones aprendidas y oportunidades de mejora. Participa en sesiones de retroalimentación con el equipo para identificar áreas de mejora para futuros proyectos.
+
+![texto_alternativo](/assets/images/Segmento%201.png)
+
+Para nuestro segundo segmento enfocado en Equipo de Desarrollo de Software, el proceso inicia al registrarse y configurar su perfil. El integrante del equipo accede a la plataforma y se registra o inicia sesión. Configura su perfil, incluyendo su rol específico en el equipo, proyectos asignados, y preferencias de notificación. Personaliza su Dashboard para ver las tareas y sprints pendientes, ajusta alertas para fechas límite, y selecciona qué actualizaciones y notificaciones desea recibir de sus compañeros de equipo. Revisa su lista de tareas, categorizadas por prioridad, deadline, y dependencia de otras tareas. Explora el cronograma del proyecto para entender el flujo general de trabajo y cómo su tarea encaja en el contexto más amplio. Organiza y prioriza su trabajo diario utilizando herramientas de gestión de tareas. Marca tareas como completadas, colabora en sprints, y ajusta su flujo de trabajo según nuevas asignaciones o cambios en el proyecto. Participa en conversaciones dentro de los canales de proyecto, categorizados por temas específicos como bugs, nuevas características, o revisiones de código. Colabora activamente con otros miembros del equipo, compartiendo actualizaciones y retroalimentación. Revisa su rendimiento individual y el del equipo a través de dashboards que muestran métricas como velocidad de desarrollo, calidad del código, y cumplimiento de deadlines. Utiliza este análisis para mejorar su eficiencia y productividad. Al finalizar una tarea o sprint, revisa el rendimiento en un resumen categorizado por logros y desafíos. Participa en sesiones de retroalimentación para identificar lo que funcionó bien y lo que podría mejorarse en futuros sprints.
+
+![texto_alternativo](/assets/images/Segmento%202.png)
+
 #### 4.2.2. Labeling Systems
+
+El equipo de "ManageWise" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "ManageWise". Acontinuacion las mencionaremos y sus relaciones:
+
+* Proyectos: <br>
+La sección de Proyectos en ManageWise es el núcleo de la gestión de iniciativas. Aquí, los usuarios pueden crear, visualizar y administrar proyectos de manera integral. Ofrece herramientas para definir tareas, establecer cronogramas, asignar roles, y monitorear el progreso del proyecto. Facilita la coordinación del equipo y asegura que todos los aspectos del proyecto se mantengan organizados y alineados con los objetivos establecidos.
+
+* Herramientas: <br>
+La sección de Herramientas proporciona una variedad de recursos para mejorar la productividad y la colaboración en el equipo. Incluye funciones como videollamadas para comunicación en tiempo real, documentos compartidos para la colaboración en archivos, y widgets para personalizar el entorno de trabajo. También permite integrar otras aplicaciones y herramientas que el equipo ya utiliza, centralizando todas las funcionalidades necesarias en una sola plataforma.
+
+* Seguridad: <br>
+La sección de Seguridad se centra en proteger la información y asegurar la integridad de los datos en ManageWise. Incluye configuraciones para autenticación en dos pasos (2FA) para una capa adicional de seguridad, gestión de permisos de usuario para controlar el acceso a diferentes áreas, y medidas para proteger los datos sensibles. También abarca la gestión de copias de seguridad y la monitorización de posibles amenazas para garantizar una plataforma segura.
+
+* Historial: <br>
+La sección de Historial mantiene un registro detallado de todas las actividades realizadas dentro de la plataforma. Incluye cambios en tareas, comentarios realizados, actualizaciones en el cronograma y estados de tareas. Esta sección proporciona una visión completa del flujo de trabajo y permite a los usuarios revisar y auditar el progreso y las decisiones tomadas durante el ciclo de vida del proyecto.
+
+* Reportes: <br>
+La sección de Reportes ofrece una serie de análisis y resúmenes clave sobre el rendimiento del proyecto y del equipo. Incluye reportes sobre el progreso individual, cumplimiento de tareas, y resúmenes de sprint. También proporciona informes sobre errores encontrados y eficiencia del equipo, ayudando a identificar áreas de mejora y a tomar decisiones basadas en datos para optimizar el rendimiento general.
+
+* Foro: <br>
+La sección de Foro facilita la comunicación y el intercambio de ideas entre los miembros del equipo y otros usuarios de la plataforma. Permite discutir problemas técnicos, sugerir mejoras, compartir soluciones de codificación y hacer preguntas. Es un espacio colaborativo para resolver dudas, debatir sobre temas relevantes y recibir feedback sobre diversos aspectos del proyecto y la plataforma.
+
+* Configuración: <br>
+La sección de Configuración permite a los usuarios personalizar y ajustar su experiencia en ManageWise según sus preferencias y necesidades. Incluye opciones para gestionar notificaciones, ajustar la visualización del dashboard, configurar permisos de usuario y establecer preferencias de idioma. También abarca ajustes de seguridad como la gestión de contraseñas y la configuración de autenticación en dos pasos, asegurando que cada usuario pueda adaptar la plataforma a sus requerimientos personales y de equipo.
+
 #### 4.2.3. SEO Tags and Meta Tags
+
+Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer a los usuarios adecuados se ha optado por definir los siguientes datos:
+
+* Landing Page
+   * Title :<br>
+   ManageWise - Plataforma de Gestión de Proyectos para Startups de Software <br>
+   * Meta Description: ManageWise es una plataforma integral diseñada para startups de desarrollo de software. Mejora la eficiencia, calidad y rentabilidad de tus proyectos con herramientas avanzadas de gestión, seguimiento de progreso y colaboración en equipo.<br>
+   * Keywords :
+   gestión de proyectos, plataforma para startups, administración de tareas, herramientas de colaboración, software de gestión, productividad de equipos.<br>
+   * Author: ManageWise Team
+
+* Proyectos
+   * Title :<br>
+   Gestión de Proyectos <br>
+   * Meta Description: Organiza y administra tus proyectos de software con ManageWise. Gestiona tareas, cronogramas, roles y monitorea el progreso para asegurar el éxito de tus iniciativas.<br>
+   * Keywords :
+   gestión de proyectos, administración de tareas, cronograma de proyectos, roles de equipo, seguimiento de progreso.<br>
+   * Author: ManageWise Team
+
+* Herramientas
+   * Title :<br>
+   Herramientas de Colaboración y Productividad<br>
+   * Meta Description: Accede a herramientas avanzadas en ManageWise para mejorar la colaboración y la productividad. Incluye videollamadas, documentos compartidos y widgets personalizables para un flujo de trabajo optimizado.<br>
+   * Keywords :
+   herramientas de colaboración, videollamadas, documentos compartidos, widgets de productividad, integración de aplicaciones.<br>
+   * Author: ManageWise Team
+
+* Seguridad
+   * Title :<br>
+   Seguridad de Datos y Gestión de Accesos <br>
+   * Meta Description: Protege tus datos con las avanzadas funciones de seguridad de ManageWise. Configura autenticación en dos pasos, gestiona permisos de usuario y asegura la integridad de la información.<br>
+   * Keywords :
+   seguridad de datos, autenticación en dos pasos, gestión de accesos, protección de información, medidas de seguridad<br>
+   * Author: ManageWise Team
+
+* Historial
+   * Title :<br>
+   Historial de Actividades y Cambios<br>
+   * Meta Description: Consulta el historial completo de actividades en tus proyectos con ManageWise. Revisa cambios, comentarios y actualizaciones para un seguimiento detallado del progreso.<br>
+   * Keywords :
+   historial de actividades, registros de cambios, auditoría de proyectos, historial de comentarios<br>
+   * Author: ManageWise Team
+
+* Reportes
+   * Title :<br>
+   Reportes y Análisis de Rendimiento<br>
+   * Meta Description: Genera reportes detallados con ManageWise para analizar el progreso y rendimiento de tus proyectos. Obtén insights clave para mejorar la productividad y tomar decisiones basadas en datos.<br>
+   * Keywords :
+   reportes de proyectos, análisis de rendimiento, generación de reportes, informes de eficiencia, análisis de datos.<br>
+   * Author: ManageWise Team
+
+* Foro
+   * Title :<br>
+   ManageWise - Foro de Discusión y Soporte<br>
+   * Meta Description: Participa en el Foro de ManageWise para resolver problemas, intercambiar ideas y obtener soporte técnico. Conecta con otros usuarios y mejora tu experiencia en la plataforma.<br>
+   * Keywords :
+   foro de discusión, preguntas y respuestas, intercambio de ideas, comunidad de usuarios<br>
+   * Author: ManageWise Team
+
+* Configuración
+   * Title :<br>
+   Configuración y Personalización<br>
+   * Meta Description: Personaliza tu experiencia en ManageWise con opciones avanzadas de configuración. Ajusta notificaciones, gestiona permisos y personaliza tu entorno de trabajo para adaptarlo a tus necesidades.<br>
+   * Keywords :
+   configuración de usuario, ajustes de notificaciones, personalización de plataforma<br>
+   * Author: ManageWise Team
+
 #### 4.2.4. Searching Systems
+
+1. Búsqueda Global<br>
+Objetivo: Permitir a los usuarios realizar búsquedas amplias en toda la plataforma.
+
+   * Ubicación: En el encabezado o el panel lateral de la aplicación.
+
+   * Funcionalidad: Permite a los usuarios ingresar términos de búsqueda para buscar en todas las secciones de la plataforma (Proyectos, Herramientas, Foro, etc.).
+
+   * Sugerencias en Tiempo Real: Muestra sugerencias mientras el usuario escribe, basadas en términos de búsqueda comunes y resultados previos.
+
+   * Vista de Resultados: Muestra una lista de resultados categorizados por tipo de contenido (Proyectos, Tareas, Documentos, Foro, etc.).
+
+2. Búsqueda en Proyectos<br>
+Objetivo: Facilitar la localización de proyectos, tareas, y detalles específicos dentro de los proyectos.
+
+   * Ubicación: En la sección de Proyectos.
+
+   * Funcionalidad: Permite buscar por nombre de proyecto, descripción, o tareas asociadas.
+
+   * Vista de Resultados: Muestra proyectos relevantes junto con tareas y sub-tareas relacionadas.
+
+3. Búsqueda en Herramientas<br>
+Objetivo: Permitir a los usuarios localizar herramientas y documentos compartidos específicos.
+
+   * Ubicación: En la sección de Herramientas.
+
+   * Funcionalidad: Permite buscar herramientas específicas, documentos o recursos compartidos.
+
+   * Vista de Resultados: Muestra herramientas y documentos con opciones para visualizar, editar o descargar.
+
+4. Búsqueda en Seguridad<br>
+Objetivo: Facilitar la localización de configuraciones y eventos relacionados con la seguridad.
+
+   * Ubicación: En la sección de Seguridad.
+
+   * Funcionalidad: Permite buscar por tipo de configuración de seguridad, eventos de auditoría, o registros de acceso.
+
+   * Vista de Resultados: Muestra eventos y configuraciones relevantes con detalles como fecha, tipo de evento y usuario afectado.
+5. Búsqueda en Historial<br>
+Objetivo: Facilitar la localización de actividades y cambios históricos.
+
+   * Ubicación: En la sección de Historial.
+
+   * Funcionalidad: Permite buscar eventos específicos, cambios o comentarios pasados.
+
+   * Vista de Resultados: Muestra una lista de eventos históricos con detalles como fecha, tipo de actividad y usuario.
+6. Búsqueda en Reportes<br>
+Objetivo: Permitir a los usuarios localizar informes y análisis específicos.
+
+   * Ubicación: En la sección de Reportes.
+
+   * Funcionalidad: Permite buscar por tipo de reporte, fecha o palabras clave en el informe.
+
+   * Vista de Resultados: Muestra reportes relevantes con opciones para ver, editar o exportar.
+7. Búsqueda en Foro<br>
+Objetivo: Facilitar la localización de discusiones y respuestas en el foro.
+
+   * Ubicación: En la sección del Foro.
+
+   * Funcionalidad: Permite buscar por términos en temas de discusión, preguntas y respuestas.
+
+   * Vista de Resultados: Muestra hilos de discusión relevantes con opciones para responder o seguir.
+
 #### 4.2.5. Navigation Systems
+
+1. Página de Inicio (Landing Page)
+
+   * Estructura:
+      * Encabezado (Header): Contiene el logotipo de ManageWise, el menú de navegación principal con enlaces a las secciones principales (Proyectos, Herramientas, Seguridad, Historial, Reportes, Foro, Configuración), y un campo de búsqueda.
+      * Llamadas a la Acción (CTAs): Botones visibles para "Registrarse" y "Iniciar Sesión". Opcionalmente, incluir un botón de "Solicitar una Demo" para los nuevos usuarios.
+      * Sección Principal: Descripción de la plataforma con características clave y beneficios. Incluir enlaces a páginas de detalle como "Características" y "Precios".
+   * Acción del Usuario:
+
+      * Nuevos Visitantes: Se les anima a registrarse o solicitar una demostración.
+      * Usuarios Existentes: Pueden iniciar sesión para acceder a su cuenta.
+2. Registro e Inicio de Sesión
+
+
+   * Estructura:
+      * Formulario de Registro: Campos para nombre, correo electrónico, contraseña, y otros datos necesarios.
+      * Formulario de Inicio de Sesión: Campos para correo electrónico y contraseña, con opciones para recuperar contraseña y activar autenticación en dos pasos (2FA).
+   * Acción del Usuario:
+
+      * Nuevos Usuarios: Completar el registro y acceder al panel principal.
+      * Usuarios Recurrentes: Ingresar credenciales para acceder a su cuenta.
+3. Panel Principal (Dashboard)
+
+   * Estructura:
+      * Menú Lateral o Superior: Enlaces a las secciones Proyectos, Herramientas, Seguridad, Historial, Reportes, Foro, y Configuración.
+      * Resumen de Actividades: Vista general con tareas pendientes, proyectos activos, y notificaciones recientes.
+      * Widgets Personalizables: Para acceso rápido a datos clave y funciones.
+   * Acción del Usuario:
+
+      * Interacción Inicial: Explorar el panel para acceder a proyectos y tareas, utilizar herramientas, y revisar notificaciones.
+      * Acceso a Secciones: Usar el menú para navegar a otras secciones.
+4. Sección de Proyectos
+
+
+   * Estructura:
+      * Lista de Proyectos: Muestra proyectos actuales, completados y en espera.
+      * Detalles del Proyecto: Información sobre tareas, cronograma y progreso.
+      * Opciones de Gestión: Crear, editar, y actualizar proyectos y tareas.
+   * Acción del Usuario:
+
+      * Gestión de Proyectos: Agregar nuevos proyectos, actualizar el estado de tareas y revisar el progreso de proyectos.
+5. Sección de Herramientas
+
+
+   * Estructura:
+      * Lista de Herramientas: Acceso a herramientas como videollamadas, documentos compartidos, y widgets.
+      * Configuración de Herramientas: Personalizar y ajustar las herramientas según las necesidades del equipo.
+   * Acción del Usuario:
+
+      * Uso de Herramientas: Acceder a y gestionar herramientas colaborativas para mejorar la eficiencia del equipo.
+6. Sección de Seguridad
+
+
+   * Estructura:
+      * Configuración de Seguridad: Ajustes para autenticación en dos pasos, permisos de usuario y protección de datos.
+      * Historial de Seguridad: Registro de eventos de seguridad y auditoría.
+   * Acción del Usuario:
+
+      * Configuración de Seguridad: Ajustar opciones de seguridad para proteger la cuenta y revisar el historial de eventos.
+7. Sección de Historial
+
+
+   * Estructura:
+      * Registro de Actividades: Historial de cambios y acciones realizadas en proyectos y tareas.
+      * Filtros y Búsqueda: Herramientas para buscar y filtrar eventos.
+   * Acción del Usuario:
+
+      * Revisión de Actividades: Consultar el historial para comprender el contexto de cambios y acciones previas.
+8. Sección de Reportes
+
+
+   * Estructura:
+      * Creación de Reportes: Herramientas para crear reportes personalizados con datos relevantes.
+      * Visualización de Reportes: Gráficos y tablas para analizar información.
+   * Acción del Usuario:
+
+      * Generación de Reportes: Crear y revisar reportes para tomar decisiones informadas.
+9. Sección de Foro
+
+
+   * Estructura:
+      * Hilos de Discusión: Temas organizados por categorías y popularidad.
+      * Participación en el Foro: Crear nuevos temas, responder y seguir discusiones.
+   * Acción del Usuario:
+
+      * Interacción en el Foro: Participar en discusiones, buscar respuestas y contribuir a la comunidad.
+10. Sección de Configuración
+    * Estructura:
+      * Ajustes de Usuario: Configurar notificaciones, idioma, y perfil.
+      * Configuración de Cuenta: Cambiar contraseñas, activar 2FA, y gestionar permisos.
+    * Acción del Usuario:
+
+      * Personalización: Ajustar la configuración personal y de cuenta para adaptar la plataforma a sus necesidades.
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
