@@ -739,3 +739,163 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 | 2      | HU02          | Integración de cronogramas                      | Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes                                                       | 5                             |
 | 3      | HU03          | Alertas ante inactividad o paso de fecha limite | Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega | 2                             |
 | 4      | HU04          | Implementación de mensajes directos             | Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros                                      | 3                             |
+
+## Capítulo IV: Product Design
+### 4.1. Style Guidelines. 
+### 4.1.1. General Style Guidelines.
+
+**Colors:**
+
+Para los colores de la aplicación “MANAGEWISE” utilizamos una corta variedad de colores vivos, enfocado en los caminos que brinda nuestro logo. Hubo variaciones en PC, ya que se decidió darle espacio a la interfaz y a la simplicidad de está. Además, utilizamos colores importantes para llamar la atención del usuario. Esto se debe a que el mayor público se encuentra en estos dispositivos y se necesita de mayor visibilidad de la app.
+
+</p>
+<p align="center">
+
+<img src="
+https://media.discordapp.net/attachments/1246609784501833810/1279952066223149086/WhatsApp_Image_2024-08-31_at_3.13.33_PM.jpeg?ex=66d64fc0&is=66d4fe40&hm=8868807008d8ace35278b4be8d4b89a9655b07abe94c7c8d6e768b31d5b0c3d5&=&format=webp">
+
+</p>
+
+**Logo:**
+</p>
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279952066470744155/WhatsApp_Image_2024-09-01_at_6.37.30_PM.jpeg?ex=66d64fc1&is=66d4fe41&hm=ae55907c659f1f028da2ed9125b174bd67cfc759c5083053a961a7b8a139ba80&">
+</p>
+
+**Tipografía:**
+
+**Escala:**
+
+En formato general se utiliza 30px y Sulphur point como tipografía del programa. Estas medidas tendrán variaciones según el dispositivo. A continuación, se presentará la tipografía elegida para el diseño de la app web.
+
+**•   Base:** 30 px
+
+**•   Ratio:**  2,05
+
+**•   Tipografía:** Sulphur Point
+
+**•   Interlineado:** 1,1
+
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954089182232628/image.png?ex=66d651a3&is=66d50023&hm=37c1394d2ce419c5e2f4743323ef26ca2b5d17849ca08ef6b6e054a6e7d36d80&">
+</p>
+
+**Weights:**
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954144010043392/image.png?ex=66d651b0&is=66d50030&hm=5d08092605ac2d74906592daf9240d3cedb30d49f8a0beab5e16e700bc94a544&">
+</p>
+
+**Nomenclature:**
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954200553459733/image.png?ex=66d651bd&is=66d5003d&hm=8e813f7ca416cf5709ff9d9d98d7ab0a68c8e67c25732a843c0d5b953006442c&">
+</p>
+
+**Example:**
+
+**•	Título:** Sulphur Point
+
+**•	Cuerpo:** Sulphur Point
+
+**•	Tamaño:** 30 letra y 60 título
+
+
+**Elementos Gráficos:**
+
+La principal estética tanto de la página web como de la aplicación será minimalista, enfocándose en mantener una paleta de colores limitada y resaltando el producto por encima del diseño de la interfaz.
+
+### 4.1.2. Web Style Guidelines.
+
+**Diseño de Página:**
+
+-  La página contará con una barra de navegación, en donde se encontrarán los apartados de: Descripción general, Beneficios y FAQ. Así mismo, contará con un footer en donde habrán links a diferentes redes como por ejemplo instagram.  
+Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y texto que ayude al usuario a conocer más acerca del servicio. Si este se encuentra en una laptop o pc, bastará con scrollear para poder visualizar toda la página.
+
+**Diseño Responsive:**
+
+-	Para permitir que la página se adapte a diferentes pantallas o el usuario cambie el tamaño de la ventana para que el contenido siga pudiéndose entender y visualizar de manera correcta, se utilizará CSS3 y media queries para definir estilos según el tamaño de la pantalla. Los elementos clave, como la barra de navegación y el footer, se ajustarán automáticamente en diferentes dispositivos mediante unidades de medida relativas.
+
+**Imágenes**
+- Los formatos de imagen sugeridos son JPEG y PNG para asegurar una alta calidad. Se establecerán tamaños recomendados y se aplicarán normas de compresión para mejorar el rendimiento del sitio web.
+
+**Interacción del Usuario**
+- Se utilizarán animaciones sencillas para presentar imágenes y textos que informen al usuario sobre el servicio. En laptops o PCs, basta con hacer scroll para ver toda la página y disfrutar de estas interacciones.
+
+
+
+
+**Navegación:**
+
+-	La barra de navegación y el pie de página tendrán márgenes y espaciado apropiados para garantizar una visualización óptima en distintos dispositivos. El menú de navegación será intuitivo y fácil de usar, incluyendo una opción de menú tipo hamburguesa para dispositivos más pequeños. Los enlaces a las redes sociales en el footer serán fácilmente accesibles y se ajustarán al diseño responsive.
+
+
+**Recursos:**
+
+-  Se facilitarán enlaces a recursos visuales, como imágenes de marca y gráficos, para que el equipo pueda acceder a ellos de manera sencilla. Además, se incluirán enlaces de descarga para las fuentes y archivos de diseño utilizados en el sitio web.
+
+
+
+
+
+
+## Capítulo V: Product Implementation, Validation & Deployment
+### 5.1. Software Configuration Management. 
+La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores. (Martin, 2023)
+
+
+### 5.1.1. Software Development Environment Configuration.
+**VISUAL STUDIO CODE**
+
+En el desarrollo de nuestro proyecto, utilizaremos Visual Studio Code como la herramienta principal para crear la página web. Nos enfocaremos en emplear HTML para estructurar y definir el contenido de la web, CSS para aplicar estilos y configurar elementos visuales como colores, tipografías y tamaños, y JavaScript para añadir interactividad, eventos dinámicos y elementos multimedia que mejoren la experiencia del usuario. Nuestro objetivo es garantizar que el producto final sea único y cumpla con nuestras metas sin copiar o replicar trabajos anteriores.
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279958834588156006/visualstudio_code-card.png?ex=66d6560e&is=66d5048e&hm=514f0067a47484afde6c00c34a1c360c212aff375fc038cc511ad9b4809e8767&">
+</p>
+
+### 5.1.2. Source Code Management.
+Utilizamos la plataforma de desarrollo colaborativo GitHub y su servicio GitHub Pages para gestionar y desplegar nuestro código. GitHub ofrece una base sólida para el control de versiones y la colaboración en equipo, facilitando un trabajo eficiente y sin limitaciones. Por su parte, GitHub Pages nos permite publicar y compartir nuestra aplicación de manera sencilla, proporcionando una forma accesible de mostrar nuestras últimas actualizaciones y desarrollos en línea. Esta combinación asegura un flujo de trabajo continuo y efectivo tanto en el desarrollo como en la difusión de nuestro proyecto.
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279960091876921374/GitHub-logo.png?ex=66d6573a&is=66d505ba&hm=10fdc57de63beca2c3f8d828349036b55ad2a3ed0366668e2b0df6950f857a7e&">
+</p>
+
+
+### 5.1.3. Source Code Style Guide & Conventions. 
+
+En el *Source Code Style Guide*, presentaremos las convenciones, estilos, diseños y principios aplicados en los lenguajes utilizados durante el desarrollo de nuestro producto. Los lenguajes y herramientas empleados incluyen:
+
+- **HTML**: Para estructurar y definir el contenido de las páginas web, estableciendo la disposición y jerarquía de elementos como texto, imágenes y enlaces.
+- **CSS**: Para aplicar estilos y diseño a las páginas web, gestionando aspectos visuales como colores, fuentes y layout.
+- **JavaScript**: Para incorporar interactividad y funcionalidades dinámicas en las páginas web.
+
+
+### 5.1.4. Software Deployment Configuration. 
+
+En este apartado se mostrarán los pasos a seguir con la finalidad de poder realizar el despliegue exitoso de nuestra landing page usando GitHub Pages.
+
+- Ubicándonos en “Nuestro Perfil ”, crearemos un repositorio para la implementación del código de la Landing page.
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279963486322950247/image.png?ex=66d65a63&is=66d508e3&hm=ea8891d7106d9f17fa65dcc6658b361a031aa65d3c7e73db28cae924877a25c7&">
+</p>
+
+- Accedemos al repositorio de GitHub donde se encuentra nuestro proyecto y luego navegamos hacia la configuración del repositorio.
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279964432864116810/image.png?ex=66d65b45&is=66d509c5&hm=f8d2c47897ebb68fa6e72f8b418e483d3c65f4bcd46305d05f0cd2893038dd58&">
+</p>
+
+- Dentro del menú de ajustes, elegimos la opción "Pages".
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279964791942938748/image.png?ex=66d65b9a&is=66d50a1a&hm=240c65b382ed85ffd8ceca0b6faae0ca15a5be3f35c7f4cd6e8a620277b7f831&">
+</p>
+
+- En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". 
+
+- Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
