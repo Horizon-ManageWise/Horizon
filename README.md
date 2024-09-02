@@ -69,11 +69,61 @@ Product: ManageWise
       4. [Empathy Mapping](#234-empathy-mapping)
       5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)
    4. [Ubiquitous Language](#24-ubiquitous-language)
-3. [**Capítulo II: Requirements Specification**](#capítulo-iii-requirements-specification)
+3. [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification)
    1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)
    2. [User Stories](#32-user-stories)
    3. [Impact Mapping](#33-impact-mapping)
    4. [Product Backlog](#34-product-backlog)
+4. [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
+   1. [Style Guidelines](#41-style-guidelines)
+      1. [General Style Guidelines](#411-general-style-guidelines)
+      2. [Web Style Guidelines](#412-web-style-guidelines)
+   2. [Information Architecture](#42-information-architecture)
+      1. [Organization Systems](#421-organization-systems)
+      2. [Labeling Systems](#422-labeling-systems)
+      3. [SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      4. [Searching Systems](#424-searching-systems)
+      5. [Navigation Systems](#425-navigation-systems)
+   3. [Landing Page UI Design](#43-landing-page-ui-design)
+      1. [Landing Page Wireframe](#431-landing-page-wireframe)
+      2. [Landing Page Mock-up](#432-landing-page-mock-up)
+   4. [Web Applications UX/UI Design](#44-web-applications-uxui-design)
+      1. [Web Applications Wireframes](#441-web-applications-wireframes)
+      2. [Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+      3. [Web Applications Mock-ups](#443-web-applications-mock-ups)
+      4. [Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+   5. [Web Applications Prototyping](#45-web-applications-prototyping)
+   6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+      1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+      2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+      3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+   7. [Software Object-Oriented Design](#47-software-object-oriented-design)
+      1. [Class Diagrams](#471-class-diagrams)
+      2. [Class Dictionary](#472-class-dictionary)
+   8. [Database Design](#48-database-design)
+      1. [Database Diagram](#481-database-diagram)
+5. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation--deployment)
+   1. [Software Configuration Management](#51-software-configuration-management)
+      1. [Software Development Environment Configuration](#511-software-development-environment-configuration)
+      2. [Source Code Management](#512-source-code-management)
+      3. [Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+      4. [Software Deployment Configuration](#514-software-deployment-configuration)
+   2. [Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+      1. [Sprint 1](#521-sprint-1)
+         1. [Sprint Planning 1](#5211-sprint-planning-1)
+         2. [Sprint Backlog 1](#5212-sprint-backlog-1)
+         3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+         4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+         5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+         6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+         7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+         8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+   3. [Validation Interviews](#53-validation-interviews)
+      1. [Diseño de Entrevistas](#531-diseño-de-entrevistas)
+      2. [Registro de Entrevistas](#532-registro-de-entrevistas)
+      3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+   4. [Video About-the-Product](#54-video-about-the-product)
+
 
 ## Student Outcome
 
@@ -465,6 +515,23 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 
 #### Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
 
+1. Entrevista 1: <br>
+ Datos del entrevistado <br>
+ Nombre: Juan <br>
+ Apellidos: de la Cruz<br>
+ Edad: 23 <br>
+ Distrito: San Martin de Porres <br>
+
+  ![Foto de entrevista](https://cdn.discordapp.com/attachments/1246609784501833810/1277318553988632699/image.png?ex=66ccbb1a&is=66cb699a&hm=b995577f14876ecdd835e90c2b15690c8061761b6904b536b842403d76e2f9b8&)
+  
+  URL: [Link de entrevista](https://drive.google.com/file/d/1WrxFb_8KqRk6mWSrgUbvFpkfpjyIU0vI/view?usp=sharing)
+
+ Inicio: 0:00<br>
+ Duracion: 8:24
+ 
+ Resumen:<br>
+La entrevista con Juan de la Cruz, lidel del Grupo JPSP, reveló aspectos clave sobre la gestión de proyectos y el impacto de las herramientas que existen actualmente. El destacó que su principal responsabilidad es supervisar al equipo de desarrollo para cumplir con los plazos y estándares de calidad, mientras maneja el crecimiento rápido y los desafíos de integración tecnológica. Aunque también menciono que ha tenido experiencias mixtas con las herramientas actuales, principalmente debido a problemas de integración y personalización, considera esencial que las nuevas soluciones ofrezcan flexibilidad, integración fluida y capacidades avanzadas. La incorporación de tecnologías emergentes, como la inteligencia artificial, es vista como crucial para mejorar la eficiencia y la toma de decisiones. Además, se busca una solución que facilite la colaboración y la comunicación centralizada, y que esté dispuesta a adaptarse a las necesidades cambiantes del equipo. El entrevistado enfatiza la importancia de la seguridad y prioriza a los proveedores que brindan soporte confiable y pueden adaptar sus soluciones a los requisitos individuales. En el futuro, se espera una evolución hacia mayor automatización y herramientas que se adapten rápidamente a los cambios en los proyectos.
+
 2.  Entrevista 2: <br>
     Datos del entrevistado <br>
     Nombre: María<br>
@@ -807,3 +874,226 @@ EPICS:
 |40|US40|Integración de widgets personalizados|Como usuario de la plataforma, quiero poder añadir widgets personalizados a mi dashboard para tener acceso rápido a la información más relevante para mí. |3|
 |41|US41|Recordatorios basados en la ubicación|Como usuario de la plataforma, quiero recibir recordatorios personalizados basados en mi ubicación para optimizar el tiempo dedicado a tareas.|5|
 |42|US42|Configuración avanzada de notificaciones|Como usuario de la plataforma, quiero tener opciones avanzadas para personalizar las notificaciones que recibo, de acuerdo con mi carga de trabajo.|3|
+
+## Capítulo IV: Product Design
+### 4.1. Style Guidelines. 
+
+En este capítulo se mostrará el desarrollo de las interfaces y procesos relacionados a la aplicación. Se tiene como objetivo ser llamativa y simple para el usuario. Para ello, se usaron colores atractivos, uso del espacio de manera dinámica independiente del dispositivo enfocado, uso de imágenes y texto que no sobrecarga de información al usuario y la separación de las herramientas según su grupo determinado.
+
+### 4.1.1. General Style Guidelines.
+
+**Colors:**
+
+Para los colores de la aplicación “MANAGEWISE” utilizamos una corta variedad de colores vivos, enfocado en los caminos que brinda nuestro logo. Hubo variaciones en PC, ya que se decidió darle espacio a la interfaz y a la simplicidad de está. Además, utilizamos colores importantes para llamar la atención del usuario. Esto se debe a que el mayor público se encuentra en estos dispositivos y se necesita de mayor visibilidad de la app.
+
+</p>
+<p align="center">
+
+<img src="
+https://media.discordapp.net/attachments/1246609784501833810/1279952066223149086/WhatsApp_Image_2024-08-31_at_3.13.33_PM.jpeg?ex=66d64fc0&is=66d4fe40&hm=8868807008d8ace35278b4be8d4b89a9655b07abe94c7c8d6e768b31d5b0c3d5&=&format=webp">
+
+</p>
+
+**Logo:**
+</p>
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279952066470744155/WhatsApp_Image_2024-09-01_at_6.37.30_PM.jpeg?ex=66d64fc1&is=66d4fe41&hm=ae55907c659f1f028da2ed9125b174bd67cfc759c5083053a961a7b8a139ba80&">
+</p>
+
+**Tipografía:**
+
+**Escala:**
+
+En formato general se utiliza 30px y Sulphur point como tipografía del programa. Estas medidas tendrán variaciones según el dispositivo. A continuación, se presentará la tipografía elegida para el diseño de la app web.
+
+**•   Base:** 30 px
+
+**•   Ratio:**  2,05
+
+**•   Tipografía:** Sulphur Point
+
+**•   Interlineado:** 1,1
+
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954089182232628/image.png?ex=66d651a3&is=66d50023&hm=37c1394d2ce419c5e2f4743323ef26ca2b5d17849ca08ef6b6e054a6e7d36d80&">
+</p>
+
+**Weights:**
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954144010043392/image.png?ex=66d651b0&is=66d50030&hm=5d08092605ac2d74906592daf9240d3cedb30d49f8a0beab5e16e700bc94a544&">
+</p>
+
+**Nomenclature:**
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954200553459733/image.png?ex=66d651bd&is=66d5003d&hm=8e813f7ca416cf5709ff9d9d98d7ab0a68c8e67c25732a843c0d5b953006442c&">
+</p>
+
+**Example:**
+
+**•	Título:** Sulphur Point
+
+**•	Cuerpo:** Sulphur Point
+
+**•	Tamaño:** 30 letra y 60 título
+
+
+**Elementos Gráficos:**
+
+La principal estética tanto de la página web como de la aplicación será minimalista, enfocándose en mantener una paleta de colores limitada y resaltando el producto por encima del diseño de la interfaz.
+
+### 4.1.2. Web Style Guidelines.
+
+**Diseño de Página:**
+
+-  La página contará con una barra de navegación, en donde se encontrarán los apartados de: Descripción general, Beneficios y FAQ. Así mismo, contará con un footer en donde habrán links a diferentes redes como por ejemplo instagram.  
+Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y texto que ayude al usuario a conocer más acerca del servicio. Si este se encuentra en una laptop o pc, bastará con scrollear para poder visualizar toda la página.
+
+**Diseño Responsive:**
+
+-	Para permitir que la página se adapte a diferentes pantallas o el usuario cambie el tamaño de la ventana para que el contenido siga pudiéndose entender y visualizar de manera correcta, se utilizará CSS3 y media queries para definir estilos según el tamaño de la pantalla. Los elementos clave, como la barra de navegación y el footer, se ajustarán automáticamente en diferentes dispositivos mediante unidades de medida relativas.
+
+**Imágenes**
+- Los formatos de imagen sugeridos son JPEG y PNG para asegurar una alta calidad. Se establecerán tamaños recomendados y se aplicarán normas de compresión para mejorar el rendimiento del sitio web.
+
+**Interacción del Usuario**
+- Se utilizarán animaciones sencillas para presentar imágenes y textos que informen al usuario sobre el servicio. En laptops o PCs, basta con hacer scroll para ver toda la página y disfrutar de estas interacciones.
+
+
+
+
+**Navegación:**
+
+-	La barra de navegación y el pie de página tendrán márgenes y espaciado apropiados para garantizar una visualización óptima en distintos dispositivos. El menú de navegación será intuitivo y fácil de usar, incluyendo una opción de menú tipo hamburguesa para dispositivos más pequeños. Los enlaces a las redes sociales en el footer serán fácilmente accesibles y se ajustarán al diseño responsive.
+
+
+**Recursos:**
+
+-  Se facilitarán enlaces a recursos visuales, como imágenes de marca y gráficos, para que el equipo pueda acceder a ellos de manera sencilla. Además, se incluirán enlaces de descarga para las fuentes y archivos de diseño utilizados en el sitio web.
+
+
+
+### 4.2. Information Architecture
+#### 4.2.1. Organization Systems
+#### 4.2.2. Labeling Systems
+#### 4.2.3. SEO Tags and Meta Tags
+#### 4.2.4. Searching Systems
+#### 4.2.5. Navigation Systems
+
+### 4.3. Landing Page UI Design
+#### 4.3.1. Landing Page Wireframe
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280045111463383110/LandingPage-WireFrame-ManageWise.png?ex=66d6a668&is=66d554e8&hm=c131af02cb289ee332c0b8bede1434567f076d921f188f32d27a3a4ba6c41fb7&">
+</p>
+
+#### 4.3.2. Landing Page Mock-up
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280045112231202916/Mockup_-_Desktop_Web_Browser.png?ex=66d6a668&is=66d554e8&hm=e5c8179829925118815fa0dc6ae3d3da269a63e77f65015fe0d227a7ec9bd979&">
+</p>
+
+### 4.4. Web Applications UX/UI Design
+#### 4.4.1. Web Applications Wireframes
+#### 4.4.2. Web Applications Wireflow Diagrams
+#### 4.4.3. Web Applications Mock-ups
+#### 4.4.4. Web Applications User Flow Diagrams
+
+### 4.5. Web Applications Prototyping
+
+### 4.6. Domain-Driven Software Architecture
+#### 4.6.1. Software Architecture Context Diagram
+#### 4.6.2. Software Architecture Container Diagrams
+#### 4.6.3. Software Architecture Components Diagrams
+
+### 4.7. Software Object-Oriented Design
+#### 4.7.1. Class Diagrams
+#### 4.7.2. Class Dictionary
+
+### 4.8. Database Design
+#### 4.8.1. Database Diagram
+
+
+## Capítulo V: Product Implementation, Validation & Deployment
+### 5.1. Software Configuration Management. 
+La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores. (Martin, 2023)
+
+
+### 5.1.1. Software Development Environment Configuration.
+**VISUAL STUDIO CODE**
+
+En el desarrollo de nuestro proyecto, utilizaremos Visual Studio Code como la herramienta principal para crear la página web. Nos enfocaremos en emplear HTML para estructurar y definir el contenido de la web, CSS para aplicar estilos y configurar elementos visuales como colores, tipografías y tamaños, y JavaScript para añadir interactividad, eventos dinámicos y elementos multimedia que mejoren la experiencia del usuario. Nuestro objetivo es garantizar que el producto final sea único y cumpla con nuestras metas sin copiar o replicar trabajos anteriores.
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279958834588156006/visualstudio_code-card.png?ex=66d6560e&is=66d5048e&hm=514f0067a47484afde6c00c34a1c360c212aff375fc038cc511ad9b4809e8767&">
+</p>
+
+### 5.1.2. Source Code Management.
+Utilizamos la plataforma de desarrollo colaborativo GitHub y su servicio GitHub Pages para gestionar y desplegar nuestro código. GitHub ofrece una base sólida para el control de versiones y la colaboración en equipo, facilitando un trabajo eficiente y sin limitaciones. Por su parte, GitHub Pages nos permite publicar y compartir nuestra aplicación de manera sencilla, proporcionando una forma accesible de mostrar nuestras últimas actualizaciones y desarrollos en línea. Esta combinación asegura un flujo de trabajo continuo y efectivo tanto en el desarrollo como en la difusión de nuestro proyecto.
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279960091876921374/GitHub-logo.png?ex=66d6573a&is=66d505ba&hm=10fdc57de63beca2c3f8d828349036b55ad2a3ed0366668e2b0df6950f857a7e&">
+</p>
+
+
+### 5.1.3. Source Code Style Guide & Conventions. 
+
+En el *Source Code Style Guide*, presentaremos las convenciones, estilos, diseños y principios aplicados en los lenguajes utilizados durante el desarrollo de nuestro producto. Los lenguajes y herramientas empleados incluyen:
+
+- **HTML**: Para estructurar y definir el contenido de las páginas web, estableciendo la disposición y jerarquía de elementos como texto, imágenes y enlaces.
+- **CSS**: Para aplicar estilos y diseño a las páginas web, gestionando aspectos visuales como colores, fuentes y layout.
+- **JavaScript**: Para incorporar interactividad y funcionalidades dinámicas en las páginas web.
+
+
+### 5.1.4. Software Deployment Configuration. 
+
+En este apartado se mostrarán los pasos a seguir con la finalidad de poder realizar el despliegue exitoso de nuestra landing page usando GitHub Pages.
+
+- Ubicándonos en “Nuestro Perfil ”, crearemos un repositorio para la implementación del código de la Landing page.
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279963486322950247/image.png?ex=66d65a63&is=66d508e3&hm=ea8891d7106d9f17fa65dcc6658b361a031aa65d3c7e73db28cae924877a25c7&">
+</p>
+
+- Accedemos al repositorio de GitHub donde se encuentra nuestro proyecto y luego navegamos hacia la configuración del repositorio.
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279964432864116810/image.png?ex=66d65b45&is=66d509c5&hm=f8d2c47897ebb68fa6e72f8b418e483d3c65f4bcd46305d05f0cd2893038dd58&">
+</p>
+
+- Dentro del menú de ajustes, elegimos la opción "Pages".
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279964791942938748/image.png?ex=66d65b9a&is=66d50a1a&hm=240c65b382ed85ffd8ceca0b6faae0ca15a5be3f35c7f4cd6e8a620277b7f831&">
+</p>
+
+- En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". 
+
+- Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
+
+
+### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
+##### 5.2.1.2. Sprint Backlog 1
+##### 5.2.1.3. Development Evidence for Sprint Review
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+##### 5.2.1.5. Execution Evidence for Sprint Review
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluaciones según heurísticas
+
+### 5.4. Video About-the-Product
+
