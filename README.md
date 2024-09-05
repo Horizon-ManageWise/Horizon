@@ -1338,11 +1338,77 @@ Objetivo: Facilitar la localización de discusiones y respuestas en el foro.
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-<p align="center">
+##### User goal: Registrar un nuevo usuario
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280197418146725969/Board_1.png?ex=66d73441&is=66d5e2c1&hm=8b2ac2f83082ab4b2a0668bf67f55de4b2d4e27c6b536822d51f45b6ba03756d&">
+<p align="center"><img src="assets/images/wireflow1.png"></p>
 
-</p>
+Para lograrlo, el usuario presiona en cualquiera de los botones "Registrarse",. Posteriormente, se pedirá que ingrese los datos necesarios y una vez listo sera redirigido a "Iniciar Sesión", para de esta manera, poder acceder con el nuevo usuario.  
+
+##### User goal: Iniciar sesión 
+
+<p align="center"><img src="assets/images/wireflow2.png"></p>
+
+Para lograrlo, el usuario presiona "Iniciar Sesión" y posteriormente, procede a rellena los campos correspondientes y aceptar.  
+
+##### User goal: Visualizar el calendario con las actividades
+
+<p align="center"><img src="assets/images/wireflow3.png"></p>
+
+Para lograrlo, el usuario presiona "Calendario" en el panel lateral izquierdo. Una vez en la sección podra visualizar el calendario, que se actualiza automáticamente al crear o borrar una actividad.
+
+##### User goal: Cambiar de usuario o cerrar sesión
+
+<p align="center"><img src="assets/images/wireflow4.png"></p>
+
+Para lograrlo, el usuario presiona su perfil en la parte inferior del panel lateral izquierdo, para posteriormente, escoger entre cambiar de usuario o cerrar sesión; en ambos casos será redirigido a la sección de inicio de sesión.
+
+##### User goal: Agregar nuevo miembro por invitación mediante link o correo
+
+<p align="center"><img src="assets/images/wireflow5.png"></p>
+
+Para lograrlo, el usaurio presiona el botón "Compartir" que se encuentra en la parte superior derecha de la pantalla, para posteriormente ingresar el correo del destinatario o copiar el link de invitación. Por otro lado, al ingresar a la sección "Miembros", puede hacer lo mismo, al presionar "Invitar por link".
+
+
+##### User goal: Colapsar y expandir panel lateral
+
+<p align="center"><img src="assets/images/wireflow6.png"></p>
+
+Para colapsar el panel, el usuario presiona la flecha con dirección a la izquierda ubicada en la parte inferior del panel, en caso de querer expandir el mismo, presiona la misma flecha, pero esta vez estará apuntando hacia la derecha.
+
+
+##### User goal: Visualizar todas las notificaciones
+
+<p align="center"><img src="assets/images/wireflow7.png"></p>
+
+Para lograrlo, el usuario presiona el botón con forma de campana ubicado en la parte superior derecha de la pantalla, al lado izquierdo de "Compartir".
+
+
+##### User goal: Visualizar todas las opciones posibles
+
+<p align="center"><img src="assets/images/wireflow8.png"></p>
+
+Para lograrlo, el usuario presiona "Opciones" en el panel lateral izquierdo, para dirigirse a esta sección.
+
+
+##### User goal: Acceder o crear otro proyecto
+
+<p align="center"><img src="assets/images/wireflow9.png"></p>
+
+Para lograr cambiar de proyecto, el usuario presiona el nombre del actual, que se encuentra en la parte superior del panel lateral, y luego de desplegarse un pequeño menu, selecciona el nombre del proyecto deseado. En caso se desee crear un nuevo proyecto, dentro del menu que se ha desplegado, el usuario presiona "+".
+
+
+##### User goal: Visualizar el progreso del equipo y de cada miembro sobre el proyecto
+
+<p align="center"><img src="assets/images/wireflow10.png"></p>
+
+Para lograrlo, el usuario presiona "Progreso" en el menu desplegable, para visualizar esta sección, con una barra de progreso general en la parte superior y una propia para cada miembro.
+
+
+##### User goal: Crear una nueva actividad y modificar el estado de la misma
+
+<p align="center"><img src="assets/images/wireflow11.png"></p>
+
+Para lograrlo, el usuario presiona "Actividades" en el panel lateral, al encontrarse en esta sección, presiona "Nueva Actividad" y rellena los campos para crear una actividad y, en caso desee cambiar el estado, puede dirigirse a "Tablero Kanban", donde podrá modificar la actividad a "Por hacer", "En progreso" o "Terminado". 
 
 #### 4.4.3. Web Applications Mock-ups
 
