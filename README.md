@@ -1322,7 +1322,7 @@ Objetivo: Facilitar la localización de discusiones y respuestas en el foro.
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
-![alt text](assets/images/classdiagram.png)
+![alt text](assets/images/diagramadeclases.png)
 ### 4.8. Database Design
 #### 4.7.2. Database Dictionary
 Este es el formato que deberán seguir nuestras colecciones en MongoDB para replicar nuestras entidades de la base de datos ManageWise
