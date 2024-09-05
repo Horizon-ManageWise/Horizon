@@ -1246,25 +1246,75 @@ Objetivo: Facilitar la localización de discusiones y respuestas en el foro.
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 
+##### Desktop Web Browser:
+
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280045111463383110/LandingPage-WireFrame-ManageWise.png?ex=66d6a668&is=66d554e8&hm=c131af02cb289ee332c0b8bede1434567f076d921f188f32d27a3a4ba6c41fb7&">
+<img src="assets/images/WireframeDesktopWebBrowser.png">
+<br>
+
+
+<img src="assets/images/Wireframe-DesktopWebBrowser-Registro.png">
+<br>
+
+
+<img src="assets/images/Wireframe-DesktopWebBrowser-InicioSesion.png">
+<br>
+
 </p>
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280603024645165087/LandingPage-Mobile-WireFrame-ManageWise.png?ex=66d8ae01&is=66d75c81&hm=a10c10f0ea5170ed007c1d3327af3e9f535ef6ed0802d2973f2413d4f1299fdb&" width=400px>
+##### Mobile Web Browser:
 
+<p align="center">
 
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser-Menu.png">
+<br>
+
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser.png">
+<br>
+
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser-Resgistro.png">
+<br>
+
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser-InicioSesion.png">
+<br>
+
+</p>
 
 #### 4.3.2. Landing Page Mock-up
 
+##### Desktop Web Browser:
+
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280045112231202916/Mockup_-_Desktop_Web_Browser.png?ex=66d6a668&is=66d554e8&hm=e5c8179829925118815fa0dc6ae3d3da269a63e77f65015fe0d227a7ec9bd979&">
+<img src="assets/images/Mockup-DesktopWebBrowser.png">
+<br>
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280602481478336632/Mockup-_Mobile_Web_Browser.png?ex=66d8ad80&is=66d75c00&hm=1dad5a68696990bcaf244d1e2895a64b5a85f2d8affe057f07ea676dde5f35e9&" width=200px>
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280602481151442944/Mockup_-_Mobile_Web_Browser.png?ex=66d8ad7f&is=66d75bff&hm=e69705b97a0588b708aed880ce027965ffd073310c14114c4901c13770133048&" width= 200px>
+<img src="assets/images/Mockup-DesktopWebBrowser-Resgistro.png">
+<br>
 
+
+<img src="assets/images/Mockup-DesktopWebBrowser-InicioSesion.png">
+<br>
+
+</p>
+
+##### Mobile Web Browser:
+
+<p align="center">
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser-Menu.png">
+<br>
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser.png">
+<br>
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser-Resgistro.png">
+<br>
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser-InicioSesion.png">
+<br>
 
 </p>
 
