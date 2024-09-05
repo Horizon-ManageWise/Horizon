@@ -1322,12 +1322,224 @@ Objetivo: Facilitar la localización de discusiones y respuestas en el foro.
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
-#### 4.7.2. Class Dictionary
-
+![alt text](assets/images/classdiagram.png)
 ### 4.8. Database Design
+#### 4.7.2. Database Dictionary
+Este es el formato que deberán seguir nuestras colecciones en MongoDB para replicar nuestras entidades de la base de datos ManageWise
+
+**Empresa**  
+Descripción: Colección que representa las empresas registradas en el sistema.
+|Campo|Tipo de dato|Descripción|
+|-----|------------|-----------|
+|Emp_ID|int|Identificador único de la empresa|
+|Emp_Nombre|varchar(20)|Nombre de la empresa|
+|Emp_Direccion|varchar(50)|Dirección de la empresa|
+|Emp_Email|varchar(25)|Correo electrónico de la empresa|
+
+**Cliente**  
+Descripción: Colección que representa a los clientes que solicitan proyectos.
+|Campo	|Tipo de dato	|Descripción|
+|-----|------------|-----------|
+|Cli_ID	|int	|Identificador único del cliente|
+|Cli_Nombre	|varchar(30)|Nombre del cliente|
+|Cli_Email	|varchar(25)|Correo electrónico del cliente|
+|Cli_Telef	|int	|Teléfono del cliente|
+
+**Cargo**  
+Descripción: Colección que define los diferentes cargos dentro de una empresa.
+|Campo	|Tipo de dato	|Descripción|
+|-----|------------|-----------|
+|Car_ID|	int|	Identificador único del cargo|
+|Car_Nom	|varchar(30)|	Nombre del cargo|
+
+**Empleado**  
+Descripción: Colección que representa a los empleados de una empresa.
+|Campo|	Tipo de dato	|Descripción|
+|-----|------------|-----------|
+|Emp_EmpleadoID	|int	|Identificador único del empleado|
+|Emp_EmpeadoNombre|	varchar(20)|	Nombre del empleado|
+|Emp_EmpleadoCargo|	varchar(20)	|Cargo del empleado|
+|Emp_EmpleadoEmail|	varchar(30)	|Correo electrónico del empleado|
+|Emp_EmpleadoTelef|	int	|Teléfono del empleado|
+|Car_ID	|int	|Identificador del cargo que ocupa el empleado|
+
+**Proyecto**  
+Descripción: Colección que representa los proyectos gestionados por las empresas.
+|Campo|	Tipo de dato|	Descripción|
+|-----|------------|-----------|
+|Pro_ID	|int|	Identificador único del proyecto|
+|Pro_Nombre	|varchar(20)|	Nombre del proyecto|
+|Pro_Descripción|	varchar(50)|	Descripción del proyecto|
+|Pro_FechInicio|	date	|Fecha de inicio del proyecto|
+|Pro_FechEnt|	date	|Fecha estimada de entrega del proyecto|
+|Pro_Est	|varchar(20)|	Estado actual del proyecto|
+|Cli_ID	|int	|Identificador del cliente asociado al proyecto|
+|Emp_ID	|int	|Identificador de la empresa asociada al proyecto|
+
+**Tarea**  
+Descripción: Colección que describe las tareas específicas dentro de un proyecto.
+|Campo|	Tipo de dato|	Descripción|
+|-----|------------|-----------|
+|Tar_ID|	int|	Identificador único de la tarea|
+|Tar_Desc|	varchar(50)|	Descripción de la tarea|
+|Tar_FechCreación|	date|	Fecha de creación de la tarea|
+|Tar_Prioridad	|varchar(30)|	Prioridad de la tarea|
+|Tar_Estado	|varchar(20)	|Estado actual de la tarea|
+|Pro_ID	|int	|Identificador del proyecto al que pertenece la tarea|
+|Emp_EmpleadoID|	int|	Identificador del empleado responsable de la tarea|
+|Eta_ID|	int	|Identificador de la etapa a la que pertenece la tarea|
+
+**Requisito**  
+Descripción: Colección que define los requisitos de un proyecto.
+|Campo	|Tipo de dato	|Descripción|
+|-----|------------|-----------|
+|Req_ID|	int|	Identificador único del requisito|
+|Req_Desc|	varchar(50)|	Descripción del requisito|
+|Req_FechCrea|	date	|Fecha de creación del requisito|
+|Req_Prioridad|	int|	Prioridad del requisito|
+|Req_Estado	|varchar(20)|	Estado actual del requisito|
+|Pro_ID	|int|	Identificador del proyecto asociado al requisito|
+
+**HistorialCambios**  
+Descripción: Colección que registra los cambios realizados en un proyecto.
+
+|Campo|	Tipo de dato|	Descripción|
+|-----|------------|-----------|
+|His_CambiosID	|int|	Identificador único del historial de cambios|
+|His_CambiosDesc|	varchar(50)|	Descripción del cambio realizado|
+|His_CambiosFechMod|	date	|Fecha de modificación del cambio|
+|Pro_ID|	int|	Identificador del proyecto asociado|
+|Emp_EmpleadoID|	int|	Identificador del empleado responsable del cambio|
+
+**Comentario**  
+Descripción: Colección que contiene los comentarios realizados en tareas específicas.
+|Campo	|Tipo de dato|	Descripción|
+|-----|------------|-----------|
+|Com_ID|	int|	Identificador único del comentario|
+|Com_Texto	|varchar(100)|	Texto del comentario|
+|Com_Fech	|date|	Fecha del comentario|
+|Tar_ID	|int	|Identificador de la tarea asociada|
+|Emp_EmpleadoID	|int|	Identificador del empleado que hizo el comentario|
+
+**Entregable**   
+Descripción: Colección que define los entregables de un proyecto.
+|Campo|	Tipo de dato|	Descripción|
+|-----|------------|-----------|
+|Ent_ID	|int|	Identificador único del entregable|
+|Ent_Nombre	|varchar(30)|	Nombre del entregable|
+|Ent_Desc	|varchar(60)|	Descripción del entregable|
+|Ent_FechEnt|	date	|Fecha de entrega del entregable|
+|Pro_ID	|int	|Identificador del proyecto asociado|
+
+**ErroresCalidad**  
+Descripción: Colección que registra los errores de calidad encontrados en un proyecto.
+|Campo|	Tipo de dato|	Descripción|
+|-----|------------|-----------|
+|Err_ID|	int|	Identificador único del error de calidad|
+|Err_Desc|	varchar(50)	|Descripción del error|
+|Err_Gravedad|	varchar(30)|	Gravedad del error|
+|Err_Estado	|varchar(20)|	Estado actual del error|
+|Pro_ID	|int	|Identificador del proyecto asociado|
+
+**Metodología**  
+Descripción: Colección que define las metodologías utilizadas en los proyectos.
+|Campo|	Tipo de dato|	Descripción|
+|-----|------------|-----------|
+|Met_ID	|int|	Identificador único de la metodología
+|Met_Nombre|	varchar(20)|	Nombre de la metodología|
+|Met_Desc|	varchar(50)	|Descripción de la metodología|
+|Pro_ID	|int	|Identificador del proyecto asociado|
+
+**Sprints**  
+Descripción: Colección que define los sprints de un proyecto.
+|Campo	|Tipo de dato|	Descripción|
+|-----|------------|-----------|
+|Spr_ID	|int|	Identificador único del sprint|
+|Spr_Nom	|varchar(20)|	Nombre del sprint|
+|Spr_FechCreacion|	date|	Fecha de creación del sprint|
+|Spr_Fechafinal|	date	|Fecha final del sprint|
+|Pro_ID	|int|	Identificador del proyecto asociado|
+
+**Reunión**  
+Descripción: Colección que representa las reuniones realizadas en un proyecto.
+|Campo|	Tipo de dato|	Descripción|
+|-|-|-|
+|Reu_ID|	int|	Identificador único de la reunión|
+|Reu_Fecha|	date|	Fecha de la reunión|
+|Reu_Prioridad|	varchar(30)|	Prioridad de la reunión|
+|Reu_Estado	|varchar(20)	|Estado actual de la reunión|
+|Pro_ID	|int	|Identificador del proyecto asociado|
+
+**Documentación**  
+Descripción: Colección que almacena los documentos generados en un proyecto.
+|Campo|	Tipo de dato	|Descripción|
+|-|-|-|
+|Doc_ID	|int	|Identificador único del documento|
+|Doc_Nombre|	varchar(30)	|Nombre del documento|
+|Doc_Prioridad|	varchar(30)|	Prioridad del documento|
+|Doc_Estado	|varchar(20)	|Estado actual del documento|
+|Emp_EmpleadoID|	int	|Identificador del empleado que creó el documento|
+
+
+**Módulo**  
+Descripción: Colección que define los módulos de un proyecto.
+|Campo|	Tipo de dato|	Descripción|
+|-|-|-|
+|Mod_ID|	int	|Identificador único del módulo|
+|Mod_Nombre|	varchar(20)|	Nombre del módulo|
+|Mod_Descripcion|	text|	Descripción del módulo|
+|Pro_ID	|int	|Identificador del proyecto asociado|
+
+**Caso_Prueba**  
+Descripción: Colección que define los casos de prueba de un módulo.
+|Campo|	Tipo de dato|	Descripción|
+|-|-|-|
+|Cas_ID|	int	|Identificador único del caso de prueba|
+|Cas_Descripcion	|text	|Descripción del caso de prueba|
+|Cas_Resultado	|varchar(20)|	Resultado del caso de prueba|
+|Cas_Estado	|varchar(20)	|Estado actual del caso de prueba|
+|Mod_ID	|int	|Identificador del módulo asociado|
+|Emp_EmpleadoID|	int|	Identificador del empleado responsable del caso de prueba|
+
+**Equipo**  
+Descripción: Colección que define los equipos de trabajo en un proyecto.
+|Campo|	Tipo de dato|	Descripción|
+|-|-|-|
+|Equ_ID	|int	|Identificador único del equipo|
+|Equ_Rol	|varchar(25)|	Rol del equipo|
+|Pro_ID	|int	|Identificador del proyecto asociado|
+|Emp_EmpleadoID|	int|	Identificador del empleado miembro del equipo|
+
+**Sistema**  
+Descripción: Colección que define los sistemas utilizados en un proyecto.
+|Campo|	Tipo de dato|	Descripción|
+|-|-|-|
+|Sis_ID  |	int|	Identificador único del sistema|
+|Sis_Nombre|	varchar(20)	Nombre del sistema|
+|Sis_Descripcion|	text	Descripción del sistema|
+|Pro_ID	|int|	Identificador del proyecto asociado|
+
+**Cliente_Proyecto**  
+Descripción: Colección que representa la relación entre clientes y proyectos.
+|Campo	|Tipo de dato	|Descripción|
+|-|-|-|
+|Cli_ID |	int|	Identificador del cliente asociado|
+|Pro_ID	|int	|Identificador del proyecto asociado|
+
+**Etapa**  
+Descripción: Colección que define las etapas de un proyecto.
+|Campo	|Tipo de dato|	Descripción|
+|-|-|-|
+|Eta_ID	|int	|Identificador único de la etapa|
+|Eta_Nombre	|varchar(20)|	Nombre de la etapa|
+|Eta_Descripcion|	text|	Descripción de la etapa|
+|Pro_ID  |	int|	Identificador del proyecto asociado|
+
+
 #### 4.8.1. Database Diagram
+Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Clientes, Empleados, Proyectos, Tareas y Requisitos. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades.  Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
 
-
+![alt text](assets/images/db-diagram.png)
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management. 
 La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores. (Martin, 2023)
