@@ -1429,6 +1429,48 @@ Para lograrlo, el usuario presiona "Actividades" en el panel lateral, al encontr
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+##### User goal: Como usuario quiero poder iniciar sesión en ManageWise
+
+<p align="center"><img src="assets/images/UserflowDiag1.png"></p>
+
+Para lograrlo, el usuario debe llenar el formulario con los datos correspondientes y aceptar, en caso sea válido, ingresará automáticamente, de lo contrario, el formulario se reiniciará.
+
+##### User goal: Como usuario quiero poder registrarme en ManageWise
+
+<p align="center"><img src="assets/images/UserflowDiag2.png"></p>
+
+Para lograrlo, el usuario debe  llenar el formulario de registro con los datos correspondientes y aceptar, en caso sea válido, será redirigido al inicio de sesión, de lo contrario, el formulario se reiniciará.
+
+##### User goal: Como lider de un equipo de desarrollo de software, quiero poder crear nuevas actividades para los miembros de este
+
+<p align="center"><img src="assets/images/UserflowDiag3.png"></p>
+
+Para lograrlo, el líder del equipo, debe ir a la sección de "Actividades" y seleccionar "Nueva Actividad", posteriormente debe llenar el pequeño formulario con los datos necesarios y aceptar. En caso el formulario haya sido concretado con éxito, recibirá una notificación y este se agregará al apartado de actividades, caso contrario, el formulario se reiniciará.
+
+##### User goal: Como lider de un equipo de desarrollo de software, quiero poder visualizar el progreso en conjunto e individual de los miembros de este
+
+<p align="center"><img src="assets/images/UserflowDiag4.png"></p>
+
+Para lograrlo, el líder del equipo debe ir a la sección "Progreso" en el panel lateral, posteriormente será redirigido a esta sección y en la parte superior se podrá observar la barra de progreso total del equipo, mientras que al lado del nombre de cada miembro, una barra para ver el progreso individual.
+
+##### User goal: Como lider de un equipo de desarrollo de software, quiero poder ver a los miembros actuales e invitar a nuevos, tanto por correo como por un link
+
+<p align="center"><img src="assets/images/UserflowDiag5.png"></p>
+
+Para lograrlo, el líder del equipo debe ir a la sección "Miembros en el pane lateral", una vez en esta sección, podra visualizar la cantidad de miembros, el nombre de estos y el número de invitaciones. Para invitar a nuevos miembros, deberá presionar el botón de compartir o invitar y a continuación ingresar el correo del destinatario o copiar el link de invitación. 
+
+##### User goal: Como miembro de un equipo de desarrollo de software, quiero poder visualizar un calendario con las diferentes actividades programadas
+
+<p align="center"><img src="assets/images/UserflowDiag6.png"></p>
+
+Para lograrlo, el miembro del equipo selecciona "Calendario" en el panel lateral, una vez en la sección, podra ver un calendario digital con las fechas de las diferentes actividades programadas.
+
+##### User goal: Como lider de un equipo de desarrollo de software, quiero poder cambiar el estado de una actividad
+
+<p align="center"><img src="assets/images/UserflowDiag7.png"></p>
+
+Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteriormente, seleccionar "Kanban", una vez allí, podra arrastrar las actividades a "Por hacer", "En progreso" y "Terminado". Tras haber cambiado el estado de una actividad, recibirá una notificación, caso contrario, no se alteró el estado. 
+
 ### 4.5. Web Applications Prototyping
 
 ### 4.6. Domain-Driven Software Architecture
