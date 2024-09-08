@@ -1926,19 +1926,18 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 – 1 Review Summary </td>
-            <td colspan="1">
-            .</td>
+            <td colspan="1">Se logro implementar todos los User Stories elegidos para la creación del Landing Page, y se hizo su despliegue completo. También completamos el informe siguiendo las reglas dadas en el Aula Virtual.</td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
-            <td colspan="1">El sprint 1 fue ineficiente en términos de cooperación, se organizó mal el uso del tiempo y esto dio como resultado la entrega de un producto incompleto y para nada profesional. Juan Pescorán como Team Leader mencionó puntos de mejora, siendo estos: "Más dedicación por parte de todo el equipo, reuniones diarias para analizar el desarrollo de vida del proyecto de software, más comunicación entre los integrantes del equipo y maximizar el uso de herramientas de software para manejar las tareas pendientes de cada sprint."</td>
+            <td colspan="1">En el Sprint 1, el equipo de desarrollo subestimo el tiempo de entrega, aunque hubo buena organización y responsabilidad para las reuniones para separar responsabilidades y responder dudas, algunas tareas del informe se entregaron fuera de tiempo acordado. Lo que nos dio poco tiempo para mejorar lo implementado en el Landing Page. El Team Leader menciono unos puntos de mejorar para los próximos Sprint, siendo estos: "Si necesitan ayuda sean abiertos no juzgaremos, planificaremos reuniones diarias para motivar y monitorear cada avance del trabajo para evitar retrasos".</td>
 		</tr>
          <tr>
 			<td colspan="2">Sprint Goal & User Stories </td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 Goal</td>
-            <td colspan="1">Para este sprint se requiere el cumplimiento de los siguientes objetivos: Finalización de reporte y despliegue sin problemas de la Landing Page que se encuentran en nuestro repositorio. La métrica de cumplimiento se basará en el proceso de cómo nuestro "Board de Trello" luzca con el paso del tiempo, nuestro resultado final debe de mostrar todas las tareas en el lado derecho de la herramienta, ubicándolos en la columna "Terminado"</td>
+            <td colspan="1">Para el correcto cumplimiento de este Sprint requerimos completar los siguientes objetivos: Finalizar el informe y el despliegue de nuestro Landing Page desde nuestro repositorio de GitHub. Nuestra herramienta para demostrar el cumplimiento es nuestro tablero en Trello, pues a lo largo del desarrollo de nuestro Landing Page ubicamos todas nuestras tareas asignadas en la columna "Terminado".</td>
 		</tr>
         <tr>
 			<td colspan="1">Sprint 1 Velocity </td>
