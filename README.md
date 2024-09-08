@@ -1962,15 +1962,15 @@ Debido a que en este sprint se desarrolló únicamente el Landing Page se omitir
 
 En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado el Landing Page. Mostraremos imágenes para observar que nuestra página muestra limpia e intuitivamente información sobre nuestro producto y nuestra empresa.
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282417586725716115/image.png?ex=66df47f2&is=66ddf672&hm=f87b8a94b7be8d74c00fe75a8347c134f21a44ac8f1a71addf307d42b89e0cf5&"></p>
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282417624826908682/image.png?ex=66df47fb&is=66ddf67b&hm=01ab6b33c511614c2e39673a4119f82f1aa07852e8896dc23ca50cd6b0f9a2f2&"></p>
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282417710810271754/image.png?ex=66df4810&is=66ddf690&hm=8959d543102bab831d5b0488cf6c972b3a470d636be34650b85ec8cacd184dfd&"></p>
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-3.png"></p>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282417781886812242/image.png?ex=66df4821&is=66ddf6a1&hm=dd1be4f31df20eb6bcf534df0a9b9d0eed5aa65723c8b22ecabda6a9cd3c13f0&"></p>
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-4.png"></p>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282417809741185286/image.png?ex=66df4828&is=66ddf6a8&hm=89e12851b919deb7d251db78d64d431ed5bb15f5c18bc7c65479b4fc4e290a51&"></p>
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-5.png"></p>
 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review.
 
