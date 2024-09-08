@@ -1899,11 +1899,17 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
+Debido a que en este sprint se desarrolló únicamente el Landing Page se omitirá esta sección. En próximas etapas del proyecto se ofrecerá información sobre esta sección.
+
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review.
 
+Debido a que en este sprint se desarrolló únicamente el Landing Page se omitirá esta sección. En próximas etapas del proyecto se ofrecerá información sobre esta sección.
+
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+
+Debido a que en este sprint se desarrolló únicamente el Landing Page se omitirá esta sección. En próximas etapas del proyecto se ofrecerá información sobre esta sección.
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint. Software
 
