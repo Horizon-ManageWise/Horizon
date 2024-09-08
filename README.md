@@ -1885,6 +1885,8 @@ En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseñ
 
 ### 5.2 Landing Page, Services & Applications Implementation.
 
+El desarrollo, testeo y despliegue de nuestra landing page es importante para que nuestros clientes puedan acceder a la información sobre nuestra empresa y producto a través de una interfaz con diseño responsivo, navegación intuitiva y solo con información relevante. Esta primera etapa nos permite crear un diseño conceptual sobre la estética que nuestra aplicación completa y lista para su uso. Estas etapas nos ayudaran a dar una primera impresión a los clientes para validar ideas e identificar problemas que se deben solucionar.
+
 ### 5.2.1 . Sprint 1
 
 #### 5.2.1.1 Sprint Planning 1.
