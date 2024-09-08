@@ -852,53 +852,167 @@ La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es un
 
 
 ### 5.1.1. Software Development Environment Configuration.
-**VISUAL STUDIO CODE**
 
-En el desarrollo de nuestro proyecto, utilizaremos Visual Studio Code como la herramienta principal para crear la página web. Nos enfocaremos en emplear HTML para estructurar y definir el contenido de la web, CSS para aplicar estilos y configurar elementos visuales como colores, tipografías y tamaños, y JavaScript para añadir interactividad, eventos dinámicos y elementos multimedia que mejoren la experiencia del usuario. Nuestro objetivo es garantizar que el producto final sea único y cumpla con nuestras metas sin copiar o replicar trabajos anteriores.
+ **Directrices de Desarrollo para Horizon**
 
-<p align="center">
+En esta sección, presentaremos las convenciones y prácticas recomendadas que hemos adoptado en HTML, CSS y JavaScript para el desarrollo de Horizon, nuestro software innovador dirigido a startups del sector del desarrollo de software. Estas directrices están orientadas a asegurar una estructura coherente, facilitar la mantenibilidad del código y optimizar la funcionalidad de nuestra plataforma para la gestión de proyectos e iniciativas. A continuación, detallaremos cómo aplicamos estas prácticas en cada una de las tecnologías utilizadas.
 
-<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279958834588156006/visualstudio_code-card.png?ex=66d6560e&is=66d5048e&hm=514f0067a47484afde6c00c34a1c360c212aff375fc038cc511ad9b4809e8767&">
-</p>
+**Definición de Requisitos**
+
+Antes de iniciar el desarrollo, es crucial definir claramente los requisitos de Horizon. Estos requisitos incluyen las funcionalidades clave que deseamos proporcionar, tales como:
+
+- **Análisis Predictivo con Inteligencia Artificial:** Integración de algoritmos avanzados para prever tendencias y resultados en la gestión de proyectos.
+- **Automatización de Tareas:** Implementación de herramientas que optimicen y automaticen tareas repetitivas para mejorar la eficiencia.
+- **Gestión de Información Robusta:** Uso de bases de datos para una administración efectiva de la información del proyecto.
+- **Características Personalizables:** Opciones adaptables a las necesidades específicas de cada startup.
+- **Colaboración Eficiente:** Funcionalidades que faciliten la colaboración efectiva entre equipos, incluyendo soporte para metodologías ágiles.
+
+**Elección de la Tecnología**
+
+Con base en los requisitos, hemos seleccionado las siguientes tecnologías para Horizon:
+
+- **Frontend:** Angular para una interfaz de usuario dinámica y receptiva, que permita una interacción fluida con las herramientas de gestión y análisis.
+- **Backend:** Express.js sobre Node.js, ofreciendo una solución robusta para manejar la lógica del servidor y las operaciones con la base de datos.
+- **Base de Datos:** PostgreSQL para almacenar de manera segura y eficiente la información crítica sobre proyectos e iniciativas.
+
+**Configuración del Entorno de Desarrollo**
+
+- **Editor de Código:** Visual Studio Code
+  - **Propósito:** Desarrollo y edición de código con soporte extensivo para JavaScript y herramientas de desarrollo.
+  - **Ruta de descarga:** [Visual Studio Code](https://code.visualstudio.com/)
+- **Control de Versiones:** Git, con repositorios en GitHub.
+  - **Propósito:** Gestión de versiones y colaboración en el código.
+  - **Ruta de descarga:** [Git](https://git-scm.com/)
+  - **Repositorio:** [GitHub - Horizon](https://github.com/Firtness/Horizon.git)
+- **Pruebas:** Jest para pruebas unitarias y Cypress para pruebas end-to-end.
+  - **Propósito:** Validación exhaustiva de la funcionalidad del software.
+  - **Ruta de descarga:** [Jest](https://jestjs.io/) | [Cypress](https://www.cypress.io/)
+  - **Nota:** Las pruebas unitarias se documentan utilizando lenguaje Gherkin para mejorar la claridad y comprensión.
+
+## Diseño y Desarrollo
+
+- **UI/UX:** Crear una interfaz amigable y accesible para los usuarios.
+  - **Herramienta:** Figma
+  - **Propósito:** Diseño de prototipos y interfaces de usuario.
+  
+
+Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
+
 
 ### 5.1.2. Source Code Management.
-Utilizamos la plataforma de desarrollo colaborativo GitHub y su servicio GitHub Pages para gestionar y desplegar nuestro código. GitHub ofrece una base sólida para el control de versiones y la colaboración en equipo, facilitando un trabajo eficiente y sin limitaciones. Por su parte, GitHub Pages nos permite publicar y compartir nuestra aplicación de manera sencilla, proporcionando una forma accesible de mostrar nuestras últimas actualizaciones y desarrollos en línea. Esta combinación asegura un flujo de trabajo continuo y efectivo tanto en el desarrollo como en la difusión de nuestro proyecto.
+**Gestión de Cambios en el Código Fuente con GitHub**
 
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279960091876921374/GitHub-logo.png?ex=66d6573a&is=66d505ba&hm=10fdc57de63beca2c3f8d828349036b55ad2a3ed0366668e2b0df6950f857a7e&">
-</p>
+En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo.
+
+**Estructura del Repositorio**
+
+Hemos organizado el repositorio en ramas específicas para diferentes etapas del desarrollo, garantizando un flujo de trabajo ordenado y eficiente. La estructura de ramas es la siguiente:
+
+- **Main branch (rama principal):** Contiene la versión estable y lista para producción del software.
+- **Develop branch:** Contiene el código en desarrollo que se integrará en la rama principal después de ser probado y validado.
+
+Además, para el desarrollo de nuevas funcionalidades, creamos ramas específicas siguiendo las convenciones de nomenclatura:
+
+- **Feature branches:** Ramas dedicadas al desarrollo de nuevas características. La nomenclatura para estas ramas es `feature/nueva-funcionalidad`.
+
+Implementamos GitFlow, un modelo de ramificación diseñado por Vincent Driessen, que incluye las siguientes ramas:
+
+- **Main branch:** Rama principal que alberga el código estable y preparado para producción.
+- **Develop branch:** Rama de desarrollo donde se integran nuevas funcionalidades y correcciones antes de ser fusionadas a la rama principal.
+- **Feature branches:** Creadas a partir de `develop` para añadir nuevas características, siguiendo la nomenclatura `feature/nueva-funcionalidad`.
+- **Release branches:** Preparadas para la liberación de nuevas versiones, permitiendo pruebas finales y corrección de errores antes del despliegue a producción.
+- **Hotfix branches:** Utilizadas para corregir errores críticos en producción, siguiendo la nomenclatura `hotfix/correccion-critica`.
+
+**Mensajes de Commits**
+
+Adoptamos el estándar Conventional Commits para los mensajes de nuestros commits, lo que facilita la comprensión del historial de cambios y la automatización de versiones. Ejemplos de mensajes son:
+
+- **feat:** Añadir nueva funcionalidad, por ejemplo, `feat: implementar sistema de notificaciones`.
+- **fix:** Corregir errores, por ejemplo, `fix: solucionar problema con la validación de datos`.
+- **docs:** Actualizar documentación, por ejemplo, `docs: actualizar guía de instalación`.
+- **style:** Aplicar formato, por ejemplo, `style: ajustar estilo de código según las pautas`.
+- **refactor:** Mejorar el código sin cambiar su funcionalidad, por ejemplo, `refactor: optimizar el rendimiento del módulo de usuario`.
+- **test:** Añadir o modificar pruebas, por ejemplo, `test: añadir pruebas para la funcionalidad de autenticación`.
+
+**Documentación**
+
+La documentación del proyecto se encuentra en el archivo `README.md` dentro del repositorio. Este archivo proporciona detalles sobre la configuración, el uso del software y las guías para contribuir al proyecto.
 
 
 ### 5.1.3. Source Code Style Guide & Conventions. 
 
 En el *Source Code Style Guide*, presentaremos las convenciones, estilos, diseños y principios aplicados en los lenguajes utilizados durante el desarrollo de nuestro producto. Los lenguajes y herramientas empleados incluyen:
 
-- **HTML**: Para estructurar y definir el contenido de las páginas web, estableciendo la disposición y jerarquía de elementos como texto, imágenes y enlaces.
-- **CSS**: Para aplicar estilos y diseño a las páginas web, gestionando aspectos visuales como colores, fuentes y layout.
-- **JavaScript**: Para incorporar interactividad y funcionalidades dinámicas en las páginas web.
+**HTML**
+
+- **Nombres Descriptivos:** Utiliza nombres de clases e IDs que sean descriptivos y significativos, facilitando la comprensión del propósito de cada elemento.
+- **Indentación:** Indenta correctamente el código HTML para mejorar la legibilidad y mantener una estructura clara.
+- **Etiquetas Semánticas:** Emplea etiquetas semánticas apropiadas, como `<header>`, `<nav>`, `<main>`, y `<footer>`, para mejorar la accesibilidad y el SEO del sitio.
+- **Comentarios:** Usa comentarios para explicar secciones complejas o partes importantes del código HTML, facilitando la comprensión para otros desarrolladores.
+
+**CSS**
+
+- **Nombres Descriptivos:** Utiliza nombres de clases y selectores que sean descriptivos y coherentes para facilitar la identificación y el mantenimiento de los estilos.
+- **Agrupación y Comentarios:** Agrupa propiedades relacionadas y separa secciones de CSS con comentarios claros. Esto organiza el código y facilita su navegación.
+- **Preferencia por Clases:** Prefiere el uso de clases en lugar de IDs para estilos reutilizables y más flexibles.
+- **Compatibilidad y Prefijos:** Utiliza prefijos de vendedor y asegúrate de que el código sea compatible con diferentes navegadores cuando sea necesario.
+- **Medidas Relativas:** Usa medidas relativas como `em`, `rem`, y `%` en lugar de medidas absolutas para mejorar la flexibilidad y la accesibilidad del diseño.
+
+**JavaScript**
+
+- **Nombres Descriptivos:** Usa nombres de variables y funciones que sean descriptivos y significativos para que el código sea autoexplicativo.
+- **Comentarios:** Incluye comentarios para explicar la lógica compleja o el propósito de las funciones. Esto facilita la comprensión y el mantenimiento del código.
+- **Espacios y Sangrías:** Utiliza espacios en blanco y sangrías para mejorar la legibilidad del código. Sigue un estilo consistente en todo el código.
+- **Modularidad:** Evita la creación de funciones globales. Utiliza módulos o patrones de diseño para modularizar el código y evitar conflictos de nombres.
+- **Convención de Nombres:** Emplea `camelCase` para nombrar variables y funciones, siguiendo una convención consistente.
+
+**Comentarios**
+
+- **Propósito y Complejidad:** Utiliza comentarios para explicar el propósito de bloques de código, funciones o partes complejas del código. Asegúrate de que añadan valor y contexto.
+- **Actualización de Comentarios:** Mantén los comentarios actualizados a medida que el código evoluciona para evitar información desactualizada.
+- **Evita Comentarios Redundantes:** Evita comentarios obvios o redundantes que no añaden información útil. Los comentarios deben proporcionar claridad y contexto adicional.
+
 
 
 ### 5.1.4. Software Deployment Configuration. 
 
-En este apartado se mostrarán los pasos a seguir con la finalidad de poder realizar el despliegue exitoso de nuestra landing page usando GitHub Pages.
+**Preparación del Código**
 
-- Ubicándonos en “Nuestro Perfil ”, crearemos un repositorio para la implementación del código de la Landing page.
+- **Minificación:** Minifica archivos CSS y JavaScript para reducir el tamaño y mejorar la carga.
+- **Optimización de Imágenes:** Comprime y ajusta las imágenes para mejorar el rendimiento de la aplicación.
+- **Eliminación de Código No Necesario:** Quita código de depuración y comentarios innecesarios antes del despliegue.
 
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279963486322950247/image.png?ex=66d65a63&is=66d508e3&hm=ea8891d7106d9f17fa65dcc6658b361a031aa65d3c7e73db28cae924877a25c7&">
-</p>
+**Control de Versiones**
+- **Uso de Git:** Mantén un historial completo de cambios y facilita el manejo de diferentes versiones del código.
 
-- Accedemos al repositorio de GitHub donde se encuentra nuestro proyecto y luego navegamos hacia la configuración del repositorio.
+**Pruebas Automatizadas**
 
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279964432864116810/image.png?ex=66d65b45&is=66d509c5&hm=f8d2c47897ebb68fa6e72f8b418e483d3c65f4bcd46305d05f0cd2893038dd58&">
-</p>
+- **Automatización de Pruebas:** Implementa pruebas automatizadas para detectar errores antes del despliegue y asegurar la estabilidad de la aplicación.
 
-- Dentro del menú de ajustes, elegimos la opción "Pages".
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279964791942938748/image.png?ex=66d65b9a&is=66d50a1a&hm=240c65b382ed85ffd8ceca0b6faae0ca15a5be3f35c7f4cd6e8a620277b7f831&">
-</p>
+**Entorno de Staging**
 
-- En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". 
+- **Simulación de Producción:** Configura un entorno de staging que replique el entorno de producción para realizar pruebas finales.
 
-- Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
+**Servidor de Producción**
+
+- **Proveedor de Hosting:** Selecciona un proveedor confiable y configura el servidor de producción con los recursos necesarios para soportar la aplicación.
+
+**Base de Datos**
+
+- **Configuración y Seguridad:** Configura la base de datos en producción asegurando credenciales y conexiones seguras.
+
+**CI/CD**
+
+- **Pipeline de CI/CD:** Establece un pipeline para integración y despliegue continuo utilizando herramientas como Jenkins, Travis CI o GitHub Actions para automatizar el despliegue.
+
+**Monitoreo y Registro**
+
+- **Soluciones de Monitoreo:** Implementa herramientas de monitoreo y registro para rastrear el rendimiento y detectar problemas rápidamente.
+
+**Backup y Recuperación**
+
+- **Procedimientos de Backup:** Configura procedimientos para respaldar datos y asegurar la recuperación en caso de pérdida o fallo.
+
+**Documentación**
+
+- **Documentación del Proceso:** Documenta el proceso de despliegue y mantenimiento para facilitar la gestión y comprensión del equipo.
