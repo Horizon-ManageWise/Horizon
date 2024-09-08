@@ -1889,6 +1889,8 @@ El desarrollo, testeo y despliegue de nuestra landing page es importante para qu
 
 ### 5.2.1 . Sprint 1
 
+El primer sprint es una etapa importante en nuestro marco de gestión de proyectos de metodología ágil Scrum. En este periodo, agendamos reuniones con el objetivo de conocer mejor las características de cada integrante, y delegamos tareas para materializar el diseño y funcionalidades ya establecidas, para transformarlos en un landing page funcional y que cumple las heurísticas.
+
 #### 5.2.1.1 Sprint Planning 1.
 
 #### 5.2.1.2 Sprint Backlog 1.
