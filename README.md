@@ -1980,7 +1980,11 @@ Debido a que en este sprint se desarrolló únicamente el Landing Page se omitir
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282417809741185286/image.png?ex=66df4828&is=66ddf6a8&hm=89e12851b919deb7d251db78d64d431ed5bb15f5c18bc7c65479b4fc4e290a51&"></p>
 
-#### 5.2.1.8 Team Collaboration Insights during Sprint. Software
+#### 5.2.1.8 Team Collaboration Insights during Sprint.
+
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282418510726828176/image.png?ex=66df48cf&is=66ddf74f&hm=38e125dae2120e39a7ead0a30c979bbd8320b50bb889fc2119a90ca8b4cca5f2&"></p>
 
 ### Conclusiones
 
