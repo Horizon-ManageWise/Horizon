@@ -160,7 +160,7 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 - Estefano Oscar Jaque Peña - U202225466
 
-| <p align="center"><img src="https://cdn.discordapp.com/attachments/1246609784501833810/1275485196589732011/image.png?ex=66c60fa8&is=66c4be28&hm=28e9a7ace2f1c7416404ba1e95041b745cda9a5046b828c99ca1a5039445b645&"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
+| ![alt text](assets/images/Estefano_profile.jpg) | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Diego Rolin Acuña Tomas - U202221436
@@ -793,6 +793,12 @@ EPICS:
 | US40           | Integración de widgets personalizados                   | Como usuario de la plataforma, quiero poder añadir widgets personalizados a mi dashboard para tener acceso rápido a la información más relevante para mí.                                                                     | titulo:<br>Dado que estoy en el dashboard, cuando acceda a la opción de personalización, entonces podré añadir o eliminar widgets según mis preferencias.                                                                                                                                                                                                                                                                                                               | EP05                     |
 | US41           | Recordatorios basados en la ubicación                   | Como usuario de la plataforma, quiero recibir recordatorios personalizados basados en mi ubicación para optimizar el tiempo dedicado a tareas.                                                                                | titulo:<br>Dado que mi ubicación es relevante para una tarea, cuando esté cerca del lugar necesario, entonces recibiré un recordatorio para completarla.                                                                                                                                                                                                                                                                                                                | EP05                     |
 | US42           | Configuración avanzada de notificaciones                | Como usuario de la plataforma, quiero tener opciones avanzadas para personalizar las notificaciones que recibo, de acuerdo con mi carga de trabajo.                                                                           | titulo:<br>Dado que quiero ajustar mis notificaciones, cuando acceda a la configuración, entonces podré activar o desactivar notificaciones específicas.                                                                                                                                                                                                                                                                                                                | EP05                     |
+| US43 |Vista General de Beneficios y Funcionalidades |Como usuario potencial, quiero ver una descripción general de los beneficios y funcionalidades clave de la plataforma|Escenario: El usuario potencial visita la página principal.<br>Dado que el usuario potencial ha accedido a la página de inicio, Cuando navega hacia la sección de beneficios y funcionalidades, Entonces puede ver una descripción clara y visualmente destacada de las características clave de la plataforma.|EP06|
+| US44 |Enlaces Directos a Redes Sociales |Como usuario potencial, quiero tener enlaces directos a las redes sociales de la plataforma para seguir la empresa y estar al tanto de novedades.|Escenario: El usuario potencial busca información sobre la plataforma en redes sociales.<br>Dado que el usuario potencial navega a la página de inicio,Cuando se desplaza hasta el pie de página o la sección de contacto,Entonces puede hacer clic en enlaces directos a las redes sociales de la plataforma.|EP06|
+| US45 |Registro Rápido y Simple |Como usuario nuevo, quiero poder registrarme de una manera rápida y sin tantas complicaciones|Escenario: Un nuevo usuario desea registrarse.<br>Dado que el usuario nuevo accede a la página de registro,Cuando completa el formulario con los datos básicos,Entonces puede finalizar el registro sin complicaciones ni pasos adicionales innecesarios.|EP06|
+| US46 |Iniciar Sesión Rápido y Visible |Como usuario de la plataforma, quiero poder iniciar sesión desde un enlace visible en la página principal para acceder rápidamente a mi cuenta.|Escenario: Un usuario de la plataforma busca iniciar sesión.<br>Dado que el usuario accede a la página principal,Cuando localiza el enlace de inicio de sesión en la esquina superior derecha,Entonces puede hacer clic en el enlace e iniciar sesión fácilmente.|EP06|
+| US47 | Resumen de la Empresa, Misión y Visión |Como visitante, quiero ver un resumen de la empresa junto con la misión y visión para entender su enfoque y valores antes de registrarme.|Escenario: El visitante quiere conocer más sobre la empresa antes de registrarse.<br>Dado que el visitante navega por la sección "Acerca de" en la página principal,Cuando lee el contenido de la misión y visión,Entonces puede obtener un resumen claro y conciso sobre la empresa y sus valores.|EP06|
+| US48 |Navegación Clara y Directa en la Página |Como usuario potencial, quiero poder navegar de forma clara y directa entre las secciones de la página para encontrar la información que necesito rápidamente.|Escenario: El usuario potencial navega por las secciones de la página.<br>Dado que el usuario se encuentra en la página principal,Cuando interactúa con el menú de navegación principal,Entonces puede moverse fácilmente entre las secciones sin perderse o sentir confusión.|EP06|
 
 ### 3.3. Impact Mapping
 
@@ -850,6 +856,12 @@ EPICS:
 | 40     | US40          | Integración de widgets personalizados                   | Como usuario de la plataforma, quiero poder añadir widgets personalizados a mi dashboard para tener acceso rápido a la información más relevante para mí.                                                                     |               3               |
 | 41     | US41          | Recordatorios basados en la ubicación                   | Como usuario de la plataforma, quiero recibir recordatorios personalizados basados en mi ubicación para optimizar el tiempo dedicado a tareas.                                                                                |               5               |
 | 42     | US42          | Configuración avanzada de notificaciones                | Como usuario de la plataforma, quiero tener opciones avanzadas para personalizar las notificaciones que recibo, de acuerdo con mi carga de trabajo.                                                                           |               3               |
+| 43 | US43 |Vista General de Beneficios y Funcionalidades |Como usuario potencial, quiero ver una descripción general de los beneficios y funcionalidades clave de la plataforma|2|
+| 44 | US44 |Enlaces Directos a Redes Sociales |Como usuario potencial, quiero tener enlaces directos a las redes sociales de la plataforma para seguir la empresa y estar al tanto de novedades.|2|
+| 45 | US45 |Registro Rápido y Simple |Como usuario nuevo, quiero poder registrarme de una manera rápida y sin tantas complicaciones|3|
+| 46 | US46 |Iniciar Sesión Rápido y Visible |Como usuario de la plataforma, quiero poder iniciar sesión desde un enlace visible en la página principal para acceder rápidamente a mi cuenta.|3|
+| 47 | US47 | Resumen de la Empresa, Misión y Visión |Como visitante, quiero ver un resumen de la empresa junto con la misión y visión para entender su enfoque y valores antes de registrarme.|2|
+| 48 | US48 |Navegación Clara y Directa en la Página |Como usuario potencial, quiero poder navegar de forma clara y directa entre las secciones de la página para encontrar la información que necesito rápidamente.|2|
 
 ## Capítulo IV: Product Design
 
@@ -2004,62 +2016,35 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 
 El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
 
-<table  style="text-align: center;">
-    <tbody>
-        <tr>
-			<td colspan="1">Sprint #</td>
-            <td colspan="1"> Sprint 1  </td>
-		</tr>
-        <tr>
-			<td colspan="2">Sprint Planning Background </td>
-		</tr>
-        <tr>
-			<td colspan="1">Date</td>
-            <td colspan="1"> 06/09/2024 </td>
-		</tr>
-        <tr>
-			<td colspan="1">Time</td>
-            <td colspan="1"> 12:00 AM </td>
-		</tr>
-        <tr>
-			<td colspan="1">Location</td>
-            <td colspan="1">Discord (Reunion virtual)</td>
-		</tr>
-        <tr>
-			<td colspan="1">Prepared By</td>
-            <td colspan="1">Jaque Peña, Estefano Oscar</td>
-		</tr>
-        <tr>
-			<td colspan="1"> Attendees (to planning meeting)</td>
-            <td colspan="1">Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva,Valentino </td>
-		</tr>
-         <tr>
-			<td colspan="1">Sprint 1 – 1 Review Summary </td>
-            <td colspan="1">Se logro implementar todos los User Stories elegidos para la creación del Landing Page, y se hizo su despliegue completo. También completamos el informe siguiendo las reglas dadas en el Aula Virtual.</td>
-		</tr>
-         <tr>
-			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
-            <td colspan="1">En el Sprint 1, el equipo de desarrollo subestimo el tiempo de entrega, aunque hubo buena organización y responsabilidad para las reuniones para separar responsabilidades y responder dudas, algunas tareas del informe se entregaron fuera de tiempo acordado. Lo que nos dio poco tiempo para mejorar lo implementado en el Landing Page. El Team Leader menciono unos puntos de mejorar para los próximos Sprint, siendo estos: "Si necesitan ayuda sean abiertos no juzgaremos, planificaremos reuniones diarias para motivar y monitorear cada avance del trabajo para evitar retrasos".</td>
-		</tr>
-         <tr>
-			<td colspan="2">Sprint Goal & User Stories </td>
-		</tr>
-         <tr>
-			<td colspan="1">Sprint 1 Goal</td>
-            <td colspan="1">Para el correcto cumplimiento de este Sprint requerimos completar los siguientes objetivos: Finalizar el informe y el despliegue de nuestro Landing Page desde nuestro repositorio de GitHub. Nuestra herramienta para demostrar el cumplimiento es nuestro tablero en Trello, pues a lo largo del desarrollo de nuestro Landing Page ubicamos todas nuestras tareas asignadas en la columna "Terminado".</td>
-		</tr>
-        <tr>
-			<td colspan="1">Sprint 1 Velocity </td>
-            <td colspan="1">Para este sprint se han elegido 6 User Stories. 4 User Stories tienen 2 Story Points y 2 User Stories tienen 3 Story Points.</td>
-		</tr>
-        <tr>
-			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1">14</td>
-		</tr>
-</tbody>
-</table>
+
+| Sprint #                       | Sprint 1                            |
+|---------------------------------|-------------------------------------|
+| **Sprint Planning Background**  |                                     |
+| **Date**                        | 06/09/2024                         |
+| **Time**                        | 12:00 AM                           |
+| **Location**                    | Discord (Reunión virtual)           |
+| **Prepared By**                 | Jaque Peña, Estefano Oscar          |
+| **Attendees (to planning meeting)** | Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva, Valentino/Jaque Peña, Estefano Oscar  |
+| **Sprint Goal & User Stories**  |                                     |
+| **Sprint 1 Goal**               | Finalizar el informe y el despliegue de nuestro Landing Page desde el repositorio de GitHub. Usaremos Trello para demostrar el cumplimiento, moviendo todas las tareas asignadas a la columna "Terminado". |
+| **Sprint 1 Velocity**           | US43(2points),US44(2points),US45(3points),US46(3points),US47(2points),US48(2points) |
+| **Sum of Story Points**         | 14 |
 
 #### 5.2.1.2 Sprint Backlog 1.
+Para el primer sprint backloge, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
+
+![alt text](assets/images/Trello.png)
+
+| sprint # | Sprint 1 | | | | | | |
+|-|-|-|-|-|-|-|-|
+|User<br>Story| |Work-Item /Task| | | | | |
+|ID|Title|ID|Title|Description|Estimation<br>(Hours)|Assigned<br>To|Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)|
+|US43|Vista General de Beneficios y Funcionalidades|TA001|Implementación de Sección de Beneficios|Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.|½ hora|Arevalo Meza, John Telesforo |Done|
+|US44|Enlaces Directos a Redes Sociales|TA001|Implementación de Enlaces a Redes Sociales|Agregar enlaces visuales y funcionales a las redes sociales en la página principal.|½ hora|Sandoval Paiva, Valentino |Done|
+|US45|Registro Rápido y Simple|TA001|Diseño e Implementación del Registro de Usuario|Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.|½ hora|Jaque Peña, Estefano Oscar |Done|
+|US46|Iniciar Sesión Rápido y Visible|TA001|Implementación de Enlace de Inicio de Sesión|Agregar un enlace visible para iniciar sesión en la esquina superior de la página.|1 hora|Jaque Peña, Estefano Oscar |Done|
+|US47|Resumen de la Empresa, Misión y Visión|TA001|Creación de Sección "Acerca de Nosotros"|Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.|½ hora|Alejo Cardenas, Jose Antonio |Done|
+|US48|Navegación Clara y Directa en la Página|TA001|Diseño del Menú de Navegación|Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.|½ hora|Acuña Tomas, Diego Rolin|Done|
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
