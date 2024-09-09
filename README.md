@@ -42,87 +42,152 @@ Product: ManageWise
 
 ### Tabla de contenidos
 
-1. [**Capítulo I: Introducción**](#capítulo-i-introducción)
-   1. [Startup Profile](#11-startup-profile)
-      1. [Descripción de la Startup](#111-descripción-de-la-startup)
-      2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-   2. [Solution Profile](#12-solution-profile)
-      1. [Antecedentes y problemática](#121-antecedentes-y-problemática)
-      2. [Lean UX Process](#122-lean-ux-process)
-         1. [Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-         2. [Lean UX Assumptions](#1222-lean-ux-assumptions)
-         3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-         4. [Lean UX Canvas](#1224-lean-ux-canvas)
-   3. [Segmentos objetivo](#13-segmentos-objetivo)
-2. [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
-   1. [Competidores](#21-competidores)
-      1. [Análisis competitivo](#211-análisis-competitivo)
-      2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-   2. [Entrevistas](#22-entrevistas)
-      1. [Diseño de entrevistas](#221-diseño-de-entrevistas)
-      2. [Registro de entrevistas](#222-registro-de-entrevistas)
-      3. [Análisis de entrevistas](#223-análisis-de-entrevistas)
-   3. [Needfinding](#23-needfinding)
-      1. [User Personas](#231-user-personas)
-      2. [User Task Matrix](#232-user-task-matrix)
-      3. [User Journey Mapping](#233-user-journey-mapping)
-      4. [Empathy Mapping](#234-empathy-mapping)
-      5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)
-   4. [Ubiquitous Language](#24-ubiquitous-language)
-3. [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification)
-   1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-   2. [User Stories](#32-user-stories)
-   3. [Impact Mapping](#33-impact-mapping)
-   4. [Product Backlog](#34-product-backlog)
-4. [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
-   1. [Style Guidelines](#41-style-guidelines)
-      1. [General Style Guidelines](#411-general-style-guidelines)
-      2. [Web Style Guidelines](#412-web-style-guidelines)
-   2. [Information Architecture](#42-information-architecture)
-      1. [Organization Systems](#421-organization-systems)
-      2. [Labeling Systems](#422-labeling-systems)
-      3. [SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-      4. [Searching Systems](#424-searching-systems)
-      5. [Navigation Systems](#425-navigation-systems)
-   3. [Landing Page UI Design](#43-landing-page-ui-design)
-      1. [Landing Page Wireframe](#431-landing-page-wireframe)
-      2. [Landing Page Mock-up](#432-landing-page-mock-up)
-   4. [Web Applications UX/UI Design](#44-web-applications-uxui-design)
-      1. [Web Applications Wireframes](#441-web-applications-wireframes)
-      2. [Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-      3. [Web Applications Mock-ups](#443-web-applications-mock-ups)
-      4. [Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-   5. [Web Applications Prototyping](#45-web-applications-prototyping)
-   6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-      1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-      2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-      3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-   7. [Software Object-Oriented Design](#47-software-object-oriented-design)
-      1. [Class Diagrams](#471-class-diagrams)
-      2. [Class Dictionary](#472-class-dictionary)
-   8. [Database Design](#48-database-design)
-      1. [Database Diagram](#481-database-diagram)
-5. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation--deployment)
-   1. [Software Configuration Management](#51-software-configuration-management)
-      1. [Software Development Environment Configuration](#511-software-development-environment-configuration)
-      2. [Source Code Management](#512-source-code-management)
-      3. [Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-      4. [Software Deployment Configuration](#514-software-deployment-configuration)
-   2. [Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-      1. [Sprint 1](#521-sprint-1)
-         1. [Sprint Planning 1](#5211-sprint-planning-1)
-         2. [Sprint Backlog 1](#5212-sprint-backlog-1)
-         3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-         4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-         5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-         6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-         7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-         8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-   3. [Validation Interviews](#53-validation-interviews)
-      1. [Diseño de Entrevistas](#531-diseño-de-entrevistas)
-      2. [Registro de Entrevistas](#532-registro-de-entrevistas)
-      3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-   4. [Video About-the-Product](#54-video-about-the-product)
+- [Horizon](#horizon)
+- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
+  - [Ingenieria de Software](#ingenieria-de-software)
+  - [5to ciclo](#5to-ciclo)
+  - [Desarrollo de Aplicaciones Open Source](#desarrollo-de-aplicaciones-open-source)
+    - [**Sección:** WS53](#sección-ws53)
+    - [**Profesor:** Juan Antonio Flores Moroco](#profesor-juan-antonio-flores-moroco)
+    - [Informe de Trabajo Final](#informe-de-trabajo-final)
+    - ["Horizon"](#horizon-1)
+    - ["ManageWise"](#managewise)
+    - [**Integrantes:**](#integrantes)
+    - [Agosto, 2024](#agosto-2024)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Contenido](#contenido)
+    - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Student Outcome](#student-outcome)
+  - [Capítulo I: Introducción](#capítulo-i-introducción)
+    - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+          - [What?](#what)
+          - [When?](#when)
+          - [Where?](#where)
+          - [Who?](#who)
+          - [Why?](#why)
+          - [Who?](#who-1)
+          - [How much?](#how-much)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+  - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+    - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+    - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [Segmento: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+    - [Segmento: Equipo de Desarrollo de Software](#segmento-equipo-de-desarrollo-de-software)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+      - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+      - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+      - [Análisis Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#análisis-segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+      - [Análisis Segmento 2: Equipo de Desarrollo de Software](#análisis-segmento-2-equipo-de-desarrollo-de-software)
+    - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+      - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento-1)
+      - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software-1)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+- [Comparación de Tareas: Fabricio vs. María](#comparación-de-tareas-fabricio-vs-maría)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+      - [User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software](#user-journey-mapping---líder-o-gerente-de-empresa-de-desarrollo-de-software)
+      - [User Journey Mapping - Equipo de Desarrollo de Software](#user-journey-mapping---equipo-de-desarrollo-de-software)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+- [Segmento 1: María (Líder/Gerente de Proyecto)](#segmento-1-maría-lídergerente-de-proyecto)
+- [Segmento 2: Fabricio (Equipo de Desarrollo de Software)](#segmento-2-fabricio-equipo-de-desarrollo-de-software)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+      - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+      - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
+    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+    - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [**Segmento 1:** Lider o gerente de proyectos de software](#segmento-1-lider-o-gerente-de-proyectos-de-software)
+    - [**Segmento 2:** Miembro de un equipo de desarrollo de software](#segmento-2-miembro-de-un-equipo-de-desarrollo-de-software)
+    - [3.2. User Stories](#32-user-stories)
+    - [3.3. Impact Mapping](#33-impact-mapping)
+    - [3.4. Product Backlog](#34-product-backlog)
+  - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+    - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+    - [4.2. Information Architecture](#42-information-architecture)
+      - [4.2.1. Organization Systems](#421-organization-systems)
+      - [4.2.2. Labeling Systems](#422-labeling-systems)
+      - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [4.2.4. Searching Systems](#424-searching-systems)
+      - [4.2.5. Navigation Systems](#425-navigation-systems)
+    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+      - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+        - [Desktop Web Browser:](#desktop-web-browser)
+        - [Mobile Web Browser:](#mobile-web-browser)
+      - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+        - [Desktop Web Browser:](#desktop-web-browser-1)
+        - [Mobile Web Browser:](#mobile-web-browser-1)
+    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+      - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+      - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+        - [User goal: Registrar un nuevo usuario](#user-goal-registrar-un-nuevo-usuario)
+        - [User goal: Iniciar sesión](#user-goal-iniciar-sesión)
+        - [User goal: Visualizar el calendario con las actividades](#user-goal-visualizar-el-calendario-con-las-actividades)
+        - [User goal: Cambiar de usuario o cerrar sesión](#user-goal-cambiar-de-usuario-o-cerrar-sesión)
+        - [User goal: Agregar nuevo miembro por invitación mediante link o correo](#user-goal-agregar-nuevo-miembro-por-invitación-mediante-link-o-correo)
+        - [User goal: Colapsar y expandir panel lateral](#user-goal-colapsar-y-expandir-panel-lateral)
+        - [User goal: Visualizar todas las notificaciones](#user-goal-visualizar-todas-las-notificaciones)
+        - [User goal: Visualizar todas las opciones posibles](#user-goal-visualizar-todas-las-opciones-posibles)
+        - [User goal: Acceder o crear otro proyecto](#user-goal-acceder-o-crear-otro-proyecto)
+        - [User goal: Visualizar el progreso del equipo y de cada miembro sobre el proyecto](#user-goal-visualizar-el-progreso-del-equipo-y-de-cada-miembro-sobre-el-proyecto)
+        - [User goal: Crear una nueva actividad y modificar el estado de la misma](#user-goal-crear-una-nueva-actividad-y-modificar-el-estado-de-la-misma)
+      - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+      - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+        - [User goal: Como usuario quiero poder iniciar sesión en ManageWise](#user-goal-como-usuario-quiero-poder-iniciar-sesión-en-managewise)
+        - [User goal: Como usuario quiero poder registrarme en ManageWise](#user-goal-como-usuario-quiero-poder-registrarme-en-managewise)
+        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder crear nuevas actividades para los miembros de este](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-crear-nuevas-actividades-para-los-miembros-de-este)
+        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder visualizar el progreso en conjunto e individual de los miembros de este](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-visualizar-el-progreso-en-conjunto-e-individual-de-los-miembros-de-este)
+        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder ver a los miembros actuales e invitar a nuevos, tanto por correo como por un link](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-ver-a-los-miembros-actuales-e-invitar-a-nuevos-tanto-por-correo-como-por-un-link)
+        - [User goal: Como miembro de un equipo de desarrollo de software, quiero poder visualizar un calendario con las diferentes actividades programadas](#user-goal-como-miembro-de-un-equipo-de-desarrollo-de-software-quiero-poder-visualizar-un-calendario-con-las-diferentes-actividades-programadas)
+        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder cambiar el estado de una actividad](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-cambiar-el-estado-de-una-actividad)
+    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+      - [**Component: Desarrollo**](#component-desarrollo)
+      - [**Component: Equipos**](#component-equipos)
+      - [**Component: Opiniones**](#component-opiniones)
+    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+      - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.8. Database Design](#48-database-design)
+      - [4.7.2. Database Dictionary](#472-database-dictionary)
+      - [4.8.1. Database Diagram](#481-database-diagram)
+  - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+    - [5.1. Software Configuration Management.](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+  - [Diseño y Desarrollo](#diseño-y-desarrollo)
+    - [5.1.2. Source Code Management.](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+    - [5.2 Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
+    - [5.2.1 . Sprint 1](#521--sprint-1)
+      - [5.2.1.1 Sprint Planning 1.](#5211-sprint-planning-1)
+      - [5.2.1.2 Sprint Backlog 1.](#5212-sprint-backlog-1)
+      - [5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4 Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.1.5 Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6 Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7 Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8 Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+    - [Conclusiones](#conclusiones)
+    - [Bibliografia](#bibliografia)
+    - [Anexos](#anexos)
 
 ## Student Outcome
 
@@ -631,19 +696,11 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 #### User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software
 
-| XXX               | Visualizacion                                                                               | Obtencion                                                                           | Funcionalidad                                                              | Uso                                                                      |
-| ----------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| User actions      | Identifica problemas en la gestión de proyectos, como la falta de eficiencia o sobrecostos. | Revisa varias opciones y solicita demostraciones.                                   | Coordina la implementación del servicio, asigna roles y responsabilidades. | Monitorea los resultados a través de paneles de control.                 |
-| Experience        | Preocupación por el rendimiento de los proyectos y la necesidad de mejorar la rentabilidad. | Toma decisiones basadas en la funcionalidad y costos.                               | Preocupación por el cambio en la cultura                                   | Satisfacción al ver mejoras en la eficiencia y calidad de los proyectos. |
-| User expectations | Un servicio que aborde sus problemas específicos de manera eficaz.                          | Una herramienta intuitiva que pueda integrarse fácilmente con los sistemas actuales | Una transición sin problemas, con un soporte técnico eficiente             | Mejoras continuas en la productividad y rentabilidad.                    |
+![](/assets/images/User%20Journey%20Mapping%20Lider.png)
 
 #### User Journey Mapping - Equipo de Desarrollo de Software
 
-| XXX               | Visualizacion                                                      | Obtencion                                                   | Funcionalidad                                                                      | Uso                                                                                                                          |
-| ----------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| User actions      | Se da cuenta de que los procesos actuales son ineficientes.        | Participa en las demostraciones o pruebas de la herramienta | Completa la capacitación requerida, configura la herramienta según sus necesidades | Utiliza la herramienta diariamente para gestionar tareas, colaborar con el equipo y cumplir con los plazos de los proyectos. |
-| Experience        | Interés en cómo una nueva herramienta podría facilitar su trabajo. | Crítica de la herramienta basada en su experiencia          | Curiosidad sobre cómo la nueva herramienta afectará su productividad               | Aprecio por las mejoras en la gestión de proyectos.                                                                          |
-| User expectations | Espera una nueva herramienta que simplifique su carga de trabajo . | Nueva herramienta sea fácil de aprender                     | Espera que la curva de aprendizaje sea corta                                       | Espera que el servicio mejore la colaboracion.                                                                               |
+![](/assets/images/User%20Journey%20Mapping%20Integrante%20Equipo.png)
 
 ### 2.3.4. Empathy Mapping
 
@@ -689,19 +746,11 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 #### **Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento
 
-| Fases    | Recibir un proyecto                                                                                                                                | Asignar tareas dentro del equipo                                                                                              | Realizar el seguimiento de los miembros                                                                                     | Evaluar el trabajo de los miembros tras culminado el proyecto                                                                              |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Doing    | - Recibimos un proyecto por parte del área encargada <br> - Realizo una reunión con el equipo para evaluar el proyecto                             | - Asigno tareas especificas a diferentes miembros <br> - Ponemos plazos a los entregables                                     | - Ingreso al repositorio o pregunto a los miembros como van <br> - Anoto los percances y errores que tiene cada miembro     | - Una vez culminado el trabajo, reviso mis apuntes y veo que tal se desenvolvió cada miembro del equipo                                    |
-| Thinking | - ¿Será que tenemos las habilidades necesarias para afrontar el proyecto? <br> - ¿Cómo puedo comunicar los objetivos de manera clara?              | - Me toca confiar en las habilidades que algunos miembros dicen tener <br> - Espero que los plazos asignados sean realistas   | - Ojalá estar hacendo un seguimiento eficiente <br> - Espero que los miembros no mientan sobre sus avances                  | - Quiero dar una retroalimentación constructiva basada en hechos reales                                                                    |
-| Feeling  | - Presión por dar a entender de manera clara los objetivos y proyecto en general <br> - Confianza en el equipo, pero preocupación por los desafios | - Responsabilidad por asignar las tareas a los miembros correctos <br> - Presión por dejar en claro las tareas a cada miembro | - Frustración cuando los miembros no siguen el ritmo de trabajo <br> - Dudas de si algun miembro mintió acerca de su avance | - Comprometido con el crecimiento del equipo y su mejora continua <br> - Dudas sobre si un miembro comete habitualmente los mismos errores |
+![](/assets/images/As%20-Is%20Lider.jpg)
 
 #### **Segmento 2:** Miembros de un equipo de Desarrollo de Software
 
-| Fases        | Recibir un proyecto                                                                                                                                | Asignar tareas dentro del equipo                                                                                              | Realizar el seguimiento de los miembros                                                                                     | Evaluar el trabajo de los miembros tras culminado el proyecto                                                                              |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Doing**    | - Recibimos un proyecto por parte del área encargada <br> - Realizo una reunión con el equipo para evaluar el proyecto                             | - Asigno tareas especificas a diferentes miembros <br> - Ponemos plazos a los entregables                                     | - Ingreso al repositorio o pregunto a los miembros como van <br> - Anoto los percances y errores que tiene cada miembro     | - Una vez culminado el trabajo, reviso mis apuntes y veo que tal se desenvolvió cada miembro del equipo                                    |
-| **Thinking** | - ¿Será que tenemos las habilidades necesarias para afrontar el proyecto? <br> - ¿Cómo puedo comunicar los objetivos de manera clara?              | - Me toca confiar en las habilidades que algunos miembros dicen tener <br> - Espero que los plazos asignados sean realistas   | - Ojalá estar hacendo un seguimiento eficiente <br> - Espero que los miembros no mientan sobre sus avances                  | - Quiero dar una retroalimentación constructiva basada en hechos reales                                                                    |
-| **Feeling**  | - Presión por dar a entender de manera clara los objetivos y proyecto en general <br> - Confianza en el equipo, pero preocupación por los desafios | - Responsabilidad por asignar las tareas a los miembros correctos <br> - Presión por dejar en claro las tareas a cada miembro | - Frustración cuando los miembros no siguen el ritmo de trabajo <br> - Dudas de si algun miembro mintió acerca de su avance | - Comprometido con el crecimiento del equipo y su mejora continua <br> - Dudas sobre si un miembro comete habitualmente los mismos errores |
+![](/assets/images/As%20-Is%20integrante%20Equipo.jpg)
 
 ### 2.4. Ubiquitous Language
 
@@ -724,19 +773,11 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 ### **Segmento 1:** Lider o gerente de proyectos de software
 
-| Fases        | Recibir un proyecto                                                                                                                                                                                                        | Asignar tareas dentro del equipo                                                                                                                                                                               | Realizar el seguimiento de los miembros                                                                                                         | Evaluar el trabajo de los miembros tras culminado el proyecto                                                                                                                                         |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Doing**    | - Recibo el proyecto a través de ManageWise con todos los detalles y documentación accesibles <br> - Realizo una reunión virtual en donde se establecen claramente los obetivos y herramientas ofrecidas por la plataforma | - Utilizo ManageWise y esta me sugiere automáticamente la mejor distribución de tareas basada en habilidades y disponibilidad de los miembros <br> - Establezco plazos realistas con la ayuda de la plataforma | - Monitorizo el progreso del equipo a través de dashboards personalizados <br> - Las alertas automáticas me notifican sobre bloqueos y retrasos | - Utilizo la plataforma para analizar el rendimiento de los miembros basado en datos cuantitativos <br> - Ofrezco retroalimentación constructiva con ayuda de los datos proporcionados por ManageWise |
-| **Thinking** | - Tengo la seguridad de que el equipo cuenta con todas las herramientas y recursos necesarios                                                                                                                              | - Estoy seguro de que las tareas se han asignado de la mejor manera posible                                                                                                                                    | - Confío en los datos y análisis de la plataforma para realizar un seguimiento efectivo                                                         | - Tengo la confianza de que la evaluación a los miembros es justa                                                                                                                                     |
-| **Feeling**  | - Me siento confiado sobre la claridad de los objetivos comunicados y la capacidad del equipo <br> - Motivado porque las herramientas simplifican la planificación                                                         | - Tranquilidad al saber que las tareas están bien distribuidas y los plazos son realistas                                                                                                                      | - Menor estrés gracias a la visibilidad constante del progreso <br> - Seguridad en la gestión efectiva del proyecto                             | Satisfacción al ver mejoras continuas basadas en retroalimentación                                                                                                                                    |
+![](/assets/images/To%20-Be%20Lider.jpg)
 
 ### **Segmento 2:** Miembro de un equipo de desarrollo de software
 
-| Fases        | Recibir las tareas del proyecto                                                                                                        | Colaborar con el equipo                                                                                                                                                            | Desarrollar y probar el código                                                                                                                                  | Entregar el código final y participar en la retrospectiva                                                                                                                                                         |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Doing**    | - Recibo las tareas asignadas directamente en ManageWise, la cual incluye la documentación y requisitos                                | - Me coordino con otros miembros del equipo a través de mensajes desde la plataforma <br> - Accedo a un tablero que muestra el estado del trabajo de todos los miembros del equipo | - Desarrollo y el código y subo una versión preeliminar para ser analizada por el equipo <br> - Accedo a recomendaciones basadas en IA para optimizar el código | - Entrego el código final a través de la plataforma, que también automatiza las revisiones y pruebas finales <br> - Participo en una retroalimentación del equipo basada en datos recopilados durante el proyecto |
-| **Thinking** | - Me queda claro lo que se espera de mi y mis tareas                                                                                   | - Estoy bien alineado con el resto del equipo <br> - ¿Hay alguna área donde puedo colaborar más eficientemente?                                                                    | - Aprovecho al máximo las herramientas para mejorar la calidad del código                                                                                       | - Estoy listo para recibir una retroalimentación valiosa <br> - ¿Qué aprendizajes puedo aplicar al próximo proyecto?                                                                                              |
-| **Feeling**  | - Confianza en mi comprensión del proyecto y las tareas asignadas <br> - Seguridad en mi capacidad para entregar resultados de calidad | - Motivado por la colaboración fluida                                                                                                                                              | - Satisfacción por el uso de herramientas que mejoran la calidad del trabajo <br> - Tranquilidad al saber que los posibles errores se detectan tempranamente    | - Orgullo del trabajo presentado y entusiasmado por las oportunidades de mejora                                                                                                                                   |
+![](/assets/images/To%20-Be%20Integrante%20Equipo.jpg)
 
 ### 3.2. User Stories
 
@@ -796,13 +837,7 @@ EPICS:
 
 ### 3.3. Impact Mapping
 
-| Metas                                                                                                                                                                  | Actores                          | Impacto                                           | Entregables                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------- | --------------------------------------------------------- |
-| x                                                                                                                                                                      | Líder o Gerente de Empresa       | Mejora en la productividad                        | Implementacion de notificaciones y alertas personalizadas |
-| x                                                                                                                                                                      |                                  | Aumento en la rentabilidad de la empresa          | Implementacion de automatización de Procesos              |
-| Elevar la eficiencia, calidad y rentabilidad de los proyectos en startups de desarrollo de software mediante la optimización de sus procesos de gestión de iniciativas | Equipo de Desarrollo de Software | Mejora de la colaboracion en grupos de trabajo    | Creacion de Tareas transparentes                          |
-| x                                                                                                                                                                      |                                  | Reduccion del tiempo de organizacion en proyectos | Implementacion de cronogramas y calendarios integrados    |
-| x                                                                                                                                                                      |                                  | Optimizacion del tiempo en tareas diarias         | Integración de documentos de trabajo en tiempo real       |
+![](/assets/images/Impact%20Mapping%20Lider%20Integrante.jpg)
 
 ### 3.4. Product Backlog
 
