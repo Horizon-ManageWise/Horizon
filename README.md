@@ -1496,11 +1496,52 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 
 ### 4.6. Domain-Driven Software Architecture
 
-#### 4.6.1. Software Architecture Context Diagram
+### 4.6.1. Software Architecture Context Diagram
 
-#### 4.6.2. Software Architecture Container Diagrams
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839713729183817/structurizr-94755-SystemContext-001.png?ex=66d5e71e&is=66d4959e&hm=e54558f4ec2d78e2edeff485a2cd468e86db8eddc1632a7e0083d0051b6cc25d&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839714031042641/structurizr-94755-SystemContext-001-key.png?ex=66d5e71e&is=66d4959e&hm=61f5c1631f96f6e2205a097f5c8f5a8659557c0788806d44a69ae8f6151bc612&">
+</p>
 
-#### 4.6.3. Software Architecture Components Diagrams
+### 4.6.2. Software Architecture Container Diagrams
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840140256088167/structurizr-94755-Container-001.png?ex=66d5e783&is=66d49603&hm=eca6e1eb2dd1f793aef71cf888a1bb6e9984ad8a82d9c3cb1ad8087bbe615f41&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840139018768436/structurizr-94755-Container-001-key.png?ex=66d5e783&is=66d49603&hm=7cccd5d4e5a57f83179c889ecd986256c3a2b71430ee0a387147a2bef29c1296&">
+</p>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+#### **Component: Desarrollo**
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293622706317/structurizr-94755-Component-001.png?ex=66d5e896&is=66d49716&hm=67e904d6463271d1321cc72afefaca3b4e8a7fb443257bb90a29747fbd667e2e&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293182439434/structurizr-94755-Component-001-key.png?ex=66d5e896&is=66d49716&hm=f1a27535959e6b92d4c35b6b53a0e2fcf01bea0c0f2b8e43272309ee44649b68&">
+</p>
+
+#### **Component: Equipos**
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890868994119/structurizr-94755-Component-002.png?ex=66d5e836&is=66d496b6&hm=a679446cc79e0d497298574b40a8858be68f316a8a8c3e9b0484cd9c49dd0c9c&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890172473404/structurizr-94755-Component-002-key.png?ex=66d5e836&is=66d496b6&hm=4df0bc06d24a3b8ddae3f6fa654a0b532c4c37e0017721eae98eb6be5d65fcf9&">
+</p>
+
+#### **Component: Opiniones**
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326187286678/structurizr-94755-Component-003.png?ex=66d5e89e&is=66d4971e&hm=a0288512c65ad1a22ca380f7a3272bd732b9b9fa84699160122d7a4a6b814dd6&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326661369948/structurizr-94755-Component-003-key.png?ex=66d5e89e&is=66d4971e&hm=52011543448b0f111b601a96c0ebff1201049af4f100786727dc7db68f5b976b&">
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
@@ -1766,7 +1807,6 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
   - **Propósito:** Gestión de versiones y colaboración en el código.
   - **Ruta de descarga:** [Git](https://git-scm.com/)
   - **Repositorio:** [GitHub - Horizon](https://github.com/Firtness/Horizon.git)
-
 
 ## Diseño y Desarrollo
 
