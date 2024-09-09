@@ -48,15 +48,11 @@ Product: ManageWise
 | TB1     | 08/09/2024 | Diego Alonso Rosado Iporre   | Desarrollé la documentacion de la evidencia de los commits realizados: Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Avance de Conclusiones y Bibliografía. |
 | TB1     | 18/08/2024 | Sebastián Omar Real Calderón | Desarrollé el Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping.                                                                                                                                                                                                                                                         |
 | TB1     | 3/09/2024  | Sebastián Omar Real Calderón | Realicé los General y Web Style Guidelines. Realicé la documentación de los entornos de trabajo.                                                                                                                                                                                                                                                                                    |
-<<<<<<< HEAD
-
-=======
 | TB1     | 25/09/2024 | Diego Rolin Acuña Tomas      | Realice el Startup Profile. Completando los antecedentes y problematica                                                                                                                                                                                                                                                                                                             |
 | TB1     | 27/09/2024 | Diego Rolin Acuña Tomas      | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.                                                                                                                                                                                                                                                                                                     |
 | TB1     | 1/09/2024  | Diego Rolin Acuña Tomas      | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.                                                                                                                                                        |
 | TB1     | 6/09/2024  | Diego Rolin Acuña Tomas      | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint.                                                                                         |
 | TB1     | 8/09/2024  | Diego Rolin Acuña Tomas      | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                                                                                                           |
->>>>>>> 1e62fab8694aa2cd0c44d239e5251851b4b2d544
 ## Project Report Collaboration Insights
 
 TB1:<br>
@@ -214,6 +210,7 @@ TB1:<br>
       - [5.2.1.7 Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8 Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
     - [Conclusiones](#conclusiones)
+- [\<\<\<\<\<\<\< HEAD](#-head)
     - [Bibliografia](#bibliografia)
     - [Anexos](#anexos)
 
