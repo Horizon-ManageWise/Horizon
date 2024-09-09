@@ -65,12 +65,12 @@ Product: ManageWise
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-          - [What?](#what)
-          - [When?](#when)
-          - [Where?](#where)
-          - [Who?](#who)
-          - [Why?](#why)
-          - [Who?](#who-1)
+      - [What?](#what)
+      - [When?](#when)
+      - [Where?](#where)
+      - [Who?](#who)
+      - [Why?](#why)
+      - [How?](#how)
           - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
@@ -97,7 +97,6 @@ Product: ManageWise
       - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento-1)
       - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software-1)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
-- [Comparación de Tareas: Fabricio vs. María](#comparación-de-tareas-fabricio-vs-maría)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
       - [User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software](#user-journey-mapping---líder-o-gerente-de-empresa-de-desarrollo-de-software)
       - [User Journey Mapping - Equipo de Desarrollo de Software](#user-journey-mapping---equipo-de-desarrollo-de-software)
@@ -175,6 +174,7 @@ Product: ManageWise
     - [5.1.2. Source Code Management.](#512-source-code-management)
     - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+- [\<\<\<\<\<\<\< HEAD](#-head)
     - [5.2 Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
     - [5.2.1 . Sprint 1](#521--sprint-1)
       - [5.2.1.1 Sprint Planning 1.](#5211-sprint-planning-1)
@@ -1492,33 +1492,19 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 ### 4.6.1. Software Architecture Context Diagram
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="/assets/images/Software Architecture Context Diagram 1.png">
-</p>
-<p align="center">
-  <img src="/assets/images/Software Architecture Context Diagram 2.png">
-=======
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839713729183817/structurizr-94755-SystemContext-001.png?ex=66d5e71e&is=66d4959e&hm=e54558f4ec2d78e2edeff485a2cd468e86db8eddc1632a7e0083d0051b6cc25d&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839714031042641/structurizr-94755-SystemContext-001-key.png?ex=66d5e71e&is=66d4959e&hm=61f5c1631f96f6e2205a097f5c8f5a8659557c0788806d44a69ae8f6151bc612&">
->>>>>>> docs/cap2
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="/assets/images/Container Diagrams 1.png">
-</p>
-<p align="center">
-  <img src="/assets/images/Container Diagrams 2.png">
-=======
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840140256088167/structurizr-94755-Container-001.png?ex=66d5e783&is=66d49603&hm=eca6e1eb2dd1f793aef71cf888a1bb6e9984ad8a82d9c3cb1ad8087bbe615f41&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840139018768436/structurizr-94755-Container-001-key.png?ex=66d5e783&is=66d49603&hm=7cccd5d4e5a57f83179c889ecd986256c3a2b71430ee0a387147a2bef29c1296&">
->>>>>>> docs/cap2
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1526,49 +1512,28 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 #### **Component: Desarrollo**
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="/assets/images/Components Diagrams 1.png">
-</p>
-<p align="center">
-  <img src="/assets/images/Components Diagrams 2.png">
-=======
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293622706317/structurizr-94755-Component-001.png?ex=66d5e896&is=66d49716&hm=67e904d6463271d1321cc72afefaca3b4e8a7fb443257bb90a29747fbd667e2e&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293182439434/structurizr-94755-Component-001-key.png?ex=66d5e896&is=66d49716&hm=f1a27535959e6b92d4c35b6b53a0e2fcf01bea0c0f2b8e43272309ee44649b68&">
->>>>>>> docs/cap2
 </p>
 
 #### **Component: Equipos**
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="/assets/images/Components Diagrams 3.png">
-</p>
-<p align="center">
-  <img src="/assets/images/Components Diagrams 4.png">
-=======
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890868994119/structurizr-94755-Component-002.png?ex=66d5e836&is=66d496b6&hm=a679446cc79e0d497298574b40a8858be68f316a8a8c3e9b0484cd9c49dd0c9c&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890172473404/structurizr-94755-Component-002-key.png?ex=66d5e836&is=66d496b6&hm=4df0bc06d24a3b8ddae3f6fa654a0b532c4c37e0017721eae98eb6be5d65fcf9&">
->>>>>>> docs/cap2
 </p>
 
 #### **Component: Opiniones**
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="/assets/images/Components Diagrams 5.png">
-</p>
-<p align="center">
-  <img src="/assets/images/Components Diagrams 6.png">
-=======
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326187286678/structurizr-94755-Component-003.png?ex=66d5e89e&is=66d4971e&hm=a0288512c65ad1a22ca380f7a3272bd732b9b9fa84699160122d7a4a6b814dd6&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326661369948/structurizr-94755-Component-003-key.png?ex=66d5e89e&is=66d4971e&hm=52011543448b0f111b601a96c0ebff1201049af4f100786727dc7db68f5b976b&">
->>>>>>> docs/cap2
 </p>
 
 ### 4.7. Software Object-Oriented Design
@@ -1933,14 +1898,8 @@ En primer lugar, accedemos al repositorio de GitHub donde se encuentra nuestro p
 Dentro del menú de ajustes, elegimos la opción "Pages".
 ![Settings](https://media.discordapp.net/attachments/1246609784501833810/1279964791942938748/image.png?ex=66df961a&is=66de449a&hm=ee9fb4a1237e863e59e2d60a34cd17b56cae39a7fd76246a93c8f8ce7643bc4d&=&format=webp&quality=lossless&width=1007&height=662)
 
-<<<<<<< HEAD
-**Control de Versiones**
-
-- **Uso de Git:** Mantén un historial completo de cambios y facilita el manejo de diferentes versiones del código.
-=======
  En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". 
 Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
->>>>>>> docs/cap2
 
 
 ### 5.2 Landing Page, Services & Applications Implementation.
@@ -2024,92 +1983,6 @@ En este Sprint, los miembros del equipo de desarrollo de software de Horizon han
 
 <p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
 
-<<<<<<< HEAD
-- **Documentación del Proceso:** Documenta el proceso de despliegue y mantenimiento para facilitar la gestión y comprensión del equipo.
-
-### 5.2 Landing Page, Services & Applications Implementation.
-
-El desarrollo, testeo y despliegue de nuestra landing page es importante para que nuestros clientes puedan acceder a la información sobre nuestra empresa y producto a través de una interfaz con diseño responsivo, navegación intuitiva y solo con información relevante. Esta primera etapa nos permite crear un diseño conceptual sobre la estética que nuestra aplicación completa y lista para su uso. Estas etapas nos ayudaran a dar una primera impresión a los clientes para validar ideas e identificar problemas que se deben solucionar.
-
-### 5.2.1 . Sprint 1
-
-El primer sprint es una etapa importante en nuestro marco de gestión de proyectos de metodología ágil Scrum. En este periodo, agendamos reuniones con el objetivo de conocer mejor las características de cada integrante, y delegamos tareas para materializar el diseño y funcionalidades ya establecidas, para transformarlos en un landing page funcional y que cumple las heurísticas.
-
-#### 5.2.1.1 Sprint Planning 1.
-
-El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
-
-<table  style="text-align: center;">
-    <tbody>
-        <tr>
-			<td colspan="1">Sprint #</td>
-            <td colspan="1"> Sprint 1  </td>
-		</tr>
-        <tr>
-			<td colspan="2">Sprint Planning Background </td>
-		</tr>
-        <tr>
-			<td colspan="1">Date</td>
-            <td colspan="1"> 06/09/2024 </td>
-		</tr>
-        <tr>
-			<td colspan="1">Time</td>
-            <td colspan="1"> 12:00 AM </td>
-		</tr>
-        <tr>
-			<td colspan="1">Location</td>
-            <td colspan="1">Discord (Reunion virtual)</td>
-		</tr>
-        <tr>
-			<td colspan="1">Prepared By</td>
-            <td colspan="1">Jaque Peña, Estefano Oscar</td>
-		</tr>
-        <tr>
-			<td colspan="1"> Attendees (to planning meeting)</td>
-            <td colspan="1">Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva,Valentino </td>
-		</tr>
-         <tr>
-			<td colspan="1">Sprint 1 – 1 Review Summary </td>
-            <td colspan="1">Se logro implementar todos los User Stories elegidos para la creación del Landing Page, y se hizo su despliegue completo. También completamos el informe siguiendo las reglas dadas en el Aula Virtual.</td>
-		</tr>
-         <tr>
-			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
-            <td colspan="1">En el Sprint 1, el equipo de desarrollo subestimo el tiempo de entrega, aunque hubo buena organización y responsabilidad para las reuniones para separar responsabilidades y responder dudas, algunas tareas del informe se entregaron fuera de tiempo acordado. Lo que nos dio poco tiempo para mejorar lo implementado en el Landing Page. El Team Leader menciono unos puntos de mejorar para los próximos Sprint, siendo estos: "Si necesitan ayuda sean abiertos no juzgaremos, planificaremos reuniones diarias para motivar y monitorear cada avance del trabajo para evitar retrasos".</td>
-		</tr>
-         <tr>
-			<td colspan="2">Sprint Goal & User Stories </td>
-		</tr>
-         <tr>
-			<td colspan="1">Sprint 1 Goal</td>
-            <td colspan="1">Para el correcto cumplimiento de este Sprint requerimos completar los siguientes objetivos: Finalizar el informe y el despliegue de nuestro Landing Page desde nuestro repositorio de GitHub. Nuestra herramienta para demostrar el cumplimiento es nuestro tablero en Trello, pues a lo largo del desarrollo de nuestro Landing Page ubicamos todas nuestras tareas asignadas en la columna "Terminado".</td>
-		</tr>
-        <tr>
-			<td colspan="1">Sprint 1 Velocity </td>
-            <td colspan="1">Para este sprint se han elegido 6 User Stories. 4 User Stories tienen 2 Story Points y 2 User Stories tienen 3 Story Points.</td>
-		</tr>
-        <tr>
-			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1">14</td>
-		</tr>
-</tbody>
-</table>
-
-#### 5.2.1.2 Sprint Backlog 1.
-
-#### 5.2.1.3 Development Evidence for Sprint Review
-
-#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
-
-Debido a que en este sprint se desarrolló únicamente el Landing Page se omitirá esta sección. En próximas etapas del proyecto se ofrecerá información sobre esta sección.
-
-#### 5.2.1.5 Execution Evidence for Sprint Review.
-
-En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado el Landing Page. Mostraremos imágenes para observar que nuestra página muestra limpia e intuitivamente información sobre nuestro producto y nuestra empresa.
-
-<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
-
-=======
->>>>>>> docs/cap2
 <p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
 
 <p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-3.png"></p>
@@ -2133,11 +2006,8 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282418510726828176/image.png?ex=66df48cf&is=66ddf74f&hm=38e125dae2120e39a7ead0a30c979bbd8320b50bb889fc2119a90ca8b4cca5f2&"></p>
 
 ### Conclusiones
-<<<<<<< HEAD
-=======
 - Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
 
->>>>>>> docs/cap2
 
 ### Bibliografia
 
