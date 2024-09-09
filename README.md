@@ -170,7 +170,7 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 - Valentino Sandoval Paiva - U20211A962
 
-| <p align="center"><img width="300" height="150" src="assets/images/WASAAAA.jpg"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| <p align="center"><img width="300" height="150" src="assets/images/WASAAAA.jpg"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera.. |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - José Antonio Alejo Cárdenas - U202122484
