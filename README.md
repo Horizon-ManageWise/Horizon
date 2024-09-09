@@ -489,6 +489,7 @@ Para poder tener un análisis completo sobre nuestro modelo de negocio además d
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Para enfrentarse a la competencia, nuestra estrategia se centrará en maximizar la ventaja competitiva mediante la oferta de una interfaz intuitiva que optimice la colaboración en tiempo real, dirigida a startups tecnológicas. Aprovecharemos tácticas de marketing digital segmentadas, destacando nuestras pruebas gratuitas y asociaciones estratégicas con comunidades tecnológicas clave. Para competir con empresas como Wrike y ClickUp, que ofrecen herramientas robustas y personalizables, nos enfocaremos en nuestra simplicidad y eficiencia, adaptando nuestros precios de manera flexible para atraer a equipos en crecimiento. Además, desarrollaremos integraciones con plataformas populares como Slack y Google Workspace, y mantendremos una mejora continua en la automatización de tareas y funcionalidades innovadoras para diferenciar nuestra propuesta.
 ### 2.2. Entrevistas
 
 En esta sección del informe se realizará el diseño, registro y análisis de las entrevistas de nuestros segmentos objetivos
