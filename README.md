@@ -174,7 +174,6 @@ Product: ManageWise
     - [5.1.2. Source Code Management.](#512-source-code-management)
     - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-- [\<\<\<\<\<\<\< HEAD](#-head)
     - [5.2 Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
     - [5.2.1 . Sprint 1](#521--sprint-1)
       - [5.2.1.1 Sprint Planning 1.](#5211-sprint-planning-1)
@@ -235,20 +234,8 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 
 - Valentino Sandoval Paiva - U20211A962
-<<<<<<< HEAD
   | <p align="center"><img width="3000" height="300" src="assets/images/WASAAAA.jpg"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
   | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-- Estefano Oscar Jaque Peña - U202225466
-
-| ![alt text](assets/images/Estefano_profile.jpg) | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
-| ----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-=======
-
-| ![alt text](assets/images/WASAAAA.jpg) | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
->>>>>>> 220af0c790407f2253fce16d4db8a97ef4ca643f
 
 - José Antonio Alejo Cárdenas - U202122484
 
@@ -1523,45 +1510,19 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 ### 4.6.1. Software Architecture Context Diagram
 
 <p align="center">
-<<<<<<< HEAD
-=======
-
   <img src="/assets/images/Software Architecture Context Diagram 1.png">
 </p>
 <p align="center">
   <img src="/assets/images/Software Architecture Context Diagram 2.png">
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839713729183817/structurizr-94755-SystemContext-001.png?ex=66d5e71e&is=66d4959e&hm=e54558f4ec2d78e2edeff485a2cd468e86db8eddc1632a7e0083d0051b6cc25d&">
-</p>
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839714031042641/structurizr-94755-SystemContext-001-key.png?ex=66d5e71e&is=66d4959e&hm=61f5c1631f96f6e2205a097f5c8f5a8659557c0788806d44a69ae8f6151bc612&">
-<<<<<<< HEAD
-=======
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-<<<<<<< HEAD
-=======
-
   <img src="/assets/images/Container Diagrams 1.png">
 </p>
 <p align="center">
   <img src="/assets/images/Container Diagrams 2.png">
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840140256088167/structurizr-94755-Container-001.png?ex=66d5e783&is=66d49603&hm=eca6e1eb2dd1f793aef71cf888a1bb6e9984ad8a82d9c3cb1ad8087bbe615f41&">
-</p>
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840139018768436/structurizr-94755-Container-001-key.png?ex=66d5e783&is=66d49603&hm=7cccd5d4e5a57f83179c889ecd986256c3a2b71430ee0a387147a2bef29c1296&">
-<<<<<<< HEAD
-=======
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1569,67 +1530,28 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 #### **Component: Desarrollo**
 
 <p align="center">
-<<<<<<< HEAD
-=======
-
   <img src="/assets/images/Components Diagrams 1.png">
 </p>
 <p align="center">
   <img src="/assets/images/Components Diagrams 2.png">
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293622706317/structurizr-94755-Component-001.png?ex=66d5e896&is=66d49716&hm=67e904d6463271d1321cc72afefaca3b4e8a7fb443257bb90a29747fbd667e2e&">
-</p>
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293182439434/structurizr-94755-Component-001-key.png?ex=66d5e896&is=66d49716&hm=f1a27535959e6b92d4c35b6b53a0e2fcf01bea0c0f2b8e43272309ee44649b68&">
-<<<<<<< HEAD
-=======
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 #### **Component: Equipos**
 
 <p align="center">
-<<<<<<< HEAD
-=======
-
   <img src="/assets/images/Components Diagrams 3.png">
 </p>
 <p align="center">
   <img src="/assets/images/Components Diagrams 4.png">
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890868994119/structurizr-94755-Component-002.png?ex=66d5e836&is=66d496b6&hm=a679446cc79e0d497298574b40a8858be68f316a8a8c3e9b0484cd9c49dd0c9c&">
-</p>
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890172473404/structurizr-94755-Component-002-key.png?ex=66d5e836&is=66d496b6&hm=4df0bc06d24a3b8ddae3f6fa654a0b532c4c37e0017721eae98eb6be5d65fcf9&">
-<<<<<<< HEAD
-=======
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 #### **Component: Opiniones**
 
 <p align="center">
-<<<<<<< HEAD
-=======
-
   <img src="/assets/images/Components Diagrams 5.png">
 </p>
 <p align="center">
   <img src="/assets/images/Components Diagrams 6.png">
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326187286678/structurizr-94755-Component-003.png?ex=66d5e89e&is=66d4971e&hm=a0288512c65ad1a22ca380f7a3272bd732b9b9fa84699160122d7a4a6b814dd6&">
-</p>
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326661369948/structurizr-94755-Component-003-key.png?ex=66d5e89e&is=66d4971e&hm=52011543448b0f111b601a96c0ebff1201049af4f100786727dc7db68f5b976b&">
-<<<<<<< HEAD
-=======
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 ### 4.7. Software Object-Oriented Design
@@ -1990,71 +1912,12 @@ En primer lugar, accedemos al repositorio de GitHub donde se encuentra nuestro p
 Dentro del menú de ajustes, elegimos la opción "Pages".
 ![Settings](https://media.discordapp.net/attachments/1246609784501833810/1279964791942938748/image.png?ex=66df961a&is=66de449a&hm=ee9fb4a1237e863e59e2d60a34cd17b56cae39a7fd76246a93c8f8ce7643bc4d&=&format=webp&quality=lossless&width=1007&height=662)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
- En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". 
-Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
-=======
-
-=======
->>>>>>> 849ba79a71ef9fd3ea60d74d9a01cd0c3e9bb50e
 **Control de Versiones**
 
 - **Uso de Git:** Mantén un historial completo de cambios y facilita el manejo de diferentes versiones del código.
 
 En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save".
 Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
-
-<<<<<<< HEAD
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
-
-
-=======
->>>>>>> 849ba79a71ef9fd3ea60d74d9a01cd0c3e9bb50e
-### 5.2 Landing Page, Services & Applications Implementation.
-
-El desarrollo, testeo y despliegue de nuestra landing page es importante para que nuestros clientes puedan acceder a la información sobre nuestra empresa y producto a través de una interfaz con diseño responsivo, navegación intuitiva y solo con información relevante. Esta primera etapa nos permite crear un diseño conceptual sobre la estética que nuestra aplicación completa y lista para su uso. Estas etapas nos ayudaran a dar una primera impresión a los clientes para validar ideas e identificar problemas que se deben solucionar.
-
-### 5.2.1 . Sprint 1
-
-El primer sprint es una etapa importante en nuestro marco de gestión de proyectos de metodología ágil Scrum. En este periodo, agendamos reuniones con el objetivo de conocer mejor las características de cada integrante, y delegamos tareas para materializar el diseño y funcionalidades ya establecidas, para transformarlos en un landing page funcional y que cumple las heurísticas.
-
-#### 5.2.1.1 Sprint Planning 1.
-
-El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
-
-| Sprint #                            | Sprint 1                                                                                                                                                                                                   |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint Planning Background**      |                                                                                                                                                                                                            |
-| **Date**                            | 06/09/2024                                                                                                                                                                                                 |
-| **Time**                            | 12:00 AM                                                                                                                                                                                                   |
-| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                  |
-| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                 |
-| **Attendees (to planning meeting)** | Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva, Valentino/Jaque Peña, Estefano Oscar                                                              |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                            |
-| **Sprint 1 Goal**                   | Finalizar el informe y el despliegue de nuestro Landing Page desde el repositorio de GitHub. Usaremos Trello para demostrar el cumplimiento, moviendo todas las tareas asignadas a la columna "Terminado". |
-| **Sprint 1 Velocity**               | US43(2points),US44(2points),US45(3points),US46(3points),US47(2points),US48(2points)                                                                                                                        |
-| **Sum of Story Points**             | 14                                                                                                                                                                                                         |
-
-#### 5.2.1.2 Sprint Backlog 1.
-
-<<<<<<< HEAD
-#### 5.2.1.3 Development Evidence for Sprint Review
-
-#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
-
-Debido a que en este sprint se desarrolló únicamente el Landing Page se omitirá esta sección. En próximas etapas del proyecto se ofrecerá información sobre esta sección.
-
-#### 5.2.1.5 Execution Evidence for Sprint Review.
-
-En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado el Landing Page. Mostraremos imágenes para observar que nuestra página muestra limpia e intuitivamente información sobre nuestro producto y nuestra empresa.
-
-<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
-
-<<<<<<< HEAD
-=======
-
-- **Documentación del Proceso:** Documenta el proceso de despliegue y mantenimiento para facilitar la gestión y comprensión del equipo.
 
 ### 5.2 Landing Page, Services & Applications Implementation.
 
@@ -2110,16 +1973,11 @@ Debido a que en este sprint se desarrolló únicamente el Landing Page se omitir
 
 En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado el Landing Page. Mostraremos imágenes para observar que nuestra página muestra limpia e intuitivamente información sobre nuestro producto y nuestra empresa.
 
-<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
+<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
 
 <p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
 
-<<<<<<< HEAD
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
-<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
-=======
 <p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-3.png"></p>
->>>>>>> 849ba79a71ef9fd3ea60d74d9a01cd0c3e9bb50e
 
 <p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-4.png"></p>
 
@@ -2140,10 +1998,6 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282418510726828176/image.png?ex=66df48cf&is=66ddf74f&hm=38e125dae2120e39a7ead0a30c979bbd8320b50bb889fc2119a90ca8b4cca5f2&"></p>
 
 ### Conclusiones
-<<<<<<< HEAD
-=======
-
->>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 - Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
 
 ### Bibliografia
