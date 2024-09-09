@@ -2012,15 +2012,15 @@ Debido a que en este sprint se desarrolló únicamente el Landing Page se omitir
 
 En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado el Landing Page. Mostraremos imágenes para observar que nuestra página muestra limpia e intuitivamente información sobre nuestro producto y nuestra empresa.
 
-<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
+<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
 
-<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
+<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
 
-<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-3.png"></p>
+<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-3.png"></p>
 
-<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-4.png"></p>
+<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-4.png"></p>
 
-<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-5.png"></p>
+<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-5.png"></p>
 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review.
 
