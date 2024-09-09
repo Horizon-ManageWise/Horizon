@@ -525,7 +525,7 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
    Edad: 23 <br>
    Distrito: San Martin de Porres <br>
 
-![Foto de entrevista](https://cdn.discordapp.com/attachments/1246609784501833810/1277318553988632699/image.png?ex=66ccbb1a&is=66cb699a&hm=b995577f14876ecdd835e90c2b15690c8061761b6904b536b842403d76e2f9b8&)
+![Foto de entrevista](assets/images/image.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1WrxFb_8KqRk6mWSrgUbvFpkfpjyIU0vI/view?usp=sharing)
 
