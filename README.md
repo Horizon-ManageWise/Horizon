@@ -695,7 +695,7 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 <p align="center">
 
-  <img src="/assets/images/User-persona-1.png">
+  <img src="assets/images/User-persona-1.png">
 
 </p>
 
@@ -703,7 +703,7 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 <p align="center">
 
-<img src="/assets/images/User-persona-2.png">
+<img src="assets/images/User-persona-2.png">
 
 </p>
 
@@ -1386,16 +1386,23 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176927256346696/login.png?ex=66d7212b&is=66d5cfab&hm=17856fff07d7eed4b487db2adb2dd9b5769496b6318f532d19f98c0693f6d936&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176926601777182/crear_cuenta.png?ex=66d7212b&is=66d5cfab&hm=cd800621122e327543004fe3c121f14be5b30e4c09f6c475076d182ee5d44fae&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176927797416088/MenuActividades.png?ex=66d7212c&is=66d5cfac&hm=b651d42304ff10dca16992fc9c4b92e4c3ab9393b24add0aa426a0b02cfeae58&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176957165928498/MenuMiembros.png?ex=66d72133&is=66d5cfb3&hm=8e094494815c8f83385a66a5f65609501619696c8b4af1219488e0eee6466e83&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176957459402783/MenuProgreso.png?ex=66d72133&is=66d5cfb3&hm=317c589a1e96b56b45d9e11823f8ff3651d6985886ba178ebfec7bb45e867313&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176928120246332/MenuCalendario.png?ex=66d7212c&is=66d5cfac&hm=44f7d1c17eedcbddc28d795cb49513ea5f6a45599d7bcc58d2e35a7c3377ed24&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176926039998527/Crear_actividad.png?ex=66d7212b&is=66d5cfab&hm=362cec6f1aef6948924db0c689b31cc5b18c79d840ca544d138766c6bd0bbf14&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176928506249297/MenuConfiguracion.png?ex=66d7212c&is=66d5cfac&hm=09f28f339c66fef80b4b7afc5958d576727997d9932691e4c2ec7d1b26d5410c&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176925465383054/compartir.png?ex=66d7212b&is=66d5cfab&hm=7d3c3b71595dd39e4ef0e742fb16134a64941811f96a3ec9424e68a165f8ab5f&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176956574404689/notificaciones.png?ex=66d72132&is=66d5cfb2&hm=e91b91158418bd61f2a5ba1eab90b4248359f28adcce253a57d1096204896237&">
+<img src="assets/images/wireframes/Foro-Mejora.png">
+<img src="assets/images/wireframes/Foro-Problemas.png">
+<img src="assets/images/wireframes/Foro-retroalimentacion.png">
+<img src="assets/images/wireframes/herramientas - documentos compartidos.png">
+<img src="assets/images/wireframes/herramientas.png">
+<img src="assets/images/wireframes/configuracion.png">
+<img src="assets/images/wireframes/Historial - actividades.png">
+<img src="assets/images/wireframes/Historial - sesiones.png">
+<img src="assets/images/wireframes/Historial.png">
+<img src="assets/images/wireframes/proyecto-roles.png">
+<img src="assets/images/wireframes/proyectos-CronogramaSprint.png">
+<img src="assets/images/wireframes/proyectos-estado.png">
+<img src="assets/images/wireframes/proyectos.png">
+<img src="assets/images/wireframes/Reporte-Progreso.png">
+<img src="assets/images/wireframes/Reporte-ResumenSprint.png">
+<img src="assets/images/wireframes/Reporte.png">
+<img src="assets/images/wireframes/Seguridad.png">
 
 </p>
 
@@ -1403,130 +1410,100 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 ##### User goal: Registrar un nuevo usuario
 
-<p align="center"><img src="assets/images/wireflow1.png"></p>
+##### User goal: Registrar un nuevo usuario
 
-Para lograrlo, el usuario presiona en cualquiera de los botones "Registrarse",. Posteriormente, se pedirá que ingrese los datos necesarios y una vez listo sera redirigido a "Iniciar Sesión", para de esta manera, poder acceder con el nuevo usuario.
+<p align="center"><img src="assets/images/Wireflow1.png"></p>
 
 ##### User goal: Iniciar sesión
 
-<p align="center"><img src="assets/images/wireflow2.png"></p>
+<p align="center"><img src="assets/images/Wireflow2.png"></p>
 
-Para lograrlo, el usuario presiona "Iniciar Sesión" y posteriormente, procede a rellena los campos correspondientes y aceptar.
 
-##### User goal: Visualizar el calendario con las actividades
+##### User goal: Acceso a videollamadas
 
-<p align="center"><img src="assets/images/wireflow3.png"></p>
+<p align="center"><img src="assets/images/Wireflow3.png"></p>
 
-Para lograrlo, el usuario presiona "Calendario" en el panel lateral izquierdo. Una vez en la sección podra visualizar el calendario, que se actualiza automáticamente al crear o borrar una actividad.
 
-##### User goal: Cambiar de usuario o cerrar sesión
+##### User goal: Acceso a historial
 
-<p align="center"><img src="assets/images/wireflow4.png"></p>
+<p align="center"><img src="assets/images/Wireflow4.png"></p>
 
-Para lograrlo, el usuario presiona su perfil en la parte inferior del panel lateral izquierdo, para posteriormente, escoger entre cambiar de usuario o cerrar sesión; en ambos casos será redirigido a la sección de inicio de sesión.
+##### User goal: Visualizar secciónes del foro 
 
-##### User goal: Agregar nuevo miembro por invitación mediante link o correo
+<p align="center"><img src="assets/images/Wireflow5.png"></p>
 
-<p align="center"><img src="assets/images/wireflow5.png"></p>
 
-Para lograrlo, el usaurio presiona el botón "Compartir" que se encuentra en la parte superior derecha de la pantalla, para posteriormente ingresar el correo del destinatario o copiar el link de invitación. Por otro lado, al ingresar a la sección "Miembros", puede hacer lo mismo, al presionar "Invitar por link".
+##### User goal: Realiazar el seguimiento de tareas en tiempo real
 
-##### User goal: Colapsar y expandir panel lateral
+<p align="center"><img src="assets/images/Wireflow6.png"></p>
 
-<p align="center"><img src="assets/images/wireflow6.png"></p>
 
-Para colapsar el panel, el usuario presiona la flecha con dirección a la izquierda ubicada en la parte inferior del panel, en caso de querer expandir el mismo, presiona la misma flecha, pero esta vez estará apuntando hacia la derecha.
+##### User goal: Visualizar cronograma 
 
-##### User goal: Visualizar todas las notificaciones
+<p align="center"><img src="assets/images/Wireflow7.png"></p>
 
-<p align="center"><img src="assets/images/wireflow7.png"></p>
 
-Para lograrlo, el usuario presiona el botón con forma de campana ubicado en la parte superior derecha de la pantalla, al lado izquierdo de "Compartir".
+##### User goal: Modificar estado de tareas
 
-##### User goal: Visualizar todas las opciones posibles
+<p align="center"><img src="assets/images/Wireflow8.png"></p>
 
-<p align="center"><img src="assets/images/wireflow8.png"></p>
-
-Para lograrlo, el usuario presiona "Opciones" en el panel lateral izquierdo, para dirigirse a esta sección.
-
-##### User goal: Acceder o crear otro proyecto
-
-<p align="center"><img src="assets/images/wireflow9.png"></p>
-
-Para lograr cambiar de proyecto, el usuario presiona el nombre del actual, que se encuentra en la parte superior del panel lateral, y luego de desplegarse un pequeño menu, selecciona el nombre del proyecto deseado. En caso se desee crear un nuevo proyecto, dentro del menu que se ha desplegado, el usuario presiona "+".
-
-##### User goal: Visualizar el progreso del equipo y de cada miembro sobre el proyecto
-
-<p align="center"><img src="assets/images/wireflow10.png"></p>
-
-Para lograrlo, el usuario presiona "Progreso" en el menu desplegable, para visualizar esta sección, con una barra de progreso general en la parte superior y una propia para cada miembro.
-
-##### User goal: Crear una nueva actividad y modificar el estado de la misma
-
-<p align="center"><img src="assets/images/wireflow11.png"></p>
-
-Para lograrlo, el usuario presiona "Actividades" en el panel lateral, al encontrarse en esta sección, presiona "Nueva Actividad" y rellena los campos para crear una actividad y, en caso desee cambiar el estado, puede dirigirse a "Tablero Kanban", donde podrá modificar la actividad a "Por hacer", "En progreso" o "Terminado".
 
 #### 4.4.3. Web Applications Mock-ups
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859504164864/Iniciar_sesion.png?ex=66d724d5&is=66d5d355&hm=ac5a683b5f599b5cdb4fd4cf8e80031911196eb3eb97a5a93bdda3b9e99df1ef&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180861421093078/Registrarse.png?ex=66d724d5&is=66d5d355&hm=15a1009c8523bc0827b8f85b1aec196d8af780281dfc490eef2f4aea47526265&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180858682212481/Actividades.png?ex=66d724d5&is=66d5d355&hm=923168519c88400de7c9b64aaf0fc0298822bb09595f966a16544edf93770b9c&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180862402433065/Wireframe_-_7.png?ex=66d724d6&is=66d5d356&hm=1641caebe56c67af4bdb528df344123adfe0f6d7799774bf1d56b596e9c2a6c7&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180861983264900/Wireframe_-_5.png?ex=66d724d6&is=66d5d356&hm=e7467651dd76f1704c710c3d8f6e6f0d86d14d7e6352a070a7e25e87978b1dc6&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180860431237134/Miembros.png?ex=66d724d5&is=66d5d355&hm=753ff637bd1e7f0b8cb8c6d0da634525f8c6e56b883e74785d46ae5c3bf17754&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180858271301642/Wireframe_-_9.png?ex=66d724d5&is=66d5d355&hm=18091b5a305ff4dfd1bb771152998ff09e5dfea9caf255667c8b00d3fc87b6c2&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859969867776/Invitar_Miebros.png?ex=66d724d5&is=66d5d355&hm=10c0d53ba2f717a4e1b7720f4ccd164ed4bf028602e546b1af0f6b79c7114ec0&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180860930363403/Notificaciones.png?ex=66d724d5&is=66d5d355&hm=21e8283cf450f8b070613d95d893c2c3a1e1700a30df3f30c264cb902876bbf9&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859101777975/Crear_actividad.png?ex=66d724d5&is=66d5d355&hm=e01f72d02e8c9d7ac9bd898b495f30593cb46d0dbf21c78d254af2af4e71491f&">
+<img src="assets/images/mockups/configuracion.png">
+<img src="assets/images/mockups/Foro-Mejora.png">
+<img src="assets/images/mockups/Foro-Problemas.png">
+<img src="assets/images/mockups/Foro-retroalimentacion.png">
+<img src="assets/images/mockups/herramientas - documentos compartidos.png">
+<img src="assets/images/mockups/herramientas.png">
+<img src="assets/images/mockups/Historial - actividades.png">
+<img src="assets/images/mockups/Historial - sesiones.png">
+<img src="assets/images/mockups/Historial.png">
+<img src="assets/images/mockups/proyecto-roles.png">
+<img src="assets/images/mockups/proyectos-CronogramaSprint.png">
+<img src="assets/images/mockups/proyectos-estado.png">
+<img src="assets/images/mockups/proyectos.png">
+<img src="assets/images/mockups/Reporte-Progreso.png">
+<img src="assets/images/mockups/Reporte-ResumenSprint.png">
+<img src="assets/images/mockups/Reporte.png">
+<img src="assets/images/mockups/Seguridad.png">
 
 </p>
 
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
-##### User goal: Como usuario quiero poder iniciar sesión en ManageWise
+##### User goal: Como usuario quiero poder iniciar sesión en ManageWise. Para lograrlo, completar el formulario, en caso de usar datos válidos, podre iniciar sesión, caso contrario, el formulario se reinicia.
 
-<p align="center"><img src="assets/images/UserflowDiag1.png"></p>
+<p align="center"><img src="assets/images/Userflow1.png"></p>
 
-Para lograrlo, el usuario debe llenar el formulario con los datos correspondientes y aceptar, en caso sea válido, ingresará automáticamente, de lo contrario, el formulario se reiniciará.
+##### User goal: Como usuario quiero poder registrarme en ManageWise. Para lograrlo, ingreso mi usuario y contraseña en el formulario, en caso sean válidos, ingresaré a la plataforma, de lo contrario, el formulario se reinicia.
 
-##### User goal: Como usuario quiero poder registrarme en ManageWise
+<p align="center"><img src="assets/images/Userflow2.png"></p>
 
-<p align="center"><img src="assets/images/UserflowDiag2.png"></p>
+##### User goal: Como lider del equipo quiero realizar un seguimiento en tiempo real del progreso de este. Para lograrlo, ingreso a reporte y luego a la sección progreso.
 
-Para lograrlo, el usuario debe llenar el formulario de registro con los datos correspondientes y aceptar, en caso sea válido, será redirigido al inicio de sesión, de lo contrario, el formulario se reiniciará.
+<p align="center"><img src="assets/images/Userflow3.png"></p>
 
-##### User goal: Como lider de un equipo de desarrollo de software, quiero poder crear nuevas actividades para los miembros de este
+##### User goal: Como miembro del equipo, quiero poder visualizar el cronograma sprint. Para lograrlo, ingreso a la sección Cronograma desde el apartado de Proyectos.
 
-<p align="center"><img src="assets/images/UserflowDiag3.png"></p>
+<p align="center"><img src="assets/images/Userflow4.png"></p>
 
-Para lograrlo, el líder del equipo, debe ir a la sección de "Actividades" y seleccionar "Nueva Actividad", posteriormente debe llenar el pequeño formulario con los datos necesarios y aceptar. En caso el formulario haya sido concretado con éxito, recibirá una notificación y este se agregará al apartado de actividades, caso contrario, el formulario se reiniciará.
+##### User goal: Como lider de equipo, quiero acceder al historial de actividades. Para lograrlo, ingreso a Historial en el panel lateral, y posteriormente a la sección Actividades.
 
-##### User goal: Como lider de un equipo de desarrollo de software, quiero poder visualizar el progreso en conjunto e individual de los miembros de este
+<p align="center"><img src="assets/images/Userflow5.png"></p>
 
-<p align="center"><img src="assets/images/UserflowDiag4.png"></p>
+##### User goal: Como miembro del equipo, quiero poder ingresar al foro para visualizar sugerencias. Para lograrlo, ingreso a Foro en el panel lateral.
 
-Para lograrlo, el líder del equipo debe ir a la sección "Progreso" en el panel lateral, posteriormente será redirigido a esta sección y en la parte superior se podrá observar la barra de progreso total del equipo, mientras que al lado del nombre de cada miembro, una barra para ver el progreso individual.
+<p align="center"><img src="assets/images/Userflow6.png"></p>
 
-##### User goal: Como lider de un equipo de desarrollo de software, quiero poder ver a los miembros actuales e invitar a nuevos, tanto por correo como por un link
 
-<p align="center"><img src="assets/images/UserflowDiag5.png"></p>
+##### User goal: Como miembro de equipo, quiero poder ingresar a una videollamada realizada por el líder. Para lograrlo, me dirijo a Herramientas en el panel lateral y luego ingreso a la seccion Videollamadas, para finalmente ingresar a la deseada.
 
-Para lograrlo, el líder del equipo debe ir a la sección "Miembros en el pane lateral", una vez en esta sección, podra visualizar la cantidad de miembros, el nombre de estos y el número de invitaciones. Para invitar a nuevos miembros, deberá presionar el botón de compartir o invitar y a continuación ingresar el correo del destinatario o copiar el link de invitación.
+<p align="center"><img src="assets/images/Userflow7.png"></p>
 
-##### User goal: Como miembro de un equipo de desarrollo de software, quiero poder visualizar un calendario con las diferentes actividades programadas
-
-<p align="center"><img src="assets/images/UserflowDiag6.png"></p>
-
-Para lograrlo, el miembro del equipo selecciona "Calendario" en el panel lateral, una vez en la sección, podra ver un calendario digital con las fechas de las diferentes actividades programadas.
-
-##### User goal: Como lider de un equipo de desarrollo de software, quiero poder cambiar el estado de una actividad
-
-<p align="center"><img src="assets/images/UserflowDiag7.png"></p>
-
-Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteriormente, seleccionar "Kanban", una vez allí, podra arrastrar las actividades a "Por hacer", "En progreso" y "Terminado". Tras haber cambiado el estado de una actividad, recibirá una notificación, caso contrario, no se alteró el estado.
 
 ### 4.5. Web Applications Prototyping
 
@@ -1535,19 +1512,19 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 ### 4.6.1. Software Architecture Context Diagram
 
 <p align="center">
-  <img src="/assets/images/Software Architecture Context Diagram 1.png">
+  <img src="assets/images/Software Architecture Context Diagram 1.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Software Architecture Context Diagram 2.png">
+  <img src="assets/images/Software Architecture Context Diagram 2.png">
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-  <img src="/assets/images/Container Diagrams 1.png">
+  <img src="assets/images/Container Diagrams 1.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Container Diagrams 2.png">
+  <img src="assets/images/Container Diagrams 2.png">
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1555,28 +1532,28 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 #### **Component: Desarrollo**
 
 <p align="center">
-  <img src="/assets/images/Components Diagrams 1.png">
+  <img src="assets/images/Components Diagrams 1.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Components Diagrams 2.png">
+  <img src="assets/images/Components Diagrams 2.png">
 </p>
 
 #### **Component: Equipos**
 
 <p align="center">
-  <img src="/assets/images/Components Diagrams 3.png">
+  <img src="assets/images/Components Diagrams 3.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Components Diagrams 4.png">
+  <img src="assets/images/Components Diagrams 4.png">
 </p>
 
 #### **Component: Opiniones**
 
 <p align="center">
-  <img src="/assets/images/Components Diagrams 5.png">
+  <img src="assets/images/Components Diagrams 5.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Components Diagrams 6.png">
+  <img src="assets/images/Components Diagrams 6.png">
 </p>
 
 ### 4.7. Software Object-Oriented Design
