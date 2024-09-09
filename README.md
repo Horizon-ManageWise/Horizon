@@ -35,7 +35,6 @@ Product: ManageWise
 ### Agosto, 2024
 
 ## Registro de Versiones del Informe
-<<<<<<< HEAD
 
 | Version | Fecha      | Autor                        | Descripcion                                                                                                                                                                                                                                                                                                                                                                         |
 | ------- | ---------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,20 +49,6 @@ Product: ManageWise
 | TB1     | 18/08/2024 | Sebastián Omar Real Calderón | Desarrollé el Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping.                                                                                                                                                                                                                                                         |
 | TB1     | 3/09/2024  | Sebastián Omar Real Calderón | Realicé los General y Web Style Guidelines. Realicé la documentación de los entornos de trabajo.                                                                                                                                                                                                                                                                                    |
 
-=======
-|Version|Fecha|Autor|Descripcion|
-|-|-|-|-|
-|TB1|28/08/24|José Alejo| Lean UX Hypothesis Statements, Lean UX Canvas, User Journey Mapping, As-is Scenario Mapping, Registro de entrevistas (1 entrevista) y Análisis de entrevistas (1 entrevista) |
-|TB1|29/08/24|José Alejo| Desarrollé el To-Be Scenario Mapping, 8 de las User Stories, Impact Mapping y todo el Information Architecture|
-|TB1|26/08/2024|Estefano Jaque |Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas|
-|TB1|05/09/2024|Estefano Jaque|Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
-|TB1|29/08/2024|Maria Jose Pezo|Desarrollé la Descripción de la Startup, Solution Profile, Antecedentes y problemática|
-|TB1|05/09/2024|Maria Jose Pezo|Desarrollé el regitro de una entrevista a un usuario del segmento 1, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.|
-|TB1|29/08/2024|Diego Alonso Rosado Iporre|Desarrollé la Descripción de la Startup, a su vez,  Competidores, Análisis competitivo, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Web Applications Wireframes, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams.|
-|TB1|08/09/2024|Diego Alonso Rosado Iporre|Desarrollé la documentacion de la evidencia de los commits realizados: Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Avance de Conclusiones y Bibliografía. |
-|TB1|18/08/2024|Sebastián Omar Real Calderón| Desarrollé el Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping. |
-|TB1|3/09/2024|Sebastián Omar Real Calderón| Realicé los General y Web Style Guidelines. Realicé la documentación de los entornos de trabajo. |
->>>>>>> development
 ## Project Report Collaboration Insights
 
 TB1:<br>
@@ -110,7 +95,7 @@ TB1:<br>
       - [Who?](#who)
       - [Why?](#why)
       - [How?](#how)
-        - [How much?](#how-much)
+          - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -142,10 +127,10 @@ TB1:<br>
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
 - [Segmento 1: María (Líder/Gerente de Proyecto)](#segmento-1-maría-lídergerente-de-proyecto)
 - [Segmento 2: Fabricio (Equipo de Desarrollo de Software)](#segmento-2-fabricio-equipo-de-desarrollo-de-software)
-  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-    - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-    - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+      - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+      - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
+    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [**Segmento 1:** Lider o gerente de proyectos de software](#segmento-1-lider-o-gerente-de-proyectos-de-software)
@@ -174,25 +159,23 @@ TB1:<br>
       - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
       - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
         - [User goal: Registrar un nuevo usuario](#user-goal-registrar-un-nuevo-usuario)
+        - [User goal: Registrar un nuevo usuario](#user-goal-registrar-un-nuevo-usuario-1)
         - [User goal: Iniciar sesión](#user-goal-iniciar-sesión)
-        - [User goal: Visualizar el calendario con las actividades](#user-goal-visualizar-el-calendario-con-las-actividades)
-        - [User goal: Cambiar de usuario o cerrar sesión](#user-goal-cambiar-de-usuario-o-cerrar-sesión)
-        - [User goal: Agregar nuevo miembro por invitación mediante link o correo](#user-goal-agregar-nuevo-miembro-por-invitación-mediante-link-o-correo)
-        - [User goal: Colapsar y expandir panel lateral](#user-goal-colapsar-y-expandir-panel-lateral)
-        - [User goal: Visualizar todas las notificaciones](#user-goal-visualizar-todas-las-notificaciones)
-        - [User goal: Visualizar todas las opciones posibles](#user-goal-visualizar-todas-las-opciones-posibles)
-        - [User goal: Acceder o crear otro proyecto](#user-goal-acceder-o-crear-otro-proyecto)
-        - [User goal: Visualizar el progreso del equipo y de cada miembro sobre el proyecto](#user-goal-visualizar-el-progreso-del-equipo-y-de-cada-miembro-sobre-el-proyecto)
-        - [User goal: Crear una nueva actividad y modificar el estado de la misma](#user-goal-crear-una-nueva-actividad-y-modificar-el-estado-de-la-misma)
+        - [User goal: Acceso a videollamadas](#user-goal-acceso-a-videollamadas)
+        - [User goal: Acceso a historial](#user-goal-acceso-a-historial)
+        - [User goal: Visualizar secciónes del foro](#user-goal-visualizar-secciónes-del-foro)
+        - [User goal: Realiazar el seguimiento de tareas en tiempo real](#user-goal-realiazar-el-seguimiento-de-tareas-en-tiempo-real)
+        - [User goal: Visualizar cronograma](#user-goal-visualizar-cronograma)
+        - [User goal: Modificar estado de tareas](#user-goal-modificar-estado-de-tareas)
       - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
       - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-        - [User goal: Como usuario quiero poder iniciar sesión en ManageWise](#user-goal-como-usuario-quiero-poder-iniciar-sesión-en-managewise)
-        - [User goal: Como usuario quiero poder registrarme en ManageWise](#user-goal-como-usuario-quiero-poder-registrarme-en-managewise)
-        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder crear nuevas actividades para los miembros de este](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-crear-nuevas-actividades-para-los-miembros-de-este)
-        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder visualizar el progreso en conjunto e individual de los miembros de este](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-visualizar-el-progreso-en-conjunto-e-individual-de-los-miembros-de-este)
-        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder ver a los miembros actuales e invitar a nuevos, tanto por correo como por un link](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-ver-a-los-miembros-actuales-e-invitar-a-nuevos-tanto-por-correo-como-por-un-link)
-        - [User goal: Como miembro de un equipo de desarrollo de software, quiero poder visualizar un calendario con las diferentes actividades programadas](#user-goal-como-miembro-de-un-equipo-de-desarrollo-de-software-quiero-poder-visualizar-un-calendario-con-las-diferentes-actividades-programadas)
-        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder cambiar el estado de una actividad](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-cambiar-el-estado-de-una-actividad)
+        - [User goal: Como usuario quiero poder iniciar sesión en ManageWise. Para lograrlo, completar el formulario, en caso de usar datos válidos, podre iniciar sesión, caso contrario, el formulario se reinicia.](#user-goal-como-usuario-quiero-poder-iniciar-sesión-en-managewise-para-lograrlo-completar-el-formulario-en-caso-de-usar-datos-válidos-podre-iniciar-sesión-caso-contrario-el-formulario-se-reinicia)
+        - [User goal: Como usuario quiero poder registrarme en ManageWise. Para lograrlo, ingreso mi usuario y contraseña en el formulario, en caso sean válidos, ingresaré a la plataforma, de lo contrario, el formulario se reinicia.](#user-goal-como-usuario-quiero-poder-registrarme-en-managewise-para-lograrlo-ingreso-mi-usuario-y-contraseña-en-el-formulario-en-caso-sean-válidos-ingresaré-a-la-plataforma-de-lo-contrario-el-formulario-se-reinicia)
+        - [User goal: Como lider del equipo quiero realizar un seguimiento en tiempo real del progreso de este. Para lograrlo, ingreso a reporte y luego a la sección progreso.](#user-goal-como-lider-del-equipo-quiero-realizar-un-seguimiento-en-tiempo-real-del-progreso-de-este-para-lograrlo-ingreso-a-reporte-y-luego-a-la-sección-progreso)
+        - [User goal: Como miembro del equipo, quiero poder visualizar el cronograma sprint. Para lograrlo, ingreso a la sección Cronograma desde el apartado de Proyectos.](#user-goal-como-miembro-del-equipo-quiero-poder-visualizar-el-cronograma-sprint-para-lograrlo-ingreso-a-la-sección-cronograma-desde-el-apartado-de-proyectos)
+        - [User goal: Como lider de equipo, quiero acceder al historial de actividades. Para lograrlo, ingreso a Historial en el panel lateral, y posteriormente a la sección Actividades.](#user-goal-como-lider-de-equipo-quiero-acceder-al-historial-de-actividades-para-lograrlo-ingreso-a-historial-en-el-panel-lateral-y-posteriormente-a-la-sección-actividades)
+        - [User goal: Como miembro del equipo, quiero poder ingresar al foro para visualizar sugerencias. Para lograrlo, ingreso a Foro en el panel lateral.](#user-goal-como-miembro-del-equipo-quiero-poder-ingresar-al-foro-para-visualizar-sugerencias-para-lograrlo-ingreso-a-foro-en-el-panel-lateral)
+        - [User goal: Como miembro de equipo, quiero poder ingresar a una videollamada realizada por el líder. Para lograrlo, me dirijo a Herramientas en el panel lateral y luego ingreso a la seccion Videollamadas, para finalmente ingresar a la deseada.](#user-goal-como-miembro-de-equipo-quiero-poder-ingresar-a-una-videollamada-realizada-por-el-líder-para-lograrlo-me-dirijo-a-herramientas-en-el-panel-lateral-y-luego-ingreso-a-la-seccion-videollamadas-para-finalmente-ingresar-a-la-deseada)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -2014,15 +1997,11 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ### Conclusiones
 
-<<<<<<< HEAD
-- Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
-=======
 * Jose Alejo:
 La creación y diseño de ManageWise han sido un esfuerzo integral enfocado en optimizar la gestión de proyectos para startups de desarrollo de software. A través de una serie de sistemas bien estructurados, como el Navigation System, Labeling System, y Searching System, se ha buscado proporcionar una experiencia fluida y centrada en las necesidades de los usuarios, tanto para líderes o gerentes de empresas como para equipos de desarrollo.
 
 * Valentino Sandoval:
 Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
->>>>>>> development
 
 ### Bibliografia
 
