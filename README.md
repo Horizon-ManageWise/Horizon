@@ -35,18 +35,20 @@ Product: ManageWise
 ### Agosto, 2024
 
 ## Registro de Versiones del Informe
-|Version|Fecha|Autor|Descripcion|
-|-|-|-|-|
-|TB1|28/08/24|José Alejo| Desarrollé el Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, Registro de entrevistas (1 entrevista) y Análisis de entrevistas (1 entrevista) |
-|TB1|29/08/24|José Alejo| Desarrollé el To-Be Scenario Mapping, 6 de las User Stories, Impact Mapping y todo el Information Architecture|
-|TB1|26/08/2024|Estefano Jaque |Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas|
-|TB1|05/09/2024|Estefano Jaque|Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
-|TB1|29/08/2024|Maria Jose Pezo|Desarrollé la Descripción de la Startup, Solution Profile, Antecedentes y problemática|
-|TB1|05/09/2024|Maria Jose Pezo|Desarrollé el regitro de una entrevista a un usuario del segmento 1, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.|
-|TB1|29/08/2024|Diego Alonso Rosado Iporre|Desarrollé la Descripción de la Startup, a su vez,  Competidores, Análisis competitivo, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Web Applications Wireframes, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams.|
-|TB1|08/09/2024|Diego Alonso Rosado Iporre|Desarrollé la documentacion de la evidencia de los commits realizados: Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Avance de Conclusiones y Bibliografía. |
-|TB1|18/08/2024|Sebastián Omar Real Calderón| Desarrollé el Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping. |
-|TB1|3/09/2024|Sebastián Omar Real Calderón| Realicé los General y Web Style Guidelines. Realicé la documentación de los entornos de trabajo. |
+
+| Version | Fecha      | Autor                        | Descripcion                                                                                                                                                                                                                                                                                                                                                                         |
+| ------- | ---------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TB1     | 28/08/24   | José Alejo                   | Desarrollé el Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, Registro de entrevistas (1 entrevista) y Análisis de entrevistas (1 entrevista)                                                                                                                                                                                                                    |
+| TB1     | 29/08/24   | José Alejo                   | Desarrollé el To-Be Scenario Mapping, 6 de las User Stories, Impact Mapping y todo el Information Architecture                                                                                                                                                                                                                                                                      |
+| TB1     | 26/08/2024 | Estefano Jaque               | Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas                                                                                                                                                                                                                                                                                                  |
+| TB1     | 05/09/2024 | Estefano Jaque               | Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1                                                                                                                                                                                                                                                |
+| TB1     | 29/08/2024 | Maria Jose Pezo              | Desarrollé la Descripción de la Startup, Solution Profile, Antecedentes y problemática                                                                                                                                                                                                                                                                                              |
+| TB1     | 05/09/2024 | Maria Jose Pezo              | Desarrollé el regitro de una entrevista a un usuario del segmento 1, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.                                                                                                 |
+| TB1     | 29/08/2024 | Diego Alonso Rosado Iporre   | Desarrollé la Descripción de la Startup, a su vez, Competidores, Análisis competitivo, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Web Applications Wireframes, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams.           |
+| TB1     | 08/09/2024 | Diego Alonso Rosado Iporre   | Desarrollé la documentacion de la evidencia de los commits realizados: Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Avance de Conclusiones y Bibliografía. |
+| TB1     | 18/08/2024 | Sebastián Omar Real Calderón | Desarrollé el Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping.                                                                                                                                                                                                                                                         |
+| TB1     | 3/09/2024  | Sebastián Omar Real Calderón | Realicé los General y Web Style Guidelines. Realicé la documentación de los entornos de trabajo.                                                                                                                                                                                                                                                                                    |
+
 ## Project Report Collaboration Insights
 
 TB1:<br>
@@ -57,6 +59,8 @@ TB1:<br>
 |Pezo Castilla, Maria Jose|Descripción de la Startup, Solution Profile, Antecedentes y problemática, el regitro de una entrevista a un estudiante ocupado, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.|
 |Rosado Iporre, Diego Alonso|Descripción de la Startup, Competidores, Análisis Competitivo, Registro de Entrevistas, Análisis de Entrevistas, Ubiquitous Language, User Stories, Wireframes de Aplicaciones Web, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, y Software Architecture Components Diagrams. Además, he trabajado en la creación y despliegue de la landing page, documentando el diseño y las pruebas realizadas. Documenté la evidencia de los commits realizados, incluyendo Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, y Team Collaboration Insights during Sprint. También incluí el avance de conclusiones y bibliografía.|
 | Real Calderón, Sebastián Omar | User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Style Guidelines, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration. |
+
+| Diego Rolin Acuña Tomas | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
 
 ## Contenido
 
@@ -91,7 +95,7 @@ TB1:<br>
       - [Who?](#who)
       - [Why?](#why)
       - [How?](#how)
-          - [How much?](#how-much)
+        - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -123,10 +127,10 @@ TB1:<br>
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
 - [Segmento 1: María (Líder/Gerente de Proyecto)](#segmento-1-maría-lídergerente-de-proyecto)
 - [Segmento 2: Fabricio (Equipo de Desarrollo de Software)](#segmento-2-fabricio-equipo-de-desarrollo-de-software)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-      - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-      - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
-    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+    - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [**Segmento 1:** Lider o gerente de proyectos de software](#segmento-1-lider-o-gerente-de-proyectos-de-software)
@@ -251,7 +255,6 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 | <p align="center"><img width="3000" height="300" src="assets/images/perfil-Diego.png"> </p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han facinado las computadoras y como se mostraban en las peliculas los expertos en informatica. Hoy en dia entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profecional. Tambien conosco los tipos de base de datos, aprendi sql server para la bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos. |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 
 - Valentino Sandoval Paiva - U20211A962
   | <p align="center"><img width="3000" height="300" src="assets/images/WASAAAA.jpg"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
@@ -490,6 +493,7 @@ Para poder tener un análisis completo sobre nuestro modelo de negocio además d
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 Para enfrentarse a la competencia, nuestra estrategia se centrará en maximizar la ventaja competitiva mediante la oferta de una interfaz intuitiva que optimice la colaboración en tiempo real, dirigida a startups tecnológicas. Aprovecharemos tácticas de marketing digital segmentadas, destacando nuestras pruebas gratuitas y asociaciones estratégicas con comunidades tecnológicas clave. Para competir con empresas como Wrike y ClickUp, que ofrecen herramientas robustas y personalizables, nos enfocaremos en nuestra simplicidad y eficiencia, adaptando nuestros precios de manera flexible para atraer a equipos en crecimiento. Además, desarrollaremos integraciones con plataformas populares como Slack y Google Workspace, y mantendremos una mejora continua en la automatización de tareas y funcionalidades innovadoras para diferenciar nuestra propuesta.
+
 ### 2.2. Entrevistas
 
 En esta sección del informe se realizará el diseño, registro y análisis de las entrevistas de nuestros segmentos objetivos
@@ -1952,21 +1956,21 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 
 El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
 
-
-| Sprint #                       | Sprint 1                            |
-|---------------------------------|-------------------------------------|
-| **Sprint Planning Background**  |                                     |
-| **Date**                        | 06/09/2024                         |
-| **Time**                        | 12:00 AM                           |
-| **Location**                    | Discord (Reunión virtual)           |
-| **Prepared By**                 | Jaque Peña, Estefano Oscar          |
-| **Attendees (to planning meeting)** | Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva, Valentino/Jaque Peña, Estefano Oscar  |
-| **Sprint Goal & User Stories**  |                                     |
-| **Sprint 1 Goal**               | Finalizar el informe y el despliegue de nuestro Landing Page desde el repositorio de GitHub. Usaremos Trello para demostrar el cumplimiento, moviendo todas las tareas asignadas a la columna "Terminado". |
-| **Sprint 1 Velocity**           | US43(2points),US44(2points),US45(3points),US46(3points),US47(2points),US48(2points) |
-| **Sum of Story Points**         | 14 |
+| Sprint #                            | Sprint 1                                                                                                                                                                                                   |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**      |                                                                                                                                                                                                            |
+| **Date**                            | 06/09/2024                                                                                                                                                                                                 |
+| **Time**                            | 12:00 AM                                                                                                                                                                                                   |
+| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                  |
+| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                 |
+| **Attendees (to planning meeting)** | Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva, Valentino/Jaque Peña, Estefano Oscar                                                              |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                            |
+| **Sprint 1 Goal**                   | Finalizar el informe y el despliegue de nuestro Landing Page desde el repositorio de GitHub. Usaremos Trello para demostrar el cumplimiento, moviendo todas las tareas asignadas a la columna "Terminado". |
+| **Sprint 1 Velocity**               | US43(2points),US44(2points),US45(3points),US46(3points),US47(2points),US48(2points)                                                                                                                        |
+| **Sum of Story Points**             | 14                                                                                                                                                                                                         |
 
 #### 5.2.1.2 Sprint Backlog 1.
+
 Para el primer sprint backloge, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
 
 ![alt text](assets/images/Trello.png)
@@ -2017,6 +2021,7 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282418510726828176/image.png?ex=66df48cf&is=66ddf74f&hm=38e125dae2120e39a7ead0a30c979bbd8320b50bb889fc2119a90ca8b4cca5f2&"></p>
 
 ### Conclusiones
+
 - Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
 
 ### Bibliografia
