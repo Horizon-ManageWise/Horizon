@@ -640,7 +640,7 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 <p align="center">
 
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1278469369763991562/Leonardo_Mendoza_1.png?ex=66d0eae2&is=66cf9962&hm=f61347b8dd2034460dbf1c36d06bb5d0adda0458794611bdd6681a77f4e32dbe&">
+  <img src="/assets/images/User-persona-1.png">
 
 </p>
 
@@ -648,7 +648,7 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1257109045723271192/1278476848833101954/Oscar_Vargas.png?ex=66d0f1d9&is=66cfa059&hm=9c151f36ea301e19831ef0abb2ae34020ccde2c77c16ef99e8536de820701e8c&">
+<img src="/assets/images/User-persona-2.png">
 
 </p>
 
