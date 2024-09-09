@@ -1766,10 +1766,7 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
   - **Propósito:** Gestión de versiones y colaboración en el código.
   - **Ruta de descarga:** [Git](https://git-scm.com/)
   - **Repositorio:** [GitHub - Horizon](https://github.com/Firtness/Horizon.git)
-- **Pruebas:** Jest para pruebas unitarias y Cypress para pruebas end-to-end.
-  - **Propósito:** Validación exhaustiva de la funcionalidad del software.
-  - **Ruta de descarga:** [Jest](https://jestjs.io/) | [Cypress](https://www.cypress.io/)
-  - **Nota:** Las pruebas unitarias se documentan utilizando lenguaje Gherkin para mejorar la claridad y comprensión.
+
 
 ## Diseño y Desarrollo
 
