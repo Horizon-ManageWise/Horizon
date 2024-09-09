@@ -225,7 +225,7 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 - Estefano Oscar Jaque Peña - U202225466
 
-| <p align="center"><img src="https://cdn.discordapp.com/attachments/1246609784501833810/1275485196589732011/image.png?ex=66c60fa8&is=66c4be28&hm=28e9a7ace2f1c7416404ba1e95041b745cda9a5046b828c99ca1a5039445b645&"> </p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
+| ![alt text](assets/images/Estefano_profile.jpg) | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Diego Rolin Acuña Tomas - U202221436
@@ -233,9 +233,12 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 | <p align="center"><img width="3000" height="300" src="assets/images/perfil-Diego.png"> </p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han facinado las computadoras y como se mostraban en las peliculas los expertos en informatica. Hoy en dia entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profecional. Tambien conosco los tipos de base de datos, aprendi sql server para la bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos. |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+
 - Valentino Sandoval Paiva - U20211A962
 
-| <p align="center"><img width="300" height="150" src="assets/images/WASAAAA.jpg"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera.. |
+| ![alt text](assets/images/WASAAAA.jpg) | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 - José Antonio Alejo Cárdenas - U202122484
 
@@ -834,6 +837,12 @@ EPICS:
 | US40           | Integración de widgets personalizados                   | Como usuario de la plataforma, quiero poder añadir widgets personalizados a mi dashboard para tener acceso rápido a la información más relevante para mí.                                                                     | titulo:<br>Dado que estoy en el dashboard, cuando acceda a la opción de personalización, entonces podré añadir o eliminar widgets según mis preferencias.                                                                                                                                                                                                                                                                                                               | EP05                     |
 | US41           | Recordatorios basados en la ubicación                   | Como usuario de la plataforma, quiero recibir recordatorios personalizados basados en mi ubicación para optimizar el tiempo dedicado a tareas.                                                                                | titulo:<br>Dado que mi ubicación es relevante para una tarea, cuando esté cerca del lugar necesario, entonces recibiré un recordatorio para completarla.                                                                                                                                                                                                                                                                                                                | EP05                     |
 | US42           | Configuración avanzada de notificaciones                | Como usuario de la plataforma, quiero tener opciones avanzadas para personalizar las notificaciones que recibo, de acuerdo con mi carga de trabajo.                                                                           | titulo:<br>Dado que quiero ajustar mis notificaciones, cuando acceda a la configuración, entonces podré activar o desactivar notificaciones específicas.                                                                                                                                                                                                                                                                                                                | EP05                     |
+| US43 |Vista General de Beneficios y Funcionalidades |Como usuario potencial, quiero ver una descripción general de los beneficios y funcionalidades clave de la plataforma|Escenario: El usuario potencial visita la página principal.<br>Dado que el usuario potencial ha accedido a la página de inicio, Cuando navega hacia la sección de beneficios y funcionalidades, Entonces puede ver una descripción clara y visualmente destacada de las características clave de la plataforma.|EP06|
+| US44 |Enlaces Directos a Redes Sociales |Como usuario potencial, quiero tener enlaces directos a las redes sociales de la plataforma para seguir la empresa y estar al tanto de novedades.|Escenario: El usuario potencial busca información sobre la plataforma en redes sociales.<br>Dado que el usuario potencial navega a la página de inicio,Cuando se desplaza hasta el pie de página o la sección de contacto,Entonces puede hacer clic en enlaces directos a las redes sociales de la plataforma.|EP06|
+| US45 |Registro Rápido y Simple |Como usuario nuevo, quiero poder registrarme de una manera rápida y sin tantas complicaciones|Escenario: Un nuevo usuario desea registrarse.<br>Dado que el usuario nuevo accede a la página de registro,Cuando completa el formulario con los datos básicos,Entonces puede finalizar el registro sin complicaciones ni pasos adicionales innecesarios.|EP06|
+| US46 |Iniciar Sesión Rápido y Visible |Como usuario de la plataforma, quiero poder iniciar sesión desde un enlace visible en la página principal para acceder rápidamente a mi cuenta.|Escenario: Un usuario de la plataforma busca iniciar sesión.<br>Dado que el usuario accede a la página principal,Cuando localiza el enlace de inicio de sesión en la esquina superior derecha,Entonces puede hacer clic en el enlace e iniciar sesión fácilmente.|EP06|
+| US47 | Resumen de la Empresa, Misión y Visión |Como visitante, quiero ver un resumen de la empresa junto con la misión y visión para entender su enfoque y valores antes de registrarme.|Escenario: El visitante quiere conocer más sobre la empresa antes de registrarse.<br>Dado que el visitante navega por la sección "Acerca de" en la página principal,Cuando lee el contenido de la misión y visión,Entonces puede obtener un resumen claro y conciso sobre la empresa y sus valores.|EP06|
+| US48 |Navegación Clara y Directa en la Página |Como usuario potencial, quiero poder navegar de forma clara y directa entre las secciones de la página para encontrar la información que necesito rápidamente.|Escenario: El usuario potencial navega por las secciones de la página.<br>Dado que el usuario se encuentra en la página principal,Cuando interactúa con el menú de navegación principal,Entonces puede moverse fácilmente entre las secciones sin perderse o sentir confusión.|EP06|
 
 ### 3.3. Impact Mapping
 
@@ -885,6 +894,12 @@ EPICS:
 | 40     | US40          | Integración de widgets personalizados                   | Como usuario de la plataforma, quiero poder añadir widgets personalizados a mi dashboard para tener acceso rápido a la información más relevante para mí.                                                                     |               3               |
 | 41     | US41          | Recordatorios basados en la ubicación                   | Como usuario de la plataforma, quiero recibir recordatorios personalizados basados en mi ubicación para optimizar el tiempo dedicado a tareas.                                                                                |               5               |
 | 42     | US42          | Configuración avanzada de notificaciones                | Como usuario de la plataforma, quiero tener opciones avanzadas para personalizar las notificaciones que recibo, de acuerdo con mi carga de trabajo.                                                                           |               3               |
+| 43 | US43 |Vista General de Beneficios y Funcionalidades |Como usuario potencial, quiero ver una descripción general de los beneficios y funcionalidades clave de la plataforma|2|
+| 44 | US44 |Enlaces Directos a Redes Sociales |Como usuario potencial, quiero tener enlaces directos a las redes sociales de la plataforma para seguir la empresa y estar al tanto de novedades.|2|
+| 45 | US45 |Registro Rápido y Simple |Como usuario nuevo, quiero poder registrarme de una manera rápida y sin tantas complicaciones|3|
+| 46 | US46 |Iniciar Sesión Rápido y Visible |Como usuario de la plataforma, quiero poder iniciar sesión desde un enlace visible en la página principal para acceder rápidamente a mi cuenta.|3|
+| 47 | US47 | Resumen de la Empresa, Misión y Visión |Como visitante, quiero ver un resumen de la empresa junto con la misión y visión para entender su enfoque y valores antes de registrarme.|2|
+| 48 | US48 |Navegación Clara y Directa en la Página |Como usuario potencial, quiero poder navegar de forma clara y directa entre las secciones de la página para encontrar la información que necesito rápidamente.|2|
 
 ## Capítulo IV: Product Design
 
@@ -1492,19 +1507,45 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 ### 4.6.1. Software Architecture Context Diagram
 
 <p align="center">
+<<<<<<< HEAD
+=======
+
+  <img src="/assets/images/Software Architecture Context Diagram 1.png">
+</p>
+<p align="center">
+  <img src="/assets/images/Software Architecture Context Diagram 2.png">
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839713729183817/structurizr-94755-SystemContext-001.png?ex=66d5e71e&is=66d4959e&hm=e54558f4ec2d78e2edeff485a2cd468e86db8eddc1632a7e0083d0051b6cc25d&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839714031042641/structurizr-94755-SystemContext-001-key.png?ex=66d5e71e&is=66d4959e&hm=61f5c1631f96f6e2205a097f5c8f5a8659557c0788806d44a69ae8f6151bc612&">
+<<<<<<< HEAD
+=======
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
+<<<<<<< HEAD
+=======
+
+  <img src="/assets/images/Container Diagrams 1.png">
+</p>
+<p align="center">
+  <img src="/assets/images/Container Diagrams 2.png">
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840140256088167/structurizr-94755-Container-001.png?ex=66d5e783&is=66d49603&hm=eca6e1eb2dd1f793aef71cf888a1bb6e9984ad8a82d9c3cb1ad8087bbe615f41&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840139018768436/structurizr-94755-Container-001-key.png?ex=66d5e783&is=66d49603&hm=7cccd5d4e5a57f83179c889ecd986256c3a2b71430ee0a387147a2bef29c1296&">
+<<<<<<< HEAD
+=======
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1512,28 +1553,67 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 #### **Component: Desarrollo**
 
 <p align="center">
+<<<<<<< HEAD
+=======
+
+  <img src="/assets/images/Components Diagrams 1.png">
+</p>
+<p align="center">
+  <img src="/assets/images/Components Diagrams 2.png">
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293622706317/structurizr-94755-Component-001.png?ex=66d5e896&is=66d49716&hm=67e904d6463271d1321cc72afefaca3b4e8a7fb443257bb90a29747fbd667e2e&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293182439434/structurizr-94755-Component-001-key.png?ex=66d5e896&is=66d49716&hm=f1a27535959e6b92d4c35b6b53a0e2fcf01bea0c0f2b8e43272309ee44649b68&">
+<<<<<<< HEAD
+=======
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 #### **Component: Equipos**
 
 <p align="center">
+<<<<<<< HEAD
+=======
+
+  <img src="/assets/images/Components Diagrams 3.png">
+</p>
+<p align="center">
+  <img src="/assets/images/Components Diagrams 4.png">
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890868994119/structurizr-94755-Component-002.png?ex=66d5e836&is=66d496b6&hm=a679446cc79e0d497298574b40a8858be68f316a8a8c3e9b0484cd9c49dd0c9c&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890172473404/structurizr-94755-Component-002-key.png?ex=66d5e836&is=66d496b6&hm=4df0bc06d24a3b8ddae3f6fa654a0b532c4c37e0017721eae98eb6be5d65fcf9&">
+<<<<<<< HEAD
+=======
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 #### **Component: Opiniones**
 
 <p align="center">
+<<<<<<< HEAD
+=======
+
+  <img src="/assets/images/Components Diagrams 5.png">
+</p>
+<p align="center">
+  <img src="/assets/images/Components Diagrams 6.png">
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326187286678/structurizr-94755-Component-003.png?ex=66d5e89e&is=66d4971e&hm=a0288512c65ad1a22ca380f7a3272bd732b9b9fa84699160122d7a4a6b814dd6&">
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326661369948/structurizr-94755-Component-003-key.png?ex=66d5e89e&is=66d4971e&hm=52011543448b0f111b601a96c0ebff1201049af4f100786727dc7db68f5b976b&">
+<<<<<<< HEAD
+=======
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 </p>
 
 ### 4.7. Software Object-Oriented Design
@@ -1883,23 +1963,34 @@ En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseñ
 - **Evita Comentarios Redundantes:** Evita comentarios obvios o redundantes que no añaden información útil. Los comentarios deben proporcionar claridad y contexto adicional.
 
 ### 5.1.4. Software Deployment Configuration.
-<<<<<<< HEAD
-=======
+
+
 
 En los siguientes pasos se explicará cómo llevar a cabo la implementación de nuestro sitio web utilizando GitHub Pages
 
 
 **Deploy con GitHub Pages:** 
 En primer lugar, accedemos al repositorio de GitHub donde se encuentra nuestro proyecto y luego navegamos hacia la configuración del repositorio.
->>>>>>> docs/cap2
+
 
 ![Settings](https://cdn.discordapp.com/attachments/1246609784501833810/1279964432864116810/image.png?ex=66df95c5&is=66de4445&hm=b41e7bc27ed3e2581b7b9234387cb511481c0a8f4d2132caaf3cc416b5c2e970&)
 
 Dentro del menú de ajustes, elegimos la opción "Pages".
 ![Settings](https://media.discordapp.net/attachments/1246609784501833810/1279964791942938748/image.png?ex=66df961a&is=66de449a&hm=ee9fb4a1237e863e59e2d60a34cd17b56cae39a7fd76246a93c8f8ce7643bc4d&=&format=webp&quality=lossless&width=1007&height=662)
 
+<<<<<<< HEAD
  En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". 
 Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
+=======
+
+**Control de Versiones**
+
+- **Uso de Git:** Mantén un historial completo de cambios y facilita el manejo de diferentes versiones del código.
+
+ En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". 
+Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 
 
 ### 5.2 Landing Page, Services & Applications Implementation.
@@ -1983,6 +2074,67 @@ En este Sprint, los miembros del equipo de desarrollo de software de Horizon han
 
 <p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
 
+<<<<<<< HEAD
+=======
+
+- **Documentación del Proceso:** Documenta el proceso de despliegue y mantenimiento para facilitar la gestión y comprensión del equipo.
+
+### 5.2 Landing Page, Services & Applications Implementation.
+
+El desarrollo, testeo y despliegue de nuestra landing page es importante para que nuestros clientes puedan acceder a la información sobre nuestra empresa y producto a través de una interfaz con diseño responsivo, navegación intuitiva y solo con información relevante. Esta primera etapa nos permite crear un diseño conceptual sobre la estética que nuestra aplicación completa y lista para su uso. Estas etapas nos ayudaran a dar una primera impresión a los clientes para validar ideas e identificar problemas que se deben solucionar.
+
+### 5.2.1 . Sprint 1
+
+El primer sprint es una etapa importante en nuestro marco de gestión de proyectos de metodología ágil Scrum. En este periodo, agendamos reuniones con el objetivo de conocer mejor las características de cada integrante, y delegamos tareas para materializar el diseño y funcionalidades ya establecidas, para transformarlos en un landing page funcional y que cumple las heurísticas.
+
+#### 5.2.1.1 Sprint Planning 1.
+
+El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
+
+
+| Sprint #                       | Sprint 1                            |
+|---------------------------------|-------------------------------------|
+| **Sprint Planning Background**  |                                     |
+| **Date**                        | 06/09/2024                         |
+| **Time**                        | 12:00 AM                           |
+| **Location**                    | Discord (Reunión virtual)           |
+| **Prepared By**                 | Jaque Peña, Estefano Oscar          |
+| **Attendees (to planning meeting)** | Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva, Valentino/Jaque Peña, Estefano Oscar  |
+| **Sprint Goal & User Stories**  |                                     |
+| **Sprint 1 Goal**               | Finalizar el informe y el despliegue de nuestro Landing Page desde el repositorio de GitHub. Usaremos Trello para demostrar el cumplimiento, moviendo todas las tareas asignadas a la columna "Terminado". |
+| **Sprint 1 Velocity**           | US43(2points),US44(2points),US45(3points),US46(3points),US47(2points),US48(2points) |
+| **Sum of Story Points**         | 14 |
+
+#### 5.2.1.2 Sprint Backlog 1.
+Para el primer sprint backloge, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
+
+![alt text](assets/images/Trello.png)
+
+| sprint # | Sprint 1 | | | | | | |
+|-|-|-|-|-|-|-|-|
+|User<br>Story| |Work-Item /Task| | | | | |
+|ID|Title|ID|Title|Description|Estimation<br>(Hours)|Assigned<br>To|Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)|
+|US43|Vista General de Beneficios y Funcionalidades|TA001|Implementación de Sección de Beneficios|Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.|½ hora|Arevalo Meza, John Telesforo |Done|
+|US44|Enlaces Directos a Redes Sociales|TA001|Implementación de Enlaces a Redes Sociales|Agregar enlaces visuales y funcionales a las redes sociales en la página principal.|½ hora|Sandoval Paiva, Valentino |Done|
+|US45|Registro Rápido y Simple|TA001|Diseño e Implementación del Registro de Usuario|Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.|½ hora|Jaque Peña, Estefano Oscar |Done|
+|US46|Iniciar Sesión Rápido y Visible|TA001|Implementación de Enlace de Inicio de Sesión|Agregar un enlace visible para iniciar sesión en la esquina superior de la página.|1 hora|Jaque Peña, Estefano Oscar |Done|
+|US47|Resumen de la Empresa, Misión y Visión|TA001|Creación de Sección "Acerca de Nosotros"|Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.|½ hora|Alejo Cardenas, Jose Antonio |Done|
+|US48|Navegación Clara y Directa en la Página|TA001|Diseño del Menú de Navegación|Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.|½ hora|Acuña Tomas, Diego Rolin|Done|
+
+#### 5.2.1.3 Development Evidence for Sprint Review
+
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
+
+Debido a que en este sprint se desarrolló únicamente el Landing Page se omitirá esta sección. En próximas etapas del proyecto se ofrecerá información sobre esta sección.
+
+#### 5.2.1.5 Execution Evidence for Sprint Review.
+
+En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado el Landing Page. Mostraremos imágenes para observar que nuestra página muestra limpia e intuitivamente información sobre nuestro producto y nuestra empresa.
+
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
+
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 <p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
 
 <p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-3.png"></p>
@@ -2006,6 +2158,10 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282418510726828176/image.png?ex=66df48cf&is=66ddf74f&hm=38e125dae2120e39a7ead0a30c979bbd8320b50bb889fc2119a90ca8b4cca5f2&"></p>
 
 ### Conclusiones
+<<<<<<< HEAD
+=======
+
+>>>>>>> 790556ca14d13c051df8683b0165b0cb7c2ffc7a
 - Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
 
 
