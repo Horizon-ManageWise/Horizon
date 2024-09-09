@@ -69,11 +69,60 @@ Product: ManageWise
       4. [Empathy Mapping](#234-empathy-mapping)
       5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)
    4. [Ubiquitous Language](#24-ubiquitous-language)
-3. [**Capítulo II: Requirements Specification**](#capítulo-iii-requirements-specification)
+3. [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification)
    1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)
    2. [User Stories](#32-user-stories)
    3. [Impact Mapping](#33-impact-mapping)
    4. [Product Backlog](#34-product-backlog)
+4. [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
+   1. [Style Guidelines](#41-style-guidelines)
+      1. [General Style Guidelines](#411-general-style-guidelines)
+      2. [Web Style Guidelines](#412-web-style-guidelines)
+   2. [Information Architecture](#42-information-architecture)
+      1. [Organization Systems](#421-organization-systems)
+      2. [Labeling Systems](#422-labeling-systems)
+      3. [SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      4. [Searching Systems](#424-searching-systems)
+      5. [Navigation Systems](#425-navigation-systems)
+   3. [Landing Page UI Design](#43-landing-page-ui-design)
+      1. [Landing Page Wireframe](#431-landing-page-wireframe)
+      2. [Landing Page Mock-up](#432-landing-page-mock-up)
+   4. [Web Applications UX/UI Design](#44-web-applications-uxui-design)
+      1. [Web Applications Wireframes](#441-web-applications-wireframes)
+      2. [Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+      3. [Web Applications Mock-ups](#443-web-applications-mock-ups)
+      4. [Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+   5. [Web Applications Prototyping](#45-web-applications-prototyping)
+   6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+      1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+      2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+      3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+   7. [Software Object-Oriented Design](#47-software-object-oriented-design)
+      1. [Class Diagrams](#471-class-diagrams)
+      2. [Class Dictionary](#472-class-dictionary)
+   8. [Database Design](#48-database-design)
+      1. [Database Diagram](#481-database-diagram)
+5. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation--deployment)
+   1. [Software Configuration Management](#51-software-configuration-management)
+      1. [Software Development Environment Configuration](#511-software-development-environment-configuration)
+      2. [Source Code Management](#512-source-code-management)
+      3. [Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+      4. [Software Deployment Configuration](#514-software-deployment-configuration)
+   2. [Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+      1. [Sprint 1](#521-sprint-1)
+         1. [Sprint Planning 1](#5211-sprint-planning-1)
+         2. [Sprint Backlog 1](#5212-sprint-backlog-1)
+         3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+         4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+         5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+         6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+         7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+         8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+   3. [Validation Interviews](#53-validation-interviews)
+      1. [Diseño de Entrevistas](#531-diseño-de-entrevistas)
+      2. [Registro de Entrevistas](#532-registro-de-entrevistas)
+      3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+   4. [Video About-the-Product](#54-video-about-the-product)
 
 ## Student Outcome
 
@@ -84,8 +133,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio especifico                                                          | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Conclusiones  |
 | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| 1. Comunica oralmente con efectividad <br>a diferentes rangos de audiencia   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas:** <br>TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**John Telesforo Arevalo Meza**<br> TB1: Realice el Lean UX Canvas y los segmentos objetivos<br>**Valentino Sandoval Paiva** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática | **TB1:** <br> |
-| 2. Comunica por escrito con efectividad <br>a diferentes rangos de audiencia | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas**<br> TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**John Telesforo Arevalo Meza**<br> TB1: Realice el Lean UX Canvas y los segmentos objetivos<br>**Valentino Sandoval Paiva** <br>TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática  | **TB1:** <br> |
+| 1. Comunica oralmente con efectividad <br>a diferentes rangos de audiencia   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas:** <br>TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**John Telesforo Arevalo Meza**<br> TB1: Realice el Lean UX Canvas y los segmentos objetivos<br>**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. | **TB1:** <br> |
+| 2. Comunica por escrito con efectividad <br>a diferentes rangos de audiencia | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions<br> **Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas**<br> TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**John Telesforo Arevalo Meza**<br> TB1: Realice el Lean UX Canvas y los segmentos objetivos<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software."  | **TB1:** <br> |
 
 ## Capítulo I: Introducción
 
@@ -121,7 +170,7 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 - Valentino Sandoval Paiva - U20211A962
 
-| <p align="center"><img width="300" height="150" src="https://cdn.discordapp.com/attachments/1246609784501833810/1275484304943616051/Captura_de_pantalla_2024-08-20_102209.png?ex=66c60ed3&is=66c4bd53&hm=93399dd5df3ba222969547f5ace957106ac6fa4db31ec965eff3633c76d4a248&"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| <p align="center"><img width="300" height="150" src="assets/images/WASAAAA.jpg"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera.. |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - José Antonio Alejo Cárdenas - U202122484
@@ -143,83 +192,43 @@ La gestión de proyectos requiere la aplicación de conocimientos, herramientas,
 En consecuencia, un project manager capacitado es pieza clave en la competitividad de una empresa.
 Sin embargo, aun con sus conocimientos le falta una herramienta que facilite la observación del avance del proyecto que pueda ayudar a reducir los fracasos de los proyectos y mejorar el rendimiento de la organización del proyecto.
 
-###### What?
+#### What? 
+¿Qué problema hay? La problemática principal es la falta de herramientas especializadas en el rubro del desarrollo de software que permitan a los project managers (PM) facilitar el seguimiento y la gestión de proyectos. Los problemas específicos incluyen la falta de planificación adecuada, asignación inadecuada de recursos, y dificultades en el seguimiento del progreso de los miembros del equipo.
 
-- _¿Qué problema hay?_
+¿Qué relación tiene el problema con el usuario/cliente? El problema afecta directamente la capacidad de los PM para gestionar proyectos de manera efectiva. Esto puede llevar a plazos retrasados, conflictos no resueltos, y un uso ineficiente de los recursos, impactando negativamente en la eficiencia del proyecto y en el ambiente laboral.
 
-El problema a resolver es la falta de herramientas especializadas en el rubro del desarrollo de software que el PM tiene para facilitar sus responsabilidades. Los problemas clave a solucionar son la falta de planificación, la asignación inadecuada de recursos, seguimiento del progreso de los miembros del equipo, entre otros. Además, debe comunicar sus medidas para solucionar estos problemas y notificar cualquier cambio en el plan o nuevo problema.
+#### When? 
+¿Cuándo sucede el problema? El problema se manifiesta cuando los PM no pueden realizar un seguimiento continuo y detallado del avance del proyecto o de las tareas asignadas a cada miembro del equipo. Esto ocurre especialmente en situaciones en las que los miembros del equipo no comunican retrasos o problemas a tiempo, impidiendo al PM actuar de manera oportuna.
 
-- _¿Qué relación tiene el problema con el usuario/cliente?_
+¿Cuándo el cliente necesita el programa? El cliente necesita el programa durante todo el ciclo de vida del desarrollo del software. Desde la fase de planificación, donde se definen las tareas y los plazos, hasta la fase de monitoreo y evaluación del progreso. La herramienta es crucial para gestionar y controlar el avance continuo y resolver problemas conforme surgen.
 
-Si el PM no puede cumplir con sus responsabilidades, esto puede llevar a plazos atrasados, dificultad para resolver un conflicto y uso ineficiente de la mano de obra. Por ello, una herramienta que permita conceptualizar, implementar y monitorear el proyecto asignado tendrá como consecuencia una menor tasa de fracaso y menor costo, además de un ambiente laboral saludable.
+#### Where? 
+¿Dónde el cliente usará el producto? El cliente usará la herramienta en sus entornos de trabajo habituales, como oficinas o desde sus hogares, dado que muchas veces el trabajo en desarrollo de software no requiere presencia física constante en una oficina. La herramienta debe ser accesible desde diferentes ubicaciones y dispositivos.
 
-###### When?
+¿A quién está destinado? La herramienta está destinada a project managers y miembros de los equipos de desarrollo de software. Está diseñada para ser usada por cualquier persona involucrada en la gestión y ejecución del proyecto, facilitando la coordinación y el seguimiento de tareas y recursos.
 
-- _¿Cuándo sucede el problema?_
+#### Who? 
+¿Quiénes van a involucrarse con nuestra aplicación? Los principales usuarios serán los project managers y los miembros del equipo del proyecto. Ellos utilizarán la aplicación para registrar avances, comunicar problemas y actualizar el estado de las tareas. Además, otros interesados en el proyecto, como líderes de equipos y supervisores, también interactuarán con la herramienta para monitorear el progreso y recibir notificaciones.
 
-El problema ocurre porque el PM no puede hacer un seguimiento continuo de los proyectos o tareas asignadas a cada miembro del equipo, en otras palabras si existe algún retraso o problema y el miembro del equipo no lo comunica el PM no podrá actuar rápidamente.
+¿Quiénes son afectados por el problema? El problema afecta a toda la organización involucrada en el proyecto. Incluye desde los miembros del equipo que pueden enfrentar dificultades para cumplir sus tareas eficientemente, hasta la empresa en general que podría experimentar retrasos, costos adicionales y pérdida de confianza si los proyectos no se gestionan adecuadamente.
 
-- _¿Cuándo el cliente necesita el programa?_
+#### Why? 
+¿Por qué ocurre el problema? El problema ocurre debido a la falta de herramientas especializadas que se adapten a las necesidades específicas del desarrollo de software. Las aplicaciones de gestión de proyectos existentes no suelen ofrecer características detalladas que los PM necesitan para comprender en profundidad el progreso y los problemas técnicos del proyecto.
 
-El cliente objetivo son los PM, los encargados de un proyecto usarán nuestro programa para registrar las tareas del proyecto y los equipos de trabajo, asignar tareas y plazos, y muchas más herramientas para facilitar su labor. También, será útil en el ciclo de vida del desarrollo pues le permitirá observar de manera continua el desarrollo que aporta cada miembro del equipo y se le notificará cuando una tarea no se cumple o no avanza según lo planeado.
+¿Por qué los clientes elegirían utilizar nuestro producto? Los clientes optarían por nuestra herramienta porque ofrece una solución adaptada a las necesidades del desarrollo de software, con funciones especializadas para planificación, seguimiento, y gestión de tareas técnicas y colaborativas. Esto mejora la eficiencia y la probabilidad de éxito del proyecto, ofreciendo un valor significativo frente a las herramientas genéricas existentes.
 
-###### Where?
+#### How? 
+¿Cómo nos descubren nuestros clientes? Nuestros clientes pueden descubrir nuestra herramienta a través de estrategias publicitarias en línea, como anuncios en redes sociales y campañas de email marketing. También es fundamental el boca a boca y las recomendaciones de empresas que ya utilizan nuestro producto y han visto mejoras en la gestión de sus proyectos.
 
-- _¿Dónde el cliente usara el producto?_
+¿Cómo pueden los clientes acceder a nuestro contenido? Los clientes podrán acceder a nuestra aplicación desde diversos dispositivos, incluyendo teléfonos inteligentes, tablets, y computadoras. La plataforma será compatible con diferentes sistemas operativos y proporcionará una experiencia de usuario fluida y accesible desde cualquier lugar.
 
-Al especializarnos en el desarrollo de software, los usuarios pueden usar nuestro programa en las oficinas de la empresa en la que trabajan o en sus hogares, pues en muchos proyectos de desarrollo de software no es necesario las reuniones presenciales.
-
-- _¿A quién está destinado?_
-
-Hoy en día, las empresas son conscientes del impacto en el éxito o fracaso del PM en un proyecto, y un PM no puede cumplir las expectativas sin herramientas que le permitan planificar, ejecutar y controlar, nuestra aplicación le otorgará todas las herramientas. En consecuencia las organizaciones entienden la necesidad de adquirir nuestro producto para su equipo de trabajo.
-
-###### Who?
-
-- _¿Quiénes van a involucrarse con nuestra aplicación?_
-
-Los involucrados en el uso de nuestra aplicación son los miembros de trabajo y el director del proyecto, todos los involucrados deben usarlo para mandar sus avances, resultados de testeo o incluso mensajes, todo para que el equipo este comunicado a lo largo del ciclo de vida del proyecto.
-
-- _¿Quiénes son afectados por el problema?_
-
-El problema afecta a todos los miembros de la organización, pues cuando no puedes cumplir un proyecto genera retrasos, pérdidas monetarias, despidos, pérdida de la confianza en la empresa, entre otros. Por supuesto, las consecuencias dependen de la importancia del proyecto, sin embargo para todos la probabilidad de éxito aumenta cuando el PM puede cumplir con su deber con más eficiencia.
-
-- _¿Quién utilizará este producto?_
-
-Los miembros del equipo de trabajo del proyecto para ingresar sus avances o cambios, para notificar que cumplieron sus tareas, para mandar notificaciones sobre problemas encontrados o errores sin solución aparente, entre otros. Los líderes de los equipos o el gerente del proyecto podrán ver el avance del proyecto, recibir notificaciones si una tarea no se cumplió en sus plazos, la eficiencia de los miembros del equipo y comunicar al equipo los cambios de responsabilidades para responder a un problema.
-
-###### Why?
-
-- _¿Por qué ocurre el problema?_
-
-Queremos solucionar la escasez de programas para la gestión de proyectos especializados en el desarrollo de software. En la actualidad, las aplicaciones de gestión de proyectos no están especializadas, por lo que la mayoría no tiene las herramientas que le permitirían al PM conocer con detalle cómo los miembros de su equipo están programando. Aspectos como el lenguaje de programación, frameworks, base de datos relacional o no relacional, los resultados del testeo con detalle, entre otros, son información muy necesaria para el trabajo de equipo.
-
-- _¿Por qué los clientes elegirían utilizar nuestro producto?_
-
-Lo usan antes, durante y después del Ciclo de Vida del Desarrollo de Software (SDLC). Lo usarán antes para planear las tareas del proyecto, definir equipos de trabajo, el uso de lenguajes de programación y frameworks, entre otros. Durante el SDLC, los trabajadores pueden mandar su trabajo y los supervisores pueden tomar medidas para cualquier retraso o problema con la ruta de tareas. Después del SDLC, la empresa podrá ver la información sobre el desempeño de cada trabajador y evaluarlos.
-
-- _¿Por qué las personas estarán motivadas a usar nuestra aplicación?_
-
-Las empresas conocen la importancia de un project manager en el ciclo de vida del desarrollo de software, pero también conocen el costo que requeriría contratar muchos para un solo proyecto. Las herramientas adecuadas permitirían que un número reducido de PM pueden cumplir sus deberes de igual o incluso más eficiente que muchos. En otras palabras, con la herramienta de gestión de proyectos especializada en desarrollo de software permitirá bajar costos y mantener la probabilidad de éxito del proyecto,e incluso podría incluso aumentarla.
-
-###### Who?
-
-- _¿Cómo nos descubren nuestros clientes?_
-
-Nuestros clientes pueden conocer nuestra marca a través de una amplia variedad de estrategias publicitarias en línea, que incluyen anuncios en redes sociales, banners en sitios web relevantes y campañas de email marketing. Además, la recomendación de empresas que ya han experimentado la calidad de nuestro producto y se han beneficiado de él jugará un papel crucial en la difusión de nuestra marca mediante el boca a boca.
-
-- _¿Cómo pueden los clientes acceder a nuestro contenido?_
-
-El acceso a nuestro contenido será muy sencillo y flexible. Los clientes podrán conectarse a través de cualquier dispositivo móvil, ya sea un teléfono inteligente, una tablet, o una laptop. Además, nuestra plataforma será completamente funcional en computadoras de escritorio y portátiles, asegurando así una experiencia de usuario fluida y accesible desde múltiples tipos de dispositivos.
-
-- _¿Qué factores llevan a los clientes a elegirnos?_
-
-Los clientes se sentirán atraídos hacia nuestra solución por la facilidad que ofrecemos en la gestión de proyectos. Nuestra herramienta está diseñada para centralizar toda la información relevante, facilitando su acceso para todos los miembros del equipo y partes interesadas en el proyecto. Al proporcionar una plataforma que mejora la coordinación y transparencia, permitimos a los clientes optimizar su flujo de trabajo y mejorar la eficiencia en el desarrollo de proyectos, lo que les lleva a elegirnos como su proveedor preferido.
+¿Qué factores llevan a los clientes a elegirnos? Los clientes elegirán nuestra solución debido a su capacidad para centralizar toda la información relevante del proyecto, facilitando la coordinación y la transparencia. La mejora en la gestión y seguimiento de proyectos, así como la eficiencia en la comunicación entre miembros del equipo, serán factores clave para la elección de nuestra herramienta. Dame el How much pero ideas como esas
 
 ###### How much?
 
-A lo largo de la vida de un proyecto, es común observar diferentes etapas que reflejan su estado de salud o dificultades. Cuando surgen problemas inesperados, es fundamental realizar un diagnóstico preciso para identificar las causas subyacentes y desarrollar soluciones adecuadas. Los problemas frecuentes que pueden surgir incluyen una comprensión deficiente de los objetivos del proyecto, la falta de un plan detallado y claro, problemas en el control y la comunicación, una gestión ineficaz de los cambios y de las partes interesadas, y una falta de motivación entre los miembros del equipo.
+La falta de herramientas especializadas en la gestión de proyectos de software puede causar retrasos costosos y pérdidas de ingresos debido a una planificación y seguimiento inadecuados. Estos retrasos también incrementan los costos operativos por ajustes y correcciones necesarias, afectando negativamente las finanzas de la empresa y la productividad del equipo.
 
-Además, es importante considerar otros factores que pueden afectar la salud del proyecto, como la falta de recursos adecuados, la resistencia al cambio, y la falta de alineación entre los miembros del equipo y los objetivos del proyecto. También puede haber problemas con la integración de nuevas tecnologías o herramientas, así como dificultades en la adaptación a condiciones cambiantes del mercado o del entorno empresarial. Abordar estos aspectos de manera proactiva y con una estrategia bien definida puede ayudar a mantener el proyecto en el camino correcto y garantizar su éxito a largo plazo.
+Además, los problemas de comunicación y coordinación pueden generar conflictos y reducir la moral del equipo, resultando en costos adicionales y mayor rotación de personal. La alta tasa de fracaso de proyectos por una gestión deficiente también puede dañar la reputación de la empresa, reduciendo futuras oportunidades de negocio y destacando la urgencia de solucionar esta problemática.
 
 ### 1.2.2. Lean UX Process
 
@@ -408,7 +417,9 @@ Preguntas :
 preguntas ordenadas para entrevistar a los dos segmentos objetivos de la startup "Horizon":
 
 ### Segmento: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
+
 **Principales:**
+
 1. **Introducción al Rol**: ¿Podría describir su rol en la empresa y las principales responsabilidades que tiene en el área de desarrollo de software?
 2. **Contexto Empresarial**: ¿Cuál es el enfoque principal de su empresa en términos de productos o servicios de software?
 3. **Crecimiento y Desafíos**: ¿Cuáles son los mayores desafíos que enfrenta su empresa actualmente en términos de crecimiento y gestión de proyectos?
@@ -434,7 +445,9 @@ preguntas ordenadas para entrevistar a los dos segmentos objetivos de la startup
 5. **Soporte y Actualizaciones**: ¿Qué expectativas tiene respecto al soporte técnico y la frecuencia de actualizaciones de una herramienta de gestión de proyectos?
 
 ### Segmento: Equipo de Desarrollo de Software
+
 **Principales:**
+
 1. **Introducción al Rol**: ¿Podría compartirnos un poco sobre su rol en el equipo de desarrollo y las tareas diarias que realiza?
 2. **Contexto del Equipo**: ¿Cómo describiría la estructura de su equipo y el tipo de proyectos en los que trabajan habitualmente?
 3. **Desafíos en el Desarrollo**: ¿Cuáles son los principales desafíos que enfrenta su equipo en la gestión del flujo de trabajo y la colaboración?
@@ -466,20 +479,20 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
 #### Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
 
 1. Entrevista 1: <br>
- Datos del entrevistado <br>
- Nombre: Juan <br>
- Apellidos: de la Cruz<br>
- Edad: 23 <br>
- Distrito: San Martin de Porres <br>
+   Datos del entrevistado <br>
+   Nombre: Juan <br>
+   Apellidos: de la Cruz<br>
+   Edad: 23 <br>
+   Distrito: San Martin de Porres <br>
 
-  ![Foto de entrevista](https://cdn.discordapp.com/attachments/1246609784501833810/1277318553988632699/image.png?ex=66ccbb1a&is=66cb699a&hm=b995577f14876ecdd835e90c2b15690c8061761b6904b536b842403d76e2f9b8&)
-  
-  URL: [Link de entrevista](https://drive.google.com/file/d/1WrxFb_8KqRk6mWSrgUbvFpkfpjyIU0vI/view?usp=sharing)
+![Foto de entrevista](assets/images/image.png)
 
- Inicio: 0:00<br>
- Duracion: 8:24
- 
- Resumen:<br>
+URL: [Link de entrevista](https://drive.google.com/file/d/1WrxFb_8KqRk6mWSrgUbvFpkfpjyIU0vI/view?usp=sharing)
+
+Inicio: 0:00<br>
+Duracion: 8:24
+
+Resumen:<br>
 La entrevista con Juan de la Cruz, lidel del Grupo JPSP, reveló aspectos clave sobre la gestión de proyectos y el impacto de las herramientas que existen actualmente. El destacó que su principal responsabilidad es supervisar al equipo de desarrollo para cumplir con los plazos y estándares de calidad, mientras maneja el crecimiento rápido y los desafíos de integración tecnológica. Aunque también menciono que ha tenido experiencias mixtas con las herramientas actuales, principalmente debido a problemas de integración y personalización, considera esencial que las nuevas soluciones ofrezcan flexibilidad, integración fluida y capacidades avanzadas. La incorporación de tecnologías emergentes, como la inteligencia artificial, es vista como crucial para mejorar la eficiencia y la toma de decisiones. Además, se busca una solución que facilite la colaboración y la comunicación centralizada, y que esté dispuesta a adaptarse a las necesidades cambiantes del equipo. El entrevistado enfatiza la importancia de la seguridad y prioriza a los proveedores que brindan soporte confiable y pueden adaptar sus soluciones a los requisitos individuales. En el futuro, se espera una evolución hacia mayor automatización y herramientas que se adapten rápidamente a los cambios en los proyectos.
 
 2.  Entrevista 2: <br>
@@ -572,9 +585,11 @@ La entrevista con Rodrigo, reveló aspectos clave sobre cómo percibe su entorno
 ### 2.2.3. Análisis de entrevistas
 
 #### Análisis Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento
+
 Durante las entrevistas realizadas a distintos lideres o gerentes de empresas de desarrollo de software indican una necesidad urgente de modernizar las herramientas de gestión de proyectos, con un enfoque en la integración de tecnologías emergentes como la inteligencia artificial. Los entrevistados destacan la importancia de que estas herramientas sean intuitivas, adaptables a diferentes dispositivos y seguras, además de facilitar una integración fluida y una personalización acorde a las necesidades del equipo. También subrayan la importancia de una buena relación costo-beneficio, con un énfasis en que las nuevas soluciones deben mejorar la eficiencia, la colaboración y la protección de datos, al tiempo que se adaptan a las cambiantes demandas del proyecto.
 
 #### Análisis Segmento 2: Equipo de Desarrollo de Software
+
 Las entrevistas revelan que los equipos de desarrollo de software enfrentan desafíos significativos con las herramientas de gestión actuales. Un problema común es la falta de flexibilidad y adaptabilidad de estas herramientas, lo que limita la colaboración y la eficiencia del trabajo en equipo. Las herramientas existentes suelen ser percibidas como poco intuitivas y difíciles de personalizar, lo que afecta tanto la comunicación dentro del equipo como la capacidad para ajustar los procesos a diferentes metodologías de trabajo. Además, se destaca la importancia de contar con herramientas innovadoras que ofrezcan una interfaz de usuario mejorada y un seguimiento constante del progreso. Los entrevistados coinciden en que las herramientas ideales deben ser precisas, fiables y adaptables a los distintos modelos de negocio, con el objetivo de mejorar la gestión de proyectos y optimizar el flujo de trabajo. La incorporación de tecnologías emergentes y la atención a la facilidad de uso son vistas como claves para superar las limitaciones actuales y fomentar una mayor eficiencia y colaboración en los equipos de desarrollo.
 
 ### 2.3. Needfinding
@@ -599,12 +614,10 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 ### 2.3.2. User Task Matrix
 
-# Comparación de Tareas: Fabricio vs. María
-
 | **Tarea**                                                                    | **FABRICIO Frecuencia** | **FABRICIO Importancia** | **MARÍA Frecuencia** | **MARÍA Importancia** |
 | ---------------------------------------------------------------------------- | ----------------------- | ------------------------ | -------------------- | --------------------- |
 | Monitorear operaciones y gestionar proyectos                                 | A menudo                | Alta                     | A menudo             | Alta                  |
-| Evaluar y seleccionar software de gestión de proyectos                       | A veces                 | Alta                     | A veces              | Alta                  |
+| Evaluar y seleccionar software de gestión de proyectos                       | A menudo                | Alta                     | A menudo             | Alta                  |
 | Verificar la adaptabilidad y facilidad de uso del software                   | A veces                 | Alta                     | A veces              | Alta                  |
 | Asegurarse de que el software tenga seguridad de datos                       | A veces                 | Alta                     | A veces              | Alta                  |
 | Investigar sobre nuevas tecnologías e IA aplicadas a la gestión de proyectos | Mensual                 | Media                    | Mensual              | Media                 |
@@ -613,8 +626,9 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 | Evaluar la precisión y fiabilidad de las herramientas usadas                 | Mensual                 | Alta                     | Mensual              | Alta                  |
 | Adaptar herramientas a los modelos de negocio específicos                    | A veces                 | Alta                     | A veces              | Alta                  |
 | Mantener un registro del avance de cada miembro del equipo                   | A menudo                | Alta                     | A menudo             | Alta                  |
+    | Alta                  |
 
-### 2.3.3. User Journey Mapping 
+### 2.3.3. User Journey Mapping
 
 #### User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software
 
@@ -692,6 +706,19 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 ### 2.4. Ubiquitous Language
 
+| Término              | Definición                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Proyecto**         | En el contexto del ciclo de vida de desarrollo de software, un proyecto es el uso de la mano de obra de programadores de manera estructurada y con planificación para el desarrollo de un producto de software especifico, para cumplir con objetivos, marco de tiempo y presupuesto definidos en reuniones con expertos en otras áreas.                                                                                                                                                                                                     |
+| **Herramienta**      | En este contexto, una herramienta se refiere a un software, aplicación o recurso que se especializa en facilitar o automatizar aspectos de la gestión, desarrollo o comunicación en el proceso de desarrollo de un software especifico.                                                                                                                                                                                                                                                                                                      |
+| **Opciones**         | En este contexto, las opciones son las diferentes características, funcionalidades, configuraciones que las herramientas que ayudan en la gestión de desarrollo de software ofrecen.                                                                                                                                                                                                                                                                                                                                                         |
+| **Scrum**            | Scrum es un marco de gestión de proyectos de mitología ágil que es popular entre los desarrolladores de software. Facilita la gestión y ejecución de proyectos mediante reuniones recurrentes y tiempos específicos de entrega de avances, una ventaja significativa es su predisposición a ser flexible y permitir adaptarse a los cambios.                                                                                                                                                                                                 |
+| **Product owner**    | Es un rol dentro del Scrum y miembro del Scrum Team, su función es ser el contacto entre los desarrolladores del proyecto y los clientes internos. Los últimos conocen las características que los clientes finales buscan, necesitan y utilizan, sin embargo, el Product owner debe filtrar por razones económicas, limitaciones tecnológicas o falta de experiencia del equipo de desarrollo para decidir qué características son aceptadas. Recordando que el Scrum pide la mayor cantidad de funcionalidades en el menor tiempo posible. |
+| **Scrum Master**     | Es un rol dentro del Scrum y miembro del Scrum Team, sin embargo, no es un líder, él es un personal encargado en facilitar y corroborar el cumplimiento del Scrum de parte de todos los miembros del equipo de desarrollo. Entre sus responsabilidades esta la planificación de reuniones en todo el ciclo de tiempo de cada Sprint y estimar el tiempo para completar cada objetivo.                                                                                                                                                        |
+| **Development Team** | En el Scrum se refiere al equipo de desarrollo del producto de software conformado por profesionales como los programadores, Frontends o Backends, y miembros del Scrum Team. Aquí se encuentran también los lideres del proyecto o los Project mánager, pues aquí se encuentran todos los que no tienen un rol especifico dentro del Scrum.                                                                                                                                                                                                 |
+| **Customers**        | Es un rol en Scrum pero no son miembros del Scrum Team, son los clientes internos de la organización, ellos reconocen y comunican las características, apariencias o facilidades debe tener el software desarrollado. Aquí se encuentran los equipos de marketing, contabilidad, ventas todas las personas que pueden dar una opinión informada de otros campos, sin embargo, aquí no se encuentran los usuarios finales.                                                                                                                    |
+| **Backlog**          | Dentro del Scrum es una lista de historias de usuario de donde se pueden sacar una o varias tareas filtradas por el Product owner y aprobadas por los Customers, pero solo el Development Team decide el orden y cantidad de objetivos desarrollados en cada sprint.                                                                                                                                                                                                                                                                         |
+| **Sprint**           | El tiempo de desarrollo con Scrum se divide en Sprints, generalmente duran entre 1 y 4 semanas y se caracterizan en que terminado el tiempo estimado se espera que una parte funcional del proyecto este ya desarrollado.                                                                                                                                                                                                                                                                                                                    |
+
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
@@ -714,12 +741,59 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 ### 3.2. User Stories
 
-| User Storiy ID | Título                                          | Descripción                                                                                                                                           |
-| -------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HU01           | Grafico radial de habilidades                   | Como lider de equipo, quiero que la plataforma refleje un gráfico radial sobre las debilidades y fortalezas de cada integrante                        |
-| HU02           | Integración de cronogramas                      | Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes                                                       |
-| HU03           | Alertas ante inactividad o paso de fecha limite | Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega |
-| HU04           | Implementación de mensajes directos             | Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros                                      |
+EPICS:
+|EPIC(ID)|Titulo|Descripcion|
+|--------|------|-----------|
+|EP01|Optimización de la gestión de tareas|Como líder de proyecto, quiero optimizar la asignación y el seguimiento de tareas para mejorar la eficiencia en el desarrollo y entrega de proyectos.|
+|EP02|Colaboración efectiva del equipo|Como líder de equipo, quiero facilitar la colaboración y la comunicación centralizada para mejorar el intercambio de información y coordinación entre los miembros.|
+|EP03|Automatización de la gestión del rendimiento|Como líder de proyecto, quiero automatizar el análisis del rendimiento del equipo para identificar oportunidades de mejora de forma eficiente.|
+|EP04|Seguridad y control del proyecto|Como administrador de la plataforma, quiero implementar medidas avanzadas de seguridad y control para garantizar la protección de los datos y el éxito del proyecto.|
+|EP05|Personalización y adaptabilidad de la plataforma|Como usuario de la plataforma, quiero poder personalizar la interfaz y funciones para adaptar la herramienta a las necesidades específicas del proyecto.|
+
+| User Storiy ID | Título                                                  | Descripción                                                                                                                                                                                                                   | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Relacionado con(Epic ID) |     |
+| -------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | --- |
+| US01           | Comentar actividades                                    | Como líder del equipo, quiero que la plataforma me permita agregar comentarios a los trabajos y actividades realizadas por los diferentes miembros del equipo, y una vez sean tomados en cuenta, poder eliminarlos.           | titulo:<br>Dado que un miembro del equipo está visualizando una tarea, cuando desee agregar un comentario, entonces podrá hacerlo directamente en la sección de comentarios y este se mostrará en tiempo real a todos los miembros del equipo.<br>titulo2:<br>Dado que un comentario ha sido agregado, cuando otros miembros visualicen la tarea, entonces verán el nuevo comentario junto con los anteriores en orden cronológico.                                     | EP02                     |
+| US02           | Análisis de rendimiento basado en IA                    | Como líder de proyecto, quiero que la plataforma utilice inteligencia artificial para analizar el rendimiento de los miembros del equipo y proporcionar recomendaciones personalizadas para mejorar la eficiencia.            | titulo:<br>Dado que el sistema ha recogido datos de rendimiento durante una semana, cuando el líder de proyecto solicite un análisis, entonces el sistema generará un informe detallado utilizando inteligencia artificial, destacando tendencias y áreas de mejora.<br>titulo2:<br>Dado que el análisis de IA está completo, cuando el líder de proyecto lo revise, entonces podrá ver recomendaciones específicas para optimizar el rendimiento del equipo.           | EP03                     |
+| US03           | Personalización de interfaz                             | Como usuario de la plataforma, quiero poder personalizar la interfaz según mis preferencias y necesidades para facilitar el acceso rápido a las herramientas y funciones más utilizadas.                                      | titulo:<br>Dado que un usuario desea personalizar su interfaz, cuando acceda a la sección de configuración de la plataforma, entonces podrá seleccionar entre varias opciones de temas y disposiciones para la interfaz.<br>titulo2:<br>Dado que se ha seleccionado un nuevo tema, cuando el usuario guarde los cambios, entonces la interfaz se actualizará de inmediato reflejando la nueva configuración.                                                            | EP05                     |
+| US04           | Sincronización con herramientas externas                | Como líder de proyecto, quiero que la plataforma se integre de manera fluida con otras herramientas y sistemas externos (como calendarios y aplicaciones de mensajería) para centralizar la gestión de proyectos.             | titulo:<br>Dado que el equipo usa herramientas externas para la gestión de proyectos, cuando un líder de proyecto configure la sincronización, entonces las tareas y eventos se sincronizarán automáticamente entre la plataforma y las herramientas seleccionadas.<br>titulo2:<br>Dado que la sincronización está activa, cuando se haga un cambio en las herramientas externas o en la plataforma, entonces dicho cambio se reflejará en ambas partes en tiempo real. | EP02                     |
+| US05           | Gestión de la seguridad y protección de datos           | Como administrador de la plataforma, quiero que el sistema implemente medidas avanzadas de seguridad para proteger los datos sensibles del proyecto y garantizar la privacidad de la información.                             | titulo:<br>Dado que un usuario intenta acceder a la plataforma, cuando ingrese sus credenciales, entonces el sistema verificará su identidad mediante autenticación de dos factores.<br>titulo2:<br>Dado que se ha realizado un intento de acceso no autorizado, cuando el sistema lo detecte, entonces el administrador recibirá una alerta y el acceso será bloqueado.                                                                                                | EP04                     |
+| US06           | Soporte técnico en tiempo real                          | Como usuario de la plataforma, quiero tener acceso a soporte técnico en tiempo real para resolver problemas rápidamente y mantener la continuidad del trabajo sin interrupciones.                                             | titulo:<br>Dado que un usuario tiene un problema técnico, cuando acceda al soporte técnico en tiempo real, entonces podrá comunicarse con un representante de soporte y recibir asistencia inmediata.<br>titulo2:<br>Dado que el soporte técnico está disponible, cuando el usuario inicie la conversación, entonces recibirá una respuesta dentro de un plazo máximo de 5 minutos.                                                                                     | EP05                     |
+| US07           | Informes automatizados de progreso                      | Como líder de equipo, quiero que la plataforma genere informes automatizados sobre el progreso del proyecto y el desempeño del equipo para tomar decisiones informadas sin tener que crear informes manualmente.              | titulo:<br>Dado que un proyecto está en curso, cuando se alcance el final de la semana laboral, entonces el sistema generará automáticamente un informe de progreso que será enviado al líder de proyecto.<br>titulo2:<br>Dado que el informe ha sido generado, cuando el líder de proyecto lo reciba, entonces podrá visualizar el resumen de tareas completadas, en progreso y pendientes.                                                                            | EP07                     |
+| US08           | Herramienta de seguimiento de tareas en tiempo real     | Como miembro del equipo, quiero una herramienta que permita el seguimiento de tareas en tiempo real para ver el estado actual y las actualizaciones de los proyectos al instante.                                             | titulo:<br>Dado que un proyecto está activo, cuando un miembro del equipo actualice el estado de una tarea, entonces la herramienta de seguimiento mostrará el cambio en tiempo real a todos los usuarios.<br>titulo2:<br>Dado que un miembro desea ver el progreso general del proyecto, cuando acceda a la herramienta de seguimiento, entonces podrá visualizar un tablero actualizado con el estado actual de todas las tareas.                                     | EP01                     |
+| US09           | Adaptación a modelos de negocio                         | Como gestor de proyectos, quiero que la plataforma pueda adaptarse a diferentes modelos de negocio y metodologías de trabajo para ser flexible y ajustarse a las necesidades específicas de cada proyecto.                    | titulo:<br>Dado que un líder de proyecto desea configurar la plataforma para adaptarse a un modelo de negocio específico, cuando acceda a la configuración de modelos de negocio, entonces podrá seleccionar y ajustar las plantillas y procesos disponibles.<br>titulo2:<br>Dado que un modelo de negocio ha sido seleccionado, cuando el líder guarde los cambios, entonces la plataforma adaptará automáticamente las funciones y vistas relevantes.                 | EP01                     |
+| US10           | Recordatorios personalizados de plazos y entregas       | Como miembro del equipo, quiero recibir recordatorios personalizados sobre los plazos y entregas de las tareas para evitar retrasos y mantener el ritmo adecuado en el proyecto.                                              | titulo:<br>Dado que un usuario ha configurado recordatorios para plazos y entregas, cuando se acerque la fecha límite, entonces el sistema enviará un recordatorio personalizado a través de la plataforma y por correo electrónico.<br>titulo2:<br>Dado que un recordatorio ha sido enviado, cuando el usuario lo reciba, entonces podrá visualizar los detalles de la entrega o tarea pendiente.                                                                      | EP05                     |
+| US11           | Colaboración y comunicación centralizada                | Como líder de proyecto, quiero que la plataforma ofrezca herramientas integradas para la colaboración y comunicación centralizada entre los miembros del equipo para mejorar la coordinación y el intercambio de información. | titulo:<br>Dado que un equipo está trabajando en un proyecto, cuando un miembro inicie una conversación o comparta un documento, entonces todos los miembros recibirán una notificación en la plataforma.<br>titulo2:<br>Dado que la comunicación está centralizada, cuando un miembro busque información específica, entonces podrá encontrar todas las conversaciones y documentos relacionados en un solo lugar.                                                     | EP02                     |
+| US12           | Integración de gráfico radial de habilidades            | Como lider de equipo, quiero que la plataforma refleje un gráfico radial sobre las debilidades y fortalezas de cada integrante                                                                                                | titulo:<br>Dado que un proyecto requiere habilidades específicas, cuando el líder de proyecto visualice el gráfico radial de habilidades, entonces podrá ver una representación visual de las competencias de los miembros del equipo.<br>titulo2:<br>Dado que un nuevo miembro se une al equipo, cuando se actualice su perfil con habilidades, entonces el gráfico radial se actualizará automáticamente para reflejar las nuevas capacidades.                        | EP03                     |
+| US13           | Integración de cronogramas                              | Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes                                                                                                                               | titulo:<br>Dado que un proyecto tiene un cronograma establecido, cuando el líder de proyecto lo integre en la plataforma, entonces todas las fechas y hitos importantes serán visibles para el equipo en un calendario compartido.<br>titulo2:<br>Dado que el cronograma está integrado, cuando se realicen cambios en fechas o hitos, entonces estos se reflejarán automáticamente en el calendario compartido.                                                        | EP01                     |
+| US14           | Alertas ante inactividad o paso de fecha limite         | Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega                                                                         | titulo:<br>Dado que una tarea ha estado inactiva durante un período específico, cuando se alcance dicho período, entonces la plataforma enviará una alerta al responsable de la tarea y al líder de proyecto.<br>titulo2:<br>Dado que una tarea ha pasado su fecha límite sin ser completada, cuando se detecte esta condición, entonces la plataforma enviará notificaciones al responsable y al líder de proyecto, destacando la urgencia de la tarea.                | EP01                     |
+| US15           | Implementación de mensajes directos                     | Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros                                                                                                              | titulo:<br>Dado que un miembro del equipo necesita comunicarse directamente con otro miembro, cuando envíe un mensaje directo, entonces el destinatario recibirá una notificación instantánea en la plataforma.<br>titulo2:<br>Dado que se ha recibido un mensaje directo, cuando el destinatario lo abra, entonces podrá leer y responder en tiempo real desde la misma interfaz.                                                                                      | EP02                     |
+| US16           | Historial de cambios en el proyecto                     | Como miembro del equipo, quiero poder acceder a un historial detallado de todos los cambios realizados en el proyecto para entender cómo este ha evolucionado y tomar decisiones informadas.                                  | titulo:<br>Dado que se ha realizado un cambio en cualquier aspecto del proyecto, cuando el líder de proyecto revise el historial, entonces podrá ver un registro detallado de todos los cambios, incluyendo quién los realizó y cuándo.<br>titulo2:<br>Dado que el historial de cambios está disponible, cuando un miembro del equipo acceda a él, entonces podrá filtrar los cambios por tipo, fecha y responsable.                                                    | EP01                     |
+| US17           | Automatización de asignación de tareas                  | Como líder de proyecto, quiero automatizar la asignación de tareas basadas en las habilidades del equipo para optimizar el flujo de trabajo.                                                                                  | titulo:<br>Dado que existe un proyecto activo, cuando se creen nuevas tareas, entonces el sistema debe asignarlas automáticamente a los miembros más capacitados.                                                                                                                                                                                                                                                                                                       | EP01                     |
+| US18           | Reportes de tareas atrasadas                            | Como líder de proyecto, quiero recibir reportes automáticos de tareas atrasadas para tomar medidas correctivas.                                                                                                               | titulo:<br>Dado que una tarea está atrasada, cuando se genere el reporte semanal, entonces incluirá un resumen de las tareas pendientes con plazos vencidos.                                                                                                                                                                                                                                                                                                            | EP01                     |
+| US19           | Gestión de dependencias de tareas                       | Como miembro del equipo, quiero visualizar las dependencias de tareas para evitar bloqueos y retrasos.                                                                                                                        | titulo:<br>Dado que una tarea depende de otra, cuando visualice el flujo de tareas, entonces se debe mostrar la relación entre ellas.                                                                                                                                                                                                                                                                                                                                   | EP01                     |
+| US20           | Seguimiento de progreso diario                          | Como líder de proyecto, quiero revisar el progreso diario de las tareas para asegurarme de que se cumplan los plazos.                                                                                                         | titulo:<br>Dado que un proyecto está en curso, cuando revise el progreso diario, entonces debo ver el estado actualizado de todas las tareas.                                                                                                                                                                                                                                                                                                                           | EP01                     |
+| US21           | Optimización de asignaciones de recursos                | Como gestor de proyectos, quiero que el sistema sugiera la mejor asignación de recursos para proyectos múltiples basándose en la carga de trabajo.                                                                            | titulo:<br>Dado que el sistema conoce la carga de trabajo, cuando revise la asignación de recursos, entonces el sistema debe proponer asignaciones óptimas.                                                                                                                                                                                                                                                                                                             | EP01                     |
+| US22           | Espacios de trabajo colaborativos                       | Como miembro del equipo, quiero tener un espacio colaborativo donde compartir ideas y documentos relacionados con el proyecto.                                                                                                | titulo:<br>Dado que estamos trabajando en equipo, cuando accedamos al espacio colaborativo, entonces podremos compartir y comentar documentos en tiempo real.                                                                                                                                                                                                                                                                                                           | EP02                     |
+| US23           | Integración con herramientas de videollamadas           | Como líder de proyecto, quiero que la plataforma se integre con herramientas de videollamadas para realizar reuniones directamente desde la aplicación.                                                                       | titulo:<br>Dado que hay una reunión programada, cuando accedamos al evento en la plataforma, entonces podremos iniciar una videollamada integrada.                                                                                                                                                                                                                                                                                                                      | EP02                     |
+| US24           | Foro de discusión del proyecto                          | Como miembro del equipo, quiero tener acceso a un foro de discusión del proyecto para hacer preguntas y compartir respuestas.                                                                                                 | titulo:<br>Dado que tengo una duda, cuando la publique en el foro, entonces los demás miembros del equipo podrán responder.                                                                                                                                                                                                                                                                                                                                             | EP02                     |
+| US25           | Historial de conversaciones                             | Como líder de proyecto, quiero poder acceder al historial de conversaciones para revisar decisiones tomadas durante el desarrollo del proyecto.                                                                               | titulo:<br>Dado que hubo una conversación relevante, cuando revise el historial, entonces debo poder ver las conversaciones anteriores y sus contextos.                                                                                                                                                                                                                                                                                                                 | EP02                     |
+| US26           | Notificaciones en tiempo real de nuevas actualizaciones | Como miembro del equipo, quiero recibir notificaciones en tiempo real cuando alguien comente o actualice algo importante en el proyecto.                                                                                      | titulo:<br>Dado que una actualización importante ha ocurrido, cuando esté trabajando en la plataforma, entonces recibiré una notificación en tiempo real.                                                                                                                                                                                                                                                                                                               | EP02                     |
+| US27           | Herramienta de comentarios en documentos compartidos    | Como miembro del equipo, quiero hacer comentarios en documentos compartidos para colaborar en la revisión de contenidos.                                                                                                      | titulo:<br>Dado que un documento está siendo revisado, cuando haga un comentario, entonces todos los miembros del equipo podrán verlo y responder.                                                                                                                                                                                                                                                                                                                      | EP02                     |
+| US28           | Sistema de evaluación automática de productividad       | Como líder de equipo, quiero recibir una evaluación automática semanal de la productividad de cada miembro para identificar fortalezas y áreas de mejora.                                                                     | titulo:<br>Dado que se ha completado una semana de trabajo, cuando consulte la evaluación, entonces recibiré un análisis detallado del rendimiento individual y colectivo.                                                                                                                                                                                                                                                                                              | EP03                     |
+| US29           | Sugerencias de mejoras basadas en IA                    | Como líder de proyecto, quiero recibir sugerencias automáticas de IA sobre cómo mejorar el rendimiento del equipo basado en los datos recogidos.                                                                              | titulo:<br>Dado que la IA ha analizado los datos de rendimiento, cuando revise el informe, entonces veré sugerencias específicas de mejoras.                                                                                                                                                                                                                                                                                                                            | EP03                     |
+| US30           | Análisis predictivo de riesgos                          | Como líder de proyecto, quiero que la plataforma identifique y me notifique automáticamente los posibles riesgos futuros para prevenir problemas.                                                                             | titulo:<br>Dado que existen datos históricos del proyecto, cuando se produzca un análisis predictivo, entonces se me notificará sobre posibles riesgos.                                                                                                                                                                                                                                                                                                                 | EP03                     |
+| US31           | Reportes automáticos de eficiencia del equipo           | Como líder de proyecto, quiero recibir reportes automáticos que muestren la eficiencia general del equipo en términos de tareas completadas y tiempo empleado.                                                                | titulo:<br>Dado que el proyecto está en curso, cuando se genere el reporte, entonces incluirá un análisis de la eficiencia del equipo.                                                                                                                                                                                                                                                                                                                                  | EP03                     |
+| US32           | Dashboard de métricas clave en tiempo real              | Como líder de proyecto, quiero tener acceso a un dashboard con métricas clave en tiempo real para tomar decisiones informadas rápidamente.                                                                                    | titulo:<br>Dado que el proyecto está en desarrollo, cuando acceda al dashboard, entonces veré métricas clave como velocidad de entrega y porcentaje de tareas completadas.                                                                                                                                                                                                                                                                                              | EP03                     |
+| US33           | Control de acceso basado en roles                       | Como administrador, quiero implementar un sistema de control de acceso basado en roles para limitar las funcionalidades a los usuarios autorizados.                                                                           | titulo:<br>Dado que se ha definido un rol de usuario, cuando acceda a la plataforma, entonces las funcionalidades serán limitadas de acuerdo a su rol.                                                                                                                                                                                                                                                                                                                  | EP04                     |
+| US34           | Copias de seguridad automáticas                         | Como administrador, quiero que se realicen copias de seguridad automáticas de todos los datos del proyecto para evitar pérdidas.                                                                                              | titulo:<br>Dado que el proyecto está en curso, cuando se complete el día, entonces se generará una copia de seguridad automática.                                                                                                                                                                                                                                                                                                                                       | EP04                     |
+| US35           | Monitoreo de actividades sospechosas                    | Como administrador, quiero ser notificado si la plataforma detecta actividades sospechosas para tomar medidas inmediatas.                                                                                                     | titulo:<br>Dado que se detecta actividad sospechosa, cuando revise las notificaciones, entonces seré alertado para tomar acciones correctivas.                                                                                                                                                                                                                                                                                                                          | EP04                     |
+| US36           | Registro de auditoría completo                          | Como administrador, quiero tener un registro completo de todas las acciones realizadas en la plataforma para realizar auditorías.                                                                                             | titulo:<br>Dado que se realizan cambios en la plataforma, cuando acceda al registro, entonces veré un historial detallado de cada acción.                                                                                                                                                                                                                                                                                                                               | EP04                     |
+| US37           | Autenticación de dos factores (2FA)                     | Como administrador, quiero implementar autenticación de dos factores para aumentar la seguridad del acceso a la plataforma.                                                                                                   | titulo:<br>Dado que un usuario intenta iniciar sesión, cuando se le solicite la 2FA, entonces deberá verificar su identidad con un código adicional.                                                                                                                                                                                                                                                                                                                    | EP04                     |
+| US38           | Temas personalizables para la interfaz                  | Como usuario de la plataforma, quiero poder elegir entre varios temas para personalizar la interfaz según mis preferencias.                                                                                                   | titulo:<br>Dado que quiero personalizar la interfaz, cuando acceda a la configuración de temas, entonces podré elegir entre varias opciones visuales.                                                                                                                                                                                                                                                                                                                   | EP05                     |
+| US39           | Personalización de informes                             | Como líder de proyecto, quiero personalizar el formato y contenido de los informes generados para adaptarlos a las necesidades específicas del equipo.                                                                        | titulo:<br>Dado que necesito un informe, cuando acceda a la opción de generación de informes, entonces podré personalizar su formato y contenido.                                                                                                                                                                                                                                                                                                                       | EP05                     |
+| US40           | Integración de widgets personalizados                   | Como usuario de la plataforma, quiero poder añadir widgets personalizados a mi dashboard para tener acceso rápido a la información más relevante para mí.                                                                     | titulo:<br>Dado que estoy en el dashboard, cuando acceda a la opción de personalización, entonces podré añadir o eliminar widgets según mis preferencias.                                                                                                                                                                                                                                                                                                               | EP05                     |
+| US41           | Recordatorios basados en la ubicación                   | Como usuario de la plataforma, quiero recibir recordatorios personalizados basados en mi ubicación para optimizar el tiempo dedicado a tareas.                                                                                | titulo:<br>Dado que mi ubicación es relevante para una tarea, cuando esté cerca del lugar necesario, entonces recibiré un recordatorio para completarla.                                                                                                                                                                                                                                                                                                                | EP05                     |
+| US42           | Configuración avanzada de notificaciones                | Como usuario de la plataforma, quiero tener opciones avanzadas para personalizar las notificaciones que recibo, de acuerdo con mi carga de trabajo.                                                                           | titulo:<br>Dado que quiero ajustar mis notificaciones, cuando acceda a la configuración, entonces podré activar o desactivar notificaciones específicas.                                                                                                                                                                                                                                                                                                                | EP05                     |
 
 ### 3.3. Impact Mapping
 
@@ -733,15 +807,54 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 ### 3.4. Product Backlog
 
-| #Orden | User Story ID | Título                                          | Descripción                                                                                                                                           | Story Points <br> (1/2/3/5/8) |
-| ------ | ------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| 1      | HU01          | Grafico radial de habilidades                   | Como lider de equipo, quiero que la plataforma refleje un gráfico radial sobre las debilidades y fortalezas de cada integrante                        | 5                             |
-| 2      | HU02          | Integración de cronogramas                      | Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes                                                       | 5                             |
-| 3      | HU03          | Alertas ante inactividad o paso de fecha limite | Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega | 2                             |
-| 4      | HU04          | Implementación de mensajes directos             | Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros                                      | 3                             |
+| #Orden | User Story ID | Título                                                  | Descripción                                                                                                                                                                                                                   | Story Points <br> (1/2/3/5/8) |
+| ------ | ------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------: |
+| 1      | US01          | Comentar actividades                                    | Como líder del equipo, quiero que la plataforma me permita agregar comentarios a los trabajos y actividades realizadas por los diferentes miembros del equipo, y una vez sean tomados en cuenta, poder eliminarlos.           |               2               |
+| 2      | US02          | Análisis de rendimiento basado en IA                    | Como líder de proyecto, quiero que la plataforma utilice inteligencia artificial para analizar el rendimiento de los miembros del equipo y proporcionar recomendaciones personalizadas para mejorar la eficiencia.            |               8               |
+| 3      | US03          | Personalización de interfaz                             | Como usuario de la plataforma, quiero poder personalizar la interfaz según mis preferencias y necesidades para facilitar el acceso rápido a las herramientas y funciones más utilizadas.                                      |               3               |
+| 4      | US04          | Sincronización con herramientas externas                | Como líder de proyecto, quiero que la plataforma se integre de manera fluida con otras herramientas y sistemas externos (como calendarios y aplicaciones de mensajería) para centralizar la gestión de proyectos.             |               5               |
+| 5      | US05          | Gestión de la seguridad y protección de datos           | Como administrador de la plataforma, quiero que el sistema implemente medidas avanzadas de seguridad para proteger los datos sensibles del proyecto y garantizar la privacidad de la información.                             |               5               |
+| 6      | US06          | Soporte técnico en tiempo real                          | Como usuario de la plataforma, quiero tener acceso a soporte técnico en tiempo real para resolver problemas rápidamente y mantener la continuidad del trabajo sin interrupciones.                                             |               3               |
+| 7      | US07          | Informes automatizados de progreso                      | Como líder de equipo, quiero que la plataforma genere informes automatizados sobre el progreso del proyecto y el desempeño del equipo para tomar decisiones informadas sin tener que crear informes manualmente.              |               3               |
+| 8      | US08          | Herramienta de seguimiento de tareas en tiempo real     | Como miembro del equipo, quiero una herramienta que permita el seguimiento de tareas en tiempo real para ver el estado actual y las actualizaciones de los proyectos al instante.                                             |               3               |
+| 9      | US09          | Adaptación a modelos de negocio                         | Como gestor de proyectos, quiero que la plataforma pueda adaptarse a diferentes modelos de negocio y metodologías de trabajo para ser flexible y ajustarse a las necesidades específicas de cada proyecto.                    |               5               |
+| 10     | US10          | Recordatorios personalizados de plazos y entregas       | Como miembro del equipo, quiero recibir recordatorios personalizados sobre los plazos y entregas de las tareas para evitar retrasos y mantener el ritmo adecuado en el proyecto.                                              |               2               |
+| 11     | US11          | Colaboración y comunicación centralizada                | Como líder de proyecto, quiero que la plataforma ofrezca herramientas integradas para la colaboración y comunicación centralizada entre los miembros del equipo para mejorar la coordinación y el intercambio de información. |               5               |
+| 12     | US12          | Integración de gráfico radial de habilidades            | Como lider de equipo, quiero que la plataforma refleje un gráfico radial sobre las debilidades y fortalezas de cada integrante                                                                                                |               5               |
+| 13     | US13          | Integración de cronogramas                              | Como lider de equipo, quiero poder sincronizar automáticamente fechas y actividades importantes.                                                                                                                              |               5               |
+| 14     | US14          | Alertas ante inactividad o paso de fecha limite         | Como lider de equipo, quiero que la plataforma me mande notificaciones cuando algun miembro este inactivo o se haya pasado la fecha límite de entrega.                                                                        |               3               |
+| 15     | US15          | Implementación de mensajes directos                     | Como usuario miembro de un equipo de software, quiero poder enviar mensajes directos al lider y a otros miembros.                                                                                                             |               3               |
+| 16     | US16          | Historial de cambios en el proyecto                     | Como miembro del equipo, quiero poder acceder a un historial detallado de todos los cambios realizados en el proyecto para entender cómo este ha evolucionado y tomar decisiones informadas.                                  |               3               |
+| 17     | US17          | Automatización de asignación de tareas                  | Como líder de proyecto, quiero automatizar la asignación de tareas basadas en las habilidades del equipo para optimizar el flujo de trabajo.                                                                                  |               5               |
+| 18     | US18          | Reportes de tareas atrasadas                            | Como líder de proyecto, quiero recibir reportes automáticos de tareas atrasadas para tomar medidas correctivas.                                                                                                               |               3               |
+| 19     | US19          | Gestión de dependencias de tareas                       | Como miembro del equipo, quiero visualizar las dependencias de tareas para evitar bloqueos y retrasos.                                                                                                                        |               3               |
+| 20     | US20          | Seguimiento de progreso diario                          | Como líder de proyecto, quiero revisar el progreso diario de las tareas para asegurarme de que se cumplan los plazos.                                                                                                         |               3               |
+| 21     | US21          | Optimización de asignaciones de recursos                | Como gestor de proyectos, quiero que el sistema sugiera la mejor asignación de recursos para proyectos múltiples basándose en la carga de trabajo.                                                                            |               5               |
+| 22     | US22          | Espacios de trabajo colaborativos                       | Como miembro del equipo, quiero tener un espacio colaborativo donde compartir ideas y documentos relacionados con el proyecto.                                                                                                |               3               |
+| 23     | US23          | Integración con herramientas de videollamadas           | Como líder de proyecto, quiero que la plataforma se integre con herramientas de videollamadas para realizar reuniones directamente desde la aplicación.                                                                       |               5               |
+| 24     | US24          | Foro de discusión del proyecto                          | Como miembro del equipo, quiero tener acceso a un foro de discusión del proyecto para hacer preguntas y compartir respuestas.                                                                                                 |               2               |
+| 25     | US25          | Historial de conversaciones                             | Como líder de proyecto, quiero poder acceder al historial de conversaciones para revisar decisiones tomadas durante el desarrollo del proyecto.                                                                               |               3               |
+| 26     | US26          | Notificaciones en tiempo real de nuevas actualizaciones | Como miembro del equipo, quiero recibir notificaciones en tiempo real cuando alguien comente o actualice algo importante en el proyecto.                                                                                      |               2               |
+| 27     | US27          | Herramienta de comentarios en documentos compartidos    | Como miembro del equipo, quiero hacer comentarios en documentos compartidos para colaborar en la revisión de contenidos.                                                                                                      |               3               |
+| 28     | US28          | Sistema de evaluación automática de productividad       | Como líder de equipo, quiero recibir una evaluación automática semanal de la productividad de cada miembro para identificar fortalezas y áreas de mejora.                                                                     |               5               |
+| 29     | US29          | Sugerencias de mejoras basadas en IA                    | Como líder de proyecto, quiero recibir sugerencias automáticas de IA sobre cómo mejorar el rendimiento del equipo basado en los datos recogidos.                                                                              |               8               |
+| 30     | US30          | Análisis predictivo de riesgos                          | Como líder de proyecto, quiero que la plataforma identifique y me notifique automáticamente los posibles riesgos futuros para prevenir problemas.                                                                             |               8               |
+| 31     | US31          | Reportes automáticos de eficiencia del equipo           | Como líder de proyecto, quiero recibir reportes automáticos que muestren la eficiencia general del equipo en términos de tareas completadas y tiempo empleado.                                                                |               3               |
+| 32     | US32          | Dashboard de métricas clave en tiempo real              | Como líder de proyecto, quiero tener acceso a un dashboard con métricas clave en tiempo real para tomar decisiones informadas rápidamente.                                                                                    |               5               |
+| 33     | US33          | Control de acceso basado en roles                       | Como administrador, quiero implementar un sistema de control de acceso basado en roles para limitar las funcionalidades a los usuarios autorizados.                                                                           |               5               |
+| 34     | US34          | Copias de seguridad automáticas                         | Como administrador, quiero que se realicen copias de seguridad automáticas de todos los datos del proyecto para evitar pérdidas.                                                                                              |               3               |
+| 35     | US35          | Monitoreo de actividades sospechosas                    | Como administrador, quiero ser notificado si la plataforma detecta actividades sospechosas para tomar medidas inmediatas.                                                                                                     |               5               |
+| 36     | US36          | Registro de auditoría completo                          | Como administrador, quiero tener un registro completo de todas las acciones realizadas en la plataforma para realizar auditorías.                                                                                             |               5               |
+| 37     | US37          | Autenticación de dos factores (2FA)                     | Como administrador, quiero implementar autenticación de dos factores para aumentar la seguridad del acceso a la plataforma.                                                                                                   |               5               |
+| 38     | US38          | Temas personalizables para la interfaz                  | Como usuario de la plataforma, quiero poder elegir entre varios temas para personalizar la interfaz según mis preferencias.                                                                                                   |               2               |
+| 39     | US39          | Personalización de informes                             | Como líder de proyecto, quiero personalizar el formato y contenido de los informes generados para adaptarlos a las necesidades específicas del equipo.                                                                        |               3               |
+| 40     | US40          | Integración de widgets personalizados                   | Como usuario de la plataforma, quiero poder añadir widgets personalizados a mi dashboard para tener acceso rápido a la información más relevante para mí.                                                                     |               3               |
+| 41     | US41          | Recordatorios basados en la ubicación                   | Como usuario de la plataforma, quiero recibir recordatorios personalizados basados en mi ubicación para optimizar el tiempo dedicado a tareas.                                                                                |               5               |
+| 42     | US42          | Configuración avanzada de notificaciones                | Como usuario de la plataforma, quiero tener opciones avanzadas para personalizar las notificaciones que recibo, de acuerdo con mi carga de trabajo.                                                                           |               3               |
 
 ## Capítulo IV: Product Design
-### 4.1. Style Guidelines. 
+
+### 4.1. Style Guidelines.
 
 En este capítulo se mostrará el desarrollo de las interfaces y procesos relacionados a la aplicación. Se tiene como objetivo ser llamativa y simple para el usuario. Para ello, se usaron colores atractivos, uso del espacio de manera dinámica independiente del dispositivo enfocado, uso de imágenes y texto que no sobrecarga de información al usuario y la separación de las herramientas según su grupo determinado.
 
@@ -760,6 +873,7 @@ https://media.discordapp.net/attachments/1246609784501833810/1279952066223149086
 </p>
 
 **Logo:**
+
 </p>
 <p align="center">
 
@@ -772,14 +886,13 @@ https://media.discordapp.net/attachments/1246609784501833810/1279952066223149086
 
 En formato general se utiliza 30px y Sulphur point como tipografía del programa. Estas medidas tendrán variaciones según el dispositivo. A continuación, se presentará la tipografía elegida para el diseño de la app web.
 
-**•   Base:** 30 px
+**• Base:** 30 px
 
-**•   Ratio:**  2,05
+**• Ratio:** 2,05
 
-**•   Tipografía:** Sulphur Point
+**• Tipografía:** Sulphur Point
 
-**•   Interlineado:** 1,1
-
+**• Interlineado:** 1,1
 
 <p align="center">
 
@@ -794,6 +907,7 @@ En formato general se utiliza 30px y Sulphur point como tipografía del programa
 </p>
 
 **Nomenclature:**
+
 <p align="center">
 
 <img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954200553459733/image.png?ex=66d651bd&is=66d5003d&hm=8e813f7ca416cf5709ff9d9d98d7ab0a68c8e67c25732a843c0d5b953006442c&">
@@ -801,12 +915,11 @@ En formato general se utiliza 30px y Sulphur point como tipografía del programa
 
 **Example:**
 
-**•	Título:** Sulphur Point
+**• Título:** Sulphur Point
 
-**•	Cuerpo:** Sulphur Point
+**• Cuerpo:** Sulphur Point
 
-**•	Tamaño:** 30 letra y 60 título
-
+**• Tamaño:** 30 letra y 60 título
 
 **Elementos Gráficos:**
 
@@ -816,44 +929,813 @@ La principal estética tanto de la página web como de la aplicación será mini
 
 **Diseño de Página:**
 
--  La página contará con una barra de navegación, en donde se encontrarán los apartados de: Descripción general, Beneficios y FAQ. Así mismo, contará con un footer en donde habrán links a diferentes redes como por ejemplo instagram.  
-Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y texto que ayude al usuario a conocer más acerca del servicio. Si este se encuentra en una laptop o pc, bastará con scrollear para poder visualizar toda la página.
+- La página contará con una barra de navegación, en donde se encontrarán los apartados de: Descripción general, Beneficios y FAQ. Así mismo, contará con un footer en donde habrán links a diferentes redes como por ejemplo instagram.  
+  Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y texto que ayude al usuario a conocer más acerca del servicio. Si este se encuentra en una laptop o pc, bastará con scrollear para poder visualizar toda la página.
 
 **Diseño Responsive:**
 
--	Para permitir que la página se adapte a diferentes pantallas o el usuario cambie el tamaño de la ventana para que el contenido siga pudiéndose entender y visualizar de manera correcta, se utilizará CSS3 y media queries para definir estilos según el tamaño de la pantalla. Los elementos clave, como la barra de navegación y el footer, se ajustarán automáticamente en diferentes dispositivos mediante unidades de medida relativas.
+- Para permitir que la página se adapte a diferentes pantallas o el usuario cambie el tamaño de la ventana para que el contenido siga pudiéndose entender y visualizar de manera correcta, se utilizará CSS3 y media queries para definir estilos según el tamaño de la pantalla. Los elementos clave, como la barra de navegación y el footer, se ajustarán automáticamente en diferentes dispositivos mediante unidades de medida relativas.
 
 **Imágenes**
+
 - Los formatos de imagen sugeridos son JPEG y PNG para asegurar una alta calidad. Se establecerán tamaños recomendados y se aplicarán normas de compresión para mejorar el rendimiento del sitio web.
 
 **Interacción del Usuario**
+
 - Se utilizarán animaciones sencillas para presentar imágenes y textos que informen al usuario sobre el servicio. En laptops o PCs, basta con hacer scroll para ver toda la página y disfrutar de estas interacciones.
-
-
-
 
 **Navegación:**
 
--	La barra de navegación y el pie de página tendrán márgenes y espaciado apropiados para garantizar una visualización óptima en distintos dispositivos. El menú de navegación será intuitivo y fácil de usar, incluyendo una opción de menú tipo hamburguesa para dispositivos más pequeños. Los enlaces a las redes sociales en el footer serán fácilmente accesibles y se ajustarán al diseño responsive.
-
+- La barra de navegación y el pie de página tendrán márgenes y espaciado apropiados para garantizar una visualización óptima en distintos dispositivos. El menú de navegación será intuitivo y fácil de usar, incluyendo una opción de menú tipo hamburguesa para dispositivos más pequeños. Los enlaces a las redes sociales en el footer serán fácilmente accesibles y se ajustarán al diseño responsive.
 
 **Recursos:**
 
--  Se facilitarán enlaces a recursos visuales, como imágenes de marca y gráficos, para que el equipo pueda acceder a ellos de manera sencilla. Además, se incluirán enlaces de descarga para las fuentes y archivos de diseño utilizados en el sitio web.
+- Se facilitarán enlaces a recursos visuales, como imágenes de marca y gráficos, para que el equipo pueda acceder a ellos de manera sencilla. Además, se incluirán enlaces de descarga para las fuentes y archivos de diseño utilizados en el sitio web.
 
+### 4.2. Information Architecture
 
+#### 4.2.1. Organization Systems
 
+Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, podemos ver la estructura visual, la cual fue diseñada para adaptarse a nuestros dos segmentos objetivos.
 
+Para nuestro primer segmento enfocado en Lider o gerente de empresa de desarrollo de software en crecimiento, el proceso inicia accediendo a la plataforma y registrándose. El líder o gerente accede a la plataforma "ManageWise" y completa el proceso de registro o inicio de sesión. Si es un usuario nuevo, configura su perfil, incluyendo información sobre su empresa, roles, y preferencias de notificación. Personaliza su Dashboard y otras vistas clave para alinear la información presentada con los objetivos estratégicos de la empresa. Esto incluye seleccionar los KPIs más relevantes, definir prioridades de proyectos, y establecer alertas para actualizaciones importantes.Navega por los proyectos actuales y planificados, categorizados por estado (en curso, pendientes, finalizados) y impacto estratégico. Puede acceder a un mapa visual que muestra cómo cada proyecto contribuye a los objetivos a largo plazo de la empresa.Supervisa el progreso de los proyectos, ajusta recursos, y toma decisiones estratégicas utilizando herramientas de análisis de datos. Puede reorganizar proyectos según prioridades cambiantes y revisar el cumplimiento de plazos y presupuestos.Participa en discusiones estratégicas con otros líderes y stakeholders, utilizando canales de comunicación categorizados por proyectos y temas. Accede a reportes colaborativos y comparte insights con su equipo de liderazgo. Utiliza paneles de control dinámicos y reportes personalizados para revisar el rendimiento general de la empresa y de cada proyecto en particular. Basado en estos análisis, toma decisiones sobre asignación de recursos, ajuste de objetivos y planificación a futuro. Al cierre de un proyecto, revisa informes finales categorizados por lecciones aprendidas y oportunidades de mejora. Participa en sesiones de retroalimentación con el equipo para identificar áreas de mejora para futuros proyectos.
 
+![texto_alternativo](/assets/images/Segmento%201.png)
+
+Para nuestro segundo segmento enfocado en Equipo de Desarrollo de Software, el proceso inicia al registrarse y configurar su perfil. El integrante del equipo accede a la plataforma y se registra o inicia sesión. Configura su perfil, incluyendo su rol específico en el equipo, proyectos asignados, y preferencias de notificación. Personaliza su Dashboard para ver las tareas y sprints pendientes, ajusta alertas para fechas límite, y selecciona qué actualizaciones y notificaciones desea recibir de sus compañeros de equipo. Revisa su lista de tareas, categorizadas por prioridad, deadline, y dependencia de otras tareas. Explora el cronograma del proyecto para entender el flujo general de trabajo y cómo su tarea encaja en el contexto más amplio. Organiza y prioriza su trabajo diario utilizando herramientas de gestión de tareas. Marca tareas como completadas, colabora en sprints, y ajusta su flujo de trabajo según nuevas asignaciones o cambios en el proyecto. Participa en conversaciones dentro de los canales de proyecto, categorizados por temas específicos como bugs, nuevas características, o revisiones de código. Colabora activamente con otros miembros del equipo, compartiendo actualizaciones y retroalimentación. Revisa su rendimiento individual y el del equipo a través de dashboards que muestran métricas como velocidad de desarrollo, calidad del código, y cumplimiento de deadlines. Utiliza este análisis para mejorar su eficiencia y productividad. Al finalizar una tarea o sprint, revisa el rendimiento en un resumen categorizado por logros y desafíos. Participa en sesiones de retroalimentación para identificar lo que funcionó bien y lo que podría mejorarse en futuros sprints.
+
+![texto_alternativo](/assets/images/Segmento%202.png)
+
+#### 4.2.2. Labeling Systems
+
+El equipo de "ManageWise" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "ManageWise". Acontinuacion las mencionaremos y sus relaciones:
+
+- Proyectos: <br>
+  La sección de Proyectos en ManageWise es el núcleo de la gestión de iniciativas. Aquí, los usuarios pueden crear, visualizar y administrar proyectos de manera integral. Ofrece herramientas para definir tareas, establecer cronogramas, asignar roles, y monitorear el progreso del proyecto. Facilita la coordinación del equipo y asegura que todos los aspectos del proyecto se mantengan organizados y alineados con los objetivos establecidos.
+
+- Herramientas: <br>
+  La sección de Herramientas proporciona una variedad de recursos para mejorar la productividad y la colaboración en el equipo. Incluye funciones como videollamadas para comunicación en tiempo real, documentos compartidos para la colaboración en archivos, y widgets para personalizar el entorno de trabajo. También permite integrar otras aplicaciones y herramientas que el equipo ya utiliza, centralizando todas las funcionalidades necesarias en una sola plataforma.
+
+- Seguridad: <br>
+  La sección de Seguridad se centra en proteger la información y asegurar la integridad de los datos en ManageWise. Incluye configuraciones para autenticación en dos pasos (2FA) para una capa adicional de seguridad, gestión de permisos de usuario para controlar el acceso a diferentes áreas, y medidas para proteger los datos sensibles. También abarca la gestión de copias de seguridad y la monitorización de posibles amenazas para garantizar una plataforma segura.
+
+- Historial: <br>
+  La sección de Historial mantiene un registro detallado de todas las actividades realizadas dentro de la plataforma. Incluye cambios en tareas, comentarios realizados, actualizaciones en el cronograma y estados de tareas. Esta sección proporciona una visión completa del flujo de trabajo y permite a los usuarios revisar y auditar el progreso y las decisiones tomadas durante el ciclo de vida del proyecto.
+
+- Reportes: <br>
+  La sección de Reportes ofrece una serie de análisis y resúmenes clave sobre el rendimiento del proyecto y del equipo. Incluye reportes sobre el progreso individual, cumplimiento de tareas, y resúmenes de sprint. También proporciona informes sobre errores encontrados y eficiencia del equipo, ayudando a identificar áreas de mejora y a tomar decisiones basadas en datos para optimizar el rendimiento general.
+
+- Foro: <br>
+  La sección de Foro facilita la comunicación y el intercambio de ideas entre los miembros del equipo y otros usuarios de la plataforma. Permite discutir problemas técnicos, sugerir mejoras, compartir soluciones de codificación y hacer preguntas. Es un espacio colaborativo para resolver dudas, debatir sobre temas relevantes y recibir feedback sobre diversos aspectos del proyecto y la plataforma.
+
+- Configuración: <br>
+  La sección de Configuración permite a los usuarios personalizar y ajustar su experiencia en ManageWise según sus preferencias y necesidades. Incluye opciones para gestionar notificaciones, ajustar la visualización del dashboard, configurar permisos de usuario y establecer preferencias de idioma. También abarca ajustes de seguridad como la gestión de contraseñas y la configuración de autenticación en dos pasos, asegurando que cada usuario pueda adaptar la plataforma a sus requerimientos personales y de equipo.
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer a los usuarios adecuados se ha optado por definir los siguientes datos:
+
+- Landing Page
+
+  - Title :<br>
+    ManageWise - Plataforma de Gestión de Proyectos para Startups de Software <br>
+  - Meta Description: ManageWise es una plataforma integral diseñada para startups de desarrollo de software. Mejora la eficiencia, calidad y rentabilidad de tus proyectos con herramientas avanzadas de gestión, seguimiento de progreso y colaboración en equipo.<br>
+  - Keywords :
+    gestión de proyectos, plataforma para startups, administración de tareas, herramientas de colaboración, software de gestión, productividad de equipos.<br>
+  - Author: ManageWise Team
+
+- Proyectos
+
+  - Title :<br>
+    Gestión de Proyectos <br>
+  - Meta Description: Organiza y administra tus proyectos de software con ManageWise. Gestiona tareas, cronogramas, roles y monitorea el progreso para asegurar el éxito de tus iniciativas.<br>
+  - Keywords :
+    gestión de proyectos, administración de tareas, cronograma de proyectos, roles de equipo, seguimiento de progreso.<br>
+  - Author: ManageWise Team
+
+- Herramientas
+
+  - Title :<br>
+    Herramientas de Colaboración y Productividad<br>
+  - Meta Description: Accede a herramientas avanzadas en ManageWise para mejorar la colaboración y la productividad. Incluye videollamadas, documentos compartidos y widgets personalizables para un flujo de trabajo optimizado.<br>
+  - Keywords :
+    herramientas de colaboración, videollamadas, documentos compartidos, widgets de productividad, integración de aplicaciones.<br>
+  - Author: ManageWise Team
+
+- Seguridad
+
+  - Title :<br>
+    Seguridad de Datos y Gestión de Accesos <br>
+  - Meta Description: Protege tus datos con las avanzadas funciones de seguridad de ManageWise. Configura autenticación en dos pasos, gestiona permisos de usuario y asegura la integridad de la información.<br>
+  - Keywords :
+    seguridad de datos, autenticación en dos pasos, gestión de accesos, protección de información, medidas de seguridad<br>
+  - Author: ManageWise Team
+
+- Historial
+
+  - Title :<br>
+    Historial de Actividades y Cambios<br>
+  - Meta Description: Consulta el historial completo de actividades en tus proyectos con ManageWise. Revisa cambios, comentarios y actualizaciones para un seguimiento detallado del progreso.<br>
+  - Keywords :
+    historial de actividades, registros de cambios, auditoría de proyectos, historial de comentarios<br>
+  - Author: ManageWise Team
+
+- Reportes
+
+  - Title :<br>
+    Reportes y Análisis de Rendimiento<br>
+  - Meta Description: Genera reportes detallados con ManageWise para analizar el progreso y rendimiento de tus proyectos. Obtén insights clave para mejorar la productividad y tomar decisiones basadas en datos.<br>
+  - Keywords :
+    reportes de proyectos, análisis de rendimiento, generación de reportes, informes de eficiencia, análisis de datos.<br>
+  - Author: ManageWise Team
+
+- Foro
+
+  - Title :<br>
+    ManageWise - Foro de Discusión y Soporte<br>
+  - Meta Description: Participa en el Foro de ManageWise para resolver problemas, intercambiar ideas y obtener soporte técnico. Conecta con otros usuarios y mejora tu experiencia en la plataforma.<br>
+  - Keywords :
+    foro de discusión, preguntas y respuestas, intercambio de ideas, comunidad de usuarios<br>
+  - Author: ManageWise Team
+
+- Configuración
+  - Title :<br>
+    Configuración y Personalización<br>
+  - Meta Description: Personaliza tu experiencia en ManageWise con opciones avanzadas de configuración. Ajusta notificaciones, gestiona permisos y personaliza tu entorno de trabajo para adaptarlo a tus necesidades.<br>
+  - Keywords :
+    configuración de usuario, ajustes de notificaciones, personalización de plataforma<br>
+  - Author: ManageWise Team
+
+#### 4.2.4. Searching Systems
+
+1. Búsqueda Global<br>
+   Objetivo: Permitir a los usuarios realizar búsquedas amplias en toda la plataforma.
+
+   - Ubicación: En el encabezado o el panel lateral de la aplicación.
+
+   - Funcionalidad: Permite a los usuarios ingresar términos de búsqueda para buscar en todas las secciones de la plataforma (Proyectos, Herramientas, Foro, etc.).
+
+   - Sugerencias en Tiempo Real: Muestra sugerencias mientras el usuario escribe, basadas en términos de búsqueda comunes y resultados previos.
+
+   - Vista de Resultados: Muestra una lista de resultados categorizados por tipo de contenido (Proyectos, Tareas, Documentos, Foro, etc.).
+
+2. Búsqueda en Proyectos<br>
+   Objetivo: Facilitar la localización de proyectos, tareas, y detalles específicos dentro de los proyectos.
+
+   - Ubicación: En la sección de Proyectos.
+
+   - Funcionalidad: Permite buscar por nombre de proyecto, descripción, o tareas asociadas.
+
+   - Vista de Resultados: Muestra proyectos relevantes junto con tareas y sub-tareas relacionadas.
+
+3. Búsqueda en Herramientas<br>
+   Objetivo: Permitir a los usuarios localizar herramientas y documentos compartidos específicos.
+
+   - Ubicación: En la sección de Herramientas.
+
+   - Funcionalidad: Permite buscar herramientas específicas, documentos o recursos compartidos.
+
+   - Vista de Resultados: Muestra herramientas y documentos con opciones para visualizar, editar o descargar.
+
+4. Búsqueda en Seguridad<br>
+   Objetivo: Facilitar la localización de configuraciones y eventos relacionados con la seguridad.
+
+   - Ubicación: En la sección de Seguridad.
+
+   - Funcionalidad: Permite buscar por tipo de configuración de seguridad, eventos de auditoría, o registros de acceso.
+
+   - Vista de Resultados: Muestra eventos y configuraciones relevantes con detalles como fecha, tipo de evento y usuario afectado.
+
+5. Búsqueda en Historial<br>
+   Objetivo: Facilitar la localización de actividades y cambios históricos.
+
+   - Ubicación: En la sección de Historial.
+
+   - Funcionalidad: Permite buscar eventos específicos, cambios o comentarios pasados.
+
+   - Vista de Resultados: Muestra una lista de eventos históricos con detalles como fecha, tipo de actividad y usuario.
+
+6. Búsqueda en Reportes<br>
+   Objetivo: Permitir a los usuarios localizar informes y análisis específicos.
+
+   - Ubicación: En la sección de Reportes.
+
+   - Funcionalidad: Permite buscar por tipo de reporte, fecha o palabras clave en el informe.
+
+   - Vista de Resultados: Muestra reportes relevantes con opciones para ver, editar o exportar.
+
+7. Búsqueda en Foro<br>
+   Objetivo: Facilitar la localización de discusiones y respuestas en el foro.
+
+   - Ubicación: En la sección del Foro.
+
+   - Funcionalidad: Permite buscar por términos en temas de discusión, preguntas y respuestas.
+
+   - Vista de Resultados: Muestra hilos de discusión relevantes con opciones para responder o seguir.
+
+#### 4.2.5. Navigation Systems
+
+1. Página de Inicio (Landing Page)
+
+   - Estructura:
+     - Encabezado (Header): Contiene el logotipo de ManageWise, el menú de navegación principal con enlaces a las secciones principales (Proyectos, Herramientas, Seguridad, Historial, Reportes, Foro, Configuración), y un campo de búsqueda.
+     - Llamadas a la Acción (CTAs): Botones visibles para "Registrarse" y "Iniciar Sesión". Opcionalmente, incluir un botón de "Solicitar una Demo" para los nuevos usuarios.
+     - Sección Principal: Descripción de la plataforma con características clave y beneficios. Incluir enlaces a páginas de detalle como "Características" y "Precios".
+   - Acción del Usuario:
+
+     - Nuevos Visitantes: Se les anima a registrarse o solicitar una demostración.
+     - Usuarios Existentes: Pueden iniciar sesión para acceder a su cuenta.
+
+2. Registro e Inicio de Sesión
+
+   - Estructura:
+     - Formulario de Registro: Campos para nombre, correo electrónico, contraseña, y otros datos necesarios.
+     - Formulario de Inicio de Sesión: Campos para correo electrónico y contraseña, con opciones para recuperar contraseña y activar autenticación en dos pasos (2FA).
+   - Acción del Usuario:
+
+     - Nuevos Usuarios: Completar el registro y acceder al panel principal.
+     - Usuarios Recurrentes: Ingresar credenciales para acceder a su cuenta.
+
+3. Panel Principal (Dashboard)
+
+   - Estructura:
+     - Menú Lateral o Superior: Enlaces a las secciones Proyectos, Herramientas, Seguridad, Historial, Reportes, Foro, y Configuración.
+     - Resumen de Actividades: Vista general con tareas pendientes, proyectos activos, y notificaciones recientes.
+     - Widgets Personalizables: Para acceso rápido a datos clave y funciones.
+   - Acción del Usuario:
+
+     - Interacción Inicial: Explorar el panel para acceder a proyectos y tareas, utilizar herramientas, y revisar notificaciones.
+     - Acceso a Secciones: Usar el menú para navegar a otras secciones.
+
+4. Sección de Proyectos
+
+   - Estructura:
+     - Lista de Proyectos: Muestra proyectos actuales, completados y en espera.
+     - Detalles del Proyecto: Información sobre tareas, cronograma y progreso.
+     - Opciones de Gestión: Crear, editar, y actualizar proyectos y tareas.
+   - Acción del Usuario:
+
+     - Gestión de Proyectos: Agregar nuevos proyectos, actualizar el estado de tareas y revisar el progreso de proyectos.
+
+5. Sección de Herramientas
+
+   - Estructura:
+     - Lista de Herramientas: Acceso a herramientas como videollamadas, documentos compartidos, y widgets.
+     - Configuración de Herramientas: Personalizar y ajustar las herramientas según las necesidades del equipo.
+   - Acción del Usuario:
+
+     - Uso de Herramientas: Acceder a y gestionar herramientas colaborativas para mejorar la eficiencia del equipo.
+
+6. Sección de Seguridad
+
+   - Estructura:
+     - Configuración de Seguridad: Ajustes para autenticación en dos pasos, permisos de usuario y protección de datos.
+     - Historial de Seguridad: Registro de eventos de seguridad y auditoría.
+   - Acción del Usuario:
+
+     - Configuración de Seguridad: Ajustar opciones de seguridad para proteger la cuenta y revisar el historial de eventos.
+
+7. Sección de Historial
+
+   - Estructura:
+     - Registro de Actividades: Historial de cambios y acciones realizadas en proyectos y tareas.
+     - Filtros y Búsqueda: Herramientas para buscar y filtrar eventos.
+   - Acción del Usuario:
+
+     - Revisión de Actividades: Consultar el historial para comprender el contexto de cambios y acciones previas.
+
+8. Sección de Reportes
+
+   - Estructura:
+     - Creación de Reportes: Herramientas para crear reportes personalizados con datos relevantes.
+     - Visualización de Reportes: Gráficos y tablas para analizar información.
+   - Acción del Usuario:
+
+     - Generación de Reportes: Crear y revisar reportes para tomar decisiones informadas.
+
+9. Sección de Foro
+
+   - Estructura:
+     - Hilos de Discusión: Temas organizados por categorías y popularidad.
+     - Participación en el Foro: Crear nuevos temas, responder y seguir discusiones.
+   - Acción del Usuario:
+
+     - Interacción en el Foro: Participar en discusiones, buscar respuestas y contribuir a la comunidad.
+
+10. Sección de Configuración
+
+    - Estructura:
+      - Ajustes de Usuario: Configurar notificaciones, idioma, y perfil.
+      - Configuración de Cuenta: Cambiar contraseñas, activar 2FA, y gestionar permisos.
+    - Acción del Usuario:
+
+      - Personalización: Ajustar la configuración personal y de cuenta para adaptar la plataforma a sus necesidades.
+
+### 4.3. Landing Page UI Design
+
+#### 4.3.1. Landing Page Wireframe
+
+##### Desktop Web Browser:
+
+<p align="center">
+
+<img src="assets/images/WireframeDesktopWebBrowser.png">
+<br>
+
+<img src="assets/images/Wireframe-DesktopWebBrowser-Registro.png">
+<br>
+
+<img src="assets/images/Wireframe-DesktopWebBrowser-InicioSesion.png">
+<br>
+
+</p>
+
+##### Mobile Web Browser:
+
+<p align="center">
+
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser-Menu.png">
+<br>
+
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser.png">
+<br>
+
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser-Resgistro.png">
+<br>
+
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser-InicioSesion.png">
+<br>
+
+</p>
+
+#### 4.3.2. Landing Page Mock-up
+
+##### Desktop Web Browser:
+
+<p align="center">
+
+<img src="assets/images/Mockup-DesktopWebBrowser.png">
+<br>
+
+<img src="assets/images/Mockup-DesktopWebBrowser-Resgistro.png">
+<br>
+
+<img src="assets/images/Mockup-DesktopWebBrowser-InicioSesion.png">
+<br>
+
+</p>
+
+##### Mobile Web Browser:
+
+<p align="center">
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser-Menu.png">
+<br>
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser.png">
+<br>
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser-Resgistro.png">
+<br>
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser-InicioSesion.png">
+<br>
+
+</p>
+
+### 4.4. Web Applications UX/UI Design
+
+#### 4.4.1. Web Applications Wireframes
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176927256346696/login.png?ex=66d7212b&is=66d5cfab&hm=17856fff07d7eed4b487db2adb2dd9b5769496b6318f532d19f98c0693f6d936&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176926601777182/crear_cuenta.png?ex=66d7212b&is=66d5cfab&hm=cd800621122e327543004fe3c121f14be5b30e4c09f6c475076d182ee5d44fae&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176927797416088/MenuActividades.png?ex=66d7212c&is=66d5cfac&hm=b651d42304ff10dca16992fc9c4b92e4c3ab9393b24add0aa426a0b02cfeae58&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176957165928498/MenuMiembros.png?ex=66d72133&is=66d5cfb3&hm=8e094494815c8f83385a66a5f65609501619696c8b4af1219488e0eee6466e83&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176957459402783/MenuProgreso.png?ex=66d72133&is=66d5cfb3&hm=317c589a1e96b56b45d9e11823f8ff3651d6985886ba178ebfec7bb45e867313&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176928120246332/MenuCalendario.png?ex=66d7212c&is=66d5cfac&hm=44f7d1c17eedcbddc28d795cb49513ea5f6a45599d7bcc58d2e35a7c3377ed24&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176926039998527/Crear_actividad.png?ex=66d7212b&is=66d5cfab&hm=362cec6f1aef6948924db0c689b31cc5b18c79d840ca544d138766c6bd0bbf14&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176928506249297/MenuConfiguracion.png?ex=66d7212c&is=66d5cfac&hm=09f28f339c66fef80b4b7afc5958d576727997d9932691e4c2ec7d1b26d5410c&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176925465383054/compartir.png?ex=66d7212b&is=66d5cfab&hm=7d3c3b71595dd39e4ef0e742fb16134a64941811f96a3ec9424e68a165f8ab5f&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176956574404689/notificaciones.png?ex=66d72132&is=66d5cfb2&hm=e91b91158418bd61f2a5ba1eab90b4248359f28adcce253a57d1096204896237&">
+
+</p>
+
+#### 4.4.2. Web Applications Wireflow Diagrams
+
+##### User goal: Registrar un nuevo usuario
+
+<p align="center"><img src="assets/images/wireflow1.png"></p>
+
+Para lograrlo, el usuario presiona en cualquiera de los botones "Registrarse",. Posteriormente, se pedirá que ingrese los datos necesarios y una vez listo sera redirigido a "Iniciar Sesión", para de esta manera, poder acceder con el nuevo usuario.
+
+##### User goal: Iniciar sesión
+
+<p align="center"><img src="assets/images/wireflow2.png"></p>
+
+Para lograrlo, el usuario presiona "Iniciar Sesión" y posteriormente, procede a rellena los campos correspondientes y aceptar.
+
+##### User goal: Visualizar el calendario con las actividades
+
+<p align="center"><img src="assets/images/wireflow3.png"></p>
+
+Para lograrlo, el usuario presiona "Calendario" en el panel lateral izquierdo. Una vez en la sección podra visualizar el calendario, que se actualiza automáticamente al crear o borrar una actividad.
+
+##### User goal: Cambiar de usuario o cerrar sesión
+
+<p align="center"><img src="assets/images/wireflow4.png"></p>
+
+Para lograrlo, el usuario presiona su perfil en la parte inferior del panel lateral izquierdo, para posteriormente, escoger entre cambiar de usuario o cerrar sesión; en ambos casos será redirigido a la sección de inicio de sesión.
+
+##### User goal: Agregar nuevo miembro por invitación mediante link o correo
+
+<p align="center"><img src="assets/images/wireflow5.png"></p>
+
+Para lograrlo, el usaurio presiona el botón "Compartir" que se encuentra en la parte superior derecha de la pantalla, para posteriormente ingresar el correo del destinatario o copiar el link de invitación. Por otro lado, al ingresar a la sección "Miembros", puede hacer lo mismo, al presionar "Invitar por link".
+
+##### User goal: Colapsar y expandir panel lateral
+
+<p align="center"><img src="assets/images/wireflow6.png"></p>
+
+Para colapsar el panel, el usuario presiona la flecha con dirección a la izquierda ubicada en la parte inferior del panel, en caso de querer expandir el mismo, presiona la misma flecha, pero esta vez estará apuntando hacia la derecha.
+
+##### User goal: Visualizar todas las notificaciones
+
+<p align="center"><img src="assets/images/wireflow7.png"></p>
+
+Para lograrlo, el usuario presiona el botón con forma de campana ubicado en la parte superior derecha de la pantalla, al lado izquierdo de "Compartir".
+
+##### User goal: Visualizar todas las opciones posibles
+
+<p align="center"><img src="assets/images/wireflow8.png"></p>
+
+Para lograrlo, el usuario presiona "Opciones" en el panel lateral izquierdo, para dirigirse a esta sección.
+
+##### User goal: Acceder o crear otro proyecto
+
+<p align="center"><img src="assets/images/wireflow9.png"></p>
+
+Para lograr cambiar de proyecto, el usuario presiona el nombre del actual, que se encuentra en la parte superior del panel lateral, y luego de desplegarse un pequeño menu, selecciona el nombre del proyecto deseado. En caso se desee crear un nuevo proyecto, dentro del menu que se ha desplegado, el usuario presiona "+".
+
+##### User goal: Visualizar el progreso del equipo y de cada miembro sobre el proyecto
+
+<p align="center"><img src="assets/images/wireflow10.png"></p>
+
+Para lograrlo, el usuario presiona "Progreso" en el menu desplegable, para visualizar esta sección, con una barra de progreso general en la parte superior y una propia para cada miembro.
+
+##### User goal: Crear una nueva actividad y modificar el estado de la misma
+
+<p align="center"><img src="assets/images/wireflow11.png"></p>
+
+Para lograrlo, el usuario presiona "Actividades" en el panel lateral, al encontrarse en esta sección, presiona "Nueva Actividad" y rellena los campos para crear una actividad y, en caso desee cambiar el estado, puede dirigirse a "Tablero Kanban", donde podrá modificar la actividad a "Por hacer", "En progreso" o "Terminado".
+
+#### 4.4.3. Web Applications Mock-ups
+
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859504164864/Iniciar_sesion.png?ex=66d724d5&is=66d5d355&hm=ac5a683b5f599b5cdb4fd4cf8e80031911196eb3eb97a5a93bdda3b9e99df1ef&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180861421093078/Registrarse.png?ex=66d724d5&is=66d5d355&hm=15a1009c8523bc0827b8f85b1aec196d8af780281dfc490eef2f4aea47526265&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180858682212481/Actividades.png?ex=66d724d5&is=66d5d355&hm=923168519c88400de7c9b64aaf0fc0298822bb09595f966a16544edf93770b9c&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180862402433065/Wireframe_-_7.png?ex=66d724d6&is=66d5d356&hm=1641caebe56c67af4bdb528df344123adfe0f6d7799774bf1d56b596e9c2a6c7&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180861983264900/Wireframe_-_5.png?ex=66d724d6&is=66d5d356&hm=e7467651dd76f1704c710c3d8f6e6f0d86d14d7e6352a070a7e25e87978b1dc6&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180860431237134/Miembros.png?ex=66d724d5&is=66d5d355&hm=753ff637bd1e7f0b8cb8c6d0da634525f8c6e56b883e74785d46ae5c3bf17754&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180858271301642/Wireframe_-_9.png?ex=66d724d5&is=66d5d355&hm=18091b5a305ff4dfd1bb771152998ff09e5dfea9caf255667c8b00d3fc87b6c2&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859969867776/Invitar_Miebros.png?ex=66d724d5&is=66d5d355&hm=10c0d53ba2f717a4e1b7720f4ccd164ed4bf028602e546b1af0f6b79c7114ec0&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180860930363403/Notificaciones.png?ex=66d724d5&is=66d5d355&hm=21e8283cf450f8b070613d95d893c2c3a1e1700a30df3f30c264cb902876bbf9&">
+<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859101777975/Crear_actividad.png?ex=66d724d5&is=66d5d355&hm=e01f72d02e8c9d7ac9bd898b495f30593cb46d0dbf21c78d254af2af4e71491f&">
+
+</p>
+
+#### 4.4.4. Web Applications User Flow Diagrams
+
+##### User goal: Como usuario quiero poder iniciar sesión en ManageWise
+
+<p align="center"><img src="assets/images/UserflowDiag1.png"></p>
+
+Para lograrlo, el usuario debe llenar el formulario con los datos correspondientes y aceptar, en caso sea válido, ingresará automáticamente, de lo contrario, el formulario se reiniciará.
+
+##### User goal: Como usuario quiero poder registrarme en ManageWise
+
+<p align="center"><img src="assets/images/UserflowDiag2.png"></p>
+
+Para lograrlo, el usuario debe llenar el formulario de registro con los datos correspondientes y aceptar, en caso sea válido, será redirigido al inicio de sesión, de lo contrario, el formulario se reiniciará.
+
+##### User goal: Como lider de un equipo de desarrollo de software, quiero poder crear nuevas actividades para los miembros de este
+
+<p align="center"><img src="assets/images/UserflowDiag3.png"></p>
+
+Para lograrlo, el líder del equipo, debe ir a la sección de "Actividades" y seleccionar "Nueva Actividad", posteriormente debe llenar el pequeño formulario con los datos necesarios y aceptar. En caso el formulario haya sido concretado con éxito, recibirá una notificación y este se agregará al apartado de actividades, caso contrario, el formulario se reiniciará.
+
+##### User goal: Como lider de un equipo de desarrollo de software, quiero poder visualizar el progreso en conjunto e individual de los miembros de este
+
+<p align="center"><img src="assets/images/UserflowDiag4.png"></p>
+
+Para lograrlo, el líder del equipo debe ir a la sección "Progreso" en el panel lateral, posteriormente será redirigido a esta sección y en la parte superior se podrá observar la barra de progreso total del equipo, mientras que al lado del nombre de cada miembro, una barra para ver el progreso individual.
+
+##### User goal: Como lider de un equipo de desarrollo de software, quiero poder ver a los miembros actuales e invitar a nuevos, tanto por correo como por un link
+
+<p align="center"><img src="assets/images/UserflowDiag5.png"></p>
+
+Para lograrlo, el líder del equipo debe ir a la sección "Miembros en el pane lateral", una vez en esta sección, podra visualizar la cantidad de miembros, el nombre de estos y el número de invitaciones. Para invitar a nuevos miembros, deberá presionar el botón de compartir o invitar y a continuación ingresar el correo del destinatario o copiar el link de invitación.
+
+##### User goal: Como miembro de un equipo de desarrollo de software, quiero poder visualizar un calendario con las diferentes actividades programadas
+
+<p align="center"><img src="assets/images/UserflowDiag6.png"></p>
+
+Para lograrlo, el miembro del equipo selecciona "Calendario" en el panel lateral, una vez en la sección, podra ver un calendario digital con las fechas de las diferentes actividades programadas.
+
+##### User goal: Como lider de un equipo de desarrollo de software, quiero poder cambiar el estado de una actividad
+
+<p align="center"><img src="assets/images/UserflowDiag7.png"></p>
+
+Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteriormente, seleccionar "Kanban", una vez allí, podra arrastrar las actividades a "Por hacer", "En progreso" y "Terminado". Tras haber cambiado el estado de una actividad, recibirá una notificación, caso contrario, no se alteró el estado.
+
+### 4.5. Web Applications Prototyping
+
+### 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839713729183817/structurizr-94755-SystemContext-001.png?ex=66d5e71e&is=66d4959e&hm=e54558f4ec2d78e2edeff485a2cd468e86db8eddc1632a7e0083d0051b6cc25d&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839714031042641/structurizr-94755-SystemContext-001-key.png?ex=66d5e71e&is=66d4959e&hm=61f5c1631f96f6e2205a097f5c8f5a8659557c0788806d44a69ae8f6151bc612&">
+</p>
+
+### 4.6.2. Software Architecture Container Diagrams
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840140256088167/structurizr-94755-Container-001.png?ex=66d5e783&is=66d49603&hm=eca6e1eb2dd1f793aef71cf888a1bb6e9984ad8a82d9c3cb1ad8087bbe615f41&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840139018768436/structurizr-94755-Container-001-key.png?ex=66d5e783&is=66d49603&hm=7cccd5d4e5a57f83179c889ecd986256c3a2b71430ee0a387147a2bef29c1296&">
+</p>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+#### **Component: Desarrollo**
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293622706317/structurizr-94755-Component-001.png?ex=66d5e896&is=66d49716&hm=67e904d6463271d1321cc72afefaca3b4e8a7fb443257bb90a29747fbd667e2e&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293182439434/structurizr-94755-Component-001-key.png?ex=66d5e896&is=66d49716&hm=f1a27535959e6b92d4c35b6b53a0e2fcf01bea0c0f2b8e43272309ee44649b68&">
+</p>
+
+#### **Component: Equipos**
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890868994119/structurizr-94755-Component-002.png?ex=66d5e836&is=66d496b6&hm=a679446cc79e0d497298574b40a8858be68f316a8a8c3e9b0484cd9c49dd0c9c&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890172473404/structurizr-94755-Component-002-key.png?ex=66d5e836&is=66d496b6&hm=4df0bc06d24a3b8ddae3f6fa654a0b532c4c37e0017721eae98eb6be5d65fcf9&">
+</p>
+
+#### **Component: Opiniones**
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326187286678/structurizr-94755-Component-003.png?ex=66d5e89e&is=66d4971e&hm=a0288512c65ad1a22ca380f7a3272bd732b9b9fa84699160122d7a4a6b814dd6&">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326661369948/structurizr-94755-Component-003-key.png?ex=66d5e89e&is=66d4971e&hm=52011543448b0f111b601a96c0ebff1201049af4f100786727dc7db68f5b976b&">
+</p>
+
+### 4.7. Software Object-Oriented Design
+
+#### 4.7.1. Class Diagrams
+
+![alt text](assets/images/diagramadeclases.png)
+
+### 4.8. Database Design
+
+#### 4.7.2. Database Dictionary
+
+Este es el formato que deberán seguir nuestras colecciones en MongoDB para replicar nuestras entidades de la base de datos ManageWise
+
+**Empresa**  
+Descripción: Colección que representa las empresas registradas en el sistema.
+|Campo|Tipo de dato|Descripción|
+|-----|------------|-----------|
+|Emp_ID|int|Identificador único de la empresa|
+|Emp_Nombre|varchar(20)|Nombre de la empresa|
+|Emp_Direccion|varchar(50)|Dirección de la empresa|
+|Emp_Email|varchar(25)|Correo electrónico de la empresa|
+
+**Cliente**  
+Descripción: Colección que representa a los clientes que solicitan proyectos.
+|Campo |Tipo de dato |Descripción|
+|-----|------------|-----------|
+|Cli_ID |int |Identificador único del cliente|
+|Cli_Nombre |varchar(30)|Nombre del cliente|
+|Cli_Email |varchar(25)|Correo electrónico del cliente|
+|Cli_Telef |int |Teléfono del cliente|
+
+**Cargo**  
+Descripción: Colección que define los diferentes cargos dentro de una empresa.
+|Campo |Tipo de dato |Descripción|
+|-----|------------|-----------|
+|Car_ID| int| Identificador único del cargo|
+|Car_Nom |varchar(30)| Nombre del cargo|
+
+**Empleado**  
+Descripción: Colección que representa a los empleados de una empresa.
+|Campo| Tipo de dato |Descripción|
+|-----|------------|-----------|
+|Emp_EmpleadoID |int |Identificador único del empleado|
+|Emp_EmpeadoNombre| varchar(20)| Nombre del empleado|
+|Emp_EmpleadoCargo| varchar(20) |Cargo del empleado|
+|Emp_EmpleadoEmail| varchar(30) |Correo electrónico del empleado|
+|Emp_EmpleadoTelef| int |Teléfono del empleado|
+|Car_ID |int |Identificador del cargo que ocupa el empleado|
+
+**Proyecto**  
+Descripción: Colección que representa los proyectos gestionados por las empresas.
+|Campo| Tipo de dato| Descripción|
+|-----|------------|-----------|
+|Pro_ID |int| Identificador único del proyecto|
+|Pro_Nombre |varchar(20)| Nombre del proyecto|
+|Pro_Descripción| varchar(50)| Descripción del proyecto|
+|Pro_FechInicio| date |Fecha de inicio del proyecto|
+|Pro_FechEnt| date |Fecha estimada de entrega del proyecto|
+|Pro_Est |varchar(20)| Estado actual del proyecto|
+|Cli_ID |int |Identificador del cliente asociado al proyecto|
+|Emp_ID |int |Identificador de la empresa asociada al proyecto|
+
+**Tarea**  
+Descripción: Colección que describe las tareas específicas dentro de un proyecto.
+|Campo| Tipo de dato| Descripción|
+|-----|------------|-----------|
+|Tar_ID| int| Identificador único de la tarea|
+|Tar_Desc| varchar(50)| Descripción de la tarea|
+|Tar_FechCreación| date| Fecha de creación de la tarea|
+|Tar_Prioridad |varchar(30)| Prioridad de la tarea|
+|Tar_Estado |varchar(20) |Estado actual de la tarea|
+|Pro_ID |int |Identificador del proyecto al que pertenece la tarea|
+|Emp_EmpleadoID| int| Identificador del empleado responsable de la tarea|
+|Eta_ID| int |Identificador de la etapa a la que pertenece la tarea|
+
+**Requisito**  
+Descripción: Colección que define los requisitos de un proyecto.
+|Campo |Tipo de dato |Descripción|
+|-----|------------|-----------|
+|Req_ID| int| Identificador único del requisito|
+|Req_Desc| varchar(50)| Descripción del requisito|
+|Req_FechCrea| date |Fecha de creación del requisito|
+|Req_Prioridad| int| Prioridad del requisito|
+|Req_Estado |varchar(20)| Estado actual del requisito|
+|Pro_ID |int| Identificador del proyecto asociado al requisito|
+
+**HistorialCambios**  
+Descripción: Colección que registra los cambios realizados en un proyecto.
+
+| Campo              | Tipo de dato | Descripción                                       |
+| ------------------ | ------------ | ------------------------------------------------- |
+| His_CambiosID      | int          | Identificador único del historial de cambios      |
+| His_CambiosDesc    | varchar(50)  | Descripción del cambio realizado                  |
+| His_CambiosFechMod | date         | Fecha de modificación del cambio                  |
+| Pro_ID             | int          | Identificador del proyecto asociado               |
+| Emp_EmpleadoID     | int          | Identificador del empleado responsable del cambio |
+
+**Comentario**  
+Descripción: Colección que contiene los comentarios realizados en tareas específicas.
+|Campo |Tipo de dato| Descripción|
+|-----|------------|-----------|
+|Com_ID| int| Identificador único del comentario|
+|Com_Texto |varchar(100)| Texto del comentario|
+|Com_Fech |date| Fecha del comentario|
+|Tar_ID |int |Identificador de la tarea asociada|
+|Emp_EmpleadoID |int| Identificador del empleado que hizo el comentario|
+
+**Entregable**  
+Descripción: Colección que define los entregables de un proyecto.
+|Campo| Tipo de dato| Descripción|
+|-----|------------|-----------|
+|Ent_ID |int| Identificador único del entregable|
+|Ent_Nombre |varchar(30)| Nombre del entregable|
+|Ent_Desc |varchar(60)| Descripción del entregable|
+|Ent_FechEnt| date |Fecha de entrega del entregable|
+|Pro_ID |int |Identificador del proyecto asociado|
+
+**ErroresCalidad**  
+Descripción: Colección que registra los errores de calidad encontrados en un proyecto.
+|Campo| Tipo de dato| Descripción|
+|-----|------------|-----------|
+|Err_ID| int| Identificador único del error de calidad|
+|Err_Desc| varchar(50) |Descripción del error|
+|Err_Gravedad| varchar(30)| Gravedad del error|
+|Err_Estado |varchar(20)| Estado actual del error|
+|Pro_ID |int |Identificador del proyecto asociado|
+
+**Metodología**  
+Descripción: Colección que define las metodologías utilizadas en los proyectos.
+|Campo| Tipo de dato| Descripción|
+|-----|------------|-----------|
+|Met_ID |int| Identificador único de la metodología
+|Met_Nombre| varchar(20)| Nombre de la metodología|
+|Met_Desc| varchar(50) |Descripción de la metodología|
+|Pro_ID |int |Identificador del proyecto asociado|
+
+**Sprints**  
+Descripción: Colección que define los sprints de un proyecto.
+|Campo |Tipo de dato| Descripción|
+|-----|------------|-----------|
+|Spr_ID |int| Identificador único del sprint|
+|Spr_Nom |varchar(20)| Nombre del sprint|
+|Spr_FechCreacion| date| Fecha de creación del sprint|
+|Spr_Fechafinal| date |Fecha final del sprint|
+|Pro_ID |int| Identificador del proyecto asociado|
+
+**Reunión**  
+Descripción: Colección que representa las reuniones realizadas en un proyecto.
+|Campo| Tipo de dato| Descripción|
+|-|-|-|
+|Reu_ID| int| Identificador único de la reunión|
+|Reu_Fecha| date| Fecha de la reunión|
+|Reu_Prioridad| varchar(30)| Prioridad de la reunión|
+|Reu_Estado |varchar(20) |Estado actual de la reunión|
+|Pro_ID |int |Identificador del proyecto asociado|
+
+**Documentación**  
+Descripción: Colección que almacena los documentos generados en un proyecto.
+|Campo| Tipo de dato |Descripción|
+|-|-|-|
+|Doc_ID |int |Identificador único del documento|
+|Doc_Nombre| varchar(30) |Nombre del documento|
+|Doc_Prioridad| varchar(30)| Prioridad del documento|
+|Doc_Estado |varchar(20) |Estado actual del documento|
+|Emp_EmpleadoID| int |Identificador del empleado que creó el documento|
+
+**Módulo**  
+Descripción: Colección que define los módulos de un proyecto.
+|Campo| Tipo de dato| Descripción|
+|-|-|-|
+|Mod_ID| int |Identificador único del módulo|
+|Mod_Nombre| varchar(20)| Nombre del módulo|
+|Mod_Descripcion| text| Descripción del módulo|
+|Pro_ID |int |Identificador del proyecto asociado|
+
+**Caso_Prueba**  
+Descripción: Colección que define los casos de prueba de un módulo.
+|Campo| Tipo de dato| Descripción|
+|-|-|-|
+|Cas_ID| int |Identificador único del caso de prueba|
+|Cas_Descripcion |text |Descripción del caso de prueba|
+|Cas_Resultado |varchar(20)| Resultado del caso de prueba|
+|Cas_Estado |varchar(20) |Estado actual del caso de prueba|
+|Mod_ID |int |Identificador del módulo asociado|
+|Emp_EmpleadoID| int| Identificador del empleado responsable del caso de prueba|
+
+**Equipo**  
+Descripción: Colección que define los equipos de trabajo en un proyecto.
+|Campo| Tipo de dato| Descripción|
+|-|-|-|
+|Equ_ID |int |Identificador único del equipo|
+|Equ_Rol |varchar(25)| Rol del equipo|
+|Pro_ID |int |Identificador del proyecto asociado|
+|Emp_EmpleadoID| int| Identificador del empleado miembro del equipo|
+
+**Sistema**  
+Descripción: Colección que define los sistemas utilizados en un proyecto.
+|Campo| Tipo de dato| Descripción|
+|-|-|-|
+|Sis_ID | int| Identificador único del sistema|
+|Sis_Nombre| varchar(20) Nombre del sistema|
+|Sis_Descripcion| text Descripción del sistema|
+|Pro_ID |int| Identificador del proyecto asociado|
+
+**Cliente_Proyecto**  
+Descripción: Colección que representa la relación entre clientes y proyectos.
+|Campo |Tipo de dato |Descripción|
+|-|-|-|
+|Cli_ID | int| Identificador del cliente asociado|
+|Pro_ID |int |Identificador del proyecto asociado|
+
+**Etapa**  
+Descripción: Colección que define las etapas de un proyecto.
+|Campo |Tipo de dato| Descripción|
+|-|-|-|
+|Eta_ID |int |Identificador único de la etapa|
+|Eta_Nombre |varchar(20)| Nombre de la etapa|
+|Eta_Descripcion| text| Descripción de la etapa|
+|Pro_ID | int| Identificador del proyecto asociado|
+
+#### 4.8.1. Database Diagram
+
+Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Clientes, Empleados, Proyectos, Tareas y Requisitos. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades. Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
+
+![alt text](assets/images/db-diagram.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
-### 5.1. Software Configuration Management. 
-La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores. (Martin, 2023)
 
+### 5.1. Software Configuration Management.
+
+La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores. (Martin, 2023)
 
 ### 5.1.1. Software Development Environment Configuration.
 
- **Directrices de Desarrollo para Horizon**
+**Directrices de Desarrollo para Horizon**
 
 En esta sección, presentaremos las convenciones y prácticas recomendadas que hemos adoptado en HTML, CSS y JavaScript para el desarrollo de Horizon, nuestro software innovador dirigido a startups del sector del desarrollo de software. Estas directrices están orientadas a asegurar una estructura coherente, facilitar la mantenibilidad del código y optimizar la funcionalidad de nuestra plataforma para la gestión de proyectos e iniciativas. A continuación, detallaremos cómo aplicamos estas prácticas en cada una de las tecnologías utilizadas.
 
@@ -884,22 +1766,17 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
   - **Propósito:** Gestión de versiones y colaboración en el código.
   - **Ruta de descarga:** [Git](https://git-scm.com/)
   - **Repositorio:** [GitHub - Horizon](https://github.com/Firtness/Horizon.git)
-- **Pruebas:** Jest para pruebas unitarias y Cypress para pruebas end-to-end.
-  - **Propósito:** Validación exhaustiva de la funcionalidad del software.
-  - **Ruta de descarga:** [Jest](https://jestjs.io/) | [Cypress](https://www.cypress.io/)
-  - **Nota:** Las pruebas unitarias se documentan utilizando lenguaje Gherkin para mejorar la claridad y comprensión.
 
 ## Diseño y Desarrollo
 
 - **UI/UX:** Crear una interfaz amigable y accesible para los usuarios.
   - **Herramienta:** Figma
   - **Propósito:** Diseño de prototipos y interfaces de usuario.
-  
 
 Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
 
-
 ### 5.1.2. Source Code Management.
+
 **Gestión de Cambios en el Código Fuente con GitHub**
 
 En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo.
@@ -938,10 +1815,9 @@ Adoptamos el estándar Conventional Commits para los mensajes de nuestros commit
 
 La documentación del proyecto se encuentra en el archivo `README.md` dentro del repositorio. Este archivo proporciona detalles sobre la configuración, el uso del software y las guías para contribuir al proyecto.
 
+### 5.1.3. Source Code Style Guide & Conventions.
 
-### 5.1.3. Source Code Style Guide & Conventions. 
-
-En el *Source Code Style Guide*, presentaremos las convenciones, estilos, diseños y principios aplicados en los lenguajes utilizados durante el desarrollo de nuestro producto. Los lenguajes y herramientas empleados incluyen:
+En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseños y principios aplicados en los lenguajes utilizados durante el desarrollo de nuestro producto. Los lenguajes y herramientas empleados incluyen:
 
 **HTML**
 
@@ -972,47 +1848,130 @@ En el *Source Code Style Guide*, presentaremos las convenciones, estilos, diseñ
 - **Actualización de Comentarios:** Mantén los comentarios actualizados a medida que el código evoluciona para evitar información desactualizada.
 - **Evita Comentarios Redundantes:** Evita comentarios obvios o redundantes que no añaden información útil. Los comentarios deben proporcionar claridad y contexto adicional.
 
+### 5.1.4. Software Deployment Configuration.
+
+En los siguientes pasos se explicará cómo llevar a cabo la implementación de nuestro sitio web utilizando GitHub Pages
 
 
-### 5.1.4. Software Deployment Configuration. 
+**Deploy con GitHub Pages:** 
+En primer lugar, accedemos al repositorio de GitHub donde se encuentra nuestro proyecto y luego navegamos hacia la configuración del repositorio.
 
-**Preparación del Código**
+![Settings](https://cdn.discordapp.com/attachments/1246609784501833810/1279964432864116810/image.png?ex=66df95c5&is=66de4445&hm=b41e7bc27ed3e2581b7b9234387cb511481c0a8f4d2132caaf3cc416b5c2e970&)
 
-- **Minificación:** Minifica archivos CSS y JavaScript para reducir el tamaño y mejorar la carga.
-- **Optimización de Imágenes:** Comprime y ajusta las imágenes para mejorar el rendimiento de la aplicación.
-- **Eliminación de Código No Necesario:** Quita código de depuración y comentarios innecesarios antes del despliegue.
+Dentro del menú de ajustes, elegimos la opción "Pages".
+![Settings](https://media.discordapp.net/attachments/1246609784501833810/1279964791942938748/image.png?ex=66df961a&is=66de449a&hm=ee9fb4a1237e863e59e2d60a34cd17b56cae39a7fd76246a93c8f8ce7643bc4d&=&format=webp&quality=lossless&width=1007&height=662)
 
-**Control de Versiones**
-- **Uso de Git:** Mantén un historial completo de cambios y facilita el manejo de diferentes versiones del código.
+ En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". 
+Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
 
-**Pruebas Automatizadas**
 
-- **Automatización de Pruebas:** Implementa pruebas automatizadas para detectar errores antes del despliegue y asegurar la estabilidad de la aplicación.
+### 5.2 Landing Page, Services & Applications Implementation.
 
-**Entorno de Staging**
+El desarrollo, testeo y despliegue de nuestra landing page es importante para que nuestros clientes puedan acceder a la información sobre nuestra empresa y producto a través de una interfaz con diseño responsivo, navegación intuitiva y solo con información relevante. Esta primera etapa nos permite crear un diseño conceptual sobre la estética que nuestra aplicación completa y lista para su uso. Estas etapas nos ayudaran a dar una primera impresión a los clientes para validar ideas e identificar problemas que se deben solucionar.
 
-- **Simulación de Producción:** Configura un entorno de staging que replique el entorno de producción para realizar pruebas finales.
+### 5.2.1 . Sprint 1
 
-**Servidor de Producción**
+El primer sprint es una etapa importante en nuestro marco de gestión de proyectos de metodología ágil Scrum. En este periodo, agendamos reuniones con el objetivo de conocer mejor las características de cada integrante, y delegamos tareas para materializar el diseño y funcionalidades ya establecidas, para transformarlos en un landing page funcional y que cumple las heurísticas.
 
-- **Proveedor de Hosting:** Selecciona un proveedor confiable y configura el servidor de producción con los recursos necesarios para soportar la aplicación.
+#### 5.2.1.1 Sprint Planning 1.
 
-**Base de Datos**
+El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
 
-- **Configuración y Seguridad:** Configura la base de datos en producción asegurando credenciales y conexiones seguras.
+<table  style="text-align: center;">
+    <tbody>
+        <tr>
+			<td colspan="1">Sprint #</td>
+            <td colspan="1"> Sprint 1  </td>
+		</tr>
+        <tr>
+			<td colspan="2">Sprint Planning Background </td>
+		</tr>
+        <tr>
+			<td colspan="1">Date</td>
+            <td colspan="1"> 06/09/2024 </td>
+		</tr>
+        <tr>
+			<td colspan="1">Time</td>
+            <td colspan="1"> 12:00 AM </td>
+		</tr>
+        <tr>
+			<td colspan="1">Location</td>
+            <td colspan="1">Discord (Reunion virtual)</td>
+		</tr>
+        <tr>
+			<td colspan="1">Prepared By</td>
+            <td colspan="1">Jaque Peña, Estefano Oscar</td>
+		</tr>
+        <tr>
+			<td colspan="1"> Attendees (to planning meeting)</td>
+            <td colspan="1">Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva,Valentino </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 – 1 Review Summary </td>
+            <td colspan="1">Se logro implementar todos los User Stories elegidos para la creación del Landing Page, y se hizo su despliegue completo. También completamos el informe siguiendo las reglas dadas en el Aula Virtual.</td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
+            <td colspan="1">En el Sprint 1, el equipo de desarrollo subestimo el tiempo de entrega, aunque hubo buena organización y responsabilidad para las reuniones para separar responsabilidades y responder dudas, algunas tareas del informe se entregaron fuera de tiempo acordado. Lo que nos dio poco tiempo para mejorar lo implementado en el Landing Page. El Team Leader menciono unos puntos de mejorar para los próximos Sprint, siendo estos: "Si necesitan ayuda sean abiertos no juzgaremos, planificaremos reuniones diarias para motivar y monitorear cada avance del trabajo para evitar retrasos".</td>
+		</tr>
+         <tr>
+			<td colspan="2">Sprint Goal & User Stories </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 Goal</td>
+            <td colspan="1">Para el correcto cumplimiento de este Sprint requerimos completar los siguientes objetivos: Finalizar el informe y el despliegue de nuestro Landing Page desde nuestro repositorio de GitHub. Nuestra herramienta para demostrar el cumplimiento es nuestro tablero en Trello, pues a lo largo del desarrollo de nuestro Landing Page ubicamos todas nuestras tareas asignadas en la columna "Terminado".</td>
+		</tr>
+        <tr>
+			<td colspan="1">Sprint 1 Velocity </td>
+            <td colspan="1">Para este sprint se han elegido 6 User Stories. 4 User Stories tienen 2 Story Points y 2 User Stories tienen 3 Story Points.</td>
+		</tr>
+        <tr>
+			<td colspan="1">Sum of Story Points </td>
+            <td colspan="1">14</td>
+		</tr>
+</tbody>
+</table>
 
-**CI/CD**
+#### 5.2.1.2 Sprint Backlog 1.
 
-- **Pipeline de CI/CD:** Establece un pipeline para integración y despliegue continuo utilizando herramientas como Jenkins, Travis CI o GitHub Actions para automatizar el despliegue.
+#### 5.2.1.3 Development Evidence for Sprint Review
 
-**Monitoreo y Registro**
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
-- **Soluciones de Monitoreo:** Implementa herramientas de monitoreo y registro para rastrear el rendimiento y detectar problemas rápidamente.
+Debido a que en este sprint se desarrolló únicamente el Landing Page se omitirá esta sección. En próximas etapas del proyecto se ofrecerá información sobre esta sección.
 
-**Backup y Recuperación**
+#### 5.2.1.5 Execution Evidence for Sprint Review.
 
-- **Procedimientos de Backup:** Configura procedimientos para respaldar datos y asegurar la recuperación en caso de pérdida o fallo.
+En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado el Landing Page. Mostraremos imágenes para observar que nuestra página muestra limpia e intuitivamente información sobre nuestro producto y nuestra empresa.
 
-**Documentación**
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
 
-- **Documentación del Proceso:** Documenta el proceso de despliegue y mantenimiento para facilitar la gestión y comprensión del equipo.
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
+
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-3.png"></p>
+
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-4.png"></p>
+
+<p align="center"><img src="../Horizon/assets/images/Execution-Evidence-for-Sprint-Review-5.png"></p>
+
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review.
+
+Debido a que en este sprint se desarrolló únicamente el Landing Page se omitirá esta sección. En próximas etapas del proyecto se ofrecerá información sobre esta sección.
+
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+
+Debido a que en este sprint se desarrolló únicamente el Landing Page se omitirá esta sección. En próximas etapas del proyecto se ofrecerá información sobre esta sección.
+
+#### 5.2.1.8 Team Collaboration Insights during Sprint.
+
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282418510726828176/image.png?ex=66df48cf&is=66ddf74f&hm=38e125dae2120e39a7ead0a30c979bbd8320b50bb889fc2119a90ca8b4cca5f2&"></p>
+
+### Conclusiones
+- Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
+
+
+### Bibliografia
+
+### Anexos
