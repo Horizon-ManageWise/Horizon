@@ -584,7 +584,7 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
    Edad: 23 <br>
    Distrito: San Martin de Porres <br>
 
-![Foto de entrevista](assets/images/image.png)
+![Foto de entrevista](assets/images/S.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1WrxFb_8KqRk6mWSrgUbvFpkfpjyIU0vI/view?usp=sharing)
 
