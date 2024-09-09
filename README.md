@@ -210,7 +210,6 @@ TB1:<br>
       - [5.2.1.7 Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8 Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
     - [Conclusiones](#conclusiones)
-- [\<\<\<\<\<\<\< HEAD](#-head)
     - [Bibliografia](#bibliografia)
     - [Anexos](#anexos)
 
@@ -2006,10 +2005,6 @@ La creación y diseño de ManageWise han sido un esfuerzo integral enfocado en o
 
 * Valentino Sandoval:
 Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
-<<<<<<< HEAD
-=======
-
->>>>>>> 1e62fab8694aa2cd0c44d239e5251851b4b2d544
 
 ### Bibliografia
 
