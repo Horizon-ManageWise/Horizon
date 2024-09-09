@@ -1946,8 +1946,6 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Sum of Story Points**         | 14 |
 
 #### 5.2.1.2 Sprint Backlog 1.
-=======
->>>>>>> 849ba79a71ef9fd3ea60d74d9a01cd0c3e9bb50e
 Para el primer sprint backloge, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
 
 ![alt text](assets/images/Trello.png)
