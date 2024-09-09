@@ -48,7 +48,15 @@ Product: ManageWise
 | TB1     | 08/09/2024 | Diego Alonso Rosado Iporre   | Desarrollé la documentacion de la evidencia de los commits realizados: Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Avance de Conclusiones y Bibliografía. |
 | TB1     | 18/08/2024 | Sebastián Omar Real Calderón | Desarrollé el Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping.                                                                                                                                                                                                                                                         |
 | TB1     | 3/09/2024  | Sebastián Omar Real Calderón | Realicé los General y Web Style Guidelines. Realicé la documentación de los entornos de trabajo.                                                                                                                                                                                                                                                                                    |
+<<<<<<< HEAD
 
+=======
+| TB1     | 25/09/2024 | Diego Rolin Acuña Tomas      | Realice el Startup Profile. Completando los antecedentes y problematica                                                                                                                                                                                                                                                                                                             |
+| TB1     | 27/09/2024 | Diego Rolin Acuña Tomas      | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.                                                                                                                                                                                                                                                                                                     |
+| TB1     | 1/09/2024  | Diego Rolin Acuña Tomas      | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.                                                                                                                                                        |
+| TB1     | 6/09/2024  | Diego Rolin Acuña Tomas      | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint.                                                                                         |
+| TB1     | 8/09/2024  | Diego Rolin Acuña Tomas      | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                                                                                                           |
+>>>>>>> 1e62fab8694aa2cd0c44d239e5251851b4b2d544
 ## Project Report Collaboration Insights
 
 TB1:<br>
@@ -59,8 +67,7 @@ TB1:<br>
 |Sandoval Paiva Valentino|Descripción de la Startup, 5w y 2h, Solution Profile, Antecedentes y problemática, el regitro de una entrevista , Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management.|
 |Rosado Iporre, Diego Alonso|Descripción de la Startup, Competidores, Análisis Competitivo, Registro de Entrevistas, Análisis de Entrevistas, Ubiquitous Language, User Stories, Wireframes de Aplicaciones Web, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, y Software Architecture Components Diagrams. Además, he trabajado en la creación y despliegue de la landing page, documentando el diseño y las pruebas realizadas. Documenté la evidencia de los commits realizados, incluyendo Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, y Team Collaboration Insights during Sprint. También incluí el avance de conclusiones y bibliografía.|
 | Real Calderón, Sebastián Omar | User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Style Guidelines, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration. |
-
-| Diego Rolin Acuña Tomas | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Diego Rolin Acuña Tomas | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
 
 ## Contenido
 
@@ -2002,6 +2009,10 @@ La creación y diseño de ManageWise han sido un esfuerzo integral enfocado en o
 
 * Valentino Sandoval:
 Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1e62fab8694aa2cd0c44d239e5251851b4b2d544
 
 ### Bibliografia
 
