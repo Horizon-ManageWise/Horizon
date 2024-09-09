@@ -5,7 +5,7 @@ Product: ManageWise
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 <p align="center">
-  <img src="https://res.cloudinary.com/upcbinary/image/upload/v1676924787/ExploraUPC/images/upc_logo_200x200_jao73r.png">
+  <img src="assets/images/upc-logo.png">
 </p>
 
 ## Ingenieria de Software
@@ -165,13 +165,13 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 - Diego Rolin Acuña Tomas - U202221436
 
-| <p align="center"><img width="3000" height="300" src="https://cdn.discordapp.com/attachments/1257109045723271192/1275266454484291584/1_whatsapp_image_2022_09_10_at_6_21_27_pm.jpeg?ex=66c543f0&is=66c3f270&hm=ff4e77e9d7155359050d176bdbb843afec0163b5a1189920cefca60fce153d40&"> </p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han facinado las computadoras y como se mostraban en las peliculas los expertos en informatica. Hoy en dia entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profecional. Tambien conosco los tipos de base de datos, aprendi sql server para la bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos. |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p align="center"><img width="3000" height="300" src="assets/images/perfil-Diego.png"> </p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han facinado las computadoras y como se mostraban en las peliculas los expertos en informatica. Hoy en dia entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profecional. Tambien conosco los tipos de base de datos, aprendi sql server para la bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos. |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Valentino Sandoval Paiva - U20211A962
 
 | <p align="center"><img width="300" height="150" src="assets/images/WASAAAA.jpg"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera.. |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - José Antonio Alejo Cárdenas - U202122484
 
@@ -542,7 +542,7 @@ La entrevista con Juan de la Cruz, lidel del Grupo JPSP, reveló aspectos clave 
     Edad: 26 <br>
     Distrito: San Isidro <br>
 
-![Foto de entrevista](https://cdn.discordapp.com/attachments/1257109045723271192/1277323905102643262/image.png?ex=66ccc016&is=66cb6e96&hm=d40e669ac1a0dc296f2b6c9b8b2c106b6bb6e2b70f61e5970b8596d42e7d973d&)
+![Foto de entrevista](assets/images/Entrevista-Maria.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1URH3QIgHteG1cNFRdPeFrunflBu3zA8j/view?usp=sharing "Entrevista 2")
 
@@ -595,7 +595,7 @@ La entrevista con Fabricio proporcionó información valiosa sobre como un integ
     Edad: 21 <br>
     Distrito: San Borja <br>
 
-![Foto de entrevista](https://cdn.discordapp.com/attachments/1257109045723271192/1276971972672225330/image.png?ex=66cb7853&is=66ca26d3&hm=438e8569ec021aeff356b8b71aa8b3528b7cad205b5434810de70968a6c6423f&)
+![Foto de entrevista](/assets/images/Entrevista-Agustin.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1GgzFpXSX2uaFr_GiZCo5utxRtd5Z-t24/view?usp=sharing "Entrevista 2")
 
@@ -640,7 +640,7 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 <p align="center">
 
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1278469369763991562/Leonardo_Mendoza_1.png?ex=66d0eae2&is=66cf9962&hm=f61347b8dd2034460dbf1c36d06bb5d0adda0458794611bdd6681a77f4e32dbe&">
+  <img src="/assets/images/User-persona-1.png">
 
 </p>
 
@@ -648,7 +648,7 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1257109045723271192/1278476848833101954/Oscar_Vargas.png?ex=66d0f1d9&is=66cfa059&hm=9c151f36ea301e19831ef0abb2ae34020ccde2c77c16ef99e8536de820701e8c&">
+<img src="/assets/images/User-persona-2.png">
 
 </p>
 
@@ -1499,19 +1499,19 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 ### 4.6.1. Software Architecture Context Diagram
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839713729183817/structurizr-94755-SystemContext-001.png?ex=66d5e71e&is=66d4959e&hm=e54558f4ec2d78e2edeff485a2cd468e86db8eddc1632a7e0083d0051b6cc25d&">
+  <img src="/assets/images/Software Architecture Context Diagram 1.png">
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279839714031042641/structurizr-94755-SystemContext-001-key.png?ex=66d5e71e&is=66d4959e&hm=61f5c1631f96f6e2205a097f5c8f5a8659557c0788806d44a69ae8f6151bc612&">
+  <img src="/assets/images/Software Architecture Context Diagram 2.png">
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840140256088167/structurizr-94755-Container-001.png?ex=66d5e783&is=66d49603&hm=eca6e1eb2dd1f793aef71cf888a1bb6e9984ad8a82d9c3cb1ad8087bbe615f41&">
+  <img src="/assets/images/Container Diagrams 1.png">
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840139018768436/structurizr-94755-Container-001-key.png?ex=66d5e783&is=66d49603&hm=7cccd5d4e5a57f83179c889ecd986256c3a2b71430ee0a387147a2bef29c1296&">
+  <img src="/assets/images/Container Diagrams 2.png">
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1519,28 +1519,28 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 #### **Component: Desarrollo**
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293622706317/structurizr-94755-Component-001.png?ex=66d5e896&is=66d49716&hm=67e904d6463271d1321cc72afefaca3b4e8a7fb443257bb90a29747fbd667e2e&">
+  <img src="/assets/images/Components Diagrams 1.png">
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841293182439434/structurizr-94755-Component-001-key.png?ex=66d5e896&is=66d49716&hm=f1a27535959e6b92d4c35b6b53a0e2fcf01bea0c0f2b8e43272309ee44649b68&">
+  <img src="/assets/images/Components Diagrams 2.png">
 </p>
 
 #### **Component: Equipos**
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890868994119/structurizr-94755-Component-002.png?ex=66d5e836&is=66d496b6&hm=a679446cc79e0d497298574b40a8858be68f316a8a8c3e9b0484cd9c49dd0c9c&">
+  <img src="/assets/images/Components Diagrams 3.png">
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279840890172473404/structurizr-94755-Component-002-key.png?ex=66d5e836&is=66d496b6&hm=4df0bc06d24a3b8ddae3f6fa654a0b532c4c37e0017721eae98eb6be5d65fcf9&">
+  <img src="/assets/images/Components Diagrams 4.png">
 </p>
 
 #### **Component: Opiniones**
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326187286678/structurizr-94755-Component-003.png?ex=66d5e89e&is=66d4971e&hm=a0288512c65ad1a22ca380f7a3272bd732b9b9fa84699160122d7a4a6b814dd6&">
+  <img src="/assets/images/Components Diagrams 5.png">
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1279841326661369948/structurizr-94755-Component-003-key.png?ex=66d5e89e&is=66d4971e&hm=52011543448b0f111b601a96c0ebff1201049af4f100786727dc7db68f5b976b&">
+  <img src="/assets/images/Components Diagrams 6.png">
 </p>
 
 ### 4.7. Software Object-Oriented Design
