@@ -62,6 +62,8 @@ TB1:<br>
 |Jaque Peña, Estefano Oscar|Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores,Estrategias y tácticas frente a competidores,User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
 |Sandoval Paiva Valentino|Descripción de la Startup, 5w y 2h, Solution Profile, Antecedentes y problemática, el regitro de una entrevista , Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management.|
 | Diego Rolin Acuña Tomas | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Arévalo Meza John | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
+
 
 
 
@@ -1412,11 +1414,11 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 ##### User goal: Registrar un nuevo usuario
 
-<p align="center"><img src="assets/images/wireflow1.png"></p>
+<p align="center"><img src="assets/images/Wireflow1.png"></p>
 
 ##### User goal: Iniciar sesión
 
-<p align="center"><img src="assets/images/wireflow2.png"></p>
+<p align="center"><img src="assets/images/Wireflow2.png"></p>
 
 
 ##### User goal: Acceso a videollamadas
