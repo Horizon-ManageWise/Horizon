@@ -35,8 +35,28 @@ Product: ManageWise
 ### Agosto, 2024
 
 ## Registro de Versiones del Informe
-
+|Version|Fecha|Autor|Descripcion|
+|-|-|-|-|
+|TB1|28/08/24|José Alejo| Desarrollé el Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, Registro de entrevistas (1 entrevista) y Análisis de entrevistas (1 entrevista) |
+|TB1|29/08/24|José Alejo| Desarrollé el To-Be Scenario Mapping, 6 de las User Stories, Impact Mapping y todo el Information Architecture|
+|TB1|26/08/2024|Estefano Jaque |Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas|
+|TB1|05/09/2024|Estefano Jaque|Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
+|TB1|29/08/2024|Maria Jose Pezo|Desarrollé la Descripción de la Startup, Solution Profile, Antecedentes y problemática|
+|TB1|05/09/2024|Maria Jose Pezo|Desarrollé el regitro de una entrevista a un usuario del segmento 1, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.|
+|TB1|29/08/2024|Diego Alonso Rosado Iporre|Desarrollé la Descripción de la Startup, a su vez,  Competidores, Análisis competitivo, Registro de entrevistas, Análisis de entrevistas, Ubiquitous Language, User Stories, Web Applications Wireframes, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams.|
+|TB1|08/09/2024|Diego Alonso Rosado Iporre|Desarrollé la documentacion de la evidencia de los commits realizados: Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Avance de Conclusiones y Bibliografía. |
+|TB1|18/08/2024|Sebastián Omar Real Calderón| Desarrollé el Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping. |
+|TB1|3/09/2024|Sebastián Omar Real Calderón| Realicé los General y Web Style Guidelines. Realicé la documentación de los entornos de trabajo. |
 ## Project Report Collaboration Insights
+
+TB1:<br>
+|Integrante|Tarea Asignada|
+|-|-|
+|Alejo Cárdenas, Jose Antonio|Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, 1 Registro de entrevistas, 1 Análisis de entrevistas, To-Be Scenario Mapping, 6 User Stories, Impact Mapping, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Creacion del keynote, Reporte de participacion y parte la estructuracion del informe.|
+|Jaque Peña, Estefano Oscar|Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
+|Pezo Castilla, Maria Jose|Descripción de la Startup, Solution Profile, Antecedentes y problemática, el regitro de una entrevista a un estudiante ocupado, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups y Web Applications User Flow Diagrams.|
+|Rosado Iporre, Diego Alonso|Descripción de la Startup, Competidores, Análisis Competitivo, Registro de Entrevistas, Análisis de Entrevistas, Ubiquitous Language, User Stories, Wireframes de Aplicaciones Web, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, y Software Architecture Components Diagrams. Además, he trabajado en la creación y despliegue de la landing page, documentando el diseño y las pruebas realizadas. Documenté la evidencia de los commits realizados, incluyendo Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, y Team Collaboration Insights during Sprint. También incluí el avance de conclusiones y bibliografía.|
+| Real Calderón, Sebastián Omar | User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Style Guidelines, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration. |
 
 ## Contenido
 
