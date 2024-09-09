@@ -166,12 +166,12 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 - Diego Rolin Acuña Tomas - U202221436
 
 | <p align="center"><img width="3000" height="300" src="assets/images/perfil-Diego.png"> </p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han facinado las computadoras y como se mostraban en las peliculas los expertos en informatica. Hoy en dia entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profecional. Tambien conosco los tipos de base de datos, aprendi sql server para la bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos. |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Valentino Sandoval Paiva - U20211A962
 
 | <p align="center"><img width="300" height="150" src="assets/images/WASAAAA.jpg"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera.. |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - José Antonio Alejo Cárdenas - U202122484
 
@@ -542,7 +542,7 @@ La entrevista con Juan de la Cruz, lidel del Grupo JPSP, reveló aspectos clave 
     Edad: 26 <br>
     Distrito: San Isidro <br>
 
-![Foto de entrevista](https://cdn.discordapp.com/attachments/1257109045723271192/1277323905102643262/image.png?ex=66ccc016&is=66cb6e96&hm=d40e669ac1a0dc296f2b6c9b8b2c106b6bb6e2b70f61e5970b8596d42e7d973d&)
+![Foto de entrevista](assets/images/Entrevista-Maria.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1URH3QIgHteG1cNFRdPeFrunflBu3zA8j/view?usp=sharing "Entrevista 2")
 
@@ -595,7 +595,7 @@ La entrevista con Fabricio proporcionó información valiosa sobre como un integ
     Edad: 21 <br>
     Distrito: San Borja <br>
 
-![Foto de entrevista](https://cdn.discordapp.com/attachments/1257109045723271192/1276971972672225330/image.png?ex=66cb7853&is=66ca26d3&hm=438e8569ec021aeff356b8b71aa8b3528b7cad205b5434810de70968a6c6423f&)
+![Foto de entrevista](/assets/images/Entrevista-Agustin.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1GgzFpXSX2uaFr_GiZCo5utxRtd5Z-t24/view?usp=sharing "Entrevista 2")
 
