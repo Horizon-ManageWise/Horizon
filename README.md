@@ -35,20 +35,32 @@ Product: ManageWise
 ### Agosto, 2024
 
 ## Registro de Versiones del Informe
+
 |Version|Fecha|Autor|Descripcion|
 |-|-|-|-|
 |TB1|28/08/24|José Alejo| Desarrollé el Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, Registro de entrevistas (1 entrevista) y Análisis de entrevistas (1 entrevista) |
 |TB1|29/08/24|José Alejo| Desarrollé el To-Be Scenario Mapping, 6 de las User Stories, Impact Mapping y todo el Information Architecture|
 |TB1|26/08/2024|Estefano Jaque|Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores y Estrategias y tácticas frente a competidores|
 |TB1|05/09/2024|Estefano Jaque|Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
+|TB1      |29/08/2024  |Valentino Sandoval Paiva      |Desarrollé la Descripción de la Startup, Solution Profile, el regitro de una entrevista a un usuario del segmento 1 y 2, y realicé una entrevista.|
+|TB1      |05/09/2024  |Valentino Sandoval Paiva      |Desarrollé el Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management|
+| TB1     | 25/09/2024 | Diego Rolin Acuña Tomas      | Realice el Startup Profile. Completando los antecedentes y problematica                                                                                                                                                                                                                                                                                                             |
+| TB1     | 27/09/2024 | Diego Rolin Acuña Tomas      | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.                                                                                                                                                                                                                                                                                                     |
+| TB1     | 1/09/2024  | Diego Rolin Acuña Tomas      | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.                                                                                                                                                        |
+| TB1     | 6/09/2024  | Diego Rolin Acuña Tomas      | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint.                                                                                         |
+| TB1     | 8/09/2024  | Diego Rolin Acuña Tomas      | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.     
 
 ## Project Report Collaboration Insights
 
 TB1:<br>
 |Integrante|Tarea Asignada|
 |-|-|
+
 |Alejo Cárdenas, Jose Antonio|Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, 1 Registro de entrevistas, 1 Análisis de entrevistas, To-Be Scenario Mapping, 6 User Stories, Impact Mapping, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Creacion del keynote, Reporte de participacion y parte la estructuracion del informe.|
 |Jaque Peña, Estefano Oscar|Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores,Estrategias y tácticas frente a competidores,User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
+|Sandoval Paiva Valentino|Descripción de la Startup, 5w y 2h, Solution Profile, Antecedentes y problemática, el regitro de una entrevista , Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management.|
+| Diego Rolin Acuña Tomas | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+
 
 
 ## Contenido
@@ -148,25 +160,23 @@ TB1:<br>
       - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
       - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
         - [User goal: Registrar un nuevo usuario](#user-goal-registrar-un-nuevo-usuario)
+        - [User goal: Registrar un nuevo usuario](#user-goal-registrar-un-nuevo-usuario-1)
         - [User goal: Iniciar sesión](#user-goal-iniciar-sesión)
-        - [User goal: Visualizar el calendario con las actividades](#user-goal-visualizar-el-calendario-con-las-actividades)
-        - [User goal: Cambiar de usuario o cerrar sesión](#user-goal-cambiar-de-usuario-o-cerrar-sesión)
-        - [User goal: Agregar nuevo miembro por invitación mediante link o correo](#user-goal-agregar-nuevo-miembro-por-invitación-mediante-link-o-correo)
-        - [User goal: Colapsar y expandir panel lateral](#user-goal-colapsar-y-expandir-panel-lateral)
-        - [User goal: Visualizar todas las notificaciones](#user-goal-visualizar-todas-las-notificaciones)
-        - [User goal: Visualizar todas las opciones posibles](#user-goal-visualizar-todas-las-opciones-posibles)
-        - [User goal: Acceder o crear otro proyecto](#user-goal-acceder-o-crear-otro-proyecto)
-        - [User goal: Visualizar el progreso del equipo y de cada miembro sobre el proyecto](#user-goal-visualizar-el-progreso-del-equipo-y-de-cada-miembro-sobre-el-proyecto)
-        - [User goal: Crear una nueva actividad y modificar el estado de la misma](#user-goal-crear-una-nueva-actividad-y-modificar-el-estado-de-la-misma)
+        - [User goal: Acceso a videollamadas](#user-goal-acceso-a-videollamadas)
+        - [User goal: Acceso a historial](#user-goal-acceso-a-historial)
+        - [User goal: Visualizar secciónes del foro](#user-goal-visualizar-secciónes-del-foro)
+        - [User goal: Realiazar el seguimiento de tareas en tiempo real](#user-goal-realiazar-el-seguimiento-de-tareas-en-tiempo-real)
+        - [User goal: Visualizar cronograma](#user-goal-visualizar-cronograma)
+        - [User goal: Modificar estado de tareas](#user-goal-modificar-estado-de-tareas)
       - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
       - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-        - [User goal: Como usuario quiero poder iniciar sesión en ManageWise](#user-goal-como-usuario-quiero-poder-iniciar-sesión-en-managewise)
-        - [User goal: Como usuario quiero poder registrarme en ManageWise](#user-goal-como-usuario-quiero-poder-registrarme-en-managewise)
-        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder crear nuevas actividades para los miembros de este](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-crear-nuevas-actividades-para-los-miembros-de-este)
-        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder visualizar el progreso en conjunto e individual de los miembros de este](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-visualizar-el-progreso-en-conjunto-e-individual-de-los-miembros-de-este)
-        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder ver a los miembros actuales e invitar a nuevos, tanto por correo como por un link](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-ver-a-los-miembros-actuales-e-invitar-a-nuevos-tanto-por-correo-como-por-un-link)
-        - [User goal: Como miembro de un equipo de desarrollo de software, quiero poder visualizar un calendario con las diferentes actividades programadas](#user-goal-como-miembro-de-un-equipo-de-desarrollo-de-software-quiero-poder-visualizar-un-calendario-con-las-diferentes-actividades-programadas)
-        - [User goal: Como lider de un equipo de desarrollo de software, quiero poder cambiar el estado de una actividad](#user-goal-como-lider-de-un-equipo-de-desarrollo-de-software-quiero-poder-cambiar-el-estado-de-una-actividad)
+        - [User goal: Como usuario quiero poder iniciar sesión en ManageWise. Para lograrlo, completar el formulario, en caso de usar datos válidos, podre iniciar sesión, caso contrario, el formulario se reinicia.](#user-goal-como-usuario-quiero-poder-iniciar-sesión-en-managewise-para-lograrlo-completar-el-formulario-en-caso-de-usar-datos-válidos-podre-iniciar-sesión-caso-contrario-el-formulario-se-reinicia)
+        - [User goal: Como usuario quiero poder registrarme en ManageWise. Para lograrlo, ingreso mi usuario y contraseña en el formulario, en caso sean válidos, ingresaré a la plataforma, de lo contrario, el formulario se reinicia.](#user-goal-como-usuario-quiero-poder-registrarme-en-managewise-para-lograrlo-ingreso-mi-usuario-y-contraseña-en-el-formulario-en-caso-sean-válidos-ingresaré-a-la-plataforma-de-lo-contrario-el-formulario-se-reinicia)
+        - [User goal: Como lider del equipo quiero realizar un seguimiento en tiempo real del progreso de este. Para lograrlo, ingreso a reporte y luego a la sección progreso.](#user-goal-como-lider-del-equipo-quiero-realizar-un-seguimiento-en-tiempo-real-del-progreso-de-este-para-lograrlo-ingreso-a-reporte-y-luego-a-la-sección-progreso)
+        - [User goal: Como miembro del equipo, quiero poder visualizar el cronograma sprint. Para lograrlo, ingreso a la sección Cronograma desde el apartado de Proyectos.](#user-goal-como-miembro-del-equipo-quiero-poder-visualizar-el-cronograma-sprint-para-lograrlo-ingreso-a-la-sección-cronograma-desde-el-apartado-de-proyectos)
+        - [User goal: Como lider de equipo, quiero acceder al historial de actividades. Para lograrlo, ingreso a Historial en el panel lateral, y posteriormente a la sección Actividades.](#user-goal-como-lider-de-equipo-quiero-acceder-al-historial-de-actividades-para-lograrlo-ingreso-a-historial-en-el-panel-lateral-y-posteriormente-a-la-sección-actividades)
+        - [User goal: Como miembro del equipo, quiero poder ingresar al foro para visualizar sugerencias. Para lograrlo, ingreso a Foro en el panel lateral.](#user-goal-como-miembro-del-equipo-quiero-poder-ingresar-al-foro-para-visualizar-sugerencias-para-lograrlo-ingreso-a-foro-en-el-panel-lateral)
+        - [User goal: Como miembro de equipo, quiero poder ingresar a una videollamada realizada por el líder. Para lograrlo, me dirijo a Herramientas en el panel lateral y luego ingreso a la seccion Videollamadas, para finalmente ingresar a la deseada.](#user-goal-como-miembro-de-equipo-quiero-poder-ingresar-a-una-videollamada-realizada-por-el-líder-para-lograrlo-me-dirijo-a-herramientas-en-el-panel-lateral-y-luego-ingreso-a-la-seccion-videollamadas-para-finalmente-ingresar-a-la-deseada)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -210,8 +220,9 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio especifico                                                          | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones  |
 | :--------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| 1. Comunica oralmente con efectividad <br>a diferentes rangos de audiencia   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br> **Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas:** <br>TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**John Telesforo Arevalo Meza**<br> TB1: Realice el Lean UX Canvas y los segmentos objetivos<br>**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. | **TB1:** <br> |
-| 2. Comunica por escrito con efectividad <br>a diferentes rangos de audiencia | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas**<br> TB1: "Realice el Lean UX Hypothesis Statements y Lean UX Canvas" <br>**John Telesforo Arevalo Meza**<br> TB1: Realice el Lean UX Canvas y los segmentos objetivos<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software."                                                                                                                                                                                                                                          | **TB1:** <br> |
+| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario.<br>**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. | <br>  **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br> |
+| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Realice la "Descripción de la Startup" y "Antecedentes y problemática" <br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos lotesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentoss miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipó objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**John Telesforo Arevalo Meza**<br> TB1: Realice el Lean UX Canvas y los segmentos objetivos<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software. | <br>  **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br> |
+
 
 ## Capítulo I: Introducción
 
@@ -244,7 +255,6 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 | <p align="center"><img width="3000" height="300" src="assets/images/perfil-Diego.png"> </p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han facinado las computadoras y como se mostraban en las peliculas los expertos en informatica. Hoy en dia entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profecional. Tambien conosco los tipos de base de datos, aprendi sql server para la bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos. |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 
 - Valentino Sandoval Paiva - U20211A962
   | <p align="center"><img width="3000" height="300" src="assets/images/WASAAAA.jpg"> </p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
@@ -483,6 +493,7 @@ Para poder tener un análisis completo sobre nuestro modelo de negocio además d
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 Para enfrentarse a la competencia, nuestra estrategia se centrará en maximizar la ventaja competitiva mediante la oferta de una interfaz intuitiva que optimice la colaboración en tiempo real, dirigida a startups tecnológicas. Aprovecharemos tácticas de marketing digital segmentadas, destacando nuestras pruebas gratuitas y asociaciones estratégicas con comunidades tecnológicas clave. Para competir con empresas como Wrike y ClickUp, que ofrecen herramientas robustas y personalizables, nos enfocaremos en nuestra simplicidad y eficiencia, adaptando nuestros precios de manera flexible para atraer a equipos en crecimiento. Además, desarrollaremos integraciones con plataformas populares como Slack y Google Workspace, y mantendremos una mejora continua en la automatización de tareas y funcionalidades innovadoras para diferenciar nuestra propuesta.
+
 ### 2.2. Entrevistas
 
 En esta sección del informe se realizará el diseño, registro y análisis de las entrevistas de nuestros segmentos objetivos
@@ -684,7 +695,7 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 <p align="center">
 
-  <img src="/assets/images/User-persona-1.png">
+  <img src="assets/images/User-persona-1.png">
 
 </p>
 
@@ -692,7 +703,7 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 <p align="center">
 
-<img src="/assets/images/User-persona-2.png">
+<img src="assets/images/User-persona-2.png">
 
 </p>
 
@@ -716,11 +727,11 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 #### User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software
 
-![](/assets/images/User%20Journey%20Mapping%20Lider.png)
+![Anexo F](/assets/images/User%20Journey%20Mapping%20Lider.png)
 
 #### User Journey Mapping - Equipo de Desarrollo de Software
 
-![](/assets/images/User%20Journey%20Mapping%20Integrante%20Equipo.png)
+![Anexo G](/assets/images/User%20Journey%20Mapping%20Integrante%20Equipo.png)
 
 ### 2.3.4. Empathy Mapping
 
@@ -766,12 +777,12 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 #### **Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento
 
-![](/assets/images/As%20-Is%20Lider.jpg)
-
+![Anexo C](/assets/images/As%20-Is%20Lider.jpg)
+Anexo C
 #### **Segmento 2:** Miembros de un equipo de Desarrollo de Software
 
-![](/assets/images/As%20-Is%20integrante%20Equipo.jpg)
-
+![Anexo D](/assets/images/As%20-Is%20integrante%20Equipo.jpg)
+Anexo D
 ### 2.4. Ubiquitous Language
 
 | Término              | Definición                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -793,12 +804,12 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 
 ### **Segmento 1:** Lider o gerente de proyectos de software
 
-![](/assets/images/To%20-Be%20Lider.jpg)
-
+![Anexo A](/assets/images/To%20-Be%20Lider.jpg)
+Anexo A
 ### **Segmento 2:** Miembro de un equipo de desarrollo de software
 
-![](/assets/images/To%20-Be%20Integrante%20Equipo.jpg)
-
+![Anexo B](/assets/images/To%20-Be%20Integrante%20Equipo.jpg)
+Anexo B
 ### 3.2. User Stories
 
 EPICS:
@@ -863,8 +874,8 @@ EPICS:
 
 ### 3.3. Impact Mapping
 
-![](/assets/images/Impact%20Mapping%20Lider%20Integrante.jpg)
-
+![Anexo E](/assets/images/Impact%20Mapping%20Lider%20Integrante.jpg)
+Anexo E
 ### 3.4. Product Backlog
 
 | #Orden | User Story ID | Título                                                  | Descripción                                                                                                                                                                                                                   | Story Points <br> (1/2/3/5/8) |
@@ -962,21 +973,21 @@ En formato general se utiliza 30px y Sulphur point como tipografía del programa
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954089182232628/image.png?ex=66d651a3&is=66d50023&hm=37c1394d2ce419c5e2f4743323ef26ca2b5d17849ca08ef6b6e054a6e7d36d80&">
+<img src="assets/images/imagwse.png">
 </p>
 
 **Weights:**
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954144010043392/image.png?ex=66d651b0&is=66d50030&hm=5d08092605ac2d74906592daf9240d3cedb30d49f8a0beab5e16e700bc94a544&">
+<img src="assets/images/222.png">
 </p>
 
 **Nomenclature:**
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279954200553459733/image.png?ex=66d651bd&is=66d5003d&hm=8e813f7ca416cf5709ff9d9d98d7ab0a68c8e67c25732a843c0d5b953006442c&">
+<img src="assets/images/333.png">
 </p>
 
 **Example:**
@@ -1375,16 +1386,23 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176927256346696/login.png?ex=66d7212b&is=66d5cfab&hm=17856fff07d7eed4b487db2adb2dd9b5769496b6318f532d19f98c0693f6d936&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176926601777182/crear_cuenta.png?ex=66d7212b&is=66d5cfab&hm=cd800621122e327543004fe3c121f14be5b30e4c09f6c475076d182ee5d44fae&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176927797416088/MenuActividades.png?ex=66d7212c&is=66d5cfac&hm=b651d42304ff10dca16992fc9c4b92e4c3ab9393b24add0aa426a0b02cfeae58&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176957165928498/MenuMiembros.png?ex=66d72133&is=66d5cfb3&hm=8e094494815c8f83385a66a5f65609501619696c8b4af1219488e0eee6466e83&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176957459402783/MenuProgreso.png?ex=66d72133&is=66d5cfb3&hm=317c589a1e96b56b45d9e11823f8ff3651d6985886ba178ebfec7bb45e867313&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176928120246332/MenuCalendario.png?ex=66d7212c&is=66d5cfac&hm=44f7d1c17eedcbddc28d795cb49513ea5f6a45599d7bcc58d2e35a7c3377ed24&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176926039998527/Crear_actividad.png?ex=66d7212b&is=66d5cfab&hm=362cec6f1aef6948924db0c689b31cc5b18c79d840ca544d138766c6bd0bbf14&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176928506249297/MenuConfiguracion.png?ex=66d7212c&is=66d5cfac&hm=09f28f339c66fef80b4b7afc5958d576727997d9932691e4c2ec7d1b26d5410c&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176925465383054/compartir.png?ex=66d7212b&is=66d5cfab&hm=7d3c3b71595dd39e4ef0e742fb16134a64941811f96a3ec9424e68a165f8ab5f&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280176956574404689/notificaciones.png?ex=66d72132&is=66d5cfb2&hm=e91b91158418bd61f2a5ba1eab90b4248359f28adcce253a57d1096204896237&">
+<img src="assets/images/wireframes/Foro-Mejora.png">
+<img src="assets/images/wireframes/Foro-Problemas.png">
+<img src="assets/images/wireframes/Foro-retroalimentacion.png">
+<img src="assets/images/wireframes/herramientas - documentos compartidos.png">
+<img src="assets/images/wireframes/herramientas.png">
+<img src="assets/images/wireframes/configuracion.png">
+<img src="assets/images/wireframes/Historial - actividades.png">
+<img src="assets/images/wireframes/Historial - sesiones.png">
+<img src="assets/images/wireframes/Historial.png">
+<img src="assets/images/wireframes/proyecto-roles.png">
+<img src="assets/images/wireframes/proyectos-CronogramaSprint.png">
+<img src="assets/images/wireframes/proyectos-estado.png">
+<img src="assets/images/wireframes/proyectos.png">
+<img src="assets/images/wireframes/Reporte-Progreso.png">
+<img src="assets/images/wireframes/Reporte-ResumenSprint.png">
+<img src="assets/images/wireframes/Reporte.png">
+<img src="assets/images/wireframes/Seguridad.png">
 
 </p>
 
@@ -1392,130 +1410,100 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 ##### User goal: Registrar un nuevo usuario
 
-<p align="center"><img src="assets/images/wireflow1.png"></p>
+##### User goal: Registrar un nuevo usuario
 
-Para lograrlo, el usuario presiona en cualquiera de los botones "Registrarse",. Posteriormente, se pedirá que ingrese los datos necesarios y una vez listo sera redirigido a "Iniciar Sesión", para de esta manera, poder acceder con el nuevo usuario.
+<p align="center"><img src="assets/images/Wireflow1.png"></p>
 
 ##### User goal: Iniciar sesión
 
-<p align="center"><img src="assets/images/wireflow2.png"></p>
+<p align="center"><img src="assets/images/Wireflow2.png"></p>
 
-Para lograrlo, el usuario presiona "Iniciar Sesión" y posteriormente, procede a rellena los campos correspondientes y aceptar.
 
-##### User goal: Visualizar el calendario con las actividades
+##### User goal: Acceso a videollamadas
 
-<p align="center"><img src="assets/images/wireflow3.png"></p>
+<p align="center"><img src="assets/images/Wireflow3.png"></p>
 
-Para lograrlo, el usuario presiona "Calendario" en el panel lateral izquierdo. Una vez en la sección podra visualizar el calendario, que se actualiza automáticamente al crear o borrar una actividad.
 
-##### User goal: Cambiar de usuario o cerrar sesión
+##### User goal: Acceso a historial
 
-<p align="center"><img src="assets/images/wireflow4.png"></p>
+<p align="center"><img src="assets/images/Wireflow4.png"></p>
 
-Para lograrlo, el usuario presiona su perfil en la parte inferior del panel lateral izquierdo, para posteriormente, escoger entre cambiar de usuario o cerrar sesión; en ambos casos será redirigido a la sección de inicio de sesión.
+##### User goal: Visualizar secciónes del foro 
 
-##### User goal: Agregar nuevo miembro por invitación mediante link o correo
+<p align="center"><img src="assets/images/Wireflow5.png"></p>
 
-<p align="center"><img src="assets/images/wireflow5.png"></p>
 
-Para lograrlo, el usaurio presiona el botón "Compartir" que se encuentra en la parte superior derecha de la pantalla, para posteriormente ingresar el correo del destinatario o copiar el link de invitación. Por otro lado, al ingresar a la sección "Miembros", puede hacer lo mismo, al presionar "Invitar por link".
+##### User goal: Realiazar el seguimiento de tareas en tiempo real
 
-##### User goal: Colapsar y expandir panel lateral
+<p align="center"><img src="assets/images/Wireflow6.png"></p>
 
-<p align="center"><img src="assets/images/wireflow6.png"></p>
 
-Para colapsar el panel, el usuario presiona la flecha con dirección a la izquierda ubicada en la parte inferior del panel, en caso de querer expandir el mismo, presiona la misma flecha, pero esta vez estará apuntando hacia la derecha.
+##### User goal: Visualizar cronograma 
 
-##### User goal: Visualizar todas las notificaciones
+<p align="center"><img src="assets/images/Wireflow7.png"></p>
 
-<p align="center"><img src="assets/images/wireflow7.png"></p>
 
-Para lograrlo, el usuario presiona el botón con forma de campana ubicado en la parte superior derecha de la pantalla, al lado izquierdo de "Compartir".
+##### User goal: Modificar estado de tareas
 
-##### User goal: Visualizar todas las opciones posibles
+<p align="center"><img src="assets/images/Wireflow8.png"></p>
 
-<p align="center"><img src="assets/images/wireflow8.png"></p>
-
-Para lograrlo, el usuario presiona "Opciones" en el panel lateral izquierdo, para dirigirse a esta sección.
-
-##### User goal: Acceder o crear otro proyecto
-
-<p align="center"><img src="assets/images/wireflow9.png"></p>
-
-Para lograr cambiar de proyecto, el usuario presiona el nombre del actual, que se encuentra en la parte superior del panel lateral, y luego de desplegarse un pequeño menu, selecciona el nombre del proyecto deseado. En caso se desee crear un nuevo proyecto, dentro del menu que se ha desplegado, el usuario presiona "+".
-
-##### User goal: Visualizar el progreso del equipo y de cada miembro sobre el proyecto
-
-<p align="center"><img src="assets/images/wireflow10.png"></p>
-
-Para lograrlo, el usuario presiona "Progreso" en el menu desplegable, para visualizar esta sección, con una barra de progreso general en la parte superior y una propia para cada miembro.
-
-##### User goal: Crear una nueva actividad y modificar el estado de la misma
-
-<p align="center"><img src="assets/images/wireflow11.png"></p>
-
-Para lograrlo, el usuario presiona "Actividades" en el panel lateral, al encontrarse en esta sección, presiona "Nueva Actividad" y rellena los campos para crear una actividad y, en caso desee cambiar el estado, puede dirigirse a "Tablero Kanban", donde podrá modificar la actividad a "Por hacer", "En progreso" o "Terminado".
 
 #### 4.4.3. Web Applications Mock-ups
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859504164864/Iniciar_sesion.png?ex=66d724d5&is=66d5d355&hm=ac5a683b5f599b5cdb4fd4cf8e80031911196eb3eb97a5a93bdda3b9e99df1ef&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180861421093078/Registrarse.png?ex=66d724d5&is=66d5d355&hm=15a1009c8523bc0827b8f85b1aec196d8af780281dfc490eef2f4aea47526265&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180858682212481/Actividades.png?ex=66d724d5&is=66d5d355&hm=923168519c88400de7c9b64aaf0fc0298822bb09595f966a16544edf93770b9c&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180862402433065/Wireframe_-_7.png?ex=66d724d6&is=66d5d356&hm=1641caebe56c67af4bdb528df344123adfe0f6d7799774bf1d56b596e9c2a6c7&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180861983264900/Wireframe_-_5.png?ex=66d724d6&is=66d5d356&hm=e7467651dd76f1704c710c3d8f6e6f0d86d14d7e6352a070a7e25e87978b1dc6&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180860431237134/Miembros.png?ex=66d724d5&is=66d5d355&hm=753ff637bd1e7f0b8cb8c6d0da634525f8c6e56b883e74785d46ae5c3bf17754&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180858271301642/Wireframe_-_9.png?ex=66d724d5&is=66d5d355&hm=18091b5a305ff4dfd1bb771152998ff09e5dfea9caf255667c8b00d3fc87b6c2&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859969867776/Invitar_Miebros.png?ex=66d724d5&is=66d5d355&hm=10c0d53ba2f717a4e1b7720f4ccd164ed4bf028602e546b1af0f6b79c7114ec0&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180860930363403/Notificaciones.png?ex=66d724d5&is=66d5d355&hm=21e8283cf450f8b070613d95d893c2c3a1e1700a30df3f30c264cb902876bbf9&">
-<img src="https://cdn.discordapp.com/attachments/1274759574087270442/1280180859101777975/Crear_actividad.png?ex=66d724d5&is=66d5d355&hm=e01f72d02e8c9d7ac9bd898b495f30593cb46d0dbf21c78d254af2af4e71491f&">
+<img src="assets/images/mockups/configuracion.png">
+<img src="assets/images/mockups/Foro-Mejora.png">
+<img src="assets/images/mockups/Foro-Problemas.png">
+<img src="assets/images/mockups/Foro-retroalimentacion.png">
+<img src="assets/images/mockups/herramientas - documentos compartidos.png">
+<img src="assets/images/mockups/herramientas.png">
+<img src="assets/images/mockups/Historial - actividades.png">
+<img src="assets/images/mockups/Historial - sesiones.png">
+<img src="assets/images/mockups/Historial.png">
+<img src="assets/images/mockups/proyecto-roles.png">
+<img src="assets/images/mockups/proyectos-CronogramaSprint.png">
+<img src="assets/images/mockups/proyectos-estado.png">
+<img src="assets/images/mockups/proyectos.png">
+<img src="assets/images/mockups/Reporte-Progreso.png">
+<img src="assets/images/mockups/Reporte-ResumenSprint.png">
+<img src="assets/images/mockups/Reporte.png">
+<img src="assets/images/mockups/Seguridad.png">
 
 </p>
 
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
-##### User goal: Como usuario quiero poder iniciar sesión en ManageWise
+##### User goal: Como usuario quiero poder iniciar sesión en ManageWise. Para lograrlo, completar el formulario, en caso de usar datos válidos, podre iniciar sesión, caso contrario, el formulario se reinicia.
 
-<p align="center"><img src="assets/images/UserflowDiag1.png"></p>
+<p align="center"><img src="assets/images/Userflow1.png"></p>
 
-Para lograrlo, el usuario debe llenar el formulario con los datos correspondientes y aceptar, en caso sea válido, ingresará automáticamente, de lo contrario, el formulario se reiniciará.
+##### User goal: Como usuario quiero poder registrarme en ManageWise. Para lograrlo, ingreso mi usuario y contraseña en el formulario, en caso sean válidos, ingresaré a la plataforma, de lo contrario, el formulario se reinicia.
 
-##### User goal: Como usuario quiero poder registrarme en ManageWise
+<p align="center"><img src="assets/images/Userflow2.png"></p>
 
-<p align="center"><img src="assets/images/UserflowDiag2.png"></p>
+##### User goal: Como lider del equipo quiero realizar un seguimiento en tiempo real del progreso de este. Para lograrlo, ingreso a reporte y luego a la sección progreso.
 
-Para lograrlo, el usuario debe llenar el formulario de registro con los datos correspondientes y aceptar, en caso sea válido, será redirigido al inicio de sesión, de lo contrario, el formulario se reiniciará.
+<p align="center"><img src="assets/images/Userflow3.png"></p>
 
-##### User goal: Como lider de un equipo de desarrollo de software, quiero poder crear nuevas actividades para los miembros de este
+##### User goal: Como miembro del equipo, quiero poder visualizar el cronograma sprint. Para lograrlo, ingreso a la sección Cronograma desde el apartado de Proyectos.
 
-<p align="center"><img src="assets/images/UserflowDiag3.png"></p>
+<p align="center"><img src="assets/images/Userflow4.png"></p>
 
-Para lograrlo, el líder del equipo, debe ir a la sección de "Actividades" y seleccionar "Nueva Actividad", posteriormente debe llenar el pequeño formulario con los datos necesarios y aceptar. En caso el formulario haya sido concretado con éxito, recibirá una notificación y este se agregará al apartado de actividades, caso contrario, el formulario se reiniciará.
+##### User goal: Como lider de equipo, quiero acceder al historial de actividades. Para lograrlo, ingreso a Historial en el panel lateral, y posteriormente a la sección Actividades.
 
-##### User goal: Como lider de un equipo de desarrollo de software, quiero poder visualizar el progreso en conjunto e individual de los miembros de este
+<p align="center"><img src="assets/images/Userflow5.png"></p>
 
-<p align="center"><img src="assets/images/UserflowDiag4.png"></p>
+##### User goal: Como miembro del equipo, quiero poder ingresar al foro para visualizar sugerencias. Para lograrlo, ingreso a Foro en el panel lateral.
 
-Para lograrlo, el líder del equipo debe ir a la sección "Progreso" en el panel lateral, posteriormente será redirigido a esta sección y en la parte superior se podrá observar la barra de progreso total del equipo, mientras que al lado del nombre de cada miembro, una barra para ver el progreso individual.
+<p align="center"><img src="assets/images/Userflow6.png"></p>
 
-##### User goal: Como lider de un equipo de desarrollo de software, quiero poder ver a los miembros actuales e invitar a nuevos, tanto por correo como por un link
 
-<p align="center"><img src="assets/images/UserflowDiag5.png"></p>
+##### User goal: Como miembro de equipo, quiero poder ingresar a una videollamada realizada por el líder. Para lograrlo, me dirijo a Herramientas en el panel lateral y luego ingreso a la seccion Videollamadas, para finalmente ingresar a la deseada.
 
-Para lograrlo, el líder del equipo debe ir a la sección "Miembros en el pane lateral", una vez en esta sección, podra visualizar la cantidad de miembros, el nombre de estos y el número de invitaciones. Para invitar a nuevos miembros, deberá presionar el botón de compartir o invitar y a continuación ingresar el correo del destinatario o copiar el link de invitación.
+<p align="center"><img src="assets/images/Userflow7.png"></p>
 
-##### User goal: Como miembro de un equipo de desarrollo de software, quiero poder visualizar un calendario con las diferentes actividades programadas
-
-<p align="center"><img src="assets/images/UserflowDiag6.png"></p>
-
-Para lograrlo, el miembro del equipo selecciona "Calendario" en el panel lateral, una vez en la sección, podra ver un calendario digital con las fechas de las diferentes actividades programadas.
-
-##### User goal: Como lider de un equipo de desarrollo de software, quiero poder cambiar el estado de una actividad
-
-<p align="center"><img src="assets/images/UserflowDiag7.png"></p>
-
-Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteriormente, seleccionar "Kanban", una vez allí, podra arrastrar las actividades a "Por hacer", "En progreso" y "Terminado". Tras haber cambiado el estado de una actividad, recibirá una notificación, caso contrario, no se alteró el estado.
 
 ### 4.5. Web Applications Prototyping
 
@@ -1524,19 +1512,19 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 ### 4.6.1. Software Architecture Context Diagram
 
 <p align="center">
-  <img src="/assets/images/Software Architecture Context Diagram 1.png">
+  <img src="assets/images/Software Architecture Context Diagram 1.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Software Architecture Context Diagram 2.png">
+  <img src="assets/images/Software Architecture Context Diagram 2.png">
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-  <img src="/assets/images/Container Diagrams 1.png">
+  <img src="assets/images/Container Diagrams 1.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Container Diagrams 2.png">
+  <img src="assets/images/Container Diagrams 2.png">
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1544,28 +1532,28 @@ Para lograrlo, el lider del equipo debe ir a la sección "Actividades" y posteri
 #### **Component: Desarrollo**
 
 <p align="center">
-  <img src="/assets/images/Components Diagrams 1.png">
+  <img src="assets/images/Components Diagrams 1.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Components Diagrams 2.png">
+  <img src="assets/images/Components Diagrams 2.png">
 </p>
 
 #### **Component: Equipos**
 
 <p align="center">
-  <img src="/assets/images/Components Diagrams 3.png">
+  <img src="assets/images/Components Diagrams 3.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Components Diagrams 4.png">
+  <img src="assets/images/Components Diagrams 4.png">
 </p>
 
 #### **Component: Opiniones**
 
 <p align="center">
-  <img src="/assets/images/Components Diagrams 5.png">
+  <img src="assets/images/Components Diagrams 5.png">
 </p>
 <p align="center">
-  <img src="/assets/images/Components Diagrams 6.png">
+  <img src="assets/images/Components Diagrams 6.png">
 </p>
 
 ### 4.7. Software Object-Oriented Design
@@ -1945,21 +1933,21 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 
 El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
 
-
-| Sprint #                       | Sprint 1                            |
-|---------------------------------|-------------------------------------|
-| **Sprint Planning Background**  |                                     |
-| **Date**                        | 06/09/2024                         |
-| **Time**                        | 12:00 AM                           |
-| **Location**                    | Discord (Reunión virtual)           |
-| **Prepared By**                 | Jaque Peña, Estefano Oscar          |
-| **Attendees (to planning meeting)** | Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva, Valentino/Jaque Peña, Estefano Oscar  |
-| **Sprint Goal & User Stories**  |                                     |
-| **Sprint 1 Goal**               | Finalizar el informe y el despliegue de nuestro Landing Page desde el repositorio de GitHub. Usaremos Trello para demostrar el cumplimiento, moviendo todas las tareas asignadas a la columna "Terminado". |
-| **Sprint 1 Velocity**           | US43(2points),US44(2points),US45(3points),US46(3points),US47(2points),US48(2points) |
-| **Sum of Story Points**         | 14 |
+| Sprint #                            | Sprint 1                                                                                                                                                                                                   |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**      |                                                                                                                                                                                                            |
+| **Date**                            | 06/09/2024                                                                                                                                                                                                 |
+| **Time**                            | 12:00 AM                                                                                                                                                                                                   |
+| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                  |
+| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                 |
+| **Attendees (to planning meeting)** | Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva, Valentino/Jaque Peña, Estefano Oscar                                                              |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                            |
+| **Sprint 1 Goal**                   | Finalizar el informe y el despliegue de nuestro Landing Page desde el repositorio de GitHub. Usaremos Trello para demostrar el cumplimiento, moviendo todas las tareas asignadas a la columna "Terminado". |
+| **Sprint 1 Velocity**               | US43(2points),US44(2points),US45(3points),US46(3points),US47(2points),US48(2points)                                                                                                                        |
+| **Sum of Story Points**             | 14                                                                                                                                                                                                         |
 
 #### 5.2.1.2 Sprint Backlog 1.
+
 Para el primer sprint backloge, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
 
 ![alt text](assets/images/Trello.png)
@@ -2010,7 +1998,12 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1257109045723271192/1282418510726828176/image.png?ex=66df48cf&is=66ddf74f&hm=38e125dae2120e39a7ead0a30c979bbd8320b50bb889fc2119a90ca8b4cca5f2&"></p>
 
 ### Conclusiones
-- Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
+
+* Jose Alejo:
+La creación y diseño de ManageWise han sido un esfuerzo integral enfocado en optimizar la gestión de proyectos para startups de desarrollo de software. A través de una serie de sistemas bien estructurados, como el Navigation System, Labeling System, y Searching System, se ha buscado proporcionar una experiencia fluida y centrada en las necesidades de los usuarios, tanto para líderes o gerentes de empresas como para equipos de desarrollo.
+
+* Valentino Sandoval:
+Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
 
 *Estefano Oscar Jaque Peña:<br>
    - TB1:<br>
@@ -2025,4 +2018,25 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
    - The C4 model for visualising software architecture. (2024). https://c4model.com/
    - Structurizr. (2024). https://www.structurizr.com/
 
+- Biblioteca UPC. (2024). _Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas_. https://biblioteca.upc.edu.pe
+- Miro. (2024). _Miro_. Miro Corporation. https://miro.com
+- LucidChart. (2024). _LucidChart_. Lucid Software Inc. https://www.lucidchart.com
+- Cohn, M. (2006). Historias de usuario: Un enfoque ágil. Pearson Educación.https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
+- Pressman, R. S. (2010). Ingeniería de Software: Un enfoque práctico. McGraw-Hill.https://www.javier8a.com/itc/bd1/ld-Ingenieria.de.software.enfoque.practico.7ed.Pressman.PDF
+- The C4 model for visualising software architecture. (2024). https://c4model.com/
+- Structurizr. (2024). https://www.structurizr.com/
+
 ### Anexos
+Anexo A:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371
+
+Anexo B:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371
+
+Anexo C:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371
+
+Anexo D:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371
+
+Anexo E:<br>https://miro.com/welcomeonboard/RTA3b0ZrRzFmckk5Z3BneTVwc3d5Z1BBYko4c3d4SmpUaVMwTG93c0JjUmc2cERSNzJ5ZkxjOTZDWG5CbThHd3wzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=839908059772
+
+Anexo F:<br>https://drive.google.com/file/d/1AQQxatIfwUWjgvnbWb-nLQKARzIHEPDS/view?usp=sharing
+
+Anexo G:<br>https://drive.google.com/file/d/1mH4Wulu81QrwmgZ2DWM8nT87ZtzNcduh/view?usp=sharing
