@@ -94,13 +94,13 @@ TB1:<br>
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-      - [What?](#what)
-      - [When?](#when)
-      - [Where?](#where)
-      - [Who?](#who)
-      - [Why?](#why)
-      - [How?](#how)
-          - [How much?](#how-much)
+    - [What?](#what)
+    - [When?](#when)
+    - [Where?](#where)
+    - [Who?](#who)
+    - [Why?](#why)
+    - [How?](#how)
+    - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -126,6 +126,7 @@ TB1:<br>
       - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento-1)
       - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software-1)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
+  - [**Análisis de Tareas**](#análisis-de-tareas)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
       - [User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software](#user-journey-mapping---líder-o-gerente-de-empresa-de-desarrollo-de-software)
       - [User Journey Mapping - Equipo de Desarrollo de Software](#user-journey-mapping---equipo-de-desarrollo-de-software)
@@ -164,7 +165,6 @@ TB1:<br>
       - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
       - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
         - [User goal: Registrar un nuevo usuario](#user-goal-registrar-un-nuevo-usuario)
-        - [User goal: Registrar un nuevo usuario](#user-goal-registrar-un-nuevo-usuario-1)
         - [User goal: Iniciar sesión](#user-goal-iniciar-sesión)
         - [User goal: Acceso a videollamadas](#user-goal-acceso-a-videollamadas)
         - [User goal: Acceso a historial](#user-goal-acceso-a-historial)
@@ -649,7 +649,7 @@ La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de
     Edad: 19 <br>
     Distrito: San Martin de Porres <br>
 
-![Foto de entrevista](https://media.discordapp.net/attachments/1048415872450039820/1276770578501730418/Captura_de_pantalla_2024-08-24_000557.png?ex=66cabcc3&is=66c96b43&hm=ee3d0b66f81e99aa57a94ec6397e3803683fd91ba55e81eeedf48e8393dcc0a5&=&format=webp&quality=lossless)
+![Foto de entrevista](./assets/images/Entrevista-Fabricio.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1uXZ6G0zsHYuDO0gdae2g7U5mKxVTHGnG/view?usp=sharing "Entrevista 1")
 
@@ -753,11 +753,43 @@ Al observar la matriz, podemos destacar que tanto María como Fabricio considera
 
 #### User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software
 
-![Anexo F](/assets/images/User%20Journey%20Mapping%20Lider.png)
+1. End-to-End Journey: Integrante del Equipo de Desarrollo de Software<br>
+   
+   Este recorrido muestra el proceso completo que experimenta un integrante del equipo de desarrollo de software, desde la recepción de tareas hasta la entrega final del proyecto. A lo largo del ciclo, el equipo de desarrollo enfrenta diversos retos, ajustes y expectativas, donde la eficiencia y la colaboración son claves para el éxito.
+
+   1. Recibo de Tareas:<br> 
+   En esta fase inicial, el integrante recibe las asignaciones del proyecto y revisa los requerimientos. Su principal preocupación es obtener toda la información y los recursos necesarios para realizar su trabajo sin complicaciones. La confusión o la falta de acceso a estos recursos puede causar frustración y retrasos.
+
+   2. Desarrollo y progreso:<br> 
+   Una vez que tiene las tareas claras, comienza el trabajo en las asignaciones. El desarrollador participa en reuniones de seguimiento para asegurar que su progreso esté alineado con las expectativas del cliente. Durante esta fase, la presión por cumplir con los plazos es constante, y la colaboración eficaz con herramientas adecuadas es fundamental para mantener el flujo de trabajo.
+  
+   3. Revisión y Entrega<br> 
+   En la fase final, el integrante revisa su código o entregables desarrollados y prueba las funcionalidades para asegurarse de que cumplen con los requisitos del cliente. Al finalizar la entrega, se siente alivio, aunque puede haber incertidumbre sobre si el resultado cumplirá con las expectativas del cliente o si surgirán problemas técnicos cerca del cierre.
+   
+   
+
+![Anexo F](./assets/images/User%20Journey%20Mapping%20Lider.png)
 
 #### User Journey Mapping - Equipo de Desarrollo de Software
 
-![Anexo G](/assets/images/User%20Journey%20Mapping%20Integrante%20Equipo.png)
+1. End-to-End Journey: Líder o Gerente de Empresa <br>
+   
+   El siguiente recorrido detalla el proceso completo que atraviesa un líder o gerente de empresa, desde la planificación inicial del proyecto hasta la evaluación y cierre. Este viaje abarca la supervisión estratégica y la toma de decisiones críticas para asegurar el éxito del proyecto y la alineación con los objetivos del negocio.
+
+   1. Planificación del Proyecto<br>
+   
+   El líder comienza identificando nuevas ideas para proyectos y definiendo objetivos claros para el equipo. Durante esta fase, se asegura de que los recursos sean asignados adecuadamente, pero también enfrenta ansiedad por la falta de visibilidad sobre los recursos disponibles y posibles retrasos en la planificación.
+
+   2. Ejecución del Proyecto<br>
+   
+    A medida que avanza el proyecto, el líder supervisa el progreso, revisa los reportes de rendimiento y participa en reuniones clave. Aquí, enfrenta estrés por la gestión de múltiples canales de información y frustración si los reportes de desempeño no son precisos. Es crucial que las herramientas de seguimiento sean automáticas y accesibles para evitar la incertidumbre sobre si el equipo está alineado con los plazos y presupuestos.
+
+   3. Evaluación y Cierre <br>
+   
+   En la etapa final, el líder revisa el rendimiento del proyecto en comparación con los objetivos y evalúa áreas de mejora para futuros proyectos. El cierre puede generar motivación si el proyecto es exitoso, pero también puede haber inseguridad si los informes de desempeño no fueron claros. El feedback del cliente es esencial para asegurar mejoras continuas en futuros proyectos.
+   
+
+![Anexo G](./assets/images/User%20Journey%20Mapping%20Integrante%20Equipo.png)
 
 ### 2.3.4. Empathy Mapping
 
@@ -803,11 +835,11 @@ Al observar la matriz, podemos destacar que tanto María como Fabricio considera
 
 #### **Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento
 
-![Anexo C](/assets/images/As%20-Is%20Lider.jpg)
+![Anexo C](./assets/images/As%20-Is%20Lider.jpg)
 Anexo C
 #### **Segmento 2:** Miembros de un equipo de Desarrollo de Software
 
-![Anexo D](/assets/images/As%20-Is%20integrante%20Equipo.jpg)
+![Anexo D](./assets/images/As%20-Is%20integrante%20Equipo.jpg)
 Anexo D
 ### 2.4. Ubiquitous Language
 
@@ -830,11 +862,11 @@ Anexo D
 
 ### **Segmento 1:** Lider o gerente de proyectos de software
 
-![Anexo A](/assets/images/To%20-Be%20Lider.jpg)
+![Anexo A](./assets/images/To%20-Be%20Lider.jpg)
 Anexo A
 ### **Segmento 2:** Miembro de un equipo de desarrollo de software
 
-![Anexo B](/assets/images/To%20-Be%20Integrante%20Equipo.jpg)
+![Anexo B](./assets/images/To%20-Be%20Integrante%20Equipo.jpg)
 Anexo B
 ### 3.2. User Stories
 
@@ -900,7 +932,7 @@ EPICS:
 
 ### 3.3. Impact Mapping
 
-![Anexo E](/assets/images/Impact%20Mapping%20Lider%20Integrante.jpg)
+![Anexo E](./assets/images/Impact%20Mapping%20Lider%20Integrante.jpg)
 Anexo E
 ### 3.4. Product Backlog
 
