@@ -724,7 +724,7 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 </p>
 
 ### 2.3.2. User Task Matrix
-
+En este apartado de la User Task Matrix se va a hacer un análisis de las tareas realizadas por dos perfiles clave en el ámbito del desarrollo de software: Líder o Gerente de Empresa de Desarrollo de Software y Equipo de Desarrollo de Software. A través de esta matriz, se identificarán las tareas críticas y su frecuencia e importancia según cada User Persona, lo que permitirá comprender mejor sus necesidades y aspiraciones en la gestión de proyectos.
 | **Tarea**                                                                    | **FABRICIO Frecuencia** | **FABRICIO Importancia** | **MARÍA Frecuencia** | **MARÍA Importancia** |
 | ---------------------------------------------------------------------------- | ----------------------- | ------------------------ | -------------------- | --------------------- |
 | Monitorear operaciones y gestionar proyectos                                 | A menudo                | Alta                     | A menudo             | Alta                  |
@@ -737,7 +737,17 @@ Las entrevistas revelan que los equipos de desarrollo de software enfrentan desa
 | Evaluar la precisión y fiabilidad de las herramientas usadas                 | Mensual                 | Alta                     | Mensual              | Alta                  |
 | Adaptar herramientas a los modelos de negocio específicos                    | A veces                 | Alta                     | A veces              | Alta                  |
 | Mantener un registro del avance de cada miembro del equipo                   | A menudo                | Alta                     | A menudo             | Alta                  |
-| Alta                                                                         |
+| 
+
+## **Análisis de Tareas**
+
+Al observar la matriz, podemos destacar que tanto María como Fabricio consideran como tareas de alta frecuencia e importancia las siguientes:
+
+**Monitorear operaciones y gestionar proyectos**: Es fundamental para garantizar el desarrollo óptimo y la coordinación del equipo.
+
+**Evaluar y seleccionar software de gestión de proyectos**: Ambas User Personas están alineadas en la necesidad de herramientas efectivas que les ayuden a optimizar su flujo de trabajo.
+
+**Utilizar herramientas de desarrollo para colaboración**: La colaboración efectiva es vital, especialmente para Fabricio, quien enfatiza que la falta de herramientas innovadoras limita el trabajo en equipo.
 
 ### 2.3.3. User Journey Mapping
 
@@ -1814,7 +1824,10 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 - **Backend:** Express.js sobre Node.js, ofreciendo una solución robusta para manejar la lógica del servidor y las operaciones con la base de datos.
 - **Base de Datos:** PostgreSQL para almacenar de manera segura y eficiente la información crítica sobre proyectos e iniciativas.
 
-**Configuración del Entorno de Desarrollo**
+- **Configuración del Entorno de Desarrollo** ItelliJ IDEA
+  - **Editor de Código**: IntelliJ IDEA.
+  - **Propósito**: Desarrollo de software y edición de código.
+  - **Ruta de descarga**: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 
 - **Editor de Código:** Visual Studio Code
   - **Propósito:** Desarrollo y edición de código con soporte extensivo para JavaScript y herramientas de desarrollo.
@@ -1829,6 +1842,11 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 - **UI/UX:** Crear una interfaz amigable y accesible para los usuarios.
   - **Herramienta:** Figma
   - **Propósito:** Diseño de prototipos y interfaces de usuario.
+  - **Ruta del Figma**: [Figma - Horizon](https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/LandingPage-WireFrame-ManageWise?node-id=15-131&node-type=canvas&t=PXmYxR9lGN4kX4l0-0)
+
+
+![FIGMA](assets\images\Figma.jpeg)
+
 
 Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
 
@@ -1836,7 +1854,11 @@ Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos efic
 
 **Gestión de Cambios en el Código Fuente con GitHub**
 
-En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo.
+En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
+- **Landing Page**: [Landing Page - Horizon](https://github.com/Horizon-ManageWise/LandingPage.git)
+- **Frontend Web Applications**: [FrontEnd - Horizon]()
+- **Backend Web Applications**: [BackEnd - Horizon]()
+
 
 **Estructura del Repositorio**
 
@@ -1876,24 +1898,32 @@ La documentación del proyecto se encuentra en el archivo `README.md` dentro del
 
 En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseños y principios aplicados en los lenguajes utilizados durante el desarrollo de nuestro producto. Los lenguajes y herramientas empleados incluyen:
 
+**LENGUAJES UTILIZADOS**
+
+- ***HTML*** : Estructura del contenido en la web, utilizando etiquetas semánticas para mejorar la accesibilidad.
+- ***CSS***: Estilos y diseño visual del software, garantizando una experiencia de usuario óptima.
+- ***JavaScript***: Lógica y funcionalidad interactiva, permitiendo la automatización y personalización del software.
+
 **HTML**
 
-- **Nombres Descriptivos:** Utiliza nombres de clases e IDs que sean descriptivos y significativos, facilitando la comprensión del propósito de cada elemento.
+- **Nombres Descriptivos:** Utiliza nombres de clases e IDs que sean descriptivos y significativos, facilitando la comprensión del propósito de cada elemento. Por ejemplo, en lugar de `box`, usa `project-card`.
+
 - **Indentación:** Indenta correctamente el código HTML para mejorar la legibilidad y mantener una estructura clara.
+
 - **Etiquetas Semánticas:** Emplea etiquetas semánticas apropiadas, como `<header>`, `<nav>`, `<main>`, y `<footer>`, para mejorar la accesibilidad y el SEO del sitio.
 - **Comentarios:** Usa comentarios para explicar secciones complejas o partes importantes del código HTML, facilitando la comprensión para otros desarrolladores.
 
 **CSS**
 
-- **Nombres Descriptivos:** Utiliza nombres de clases y selectores que sean descriptivos y coherentes para facilitar la identificación y el mantenimiento de los estilos.
-- **Agrupación y Comentarios:** Agrupa propiedades relacionadas y separa secciones de CSS con comentarios claros. Esto organiza el código y facilita su navegación.
+- **Nombres Descriptivos:** Utiliza nombres de clases y selectores que sean descriptivos y coherentes para facilitar la identificación y el mantenimiento de los estilos. Por ejemplo, usa `btn-submit` en lugar de `btn`.
+- **Agrupación y Comentarios:** Agrupa propiedades relacionadas y separa secciones de CSS con comentarios claros, como /* Estilos de botones */. Esto organiza el código y facilita su navegación.
 - **Preferencia por Clases:** Prefiere el uso de clases en lugar de IDs para estilos reutilizables y más flexibles.
 - **Compatibilidad y Prefijos:** Utiliza prefijos de vendedor y asegúrate de que el código sea compatible con diferentes navegadores cuando sea necesario.
 - **Medidas Relativas:** Usa medidas relativas como `em`, `rem`, y `%` en lugar de medidas absolutas para mejorar la flexibilidad y la accesibilidad del diseño.
 
 **JavaScript**
 
-- **Nombres Descriptivos:** Usa nombres de variables y funciones que sean descriptivos y significativos para que el código sea autoexplicativo.
+- **Nombres Descriptivos:** Usa nombres de variables y funciones que sean descriptivos y significativos para que el código sea autoexplicativo, `fetchProjectData` en lugar de `getData`..
 - **Comentarios:** Incluye comentarios para explicar la lógica compleja o el propósito de las funciones. Esto facilita la comprensión y el mantenimiento del código.
 - **Espacios y Sangrías:** Utiliza espacios en blanco y sangrías para mejorar la legibilidad del código. Sigue un estilo consistente en todo el código.
 - **Modularidad:** Evita la creación de funciones globales. Utiliza módulos o patrones de diseño para modularizar el código y evitar conflictos de nombres.
@@ -1904,6 +1934,13 @@ En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseñ
 - **Propósito y Complejidad:** Utiliza comentarios para explicar el propósito de bloques de código, funciones o partes complejas del código. Asegúrate de que añadan valor y contexto.
 - **Actualización de Comentarios:** Mantén los comentarios actualizados a medida que el código evoluciona para evitar información desactualizada.
 - **Evita Comentarios Redundantes:** Evita comentarios obvios o redundantes que no añaden información útil. Los comentarios deben proporcionar claridad y contexto adicional.
+
+**Convenciones y Nomenclaturas**
+
+- **Referencias de Nomenclatura:** Para la nomenclatura de elementos, adoptaremos convenciones inspiradas en **BEM (Block Element Modifier)** y **OOCSS (Object-Oriented CSS)**, promoviendo claridad y reutilización.
+
+- **Estructura de Nombres:** Los nombres de las clases deben ser compuestos por tres partes: bloque, elemento y modificador. Por ejemplo, un botón de envío puede llamarse `btn--primary`, donde `btn` es el bloque y `primary` es el modificador.
+
 
 ### 5.1.4. Software Deployment Configuration.
 
