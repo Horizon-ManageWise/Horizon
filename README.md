@@ -957,21 +957,12 @@ En este capítulo se mostrará el desarrollo de las interfaces y procesos relaci
 
 Para los colores de la aplicación “MANAGEWISE” utilizamos una corta variedad de colores vivos, enfocado en los caminos que brinda nuestro logo. Hubo variaciones en PC, ya que se decidió darle espacio a la interfaz y a la simplicidad de está. Además, utilizamos colores importantes para llamar la atención del usuario. Esto se debe a que el mayor público se encuentra en estos dispositivos y se necesita de mayor visibilidad de la app.
 
-</p>
-<p align="center">
+![alt text](assets/images/Colors.png)
 
-<img src="
-https://media.discordapp.net/attachments/1246609784501833810/1279952066223149086/WhatsApp_Image_2024-08-31_at_3.13.33_PM.jpeg?ex=66d64fc0&is=66d4fe40&hm=8868807008d8ace35278b4be8d4b89a9655b07abe94c7c8d6e768b31d5b0c3d5&=&format=webp">
-
-</p>
 
 **Logo:**
 
-</p>
-<p align="center">
-
-<img src="https://cdn.discordapp.com/attachments/1246609784501833810/1279952066470744155/WhatsApp_Image_2024-09-01_at_6.37.30_PM.jpeg?ex=66d64fc1&is=66d4fe41&hm=ae55907c659f1f028da2ed9125b174bd67cfc759c5083053a961a7b8a139ba80&">
-</p>
+![alt text](assets/images/logo1.png)
 
 **Tipografía:**
 
@@ -987,24 +978,16 @@ En formato general se utiliza 30px y Sulphur point como tipografía del programa
 
 **• Interlineado:** 1,1
 
-<p align="center">
-
-<img src="assets/images/imagwse.png">
-</p>
+![alt text](assets/images/imagwse.png)
 
 **Weights:**
 
-<p align="center">
+![alt text](assets/images/222.png)
 
-<img src="assets/images/222.png">
-</p>
 
 **Nomenclature:**
 
-<p align="center">
-
-<img src="assets/images/333.png">
-</p>
+![alt text](assets/images/333.png)
 
 **Example:**
 
