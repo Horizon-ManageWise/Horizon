@@ -278,54 +278,57 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 ### 1.2.1. Antecedentes y problemática
 
-Actualmente los entornos están caracterizados por una alta competencia e incertidumbre, las organizaciones se enfocan en realizar proyectos de software orientados a objetivos estratégicos.
-La gestión de proyectos requiere la aplicación de conocimientos, herramientas, técnicas, métodos y habilidades a las actividades del proyecto para lograr el éxito.
-En consecuencia, un project manager capacitado es pieza clave en la competitividad de una empresa.
-Sin embargo, aun con sus conocimientos le falta una herramienta que facilite la observación del avance del proyecto que pueda ayudar a reducir los fracasos de los proyectos y mejorar el rendimiento de la organización del proyecto.
+Las empresas de desarrollo de software operan en un entorno de alta competencia e incertidumbre, donde es fundamental cumplir con proyectos que apoyen sus objetivos estratégicos. La gestión eficaz de estos proyectos requiere tanto habilidades especializadas como herramientas que permitan un seguimiento adecuado. Sin embargo, incluso los project managers más capacitados carecen a menudo de herramientas que les proporcionen una visibilidad clara del progreso. Esta falta de control incrementa el riesgo de fracaso en los proyectos y afecta negativamente el rendimiento y la capacidad de la organización para alcanzar sus objetivos.
 
-#### What?
+### What?  
+**¿Qué problema hay?**  
+El problema principal es la falta de herramientas especializadas que permitan a los usuarios gestionar proyectos de manera eficiente. Esto afecta la planificación, la asignación de recursos y la visibilidad del progreso en tiempo real. Además, las herramientas genéricas no abordan las complejidades únicas del desarrollo de software, lo que resulta en una baja eficiencia y problemas no resueltos a tiempo.
 
-¿Qué problema hay? La problemática principal es la falta de herramientas especializadas en el rubro del desarrollo de software que permitan a los project managers (PM) facilitar el seguimiento y la gestión de proyectos. Los problemas específicos incluyen la falta de planificación adecuada, asignación inadecuada de recursos, y dificultades en el seguimiento del progreso de los miembros del equipo.
+**¿Qué relación tiene el problema con el usuario/cliente?**    
+Para los líderes de empresas de software y sus equipos de desarrollo, este problema implica una falta de coordinación, retrasos en la entrega de proyectos y una baja capacidad para tomar decisiones estratégicas. Los líderes de software se ven afectados por sobrecostos, fallos en la planificación y pérdida de competitividad, mientras que los equipos de desarrollo luchan con la falta de dirección clara y recursos mal asignados.
 
-¿Qué relación tiene el problema con el usuario/cliente? El problema afecta directamente la capacidad de los PM para gestionar proyectos de manera efectiva. Esto puede llevar a plazos retrasados, conflictos no resueltos, y un uso ineficiente de los recursos, impactando negativamente en la eficiencia del proyecto y en el ambiente laboral.
+### When?  
+**¿Cuándo sucede el problema?**    
+El problema ocurre durante todo el ciclo de vida de los proyectos de software, desde la fase de planificación hasta la entrega. Es especialmente crítico cuando los equipos de desarrollo no pueden comunicar problemas o retrasos a tiempo, y los líderes de software carecen de visibilidad sobre el progreso.
 
-#### When?
+**¿Cuándo utiliza el cliente el producto?**     
+Los clientes utilizarán ManageWise a lo largo de todo el ciclo de vida de sus proyectos, desde la fase de planificación inicial hasta la implementación y revisión de tareas.
 
-¿Cuándo sucede el problema? El problema se manifiesta cuando los PM no pueden realizar un seguimiento continuo y detallado del avance del proyecto o de las tareas asignadas a cada miembro del equipo. Esto ocurre especialmente en situaciones en las que los miembros del equipo no comunican retrasos o problemas a tiempo, impidiendo al PM actuar de manera oportuna.
+### Where?  
+**¿Dónde ocurre el problema?**    
+El problema ocurre en los entornos de trabajo de los equipos de desarrollo de software, tanto en oficinas físicas como en entornos remotos. La falta de una plataforma especializada afecta la coordinación y visibilidad del trabajo entre los miembros del equipo, sin importar su ubicación.
 
-¿Cuándo el cliente necesita el programa? El cliente necesita el programa durante todo el ciclo de vida del desarrollo del software. Desde la fase de planificación, donde se definen las tareas y los plazos, hasta la fase de monitoreo y evaluación del progreso. La herramienta es crucial para gestionar y controlar el avance continuo y resolver problemas conforme surgen.
+**¿Dónde está el cliente cuando usa el producto?**    
+Los clientes pueden usar ManageWise en sus oficinas, espacios de trabajo remoto o durante reuniones virtuales de equipo.
 
-#### Where?
+### Who?  
+**¿Quiénes son los involucrados en este problema?**    
+Además de los líderes de software y los desarrolladores, los stakeholders de la empresa, como inversores o clientes, también están involucrados. Los retrasos y la falta de herramientas adecuadas para la gestión de proyectos de software afectan la viabilidad y los resultados comerciales de la empresa.
 
-¿Dónde el cliente usará el producto? El cliente usará la herramienta en sus entornos de trabajo habituales, como oficinas o desde sus hogares, dado que muchas veces el trabajo en desarrollo de software no requiere presencia física constante en una oficina. La herramienta debe ser accesible desde diferentes ubicaciones y dispositivos.
+**¿Quiénes están afectados por el problema?**    
+Los equipos de desarrollo de software y los líderes de empresas de software son los principales afectados. Los desarrolladores enfrentan dificultades para completar tareas a tiempo y gestionar recursos, mientras que los líderes sufren por la falta de control, planificación ineficaz y dificultades para cumplir con los plazos.
 
-¿A quién está destinado? La herramienta está destinada a project managers y miembros de los equipos de desarrollo de software. Está diseñada para ser usada por cualquier persona involucrada en la gestión y ejecución del proyecto, facilitando la coordinación y el seguimiento de tareas y recursos.
+### Why?  
+**¿Por qué ocurre el problema?**    
+El problema surge debido a la carencia de herramientas específicas para la gestión de proyectos de software que se ajusten a las necesidades y complejidades de este tipo de trabajo. Las soluciones genéricas no permiten a los líderes y equipos de software realizar un seguimiento detallado de su avance ni gestionar los recursos de manera efectiva.
 
-#### Who?
+### How?  
+**¿En qué condiciones los clientes usan nuestro producto?**    
+ Los ususarios-clientes utilizan el software en condiciones de alta demanda, donde la eficiencia y la capacidad de adaptación son cruciales para la gestión de proyectos. Además, los clientes lo emplearán durante todas las fases del ciclo de vida de un proyecto: planificación, ejecución, monitoreo y revisión.
 
-¿Quiénes van a involucrarse con nuestra aplicación? Los principales usuarios serán los project managers y los miembros del equipo del proyecto. Ellos utilizarán la aplicación para registrar avances, comunicar problemas y actualizar el estado de las tareas. Además, otros interesados en el proyecto, como líderes de equipos y supervisores, también interactuarán con la herramienta para monitorear el progreso y recibir notificaciones.
+**¿Cómo nos conocieron los compradores?**  
+Los compradores potenciales conocen ManageWise a través de diversos canales, como recomendaciones de colegas en la industria del software, marketing digital, eventos de tecnología y conferencias, y a través de contenido relevante publicado en blogs y redes sociales.
 
-¿Quiénes son afectados por el problema? El problema afecta a toda la organización involucrada en el proyecto. Incluye desde los miembros del equipo que pueden enfrentar dificultades para cumplir sus tareas eficientemente, hasta la empresa en general que podría experimentar retrasos, costos adicionales y pérdida de confianza si los proyectos no se gestionan adecuadamente.
+**¿Qué llevó a la persona a llegar a esta situación?**  
+Las personas llegaron a la situación de buscar una solución como ManageWise debido a los desafíos enfrentados con las herramientas de gestión de proyectos actuales, que no satisfacen las necesidades específicas de las startups de desarrollo de software. Estos desafíos incluyen la falta de características avanzadas, como análisis predictivos, automatización de tareas, y personalización. Los clientes buscan una solución que les permita mejorar la eficiencia, la colaboración y la gestión de proyectos para poder competir eficazmente en el mercado.
 
-#### Why?
+### How much?  
+**¿Cuánto cuesta este problema?**  
+La carencia de herramientas avanzadas para la gestión de proyectos en startups de desarrollo de software conlleva graves consecuencias.El Standish Group CHAOS Report 2020 revela que el 45% de los proyectos de software se retrasan significativamente, y aproximadamente el 19% se consideran fracasos completos debido a problemas en la gestión y falta de herramientas adecuadas.
 
-¿Por qué ocurre el problema? El problema ocurre debido a la falta de herramientas especializadas que se adapten a las necesidades específicas del desarrollo de software. Las aplicaciones de gestión de proyectos existentes no suelen ofrecer características detalladas que los PM necesitan para comprender en profundidad el progreso y los problemas técnicos del proyecto.
+![alt text](assets/images/2_H_estadistica.png)
 
-¿Por qué los clientes elegirían utilizar nuestro producto? Los clientes optarían por nuestra herramienta porque ofrece una solución adaptada a las necesidades del desarrollo de software, con funciones especializadas para planificación, seguimiento, y gestión de tareas técnicas y colaborativas. Esto mejora la eficiencia y la probabilidad de éxito del proyecto, ofreciendo un valor significativo frente a las herramientas genéricas existentes.
-
-#### How?
-
-¿Cómo nos descubren nuestros clientes? Nuestros clientes pueden descubrir nuestra herramienta a través de estrategias publicitarias en línea, como anuncios en redes sociales y campañas de email marketing. También es fundamental el boca a boca y las recomendaciones de empresas que ya utilizan nuestro producto y han visto mejoras en la gestión de sus proyectos.
-
-¿Cómo pueden los clientes acceder a nuestro contenido? Los clientes podrán acceder a nuestra aplicación desde diversos dispositivos, incluyendo teléfonos inteligentes, tablets, y computadoras. La plataforma será compatible con diferentes sistemas operativos y proporcionará una experiencia de usuario fluida y accesible desde cualquier lugar.
-
-¿Qué factores llevan a los clientes a elegirnos? Los clientes elegirán nuestra solución debido a su capacidad para centralizar toda la información relevante del proyecto, facilitando la coordinación y la transparencia. La mejora en la gestión y seguimiento de proyectos, así como la eficiencia en la comunicación entre miembros del equipo, serán factores clave para la elección de nuestra herramienta. Dame el How much pero ideas como esas
-
-###### How much?
-
-La falta de herramientas especializadas en la gestión de proyectos de software puede causar retrasos costosos y pérdidas de ingresos debido a una planificación y seguimiento inadecuados. Estos retrasos también incrementan los costos operativos por ajustes y correcciones necesarias, afectando negativamente las finanzas de la empresa y la productividad del equipo.
-
-Además, los problemas de comunicación y coordinación pueden generar conflictos y reducir la moral del equipo, resultando en costos adicionales y mayor rotación de personal. La alta tasa de fracaso de proyectos por una gestión deficiente también puede dañar la reputación de la empresa, reduciendo futuras oportunidades de negocio y destacando la urgencia de solucionar esta problemática.
+Los costos operativos también se ven incrementados significativamente. Un análisis de Gartner indica que las empresas que no cuentan con herramientas adecuadas pueden enfrentar un aumento del 25% en sus costos operativos debido a ineficiencias. La insatisfacción con las herramientas actuales es alta, con un 40% de los equipos de desarrollo reportando descontento, según un estudio de Atlassian. Finalmente, un informe de Forrester revela que el 50% de las decisiones en proyectos de software se basan en datos insuficientes, lo que afecta la calidad de la toma de decisiones y el éxito general de los proyectos.
 
 ### 1.2.2. Lean UX Process
 
@@ -333,9 +336,9 @@ El proceso Lean UX se adapta especialmente bien a startups como Horizon que busc
 
 ### 1.2.2.1. Lean UX Problem Statements
 
-Después de analizar la problemática y los factores que la ocasionan, podemos tener un panorama de cómo solucionar la necesidad del usuario declarando supuestos, lo cual corresponde al siguiente paso de la Lean UX. Por ello, es necesario tener un conocimiento previo de las empresas que tienen características similares a las nuestras y cómo estas se han desarrollado con el paso del tiempo.
-En primer lugar, hablamos de la herramienta Trello, creada por el ingeniero y escritor Avram Joel Spolsky, que su objetivo es proveer una herramienta para la organización de la información. Esta plataforma está optimizada para hacer más sencillas las tareas de los equipos de trabajo.
-En segundo lugar, tenemos la herramienta Jira Software, fue desarrollada por la empresa australiana Atlassian. Está es similar a las funciones de Trello, pero lo resaltante es la compatibilidad con cualquier metodología ágil, ya sea Scrum, Kanban o la tuya propia.
+El objetivo es gestionar proyectos de software de manera eficiente, mejorando la planificación, la asignación de recursos y el monitoreo del progreso en tiempo real.
+Actualmente, la falta de herramientas especializadas para la gestión de proyectos en el desarrollo de software está afectando la eficiencia y la capacidad de cumplir con los plazos. Las soluciones genéricas no abordan las complejidades particulares de este tipo de proyectos, lo que resulta en retrasos, recursos mal asignados y problemas no resueltos a tiempo.
+Se requiere una mejora en la gestión de proyectos que permita optimizar la planificación y supervisión, brindando una mayor visibilidad del progreso y una asignación más eficiente de recursos, sin imponer una solución específica.
 
 ### 1.2.2.2. Lean UX Assumptions
 
@@ -355,18 +358,11 @@ Assumptions:
 
 7. Haré dinero a través de un modelo de suscripción mensual o anual, ofreciendo diferentes niveles de funcionalidad según las necesidades del cliente.
 
-8. Mi competencia principal en el mercado serán Trello, Jira Software y Asana.
+8. Mi competencia principal en el mercado serán Trello, Wrike y ClickUp.
 
 9. Los venceremos debido a nuestra facilidad de uso, integraciones flexibles y enfoque en las necesidades específicas de las empresas emergentes de desarrollo de software.
 
 10. Mi mayor riesgo de producto es la falta de adopción por parte de los equipos de desarrollo, debido a la resistencia al cambio o a la preferencia por soluciones existentes.
-
-Business Outcomes:
-
-- Optimizar la eficiencia operativa y la colaboración dentro de equipos de desarrollo de software.
-- Reducción de obstáculos relacionados con la falta de herramientas de gestión de proyectos e iniciativas.
-
-User Outcomes:
 
 1. ¿Quién es el usuario?  
    Los usuarios son gerentes de proyectos de software, equipos de desarrollo de software y líderes empresariales de empresas emergentes en el ámbito del desarrollo de software.
@@ -385,6 +381,22 @@ User Outcomes:
 
 6. ¿Cómo debe verse nuestra empresa y comportarse?  
    Nuestra empresa debe presentarse como un aliado confiable que simplifica y optimiza la gestión de proyectos de desarrollo de software, siendo receptiva a las sugerencias de los usuarios y comprometida con la innovación y la mejora continua.
+
+
+Business Outcomes:
+- Incrementar la base de usuarios activos en un 12% durante el primer semestre, enfocado principalmente en startups de desarrollo de software.  
+- Reducir los costos operativos relacionados con la gestión de proyectos en un 18% en los primeros 9 meses mediante la implementación de automatización de tareas y análisis predictivos.  
+- Aumentar la tasa de éxito de proyectos en un 25% en el primer año, optimizando la planificación y el monitoreo de avances en tiempo real.  
+- Mejorar la retención de clientes en un 20% dentro de los primeros 6 meses, proporcionando herramientas especializadas que aborden las necesidades únicas de los desarrolladores de software.  
+- Lograr que el 30% de los nuevos clientes provengan de recomendaciones de usuarios existentes mediante la creación de una experiencia positiva y diferenciada en la gestión de proyectos de software.  
+
+User Outcomes:
+- Aumentar la eficiencia de los equipos de desarrollo, reduciendo el tiempo perdido en tareas repetitivas mediante la automatización de procesos.  
+- Mejorar la coordinación y visibilidad del proyecto al brindar reportes en tiempo real sobre el progreso y asignación de recursos.  
+- Facilitar la toma de decisiones estratégicas mediante análisis predictivos y reportes de avance automatizados.  
+- Proporcionar una plataforma intuitiva que permita a los usuarios planificar, ejecutar y monitorear proyectos sin depender de múltiples herramientas genéricas.  
+- Reducir los retrasos en los proyectos al facilitar la comunicación directa de problemas y necesidades del equipo a los líderes de software.  
+
 
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
