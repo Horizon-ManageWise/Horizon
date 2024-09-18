@@ -1845,7 +1845,7 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
   - **Ruta del Figma**: [Figma - Horizon](https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/LandingPage-WireFrame-ManageWise?node-id=15-131&node-type=canvas&t=PXmYxR9lGN4kX4l0-0)
 
 
-![FIGMA](assets\images\Figma.jpeg)
+![FIGMA](assets/images/FIGMA2.png)
 
 
 Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
