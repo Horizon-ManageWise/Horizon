@@ -1530,40 +1530,40 @@ En la sección de Configuración, el usuario será capaz de editar aspectos rela
 
 ##### User goal: Registrar un nuevo usuario
 
-<p align="center"><img src="assets/images/Wireflow1.png"></p>
+<p align="center"><img src="assets/images/wireflow1.png"></p>
 
 ##### User goal: Iniciar sesión
 
-<p align="center"><img src="assets/images/Wireflow2.png"></p>
+<p align="center"><img src="assets/images/wireflow2.png"></p>
 
 
 ##### User goal: Acceso a videollamadas
 
-<p align="center"><img src="assets/images/Wireflow3.png"></p>
+<p align="center"><img src="assets/images/wireflow3.png"></p>
 
 
 ##### User goal: Acceso a historial
 
-<p align="center"><img src="assets/images/Wireflow4.png"></p>
+<p align="center"><img src="assets/images/wireflow4.png"></p>
 
 ##### User goal: Visualizar secciónes del foro 
 
-<p align="center"><img src="assets/images/Wireflow5.png"></p>
+<p align="center"><img src="assets/images/wireflow5.png"></p>
 
 
 ##### User goal: Realiazar el seguimiento de tareas en tiempo real
 
-<p align="center"><img src="assets/images/Wireflow6.png"></p>
+<p align="center"><img src="assets/images/wireflow6.png"></p>
 
 
 ##### User goal: Visualizar cronograma 
 
-<p align="center"><img src="assets/images/Wireflow7.png"></p>
+<p align="center"><img src="assets/images/wireflow7.png"></p>
 
 
 ##### User goal: Modificar estado de tareas
 
-<p align="center"><img src="assets/images/Wireflow8.png"></p>
+<p align="center"><img src="assets/images/wireflow8.png"></p>
 
 
 #### 4.4.3. Web Applications Mock-ups  
@@ -1671,6 +1671,8 @@ En la sección de Configuración, el usuario será capaz de editar aspectos rela
 
 
 ### 4.5. Web Applications Prototyping
+
+El prototipo de la aplicación busca ofrecer una experiencia intuitiva para la gestión de proyectos. Las principales decisiones de interacción se centraron en la accesibilidad, permitiendo a usuarios seleccionados, en este caso los líderes, crear, editar y visualizar tareas fácilmente. Además, secciones como Proyectos, Herramientas, Seguridad y Reportes están diseñadas para asegurar una navegación clara y eficiente, optimizando la colaboración y el seguimiento del progreso en tiempo real.  
 
 Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=1%3A2&node-id=118-122&node-type=CANVAS&viewport=-385%2C681%2C0.08&t=grI8nuvCu1Ox92G5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=118%3A122
 
