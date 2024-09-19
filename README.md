@@ -1352,16 +1352,29 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 #### 4.3.1. Landing Page Wireframe
 
+Se estructuró la landing page para facilitar la navegación y claridad del contenido, con un navbar con links que redirigen al usuario a la sección deseada. El diseño es responsive, adaptándose a un hamburger menu en pantallas pequeñas. En el hero, se ubica el eslogan y un call-to-action, al igual que en la sección Nosotros, para redirigir así a los usuarios al formulario de registro. El footer contiene enlaces a redes sociales, manteniendo la coherencia visual.
+
 ##### Desktop Web Browser:
 
 <p align="center">
 
+La landing page cuenta con diferentes secciones:  
+* Hero o header: Se encuentra la barra de navegación, además del eslogan de la aplicación e imagen referencial.  
+* Descripción general: Se muestran las principales características de la aplicación al usuario.  
+* Beneficios: El usuario puede ver los beneficios de usar la aplicación.  
+* Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
+* Footer: Enlaces a las redes sociales de la paltaforma.  
+<br>
 <img src="assets/images/WireframeDesktopWebBrowser.png">
 <br>
 
+Apartado de registro:  
+<br>
 <img src="assets/images/Wireframe-DesktopWebBrowser-Registro.png">
 <br>
 
+Apartado de inicio de sesión:  
+<br>
 <img src="assets/images/Wireframe-DesktopWebBrowser-InicioSesion.png">
 <br>
 
@@ -1370,16 +1383,21 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 ##### Mobile Web Browser:
 
 <p align="center">
+Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se ecuentran los links de navegación.<br>
 
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser-Menu.png">
 <br>
 
+Se cuenta con las mismas secciones que para desktop web browser ( Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
+<br>
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser.png">
 <br>
 
+El formulario de registro se adapta a la pantalla<br>
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser-Resgistro.png">
 <br>
 
+El formulario de inicio de sesión se adapta a la pantalla<br>
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser-InicioSesion.png">
 <br>
 
@@ -1391,12 +1409,21 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 <p align="center">
 
+La landing page cuenta con diferentes secciones:  
+* Hero o header: Se encuentra la barra de navegación, además del eslogan de la aplicación e imagen referencial.  
+* Descripción general: Se muestran las principales características de la aplicación al usuario, junto con una imagen referente.  
+* Beneficios: El usuario puede ver los beneficios de usar la aplicación.  
+* Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.  
+* Footer: Enlaces a las redes sociales de la paltaforma. 
+<br> 
 <img src="assets/images/Mockup-DesktopWebBrowser.png">
 <br>
 
+Apartado de registro, en donde el usuario deberá ingresar datos necesarios de la manera que vea conveniente.  <br>
 <img src="assets/images/Mockup-DesktopWebBrowser-Resgistro.png">
 <br>
 
+Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.<br>
 <img src="assets/images/Mockup-DesktopWebBrowser-InicioSesion.png">
 <br>
 
@@ -1405,16 +1432,20 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 ##### Mobile Web Browser:
 
 <p align="center">
+Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se ecuentran los links de navegación. <br>
 
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-Menu.png">
 <br>
 
+Se cuenta con las mismas secciones que para desktop web browser ( Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser.png">
 <br>
 
+El formulario de registro que se adapta a la pantala del dispositivo, permitiendo de esta manera una navegación fluida.<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-Resgistro.png">
 <br>
 
+El formulario de inicio que se adapta a la pantala del dispositivo, permitiendo de esta manera una navegación fluida.<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-InicioSesion.png">
 <br>
 
@@ -1424,25 +1455,74 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 #### 4.4.1. Web Applications Wireframes
 
+En esta parte se explorará el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web. Tanto la ubicación de elementos, como las fuentes y colores, están pensados para ofrecer al usuario una experiencia visualmente atractia y fluida. 
+
+
 <p align="center">
 
-<img src="assets/images/wireframes/Foro-Mejora.png">
-<img src="assets/images/wireframes/Foro-Problemas.png">
-<img src="assets/images/wireframes/Foro-retroalimentacion.png">
-<img src="assets/images/wireframes/herramientas - documentos compartidos.png">
-<img src="assets/images/wireframes/herramientas.png">
-<img src="assets/images/wireframes/configuracion.png">
-<img src="assets/images/wireframes/Historial - actividades.png">
-<img src="assets/images/wireframes/Historial - sesiones.png">
-<img src="assets/images/wireframes/Historial.png">
-<img src="assets/images/wireframes/proyecto-roles.png">
-<img src="assets/images/wireframes/proyectos-CronogramaSprint.png">
-<img src="assets/images/wireframes/proyectos-estado.png">
+La sección de Proyectos es la principal, en donde el usuario podrá visualizar las actividades, estados, cronogramas, y en caso de tener permiso, editarlas.  
 <img src="assets/images/wireframes/proyectos.png">
-<img src="assets/images/wireframes/Reporte-Progreso.png">
-<img src="assets/images/wireframes/Reporte-ResumenSprint.png">
-<img src="assets/images/wireframes/Reporte.png">
+<br>
+Apartado Estado de actividades de proyectos en Proyectos
+<img src="assets/images/wireframes/proyectos-estado.png">
+<br>
+Apartado Cronograma Sprint en Proyectos
+<img src="assets/images/wireframes/proyectos-CronogramaSprint.png">
+<br>
+Apartado Roles en Proyectos
+<img src="assets/images/wireframes/proyecto-roles.png">
+<br>
+<br>
+
+En la sección de Herramientas, el usuario tendrá acceso a videollamadas, y los diferentes documentos compartidos por los miembros del proyecto.
+<img src="assets/images/wireframes/herramientas.png">
+<br>
+Apartado Documentos compartidos en Herramientas
+<img src="assets/images/wireframes/herramientas - documentos compartidos.png">
+<br>
+<br>
+
+En la sección de Seguridad, los usuarios podrán activar diferentes métodos de seguridad, como el de doble autenticación, y en caso de ser el líder poder hacer el proyecto publico.
 <img src="assets/images/wireframes/Seguridad.png">
+<br>
+<br>
+
+En la sección de Historial, el usuario podrá visualizar diferentes actividades y sesiones que ya concluyeron. 
+<img src="assets/images/wireframes/Historial.png">
+<br>
+Apartado Actividades en Historial
+<img src="assets/images/wireframes/Historial - actividades.png">
+<br>
+Apartado Sesiones en Historial
+<img src="assets/images/wireframes/Historial - sesiones.png">
+<br>
+<br>
+
+En la sección de Reporte, el usuarió podrá observar los problemas ocurridos a lo largo del proeycto, así como un resumen sprint y el progreso general e individual de los miembros del equipo.
+<img src="assets/images/wireframes/Reporte.png">
+<br>
+Apartado Progreso en Reporte
+<img src="assets/images/wireframes/Reporte-Progreso.png">
+<br>
+Apartado Resumen Sprint en Reporte
+<img src="assets/images/wireframes/Reporte-ResumenSprint.png">
+<br>
+<br>
+
+En la sección de Foro, el usuario tendrá acceso a foro con los diferentes apartados del mismo.
+<img src="assets/images/wireframes/Foro-Mejora.png"> 
+<br>
+Apartado Problemas en Foro
+<img src="assets/images/wireframes/Foro-Problemas.png">
+<br>
+Apartado Retroalimentación en Foro
+<img src="assets/images/wireframes/Foro-retroalimentacion.png">
+<br>
+<br>
+
+En la sección de Configuración, el usuario será capaz de editar aspectos relacionados a su cuenta, y el apartado visual de la aplicación.
+<img src="assets/images/wireframes/configuracion.png">
+<br>
 
 </p>
 
@@ -1486,27 +1566,74 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 <p align="center"><img src="assets/images/Wireflow8.png"></p>
 
 
-#### 4.4.3. Web Applications Mock-ups
+#### 4.4.3. Web Applications Mock-ups  
+Los siguientes mockups ofrecen una vista previa del diseño y estructural visual de la aplicación web antes de su desarrollo final. Gracias a estos mockups podemos visualizar como se dispondrán los diferentes elementos en la interaz, garantizando que el diseño sea claro e intuitivo.
 
 <p align="center">
 
-<img src="assets/images/mockups/configuracion.png">
-<img src="assets/images/mockups/Foro-Mejora.png">
-<img src="assets/images/mockups/Foro-Problemas.png">
-<img src="assets/images/mockups/Foro-retroalimentacion.png">
-<img src="assets/images/mockups/herramientas - documentos compartidos.png">
-<img src="assets/images/mockups/herramientas.png">
-<img src="assets/images/mockups/Historial - actividades.png">
-<img src="assets/images/mockups/Historial - sesiones.png">
-<img src="assets/images/mockups/Historial.png">
-<img src="assets/images/mockups/proyecto-roles.png">
-<img src="assets/images/mockups/proyectos-CronogramaSprint.png">
-<img src="assets/images/mockups/proyectos-estado.png">
+La sección de Proyectos es la principal, en donde el usuario podrá visualizar las diferentes actividades, las personas encargadas y diferentes aspectos de las mismas. En caso de ser el líder podra crear, editar y eliminar las tareas.
 <img src="assets/images/mockups/proyectos.png">
-<img src="assets/images/mockups/Reporte-Progreso.png">
-<img src="assets/images/mockups/Reporte-ResumenSprint.png">
-<img src="assets/images/mockups/Reporte.png">
+<br>
+En en el apartado Estado de Actividades en Proyectos, el usuario podrá visualizar si las actividades se encuentran por hacer, en progreso o terminadas, y en caso de ser el líder, podrá editar el estado de estas.
+<img src="assets/images/mockups/proyectos-estado.png">
+<br>
+En en el apartado Cronograma Sprint en Proyectos, el usuarió podrá visualizar las fechas estipuladas, límites y diversas actividades.
+<img src="assets/images/mockups/proyectos-CronogramaSprint.png">
+<br>
+En en el apartado Roles en Proyectos, el usuario visualizará los diferentes miembros del proyecto y en caso de ser el líder, podrá invitar y agregar a nuevos.
+<img src="assets/images/mockups/proyecto-roles.png">
+<br>
+<br>
+
+En la sección de Herramientas, el usuario tendrá acceso a videollamadas, y los diferentes documentos compartidos por los miembros del proyecto, en caso de ser el líder, podra crear y eliminar videollamadas.
+<img src="assets/images/mockups/herramientas.png">
+<br>
+En en el apartado Documentos compartidos en Herramientas, el usuario puede visualizar los diferentes documentos compartidos por los miembros.
+<img src="assets/images/mockups/herramientas - documentos compartidos.png">
+<br>
+<br>
+
+En la sección de Seguridad, los usuarios podrán activar diferentes métodos de seguridad, como el de doble autenticación, y en caso de ser el líder poder hacer el proyecto publico.
 <img src="assets/images/mockups/Seguridad.png">
+<br>
+<br>
+
+En la sección de Historial, el usuario podrá visualizar diferentes actividades y sesiones que ya concluyeron; siendo el apartado por defecto el de conversaciones, donde podrá ver la interacción que tuvo con diferentes miembros en el foro. 
+<img src="assets/images/mockups/Historial.png">
+<br>
+En en el apartado Actividades en Historial, el usuario puede ver las actividades pasadas y en qué estado culminaron. 
+<img src="assets/images/mockups/Historial - actividades.png">
+<br>
+En en el apartado Sesiones en Historial, el usuario puede acceder a la grabación de las diferentes videollamadas.
+<img src="assets/images/mockups/Historial - sesiones.png">
+<br>
+<br>
+
+En la sección de Reporte, el usuarió podrá observar los errores ocurridos a lo largo del proeycto, así como un resumen sprint y el progreso general e individual de los miembros del equipo. 
+<img src="assets/images/mockups/Reporte.png">
+<br>
+En en el apartado Progreso en Reporte, el usuario podrá visualizar una barra que indica el progreso general del proyecto, con respecto a las tareas, y una barra por cada miembro, mostrando el progreso individual, en caso de ser el líder, además, podrá visualizar un gráfico radial con las habilidades de cada miembro.
+<img src="assets/images/mockups/Reporte-Progreso.png">
+<br>
+En en el apartado Resumen Sprint en Reporte, el usuario podrá ver un resumen de cada sprint. 
+<img src="assets/images/mockups/Reporte-ResumenSprint.png">
+<br>
+<br>
+
+En la sección de Foro, el usuario tendrá acceso al foro con los diferentes apartados del mismo.
+<img src="assets/images/mockups/Foro-Mejora.png">
+<br>
+En en el apartado Problemas en Foro, el usuario verá diferentes problemas reportados por los miembros, y podrá responder a los mismos.
+<img src="assets/images/mockups/Foro-Problemas.png">
+<br>
+En en el apartado Retroalimentación en Foro, usuario verá la retroalimentación brindada por el líder del proyecto.
+<img src="assets/images/mockups/Foro-retroalimentacion.png">
+<br>
+<br>
+
+En la sección de Configuración, el usuario será capaz de editar aspectos relacionados a su cuenta, y el apartado visual de la aplicación.
+<img src="assets/images/mockups/configuracion.png">
+<br>
 
 </p>
 
