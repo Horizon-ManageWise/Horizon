@@ -2016,8 +2016,8 @@ Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos efic
 
 En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
 - **Landing Page**: [Landing Page - Horizon](https://github.com/Horizon-ManageWise/LandingPage.git)
-- **Frontend Web Applications**: [FrontEnd - Horizon]()
-- **Backend Web Applications**: [BackEnd - Horizon]()
+- **Frontend Web Applications**: [FrontEnd - Horizon](https://github.com/Horizon-ManageWise/Frontend-Web-Applications.git)
+- **Backend Web Applications**: [BackEnd - Horizon](https://github.com/Horizon-ManageWise/Backend-Web-Applications.git)
 
 
 **Estructura del Repositorio**
@@ -2109,10 +2109,10 @@ En los siguientes pasos se explicará cómo llevar a cabo la implementación de 
 **Deploy con GitHub Pages:**
 En primer lugar, accedemos al repositorio de GitHub donde se encuentra nuestro proyecto y luego navegamos hacia la configuración del repositorio.
 
-![Settings](https://cdn.discordapp.com/attachments/1246609784501833810/1279964432864116810/image.png?ex=66df95c5&is=66de4445&hm=b41e7bc27ed3e2581b7b9234387cb511481c0a8f4d2132caaf3cc416b5c2e970&)
+![Settings](assets/images/settings.png)
 
 Dentro del menú de ajustes, elegimos la opción "Pages".
-![Settings](https://media.discordapp.net/attachments/1246609784501833810/1279964791942938748/image.png?ex=66df961a&is=66de449a&hm=ee9fb4a1237e863e59e2d60a34cd17b56cae39a7fd76246a93c8f8ce7643bc4d&=&format=webp&quality=lossless&width=1007&height=662)
+![Settings](assets/images/image.png)
 
 **Control de Versiones**
 
