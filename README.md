@@ -2143,7 +2143,13 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Attendees (to planning meeting)** | Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva, Valentino/Jaque Peña, Estefano Oscar                                                              |
 | **Sprint Goal & User Stories**      |                                                                                                                                                                                                            |
 | **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 1 Velocity**               | US43(2points),US44(2points),US45(3points),US46(3points),US47(2points),US48(2points)                                                                                                                        |
+| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de 14 Story Points, que es la capacidad que el equipo ha acordado aceptar para este Sprint.
+- US43 (2 puntos)
+- US44 (2 puntos)
+- US45 (3 puntos)
+- US46 (3 puntos)
+- US47 (2 puntos)
+- US48 (2 puntos)                                                                             
 | **Sum of Story Points**             | 14                                                                                                                                                                                                         |
 
 #### 5.2.1.2 Sprint Backlog 1.
