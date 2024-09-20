@@ -1727,216 +1727,163 @@ Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-ma
 
 ### 4.8. Database Design
 
-#### 4.7.2. Database Dictionary
+### 4.7.2. Database Dictionary
 
-Este es el formato que deberán seguir nuestras colecciones en MongoDB para replicar nuestras entidades de la base de datos ManageWise
+Este es el formato que deberán seguir nuestras colecciones en MongoDB para replicar nuestras entidades de la base de datos.
 
-**Empresa**  
-Descripción: Colección que representa las empresas registradas en el sistema.
-|Campo|Tipo de dato|Descripción|
-|-----|------------|-----------|
-|Emp_ID|int|Identificador único de la empresa|
-|Emp_Nombre|varchar(20)|Nombre de la empresa|
-|Emp_Direccion|varchar(50)|Dirección de la empresa|
-|Emp_Email|varchar(25)|Correo electrónico de la empresa|
+**Usuarios**  
+Descripción: Colección que representa a los empleados o usuarios del sistema.
+| Campo     | Tipo de dato   | Descripción                              |
+|-----------|----------------|------------------------------------------|
+| usuarioId | int            | Identificador único del usuario           |
+| nombre    | nvarchar(255)  | Nombre del usuario                        |
+| cargo     | nvarchar(255)  | Cargo del usuario                        |
+| email     | nvarchar(255)  | Correo electrónico del usuario           |
+| telefono  | bigint         | Teléfono del usuario                     |
 
-**Cliente**  
-Descripción: Colección que representa a los clientes que solicitan proyectos.
-|Campo |Tipo de dato |Descripción|
-|-----|------------|-----------|
-|Cli_ID |int |Identificador único del cliente|
-|Cli_Nombre |varchar(30)|Nombre del cliente|
-|Cli_Email |varchar(25)|Correo electrónico del cliente|
-|Cli_Telef |int |Teléfono del cliente|
+**Equipos**  
+Descripción: Colección que representa los equipos de trabajo.
+| Campo      | Tipo de dato   | Descripción                              |
+|------------|----------------|------------------------------------------|
+| equipoId   | int            | Identificador único del equipo            |
+| nombreEquipo| nvarchar(255) | Nombre del equipo                        |
+| descripcion| nvarchar(max)  | Descripción del equipo                   |
 
-**Cargo**  
-Descripción: Colección que define los diferentes cargos dentro de una empresa.
-|Campo |Tipo de dato |Descripción|
-|-----|------------|-----------|
-|Car_ID| int| Identificador único del cargo|
-|Car_Nom |varchar(30)| Nombre del cargo|
+**UsuarioEquipo**  
+Descripción: Colección que define la relación entre usuarios y equipos, incluyendo el rol.
+| Campo      | Tipo de dato   | Descripción                              |
+|------------|----------------|------------------------------------------|
+| usuarioId  | int            | Identificador del usuario                |
+| equipoId   | int            | Identificador del equipo                 |
+| rol        | nvarchar(50)   | Rol del usuario (Líder o Miembro)       |
 
-**Empleado**  
-Descripción: Colección que representa a los empleados de una empresa.
-|Campo| Tipo de dato |Descripción|
-|-----|------------|-----------|
-|Emp_EmpleadoID |int |Identificador único del empleado|
-|Emp_EmpeadoNombre| varchar(20)| Nombre del empleado|
-|Emp_EmpleadoCargo| varchar(20) |Cargo del empleado|
-|Emp_EmpleadoEmail| varchar(30) |Correo electrónico del empleado|
-|Emp_EmpleadoTelef| int |Teléfono del empleado|
-|Car_ID |int |Identificador del cargo que ocupa el empleado|
+**Proyectos**  
+Descripción: Colección que representa los proyectos.
+| Campo        | Tipo de dato   | Descripción                              |
+|--------------|----------------|------------------------------------------|
+| proyectoId   | int            | Identificador único del proyecto         |
+| nombreProyecto| nvarchar(255) | Nombre del proyecto                      |
+| descripcion  | nvarchar(max)  | Descripción del proyecto                 |
+| fechaInicio  | date           | Fecha de inicio del proyecto             |
+| fechaEntrega | date           | Fecha de entrega del proyecto            |
+| estado       | nvarchar(50)   | Estado del proyecto                      |
 
-**Proyecto**  
-Descripción: Colección que representa los proyectos gestionados por las empresas.
-|Campo| Tipo de dato| Descripción|
-|-----|------------|-----------|
-|Pro_ID |int| Identificador único del proyecto|
-|Pro_Nombre |varchar(20)| Nombre del proyecto|
-|Pro_Descripción| varchar(50)| Descripción del proyecto|
-|Pro_FechInicio| date |Fecha de inicio del proyecto|
-|Pro_FechEnt| date |Fecha estimada de entrega del proyecto|
-|Pro_Est |varchar(20)| Estado actual del proyecto|
-|Cli_ID |int |Identificador del cliente asociado al proyecto|
-|Emp_ID |int |Identificador de la empresa asociada al proyecto|
+**Tareas**  
+Descripción: Colección que representa las tareas de un proyecto.
+| Campo         | Tipo de dato   | Descripción                              |
+|---------------|----------------|------------------------------------------|
+| tareaId       | int            | Identificador único de la tarea          |
+| descripcionTarea| nvarchar(max) | Descripción de la tarea                  |
+| fechaCreacion | date           | Fecha de creación de la tarea            |
+| prioridad     | nvarchar(50)   | Prioridad de la tarea                    |
+| estadoTarea   | nvarchar(50)   | Estado actual de la tarea                |
+| proyectoId    | int            | Identificador del proyecto asociado       |
+| responsableId | int            | Identificador del usuario responsable     |
 
-**Tarea**  
-Descripción: Colección que describe las tareas específicas dentro de un proyecto.
-|Campo| Tipo de dato| Descripción|
-|-----|------------|-----------|
-|Tar_ID| int| Identificador único de la tarea|
-|Tar_Desc| varchar(50)| Descripción de la tarea|
-|Tar_FechCreación| date| Fecha de creación de la tarea|
-|Tar_Prioridad |varchar(30)| Prioridad de la tarea|
-|Tar_Estado |varchar(20) |Estado actual de la tarea|
-|Pro_ID |int |Identificador del proyecto al que pertenece la tarea|
-|Emp_EmpleadoID| int| Identificador del empleado responsable de la tarea|
-|Eta_ID| int |Identificador de la etapa a la que pertenece la tarea|
-
-**Requisito**  
-Descripción: Colección que define los requisitos de un proyecto.
-|Campo |Tipo de dato |Descripción|
-|-----|------------|-----------|
-|Req_ID| int| Identificador único del requisito|
-|Req_Desc| varchar(50)| Descripción del requisito|
-|Req_FechCrea| date |Fecha de creación del requisito|
-|Req_Prioridad| int| Prioridad del requisito|
-|Req_Estado |varchar(20)| Estado actual del requisito|
-|Pro_ID |int| Identificador del proyecto asociado al requisito|
-
-**HistorialCambios**  
-Descripción: Colección que registra los cambios realizados en un proyecto.
-
-| Campo              | Tipo de dato | Descripción                                       |
-| ------------------ | ------------ | ------------------------------------------------- |
-| His_CambiosID      | int          | Identificador único del historial de cambios      |
-| His_CambiosDesc    | varchar(50)  | Descripción del cambio realizado                  |
-| His_CambiosFechMod | date         | Fecha de modificación del cambio                  |
-| Pro_ID             | int          | Identificador del proyecto asociado               |
-| Emp_EmpleadoID     | int          | Identificador del empleado responsable del cambio |
-
-**Comentario**  
-Descripción: Colección que contiene los comentarios realizados en tareas específicas.
-|Campo |Tipo de dato| Descripción|
-|-----|------------|-----------|
-|Com_ID| int| Identificador único del comentario|
-|Com_Texto |varchar(100)| Texto del comentario|
-|Com_Fech |date| Fecha del comentario|
-|Tar_ID |int |Identificador de la tarea asociada|
-|Emp_EmpleadoID |int| Identificador del empleado que hizo el comentario|
-
-**Entregable**  
-Descripción: Colección que define los entregables de un proyecto.
-|Campo| Tipo de dato| Descripción|
-|-----|------------|-----------|
-|Ent_ID |int| Identificador único del entregable|
-|Ent_Nombre |varchar(30)| Nombre del entregable|
-|Ent_Desc |varchar(60)| Descripción del entregable|
-|Ent_FechEnt| date |Fecha de entrega del entregable|
-|Pro_ID |int |Identificador del proyecto asociado|
-
-**ErroresCalidad**  
-Descripción: Colección que registra los errores de calidad encontrados en un proyecto.
-|Campo| Tipo de dato| Descripción|
-|-----|------------|-----------|
-|Err_ID| int| Identificador único del error de calidad|
-|Err_Desc| varchar(50) |Descripción del error|
-|Err_Gravedad| varchar(30)| Gravedad del error|
-|Err_Estado |varchar(20)| Estado actual del error|
-|Pro_ID |int |Identificador del proyecto asociado|
-
-**Metodología**  
-Descripción: Colección que define las metodologías utilizadas en los proyectos.
-|Campo| Tipo de dato| Descripción|
-|-----|------------|-----------|
-|Met_ID |int| Identificador único de la metodología
-|Met_Nombre| varchar(20)| Nombre de la metodología|
-|Met_Desc| varchar(50) |Descripción de la metodología|
-|Pro_ID |int |Identificador del proyecto asociado|
+**ArchivosAdjuntos**  
+Descripción: Colección que representa los archivos adjuntos a tareas.
+| Campo        | Tipo de dato   | Descripción                              |
+|--------------|----------------|------------------------------------------|
+| archivoId    | int            | Identificador único del archivo           |
+| nombreArchivo | nvarchar(255) | Nombre del archivo                        |
+| tipoArchivo   | nvarchar(50)  | Tipo del archivo                         |
+| rutaAlmacenamiento| nvarchar(255) | Ruta de almacenamiento del archivo   |
+| tareaId      | int            | Identificador de la tarea asociada       |
 
 **Sprints**  
-Descripción: Colección que define los sprints de un proyecto.
-|Campo |Tipo de dato| Descripción|
-|-----|------------|-----------|
-|Spr_ID |int| Identificador único del sprint|
-|Spr_Nom |varchar(20)| Nombre del sprint|
-|Spr_FechCreacion| date| Fecha de creación del sprint|
-|Spr_Fechafinal| date |Fecha final del sprint|
-|Pro_ID |int| Identificador del proyecto asociado|
+Descripción: Colección que representa los sprints de un proyecto.
+| Campo       | Tipo de dato   | Descripción                              |
+|-------------|----------------|------------------------------------------|
+| sprintId    | int            | Identificador único del sprint           |
+| nombreSprint | nvarchar(255) | Nombre del sprint                        |
+| fechaInicio | date           | Fecha de inicio del sprint               |
+| fechaFin    | date           | Fecha de fin del sprint                  |
+| proyectoId  | int            | Identificador del proyecto asociado       |
 
-**Reunión**  
-Descripción: Colección que representa las reuniones realizadas en un proyecto.
-|Campo| Tipo de dato| Descripción|
-|-|-|-|
-|Reu_ID| int| Identificador único de la reunión|
-|Reu_Fecha| date| Fecha de la reunión|
-|Reu_Prioridad| varchar(30)| Prioridad de la reunión|
-|Reu_Estado |varchar(20) |Estado actual de la reunión|
-|Pro_ID |int |Identificador del proyecto asociado|
+**CasosDePrueba**  
+Descripción: Colección que define los casos de prueba.
+| Campo            | Tipo de dato   | Descripción                              |
+|------------------|----------------|------------------------------------------|
+| casoPruebaId     | int            | Identificador único del caso de prueba    |
+| descripcionPrueba| nvarchar(max)  | Descripción del caso de prueba           |
+| resultadoEsperado| nvarchar(max)  | Resultado esperado del caso de prueba    |
+| estadoPrueba     | bit            | Estado del caso de prueba                |
+| usuarioId        | int            | Identificador del usuario responsable     |
+| proyectoId       | int            | Identificador del proyecto asociado       |
 
-**Documentación**  
-Descripción: Colección que almacena los documentos generados en un proyecto.
-|Campo| Tipo de dato |Descripción|
-|-|-|-|
-|Doc_ID |int |Identificador único del documento|
-|Doc_Nombre| varchar(30) |Nombre del documento|
-|Doc_Prioridad| varchar(30)| Prioridad del documento|
-|Doc_Estado |varchar(20) |Estado actual del documento|
-|Emp_EmpleadoID| int |Identificador del empleado que creó el documento|
+**Comentarios**  
+Descripción: Colección que almacena comentarios en tareas.
+| Campo         | Tipo de dato   | Descripción                              |
+|---------------|----------------|------------------------------------------|
+| comentarioId  | int            | Identificador único del comentario       |
+| textoComentario| nvarchar(max) | Texto del comentario                     |
+| fechaComentario| datetime       | Fecha del comentario                     |
+| tareaId       | int            | Identificador de la tarea asociada      |
+| usuarioId     | int            | Identificador del usuario que comenta    |
 
-**Módulo**  
-Descripción: Colección que define los módulos de un proyecto.
-|Campo| Tipo de dato| Descripción|
-|-|-|-|
-|Mod_ID| int |Identificador único del módulo|
-|Mod_Nombre| varchar(20)| Nombre del módulo|
-|Mod_Descripcion| text| Descripción del módulo|
-|Pro_ID |int |Identificador del proyecto asociado|
+**HistorialAcciones**  
+Descripción: Colección que registra las acciones realizadas en los proyectos.
+| Campo        | Tipo de dato   | Descripción                              |
+|--------------|----------------|------------------------------------------|
+| accionId     | int            | Identificador único de la acción         |
+| accionDescripcion| nvarchar(255)| Descripción de la acción                 |
+| fechaAccion  | datetime       | Fecha de la acción                       |
+| proyectoId   | int            | Identificador del proyecto asociado       |
 
-**Caso_Prueba**  
-Descripción: Colección que define los casos de prueba de un módulo.
-|Campo| Tipo de dato| Descripción|
-|-|-|-|
-|Cas_ID| int |Identificador único del caso de prueba|
-|Cas_Descripcion |text |Descripción del caso de prueba|
-|Cas_Resultado |varchar(20)| Resultado del caso de prueba|
-|Cas_Estado |varchar(20) |Estado actual del caso de prueba|
-|Mod_ID |int |Identificador del módulo asociado|
-|Emp_EmpleadoID| int| Identificador del empleado responsable del caso de prueba|
+**Reportes**  
+Descripción: Colección que representa los reportes generados para los proyectos.
+| Campo      | Tipo de dato   | Descripción                              |
+|------------|----------------|------------------------------------------|
+| reporteId  | int            | Identificador único del reporte          |
+| tipoReporte| nvarchar(255)  | Tipo de reporte                          |
+| fechaGeneracion| datetime    | Fecha de generación del reporte          |
+| descripcion| nvarchar(max)  | Descripción del reporte                  |
+| proyectoId | int            | Identificador del proyecto asociado       |
 
-**Equipo**  
-Descripción: Colección que define los equipos de trabajo en un proyecto.
-|Campo| Tipo de dato| Descripción|
-|-|-|-|
-|Equ_ID |int |Identificador único del equipo|
-|Equ_Rol |varchar(25)| Rol del equipo|
-|Pro_ID |int |Identificador del proyecto asociado|
-|Emp_EmpleadoID| int| Identificador del empleado miembro del equipo|
+**Foros**  
+Descripción: Colección que almacena foros de discusión en los proyectos.
+| Campo      | Tipo de dato   | Descripción                              |
+|------------|----------------|------------------------------------------|
+| foroId     | int            | Identificador único del foro             |
+| tema       | nvarchar(255)  | Tema del foro                            |
+| fechaCreacion| datetime     | Fecha de creación del foro               |
+| descripcion| nvarchar(max)  | Descripción del foro                     |
+| proyectoId | int            | Identificador del proyecto asociado       |
 
-**Sistema**  
-Descripción: Colección que define los sistemas utilizados en un proyecto.
-|Campo| Tipo de dato| Descripción|
-|-|-|-|
-|Sis_ID | int| Identificador único del sistema|
-|Sis_Nombre| varchar(20) Nombre del sistema|
-|Sis_Descripcion| text Descripción del sistema|
-|Pro_ID |int| Identificador del proyecto asociado|
+**Herramientas**  
+Descripción: Colección que define las herramientas utilizadas en los proyectos.
+| Campo        | Tipo de dato   | Descripción                              |
+|--------------|----------------|------------------------------------------|
+| herramientaId| int            | Identificador único de la herramienta     |
+| nombreHerramienta| nvarchar(255)| Nombre de la herramienta                |
+| descripcionHerramienta| nvarchar(max)| Descripción de la herramienta          |
 
-**Cliente_Proyecto**  
-Descripción: Colección que representa la relación entre clientes y proyectos.
-|Campo |Tipo de dato |Descripción|
-|-|-|-|
-|Cli_ID | int| Identificador del cliente asociado|
-|Pro_ID |int |Identificador del proyecto asociado|
+**ProyectoHerramienta**  
+Descripción: Colección que define la relación entre proyectos y herramientas.
+| Campo        | Tipo de dato   | Descripción                              |
+|--------------|----------------|------------------------------------------|
+| proyectoId   | int            | Identificador del proyecto                |
+| herramientaId | int           | Identificador de la herramienta           |
 
-**Etapa**  
-Descripción: Colección que define las etapas de un proyecto.
-|Campo |Tipo de dato| Descripción|
-|-|-|-|
-|Eta_ID |int |Identificador único de la etapa|
-|Eta_Nombre |varchar(20)| Nombre de la etapa|
-|Eta_Descripcion| text| Descripción de la etapa|
-|Pro_ID | int| Identificador del proyecto asociado|
+**Seguridad**  
+Descripción: Colección que define la seguridad de un proyecto.
+| Campo          | Tipo de dato   | Descripción                              |
+|----------------|----------------|------------------------------------------|
+| seguridadId    | int            | Identificador único de la seguridad      |
+| nombreSeguridad | nvarchar(255) | Nombre de la seguridad                   |
+| descripcionSeguridad| nvarchar(max)| Descripción de la seguridad            |
+| proyectoId     | int            | Identificador del proyecto asociado       |
+
+**Configuraciones**  
+Descripción: Colección que define las configuraciones de un proyecto.
+| Campo              | Tipo de dato   | Descripción                              |
+|--------------------|----------------|------------------------------------------|
+| configuracionId    | int            | Identificador único de la configuración   |
+| nombreConfiguracion | nvarchar(255) | Nombre de la configuración                |
+| descripcionConfiguracion| nvarchar(max)| Descripción de la configuración          |
+| proyectoId         | int            | Identificador del proyecto asociado       |
+
+
 
 #### 4.8.1. Database Diagram
 
