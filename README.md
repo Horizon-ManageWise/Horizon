@@ -2172,6 +2172,19 @@ Verificación: Comprobación de que la landing page se despliega correctamente y
 
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
+|Integrante|Acciones realizadas durante el sprint|
+|-|-|
+| Valentino Sandoval|Diseño e implementación del footer|
+| Jose Alejo|Diseño e implementación de sección "Nosotros"|
+| Estefano Jaque|Diseño e implementación de las secciones "Iniciar Sesión" y "Registrarse"|
+| John Arevalo| Diseño e implementación de secciones "Descripción general" y "Beneficios|
+| Diego Acuña|Diseño e implementación de la barra de navegación y sección "Hero"|
+
+
+![alt text](assets/images/graficas2.png)
+
+![alt text](assets/images/graficas1.png)
+
 ![alt text](assets/images/imagen_participacion.jpg)
 
 ### Conclusiones
