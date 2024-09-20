@@ -2134,23 +2134,18 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
 
 | Sprint #                            | Sprint 1                                                                                                                                                                                                   |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint Planning Background**      |                                                                                                                                                                                                            |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**      |                                                                                                                                                                                                           |
 | **Date**                            | 06/09/2024                                                                                                                                                                                                 |
 | **Time**                            | 12:00 AM                                                                                                                                                                                                   |
 | **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                  |
 | **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                 |
-| **Attendees (to planning meeting)** | Acuña Tomas, Diego Rolin / Alejo Cardenas, Jose Antonio / Arevalo Meza, John Telesforo / Sandoval Paiva, Valentino/Jaque Peña, Estefano Oscar                                                              |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                            |
+| **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar                                                              |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                           |
 | **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de 14 Story Points, que es la capacidad que el equipo ha acordado aceptar para este Sprint.
-- US43 (2 puntos)
-- US44 (2 puntos)
-- US45 (3 puntos)
-- US46 (3 puntos)
-- US47 (2 puntos)
-- US48 (2 puntos)                                                                             
+| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US43 (2 puntos)<br>- US44 (2 puntos)<br>- US45 (3 puntos)<br>- US46 (3 puntos)<br>- US47 (2 puntos)<br>- US48 (2 puntos)                                                                              |
 | **Sum of Story Points**             | 14                                                                                                                                                                                                         |
+
 
 #### 5.2.1.2 Sprint Backlog 1.
 
