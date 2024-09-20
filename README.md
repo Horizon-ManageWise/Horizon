@@ -1940,9 +1940,10 @@ Descripción: Colección que define las etapas de un proyecto.
 
 Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Clientes, Empleados, Proyectos, Tareas y Requisitos. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades. Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
 
-![alt text](assets/images/db-diagram.png)
+![alt text](assets/images/DATA.jpg)
+[Descargar PDF](assets/images/BASE.pdf)
 
-## Capítulo V: Product Implementation, Validation & Deployment
+## Capítulo V: Product Implementation, Validation & Deploymentt
 
 ### 5.1. Software Configuration Management.
 
