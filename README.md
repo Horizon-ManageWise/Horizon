@@ -2254,6 +2254,16 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 ![alt text](assets/images/create-task2.png)
 <br>
 
+* Jose Alejo 
+<br>
+
+![alt text](assets/images/ManageWiseCalendar.png)
+
+<br>
+
+![alt text](assets/images/ManageWiseCalendar2.png)
+<br>
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
 
@@ -2283,6 +2293,10 @@ Link: https://daos-2402-managewise-tasks.web.app/tasks
 * Valentino Sandoval
 ![alt text](assets/images/TOOLS.jpeg)
 Link: https://managewise-7c633.web.app/tool/tools
+
+* Jose Alejo
+![alt text](assets/images/ManageWiseCalendar.png)
+Link: https://managewisecalendar.web.app/calendar/activities
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
