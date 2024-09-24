@@ -2196,8 +2196,11 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 
 * John Arevalo 
 <br>
+
 ![alt text](assets/images/bounded-context-task.jpg)
+
 <br>
+
 ![alt text](assets/images/create-task2.png)
 <br>
 
