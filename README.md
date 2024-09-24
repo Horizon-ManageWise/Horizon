@@ -2205,8 +2205,34 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 <br>
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+
+
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Link landing page: https://horizon-managewise.github.io/LandingPage/
+
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-4.png)
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-5.png)
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-1.png)
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-2.png)
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-3.png)
+
+<br>
+
+#### Web Application:
+
+* John Arevalo
+![alt text](assets/images/bounded-context-task.jpg.png)
+
+Link: https://daos-2402-managewise-tasks.web.app/tasks
+
+
+
 
 ### Conclusiones
 
