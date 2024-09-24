@@ -2212,8 +2212,6 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 
 Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
 
-### 5.2.2.8. Team Collaboration Insights during Sprint.
-
 Link landing page: https://horizon-managewise.github.io/LandingPage/
 
 ![alt text](assets/images/Execution-Evidence-for-Sprint-Review-4.png)
@@ -2226,10 +2224,15 @@ Link landing page: https://horizon-managewise.github.io/LandingPage/
 
 #### Web Application:
 
-* John Arevalo
-![alt text](assets/images/bounded-context-task.jpg.png)
+* John Arevalo  
+
+![alt text](assets/images/bounded-context-task.jpg)
 
 Link: https://daos-2402-managewise-tasks.web.app/tasks
+
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 
 
