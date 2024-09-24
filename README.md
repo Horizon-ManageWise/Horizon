@@ -2230,7 +2230,9 @@ Link landing page: https://horizon-managewise.github.io/LandingPage/
 
 Link: https://daos-2402-managewise-tasks.web.app/tasks
 
-
+* Valentino Sandoval
+![alt text](assets/images/TOOLS.jpeg)
+Link: https://managewise-7c633.web.app/tool/tools
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
