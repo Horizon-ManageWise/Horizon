@@ -2190,7 +2190,17 @@ En el Sprint 1, el objetivo principal fue desarrollar una landing page completam
 
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
-### 5.2.2.5. Execution Evidence for Sprint Review. 
+### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Durante este segundo sprint los integrantes del equipo desarrollaron los diferentes bounded context del dominio de ManageWise, con ayuda del framework Angular y los componentes de Angular Material.
+
+* John Arevalo 
+<br>
+![alt text](assets/images/bounded-context-task.jpg)
+<br>
+![alt text](assets/images/create-task2.png)
+<br>
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
