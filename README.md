@@ -68,12 +68,36 @@ TB1:<br>
 
 ### Tabla de contenidos
 
+- [Horizon](#horizon)
+- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
+  - [Ingenieria de Software](#ingenieria-de-software)
+  - [5to ciclo](#5to-ciclo)
+  - [Desarrollo de Aplicaciones Open Source](#desarrollo-de-aplicaciones-open-source)
+    - [**Sección:** WS53](#sección-ws53)
+    - [**Profesor:** Juan Antonio Flores Moroco](#profesor-juan-antonio-flores-moroco)
+    - [Informe de Trabajo Final](#informe-de-trabajo-final)
+    - ["Horizon"](#horizon-1)
+    - ["ManageWise"](#managewise)
+    - [**Integrantes:**](#integrantes)
+    - [Agosto, 2024](#agosto-2024)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Contenido](#contenido)
+    - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Student Outcome](#student-outcome)
   - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [What?](#what)
+    - [When?](#when)
+    - [Where?](#where)
+    - [Who?](#who)
+    - [Why?](#why)
+    - [How?](#how)
+    - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -86,17 +110,34 @@ TB1:<br>
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
     - [2.2. Entrevistas](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [Segmento: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+    - [Segmento: Equipo de Desarrollo de Software](#segmento-equipo-de-desarrollo-de-software)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+      - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+      - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+      - [Análisis Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#análisis-segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+      - [Análisis Segmento 2: Equipo de Desarrollo de Software](#análisis-segmento-2-equipo-de-desarrollo-de-software)
     - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
+      - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento-1)
+      - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software-1)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
+  - [**Análisis de Tareas**](#análisis-de-tareas)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+      - [User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software](#user-journey-mapping---líder-o-gerente-de-empresa-de-desarrollo-de-software)
+      - [User Journey Mapping - Equipo de Desarrollo de Software](#user-journey-mapping---equipo-de-desarrollo-de-software)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+- [Segmento 1: María (Líder/Gerente de Proyecto)](#segmento-1-maría-lídergerente-de-proyecto)
+- [Segmento 2: Fabricio (Equipo de Desarrollo de Software)](#segmento-2-fabricio-equipo-de-desarrollo-de-software)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+      - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+      - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
     - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [**Segmento 1:** Lider o gerente de proyectos de software](#segmento-1-lider-o-gerente-de-proyectos-de-software)
+    - [**Segmento 2:** Miembro de un equipo de desarrollo de software](#segmento-2-miembro-de-un-equipo-de-desarrollo-de-software)
     - [3.2. User Stories](#32-user-stories)
     - [3.3. Impact Mapping](#33-impact-mapping)
     - [3.4. Product Backlog](#34-product-backlog)
@@ -120,17 +161,37 @@ TB1:<br>
     - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
       - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
       - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+        - [User goal: Registrar un nuevo usuario](#user-goal-registrar-un-nuevo-usuario)
+        - [User goal: Iniciar sesión](#user-goal-iniciar-sesión)
+        - [User goal: Acceso a videollamadas](#user-goal-acceso-a-videollamadas)
+        - [User goal: Acceso a historial](#user-goal-acceso-a-historial)
+        - [User goal: Visualizar secciónes del foro](#user-goal-visualizar-secciónes-del-foro)
+        - [User goal: Realiazar el seguimiento de tareas en tiempo real](#user-goal-realiazar-el-seguimiento-de-tareas-en-tiempo-real)
+        - [User goal: Visualizar cronograma](#user-goal-visualizar-cronograma)
+        - [User goal: Modificar estado de tareas](#user-goal-modificar-estado-de-tareas)
       - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
       - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+        - [User goal: Como usuario quiero poder iniciar sesión en ManageWise. Para lograrlo, completar el formulario, en caso de usar datos válidos, podre iniciar sesión, caso contrario, el formulario se reinicia.](#user-goal-como-usuario-quiero-poder-iniciar-sesión-en-managewise-para-lograrlo-completar-el-formulario-en-caso-de-usar-datos-válidos-podre-iniciar-sesión-caso-contrario-el-formulario-se-reinicia)
+        - [User goal: Como usuario quiero poder registrarme en ManageWise. Para lograrlo, ingreso mi usuario y contraseña en el formulario, en caso sean válidos, ingresaré a la plataforma, de lo contrario, el formulario se reinicia.](#user-goal-como-usuario-quiero-poder-registrarme-en-managewise-para-lograrlo-ingreso-mi-usuario-y-contraseña-en-el-formulario-en-caso-sean-válidos-ingresaré-a-la-plataforma-de-lo-contrario-el-formulario-se-reinicia)
+        - [User goal: Como lider del equipo quiero realizar un seguimiento en tiempo real del progreso de este. Para lograrlo, ingreso a reporte y luego a la sección progreso.](#user-goal-como-lider-del-equipo-quiero-realizar-un-seguimiento-en-tiempo-real-del-progreso-de-este-para-lograrlo-ingreso-a-reporte-y-luego-a-la-sección-progreso)
+        - [User goal: Como miembro del equipo, quiero poder visualizar el cronograma sprint. Para lograrlo, ingreso a la sección Cronograma desde el apartado de Proyectos.](#user-goal-como-miembro-del-equipo-quiero-poder-visualizar-el-cronograma-sprint-para-lograrlo-ingreso-a-la-sección-cronograma-desde-el-apartado-de-proyectos)
+        - [User goal: Como lider de equipo, quiero acceder al historial de actividades. Para lograrlo, ingreso a Historial en el panel lateral, y posteriormente a la sección Actividades.](#user-goal-como-lider-de-equipo-quiero-acceder-al-historial-de-actividades-para-lograrlo-ingreso-a-historial-en-el-panel-lateral-y-posteriormente-a-la-sección-actividades)
+        - [User goal: Como miembro del equipo, quiero poder ingresar al foro para visualizar sugerencias. Para lograrlo, ingreso a Foro en el panel lateral.](#user-goal-como-miembro-del-equipo-quiero-poder-ingresar-al-foro-para-visualizar-sugerencias-para-lograrlo-ingreso-a-foro-en-el-panel-lateral)
+        - [User goal: Como miembro de equipo, quiero poder ingresar a una videollamada realizada por el líder. Para lograrlo, me dirijo a Herramientas en el panel lateral y luego ingreso a la seccion Videollamadas, para finalmente ingresar a la deseada.](#user-goal-como-miembro-de-equipo-quiero-poder-ingresar-a-una-videollamada-realizada-por-el-líder-para-lograrlo-me-dirijo-a-herramientas-en-el-panel-lateral-y-luego-ingreso-a-la-seccion-videollamadas-para-finalmente-ingresar-a-la-deseada)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
     - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
     - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+      - [**Component: Team management**](#component-team-management)
+      - [**Component: Social media management**](#component-social-media-management)
+      - [**Component: Task tracking management**](#component-task-tracking-management)
+      - [**Component: Data analysis management**](#component-data-analysis-management)
+      - [**Component: Payment analysis management**](#component-payment-analysis-management)
     - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
       - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.8. Database Design](#48-database-design)
-      - [4.7.2. Database Dictionary](#472-database-dictionary)
+    - [4.7.2. Database Dictionary](#472-database-dictionary)
       - [4.8.1. Database Diagram](#481-database-diagram)
   - [Capítulo V: Product Implementation, Validation \& Deploymentt](#capítulo-v-product-implementation-validation--deploymentt)
     - [5.1. Software Configuration Management.](#51-software-configuration-management)
@@ -271,9 +332,7 @@ La carencia de herramientas avanzadas para la gestión de proyectos en startups 
 
 ![alt text](assets/images/2_H_estadistica.png)
 
-Los costos operativos también se ven incrementados significativamente. Un análisis de Gartner indica que las empresas que no cuentan con herramientas adecuadas pueden enfrentar un aumento del 25% en sus costos operativos debido a ineficiencias. La insatisfacción con las herramientas actuales es alta, con un 40% de los equipos de desarrollo reportando descontento, según un estudio de Atlassian. Finalmente, un informe de Forrester revela que el 50% de las decisiones en proyectos de software se basan en datos insuficientes, lo que afecta la calidad de la toma de decisiones y el éxito general de los proyectos.  
-
-ANEXO H Y ANEXO I
+Los costos operativos también se ven incrementados significativamente. Un análisis de Gartner indica que las empresas que no cuentan con herramientas adecuadas pueden enfrentar un aumento del 25% en sus costos operativos debido a ineficiencias. La insatisfacción con las herramientas actuales es alta, con un 40% de los equipos de desarrollo reportando descontento, según un estudio de Atlassian. Finalmente, un informe de Forrester revela que el 50% de las decisiones en proyectos de software se basan en datos insuficientes, lo que afecta la calidad de la toma de decisiones y el éxito general de los proyectos.
 
 ### 1.2.2. Lean UX Process
 
@@ -575,7 +634,7 @@ La entrevista con María nos comenta que en su trabajo como líder de proyecto s
     Edad: 42 <br>
     Distrito: Pueblo Libre <br>
 
-![Entrevista 3](assets/images/entrevista_Nora.png)
+![Foto de entrevista](/assets/images/entrevista_Nora.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/11xswJuEZQy51WRqAmZDu0KfjyF-6rV-F/view?usp=sharing "Entrevista 3")
 
@@ -611,7 +670,7 @@ La entrevista con Fabricio proporcionó información valiosa sobre como un integ
     Edad: 21 <br>
     Distrito: San Borja <br>
 
-![Entrevista 2](assets/images/Entrevista-Agustin.png)
+![Foto de entrevista](/assets/images/Entrevista-Agustin.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1GgzFpXSX2uaFr_GiZCo5utxRtd5Z-t24/view?usp=sharing "Entrevista 2")
 
@@ -628,7 +687,7 @@ La entrevista a Agustín nos cuenta de primera mano la experiencia como practica
     Edad: 22 <br>
     Distrito: San Miguel <br>
 
-![Entrevista 3](assets/images/entrevista_Rodrigo.png)
+![Foto de entrevista](/assets/images/entrevista_Rodrigo.png)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1aZ94C1wixcfQNa_dZCZSkIKiBnpPf91i/view?usp=sharing "Entrevista 3")
 
@@ -1033,11 +1092,11 @@ Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficie
 
 Para nuestro primer segmento enfocado en Lider o gerente de empresa de desarrollo de software en crecimiento, el proceso inicia accediendo a la plataforma y registrándose. El líder o gerente accede a la plataforma "ManageWise" y completa el proceso de registro o inicio de sesión. Si es un usuario nuevo, configura su perfil, incluyendo información sobre su empresa, roles, y preferencias de notificación. Personaliza su Dashboard y otras vistas clave para alinear la información presentada con los objetivos estratégicos de la empresa. Esto incluye seleccionar los KPIs más relevantes, definir prioridades de proyectos, y establecer alertas para actualizaciones importantes.Navega por los proyectos actuales y planificados, categorizados por estado (en curso, pendientes, finalizados) y impacto estratégico. Puede acceder a un mapa visual que muestra cómo cada proyecto contribuye a los objetivos a largo plazo de la empresa.Supervisa el progreso de los proyectos, ajusta recursos, y toma decisiones estratégicas utilizando herramientas de análisis de datos. Puede reorganizar proyectos según prioridades cambiantes y revisar el cumplimiento de plazos y presupuestos.Participa en discusiones estratégicas con otros líderes y stakeholders, utilizando canales de comunicación categorizados por proyectos y temas. Accede a reportes colaborativos y comparte insights con su equipo de liderazgo. Utiliza paneles de control dinámicos y reportes personalizados para revisar el rendimiento general de la empresa y de cada proyecto en particular. Basado en estos análisis, toma decisiones sobre asignación de recursos, ajuste de objetivos y planificación a futuro. Al cierre de un proyecto, revisa informes finales categorizados por lecciones aprendidas y oportunidades de mejora. Participa en sesiones de retroalimentación con el equipo para identificar áreas de mejora para futuros proyectos.
 
-![alt text](<assets/images/Segmento 1.png>)
+![texto_alternativo](/assets/images/Segmento%201.png)
 
 Para nuestro segundo segmento enfocado en Equipo de Desarrollo de Software, el proceso inicia al registrarse y configurar su perfil. El integrante del equipo accede a la plataforma y se registra o inicia sesión. Configura su perfil, incluyendo su rol específico en el equipo, proyectos asignados, y preferencias de notificación. Personaliza su Dashboard para ver las tareas y sprints pendientes, ajusta alertas para fechas límite, y selecciona qué actualizaciones y notificaciones desea recibir de sus compañeros de equipo. Revisa su lista de tareas, categorizadas por prioridad, deadline, y dependencia de otras tareas. Explora el cronograma del proyecto para entender el flujo general de trabajo y cómo su tarea encaja en el contexto más amplio. Organiza y prioriza su trabajo diario utilizando herramientas de gestión de tareas. Marca tareas como completadas, colabora en sprints, y ajusta su flujo de trabajo según nuevas asignaciones o cambios en el proyecto. Participa en conversaciones dentro de los canales de proyecto, categorizados por temas específicos como bugs, nuevas características, o revisiones de código. Colabora activamente con otros miembros del equipo, compartiendo actualizaciones y retroalimentación. Revisa su rendimiento individual y el del equipo a través de dashboards que muestran métricas como velocidad de desarrollo, calidad del código, y cumplimiento de deadlines. Utiliza este análisis para mejorar su eficiencia y productividad. Al finalizar una tarea o sprint, revisa el rendimiento en un resumen categorizado por logros y desafíos. Participa en sesiones de retroalimentación para identificar lo que funcionó bien y lo que podría mejorarse en futuros sprints.
 
-![alt text](<assets/images/Segmento 2.png>)
+![texto_alternativo](/assets/images/Segmento%202.png)
 
 #### 4.2.2. Labeling Systems
 
@@ -1664,9 +1723,8 @@ Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-ma
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
-![alt text](assets/images/class-diagram.png)  
-LINK:
-[Diagrama-clases](https://lucid.app/lucidchart/a8574ee7-c46c-4f80-ab16-b2b91cd5abde/edit?viewport_loc=200%2C349%2C3503%2C1867%2CHWEp-vi-RSFO&invitationId=inv_aaac668a-b1fb-479d-93c9-5c7af375894a)
+
+![alt text](assets/images/diagramadeclases.png)
 
 ### 4.8. Database Design
 
@@ -2022,32 +2080,25 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar                                                                                                                                                |
 | **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
 | **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US01 (2 puntos)<br>- US02 (2 puntos)<br>- US03 (3 puntos)<br>- US04 (3 puntos)<br>- US05 (2 puntos)<br>- US06 (2 puntos)                  |
+| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US43 (2 puntos)<br>- US44 (2 puntos)<br>- US45 (3 puntos)<br>- US46 (3 puntos)<br>- US47 (2 puntos)<br>- US48 (2 puntos)                  |
 | **Sum of Story Points**             | 14                                                                                                                                                                                                                                                                                         |
 
 #### 5.2.1.2 Sprint Backlog 1.
-### Introducción
-En el Sprint 1, el objetivo principal fue desarrollar una landing page completamente funcional, centrada en la presentación de los beneficios de la plataforma, una navegación sencilla, enlaces a redes sociales y la implementación de un sistema de registro e inicio de sesión rápido. Para lograr este objetivo, dividimos las User Stories en tareas más pequeñas (Work-Items/Tasks) y las asignamos a los miembros del equipo utilizando Trello, asegurándonos de una estimación adecuada y seguimiento efectivo.
+
+Para el primer sprint backlog, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
 
 ![alt text](assets/images/Trello.png)
 
-### Sprint Backlog 1: Corrección
-
-| Sprint #      | Sprint 1                                              |                 |                                                 |                                                                                                                          |                       |                              |                                                            |
-| ------------- | ----------------------------------------------------- | --------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------- | ---------------------------- | ---------------------------------------------------------- |
-| **User<br>Story** |                                                     | **Work-Item /Task** |                                                 |                                                                                                                          | **Estimation<br>(Hours)** | **Assigned<br>To**            | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
-| **ID**        | **Title**                                             | **ID**          | **Title**                                       | **Description**                                                                                                          |                       |                              |                                                            |
-| **US01**      | Vista General de Beneficios y Funcionalidades          | **TA001**       | Implementar Sección de Beneficios               | Diseñar e implementar la sección de la landing page que destaque los beneficios clave de la plataforma.                   | 5 horas               | Arevalo Meza, John Telesforo | Done                                                       |
-| **US01**      | Vista General de Beneficios y Funcionalidades          | **TA002**       | Redacción de Contenidos                         | Crear textos claros y atractivos que resuman los beneficios principales de la plataforma para la sección de beneficios.    | 3 horas               | Arevalo Meza, John Telesforo | Done                                                       |
-| **US02**      | Enlaces Directos a Redes Sociales                     | **TA003**       | Crear Enlaces Funcionales a Redes Sociales      | Añadir botones que enlacen a las redes sociales oficiales de la plataforma.                                               | 4 horas               | Sandoval Paiva, Valentino    | Done                                                       |
-| **US02**      | Enlaces Directos a Redes Sociales                     | **TA004**       | Implementar Diseño de Íconos Sociales           | Diseñar y agregar íconos visualmente atractivos para los enlaces a redes sociales en la página principal.                 | 2 horas               | Sandoval Paiva, Valentino    | Done                                                       |
-| **US03**      | Registro Rápido y Simple                              | **TA005**       | Diseñar Formulario de Registro                  | Crear el diseño del formulario de registro con validaciones para facilitar la creación de nuevas cuentas de usuario.       | 4 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
-| **US03**      | Registro Rápido y Simple                              | **TA006**       | Implementar Funcionalidad del Registro          | Programar la funcionalidad del formulario de registro, asegurando su integración con la base de datos.                    | 5 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
-| **US04**      | Iniciar Sesión Rápido y Visible                       | **TA007**       | Implementar Enlace de Inicio de Sesión          | Agregar un botón visible y funcional para que los usuarios puedan iniciar sesión fácilmente desde la página principal.    | 3 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
-| **US05**      | Resumen de la Empresa, Misión y Visión                | **TA008**       | Diseñar Sección "Acerca de Nosotros"            | Crear la sección "Acerca de Nosotros" que incluya la misión, visión y valores de la empresa de manera atractiva.           | 4 horas               | Alejo Cardenas, Jose Antonio | Done                                                       |
-| **US05**      | Resumen de la Empresa, Misión y Visión                | **TA009**       | Redacción de Contenidos para "Acerca de Nosotros"| Desarrollar el contenido de misión, visión y valores para la sección "Acerca de Nosotros".                                | 3 horas               | Alejo Cardenas, Jose Antonio | Done                                                       |
-| **US06**      | Navegación Clara y Directa en la Página               | **TA010**       | Diseñar Menú de Navegación Intuitivo            | Diseñar un menú de navegación que permita a los usuarios desplazarse fácilmente por las diferentes secciones de la página.| 4 horas               | Acuña Tomas, Diego Rolin     | Done                                                       |
-| **US06**      | Navegación Clara y Directa en la Página               | **TA011**       | Implementar Funcionalidad del Menú de Navegación| Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.                      | 5 horas               | Acuña Tomas, Diego Rolin     | Done                                                       |
+| sprint #      | Sprint 1                                      |                 |                                                 |                                                                                                                           |                       |                              |                                                           |
+| ------------- | --------------------------------------------- | --------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- | --------------------------------------------------------- |
+| User<br>Story |                                               | Work-Item /Task |                                                 |                                                                                                                           |                       |                              |                                                           |
+| ID            | Title                                         | ID              | Title                                           | Description                                                                                                               | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
+| US43          | Vista General de Beneficios y Funcionalidades | TA001           | Implementación de Sección de Beneficios         | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.                     | ½ hora                | Arevalo Meza, John Telesforo | Done                                                      |
+| US44          | Enlaces Directos a Redes Sociales             | TA001           | Implementación de Enlaces a Redes Sociales      | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                       | ½ hora                | Sandoval Paiva, Valentino    | Done                                                      |
+| US45          | Registro Rápido y Simple                      | TA001           | Diseño e Implementación del Registro de Usuario | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                       | ½ hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
+| US46          | Iniciar Sesión Rápido y Visible               | TA001           | Implementación de Enlace de Inicio de Sesión    | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                        | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
+| US47          | Resumen de la Empresa, Misión y Visión        | TA001           | Creación de Sección "Acerca de Nosotros"        | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
+| US48          | Navegación Clara y Directa en la Página       | TA001           | Diseño del Menú de Navegación                   | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
@@ -2121,121 +2172,7 @@ Verificación: Comprobación de que la landing page se despliega correctamente y
 
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
-|Integrante|Acciones realizadas durante el sprint|
-|-|-|
-| Valentino Sandoval|Diseño e implementación del footer|
-| Jose Alejo|Diseño e implementación de sección "Nosotros"|
-| Estefano Jaque|Diseño e implementación de las secciones "Iniciar Sesión" y "Registrarse"|
-| John Arevalo| Diseño e implementación de secciones "Descripción general" y "Beneficios|
-| Diego Acuña|Diseño e implementación de la barra de navegación y sección "Hero"|
-
-
-![alt text](assets/images/graficas2.png)
-
-![alt text](assets/images/graficas1.png)
-
 ![alt text](assets/images/imagen_participacion.jpg)
-
-### 5.2.2. Sprint 2
-### 2 5.2.2.1. Sprint Planning 2
-El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
-
-| Sprint #                            | Sprint 1                                                                                                                                                                                                                                                                                   |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
-| **Date**                            | 06/09/2024                                                                                                                                                                                                                                                                                 |
-| **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                   |
-| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
-| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
-| **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar                                                                                                                                                |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
-| **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US01 (2 puntos)<br>- US02 (2 puntos)<br>- US03 (3 puntos)<br>- US04 (3 puntos)<br>- US05 (2 puntos)<br>- US06 (2 puntos)                  |
-| **Sum of Story Points**             | 14                                                                                                                                                                                                                                                                                         |
-### 2.5.2.2.2. Sprint Backlog 2
-### Introducción
-En el Sprint 1, el objetivo principal fue desarrollar una landing page completamente funcional, centrada en la presentación de los beneficios de la plataforma, una navegación sencilla, enlaces a redes sociales y la implementación de un sistema de registro e inicio de sesión rápido. Para lograr este objetivo, dividimos las User Stories en tareas más pequeñas (Work-Items/Tasks) y las asignamos a los miembros del equipo utilizando Trello, asegurándonos de una estimación adecuada y seguimiento efectivo.
-
-![alt text](assets/images/Trello.png)
-
-### Sprint Backlog 1: Corrección
-
-| Sprint #      | Sprint 1                                              |                 |                                                 |                                                                                                                          |                       |                              |                                                            |
-| ------------- | ----------------------------------------------------- | --------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------- | ---------------------------- | ---------------------------------------------------------- |
-| **User<br>Story** |                                                     | **Work-Item /Task** |                                                 |                                                                                                                          | **Estimation<br>(Hours)** | **Assigned<br>To**            | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
-| **ID**        | **Title**                                             | **ID**          | **Title**                                       | **Description**                                                                                                          |                       |                              |                                                            |
-| **US01**      | Vista General de Beneficios y Funcionalidades          | **TA001**       | Implementar Sección de Beneficios               | Diseñar e implementar la sección de la landing page que destaque los beneficios clave de la plataforma.                   | 5 horas               | Arevalo Meza, John Telesforo | Done                                                       |
-| **US01**      | Vista General de Beneficios y Funcionalidades          | **TA002**       | Redacción de Contenidos                         | Crear textos claros y atractivos que resuman los beneficios principales de la plataforma para la sección de beneficios.    | 3 horas               | Arevalo Meza, John Telesforo | Done                                                       |
-| **US02**      | Enlaces Directos a Redes Sociales                     | **TA003**       | Crear Enlaces Funcionales a Redes Sociales      | Añadir botones que enlacen a las redes sociales oficiales de la plataforma.                                               | 4 horas               | Sandoval Paiva, Valentino    | Done                                                       |
-| **US02**      | Enlaces Directos a Redes Sociales                     | **TA004**       | Implementar Diseño de Íconos Sociales           | Diseñar y agregar íconos visualmente atractivos para los enlaces a redes sociales en la página principal.                 | 2 horas               | Sandoval Paiva, Valentino    | Done                                                       |
-| **US03**      | Registro Rápido y Simple                              | **TA005**       | Diseñar Formulario de Registro                  | Crear el diseño del formulario de registro con validaciones para facilitar la creación de nuevas cuentas de usuario.       | 4 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
-| **US03**      | Registro Rápido y Simple                              | **TA006**       | Implementar Funcionalidad del Registro          | Programar la funcionalidad del formulario de registro, asegurando su integración con la base de datos.                    | 5 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
-| **US04**      | Iniciar Sesión Rápido y Visible                       | **TA007**       | Implementar Enlace de Inicio de Sesión          | Agregar un botón visible y funcional para que los usuarios puedan iniciar sesión fácilmente desde la página principal.    | 3 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
-| **US05**      | Resumen de la Empresa, Misión y Visión                | **TA008**       | Diseñar Sección "Acerca de Nosotros"            | Crear la sección "Acerca de Nosotros" que incluya la misión, visión y valores de la empresa de manera atractiva.           | 4 horas               | Alejo Cardenas, Jose Antonio | Done                                                       |
-| **US05**      | Resumen de la Empresa, Misión y Visión                | **TA009**       | Redacción de Contenidos para "Acerca de Nosotros"| Desarrollar el contenido de misión, visión y valores para la sección "Acerca de Nosotros".                                | 3 horas               | Alejo Cardenas, Jose Antonio | Done                                                       |
-| **US06**      | Navegación Clara y Directa en la Página               | **TA010**       | Diseñar Menú de Navegación Intuitivo            | Diseñar un menú de navegación que permita a los usuarios desplazarse fácilmente por las diferentes secciones de la página.| 4 horas               | Acuña Tomas, Diego Rolin     | Done                                                       |
-| **US06**      | Navegación Clara y Directa en la Página               | **TA011**       | Implementar Funcionalidad del Menú de Navegación| Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.                      | 5 horas               | Acuña Tomas, Diego Rolin     | Done                                                       |
-
-
-### 2.5.2.2.3. Development Evidence for Sprint Review.
-| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
-| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | a58791b   | feat: added US43 gherkin | feat: added US43 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 29d0d8e   | feat: added US44 gherkin | feat: added US44 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 9c68a0f   | feat: added US45 gherkin | feat: added US45 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
-
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
-### 5.2.2.5. Execution Evidence for Sprint Review.
-
-Durante este segundo sprint los integrantes del equipo desarrollaron los diferentes bounded context del dominio de ManageWise, con ayuda del framework Angular y los componentes de Angular Material.
-
-* John Arevalo 
-<br>
-
-![alt text](assets/images/bounded-context-task.jpg)
-
-<br>
-
-![alt text](assets/images/create-task2.png)
-<br>
-
-### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
-
-
-
-### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
-
-Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
-
-Link landing page: https://horizon-managewise.github.io/LandingPage/
-
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-4.png)
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-5.png)
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-1.png)
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-2.png)
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-3.png)
-
-<br>
-
-#### Web Application:
-
-* John Arevalo  
-
-![alt text](assets/images/bounded-context-task.jpg)
-
-Link: https://daos-2402-managewise-tasks.web.app/tasks
-
-
-
-### 5.2.2.8. Team Collaboration Insights during Sprint.
-
-
-
 
 ### Conclusiones
 
@@ -2285,7 +2222,3 @@ Anexo I:<br>https://www.figma.com/design/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis
 Anexo J:<br>https://lucid.app/lucidchart/1e63a43a-a627-478b-a4e2-397bbd5407b9/edit?viewport_loc=-24225%2C-5250%2C27750%2C11925%2C0_0&invitationId=inv_2dbf5bda-cf33-4d4a-bbc1-c27a42d84ac8
 
 Anexo J:<br>https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=1%3A2&node-id=118-122&node-type=CANVAS&viewport=-385%2C681%2C0.08&t=grI8nuvCu1Ox92G5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=118%3A122
-
-Anexo H:<br>https://hennyportman.wordpress.com/wp-content/uploads/2021/01/project-success-qrc-standish-group-chaos-report-2020.pdf
-
-Anexo I:<br>https://www.pmi.org/learning/library/forging-future-focused-culture-11908
