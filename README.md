@@ -2136,6 +2136,65 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ![alt text](assets/images/imagen_participacion.jpg)
 
+### 5.2.2. Sprint 2
+### 2 5.2.2.1. Sprint Planning 2
+El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
+
+| Sprint #                            | Sprint 1                                                                                                                                                                                                                                                                                   |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
+| **Date**                            | 06/09/2024                                                                                                                                                                                                                                                                                 |
+| **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                   |
+| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
+| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
+| **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar                                                                                                                                                |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
+| **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
+| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US01 (2 puntos)<br>- US02 (2 puntos)<br>- US03 (3 puntos)<br>- US04 (3 puntos)<br>- US05 (2 puntos)<br>- US06 (2 puntos)                  |
+| **Sum of Story Points**             | 14                                                                                                                                                                                                                                                                                         |
+### 2.5.2.2.2. Sprint Backlog 2
+### Introducción
+En el Sprint 1, el objetivo principal fue desarrollar una landing page completamente funcional, centrada en la presentación de los beneficios de la plataforma, una navegación sencilla, enlaces a redes sociales y la implementación de un sistema de registro e inicio de sesión rápido. Para lograr este objetivo, dividimos las User Stories en tareas más pequeñas (Work-Items/Tasks) y las asignamos a los miembros del equipo utilizando Trello, asegurándonos de una estimación adecuada y seguimiento efectivo.
+
+![alt text](assets/images/Trello.png)
+
+### Sprint Backlog 1: Corrección
+
+| Sprint #      | Sprint 1                                              |                 |                                                 |                                                                                                                          |                       |                              |                                                            |
+| ------------- | ----------------------------------------------------- | --------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------- | ---------------------------- | ---------------------------------------------------------- |
+| **User<br>Story** |                                                     | **Work-Item /Task** |                                                 |                                                                                                                          | **Estimation<br>(Hours)** | **Assigned<br>To**            | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
+| **ID**        | **Title**                                             | **ID**          | **Title**                                       | **Description**                                                                                                          |                       |                              |                                                            |
+| **US01**      | Vista General de Beneficios y Funcionalidades          | **TA001**       | Implementar Sección de Beneficios               | Diseñar e implementar la sección de la landing page que destaque los beneficios clave de la plataforma.                   | 5 horas               | Arevalo Meza, John Telesforo | Done                                                       |
+| **US01**      | Vista General de Beneficios y Funcionalidades          | **TA002**       | Redacción de Contenidos                         | Crear textos claros y atractivos que resuman los beneficios principales de la plataforma para la sección de beneficios.    | 3 horas               | Arevalo Meza, John Telesforo | Done                                                       |
+| **US02**      | Enlaces Directos a Redes Sociales                     | **TA003**       | Crear Enlaces Funcionales a Redes Sociales      | Añadir botones que enlacen a las redes sociales oficiales de la plataforma.                                               | 4 horas               | Sandoval Paiva, Valentino    | Done                                                       |
+| **US02**      | Enlaces Directos a Redes Sociales                     | **TA004**       | Implementar Diseño de Íconos Sociales           | Diseñar y agregar íconos visualmente atractivos para los enlaces a redes sociales en la página principal.                 | 2 horas               | Sandoval Paiva, Valentino    | Done                                                       |
+| **US03**      | Registro Rápido y Simple                              | **TA005**       | Diseñar Formulario de Registro                  | Crear el diseño del formulario de registro con validaciones para facilitar la creación de nuevas cuentas de usuario.       | 4 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
+| **US03**      | Registro Rápido y Simple                              | **TA006**       | Implementar Funcionalidad del Registro          | Programar la funcionalidad del formulario de registro, asegurando su integración con la base de datos.                    | 5 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
+| **US04**      | Iniciar Sesión Rápido y Visible                       | **TA007**       | Implementar Enlace de Inicio de Sesión          | Agregar un botón visible y funcional para que los usuarios puedan iniciar sesión fácilmente desde la página principal.    | 3 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
+| **US05**      | Resumen de la Empresa, Misión y Visión                | **TA008**       | Diseñar Sección "Acerca de Nosotros"            | Crear la sección "Acerca de Nosotros" que incluya la misión, visión y valores de la empresa de manera atractiva.           | 4 horas               | Alejo Cardenas, Jose Antonio | Done                                                       |
+| **US05**      | Resumen de la Empresa, Misión y Visión                | **TA009**       | Redacción de Contenidos para "Acerca de Nosotros"| Desarrollar el contenido de misión, visión y valores para la sección "Acerca de Nosotros".                                | 3 horas               | Alejo Cardenas, Jose Antonio | Done                                                       |
+| **US06**      | Navegación Clara y Directa en la Página               | **TA010**       | Diseñar Menú de Navegación Intuitivo            | Diseñar un menú de navegación que permita a los usuarios desplazarse fácilmente por las diferentes secciones de la página.| 4 horas               | Acuña Tomas, Diego Rolin     | Done                                                       |
+| **US06**      | Navegación Clara y Directa en la Página               | **TA011**       | Implementar Funcionalidad del Menú de Navegación| Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.                      | 5 horas               | Acuña Tomas, Diego Rolin     | Done                                                       |
+
+
+### 2.5.2.2.3. Development Evidence for Sprint Review.
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | a58791b   | feat: added US43 gherkin | feat: added US43 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 29d0d8e   | feat: added US44 gherkin | feat: added US44 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 9c68a0f   | feat: added US45 gherkin | feat: added US45 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
+
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+### 5.2.2.5. Execution Evidence for Sprint Review. 
+### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
 ### Conclusiones
 
 - Jose Alejo:
