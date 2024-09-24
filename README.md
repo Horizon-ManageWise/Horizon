@@ -2143,39 +2143,38 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | Sprint #                            | Sprint 1                                                                                                                                                                                                                                                                                   |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
-| **Date**                            | 06/09/2024                                                                                                                                                                                                                                                                                 |
+| **Date**                            | 23/09/2024                                                                                                                                                                                                                                                                                 |
 | **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                   |
-| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
+| **Location**                        | Discord (Reunión virtual)  |
 | **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
 | **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar                                                                                                                                                |
 | **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
-| **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US01 (2 puntos)<br>- US02 (2 puntos)<br>- US03 (3 puntos)<br>- US04 (3 puntos)<br>- US05 (2 puntos)<br>- US06 (2 puntos)                  |
-| **Sum of Story Points**             | 14                                                                                                                                                                                                                                                                                         |
+| **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y e implementar cada uno su bounded context lo cual separamos el dia de la reunion |
+| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US14 (2 puntos)<br>- US19 (2 puntos)<br>- US29 (3 puntos)<br>- US10 (3 puntos)<br>- US24 (3 puntos)<br>- US37 (3 puntos) |
+| **Sum of Story Points**             | 16                                                                                                                                                                                                                                                                                         |
 ### 2.5.2.2.2. Sprint Backlog 2
 ### Introducción
 En el Sprint 1, el objetivo principal fue desarrollar una landing page completamente funcional, centrada en la presentación de los beneficios de la plataforma, una navegación sencilla, enlaces a redes sociales y la implementación de un sistema de registro e inicio de sesión rápido. Para lograr este objetivo, dividimos las User Stories en tareas más pequeñas (Work-Items/Tasks) y las asignamos a los miembros del equipo utilizando Trello, asegurándonos de una estimación adecuada y seguimiento efectivo.
 
-![alt text](assets/images/Trello.png)
+![alt text](assets/images/Sprint2Trello.png)
 
-### Sprint Backlog 1: Corrección
-
-| Sprint #      | Sprint 1                                              |                 |                                                 |                                                                                                                          |                       |                              |                                                            |
+| Sprint #      | Sprint 2                                              |                 |                                                 |                                                                                                                          |                       |                              |                                                            |
 | ------------- | ----------------------------------------------------- | --------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------- | ---------------------------- | ---------------------------------------------------------- |
 | **User<br>Story** |                                                     | **Work-Item /Task** |                                                 |                                                                                                                          | **Estimation<br>(Hours)** | **Assigned<br>To**            | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
 | **ID**        | **Title**                                             | **ID**          | **Title**                                       | **Description**                                                                                                          |                       |                              |                                                            |
-| **US01**      | Vista General de Beneficios y Funcionalidades          | **TA001**       | Implementar Sección de Beneficios               | Diseñar e implementar la sección de la landing page que destaque los beneficios clave de la plataforma.                   | 5 horas               | Arevalo Meza, John Telesforo | Done                                                       |
-| **US01**      | Vista General de Beneficios y Funcionalidades          | **TA002**       | Redacción de Contenidos                         | Crear textos claros y atractivos que resuman los beneficios principales de la plataforma para la sección de beneficios.    | 3 horas               | Arevalo Meza, John Telesforo | Done                                                       |
-| **US02**      | Enlaces Directos a Redes Sociales                     | **TA003**       | Crear Enlaces Funcionales a Redes Sociales      | Añadir botones que enlacen a las redes sociales oficiales de la plataforma.                                               | 4 horas               | Sandoval Paiva, Valentino    | Done                                                       |
-| **US02**      | Enlaces Directos a Redes Sociales                     | **TA004**       | Implementar Diseño de Íconos Sociales           | Diseñar y agregar íconos visualmente atractivos para los enlaces a redes sociales en la página principal.                 | 2 horas               | Sandoval Paiva, Valentino    | Done                                                       |
-| **US03**      | Registro Rápido y Simple                              | **TA005**       | Diseñar Formulario de Registro                  | Crear el diseño del formulario de registro con validaciones para facilitar la creación de nuevas cuentas de usuario.       | 4 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
-| **US03**      | Registro Rápido y Simple                              | **TA006**       | Implementar Funcionalidad del Registro          | Programar la funcionalidad del formulario de registro, asegurando su integración con la base de datos.                    | 5 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
-| **US04**      | Iniciar Sesión Rápido y Visible                       | **TA007**       | Implementar Enlace de Inicio de Sesión          | Agregar un botón visible y funcional para que los usuarios puedan iniciar sesión fácilmente desde la página principal.    | 3 horas               | Jaque Peña, Estefano Oscar   | Done                                                       |
-| **US05**      | Resumen de la Empresa, Misión y Visión                | **TA008**       | Diseñar Sección "Acerca de Nosotros"            | Crear la sección "Acerca de Nosotros" que incluya la misión, visión y valores de la empresa de manera atractiva.           | 4 horas               | Alejo Cardenas, Jose Antonio | Done                                                       |
-| **US05**      | Resumen de la Empresa, Misión y Visión                | **TA009**       | Redacción de Contenidos para "Acerca de Nosotros"| Desarrollar el contenido de misión, visión y valores para la sección "Acerca de Nosotros".                                | 3 horas               | Alejo Cardenas, Jose Antonio | Done                                                       |
-| **US06**      | Navegación Clara y Directa en la Página               | **TA010**       | Diseñar Menú de Navegación Intuitivo            | Diseñar un menú de navegación que permita a los usuarios desplazarse fácilmente por las diferentes secciones de la página.| 4 horas               | Acuña Tomas, Diego Rolin     | Done                                                       |
-| **US06**      | Navegación Clara y Directa en la Página               | **TA011**       | Implementar Funcionalidad del Menú de Navegación| Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.                      | 5 horas               | Acuña Tomas, Diego Rolin     | Done                                                       |
-
+| **US19**       | Integración de cronogramas                     | **TA001**       | Añadir actividades al calendario           | Facilitar la creación de nuevas actividades en el calendario, donde los usuarios pueden definir el nombre.                 | 2 horas               | Alejo Cardenas,Jose    | Done                                                       |
+| **US19**     | Integración de cronogramas                              | **TA002**        | Mostrar actividades del calendario                  | Mostrar todas las actividades programadas en el calendario en una vista clara y organizada.       | 4 horas               | Alejo Cardenas,Jose   | Done     
+| **US14**     | Herramienta de seguimiento de tareas en tiempo real | **TA003**  | Implementar estados de tareas   | Agregar la funcionalidad de cambiar el estado de las tareas, asegurando asi seguimiento constante por parte del líder   | 5 horas | Arevalo Meza, John Telesforo   | Done    |
+| **US24** | Reportes de tareas atrasadas    | **TA004**       | Implementar aspectos visuales, para resaltar las tareas atrasadas          | Agregar un cambio de color a las tareas que se encuentren atrasadas    | 3 horas  | Arevalo Meza, John Telesforo   | Done |
+| **US25**      | Gestión de dependencias de tareas       | **TA005**       | Agregar un apartado para ver las dependencias de una tarea            | Agregar atributos y hacerlos visibles, para asi ver cuales son las condiciones de estas           | 4 horas               | Arevalo Meza, John Telesforo | Done  |
+| **US37**      | Reporte de eficiencia del equipo  | **TA006** |Añadir reportes de eficiencia del proyecto por parte del desarrollador| Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.  | 3 horas               | Jaque Peña, Estefano Oscar     | Done      
+| **US37**      | Reporte de eficiencia del equipo  | **TA007** | Eliminar reportes de Lider y desarrollares | Desarrollar la eliminacion de reportes generados por los trabajadores del proyecto | 3 horas | Jaque Peña, Estefano Oscar | Done                                                       |
+| **US37**      | Reporte de eficiencia del equipo | **TA008**  | Actualizar reportes generadoros por trabajadores y lideres del equipo | Implementar la actualizacion de reportes generador por los trabajores del proyecto.| 3 horas               | Jaque Peña, Estefano Oscar     | Done |
+| **US37**      | Reporte de eficiencia del equipo  | **TA009** |Añadir reportes de observacion de la tarea por parte de lideres- gerentes| Programar la agregacion de reportes en el bounded context Reportes/Comentarios por parte de los lideres.| 2 horas| Jaque Peña, Estefano Oscar | Done |
+| **US24**      | Reporte de tareas atrasadas  | **TA010** |Añadir reportes de tareas atrasadas por parte de desarrolladores| Programar la funcionalidad del bounded context reportes para una mayor  |2 horas  | Jaque Peña, Estefano Oscar     | Done  |
+| **US10** | Sincronización con herramientas externas | **TA011** | Iniciar sincronización | Se configura la integración para que las tareas y eventos se sincronicen automáticamente entre la plataforma y las herramientas seleccionadas. | 2 horas | Valentino Sandoval |
+| **US10** | Sincronización con herramientas externas | **TA012** | Reflejar cambios en ambas plataformas | Los cambios realizados tanto en las herramientas externas como en la plataforma se reflejan en tiempo real. | 3 horas | Valentino Sandoval |
+| **US29** | Integración con herramientas de videollamadas | **TA013** | Iniciar videollamada integrada | Se implementa la funcionalidad para iniciar videollamadas directamente desde la plataforma, usando herramientas como Zoom o Google Meet. | 2 horas | Valentino Sandoval |
 
 ### 2.5.2.2.3. Development Evidence for Sprint Review.
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
@@ -2190,8 +2189,8 @@ En el Sprint 1, el objetivo principal fue desarrollar una landing page completam
 
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
-### 5.2.2.5. Execution Evidence for Sprint Review.
 
+### 5.2.2.5. Execution Evidence for Sprint Review.
 Durante este segundo sprint los integrantes del equipo desarrollaron los diferentes bounded context del dominio de ManageWise, con ayuda del framework Angular y los componentes de Angular Material.
 
 * John Arevalo 
@@ -2204,13 +2203,89 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 ![alt text](assets/images/create-task2.png)
 <br>
 
+* Estefano Jaque - bounded context Reportes
+<br>
+
+![alt text](assets/images/exevidencJaque.jpg)
+
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+**Introducción:**
+Durante este Sprint, se logró la documentación y despliegue de varios Endpoints correspondientes a los diferentes *bounded contexts* implementados por el equipo. Se utilizó OpenAPI para describir de forma estructurada los servicios Web desarrollados. A continuación, se presenta la relación de los Endpoints, las acciones soportadas y la respectiva documentación disponible.
 
+Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, parámetros, ejemplos de respuesta, así como capturas de la interacción con los Web Services utilizando datos de muestra. También se proporciona el URL del repositorio de los Web Services y los *commit IDs* correspondientes al trabajo realizado en la documentación durante este Sprint.
 
+### Tabla de Endpoints Documentados
+
+| Bounded Context   | Endpoint                     | Acción    | Verbo HTTP | Parámetros               | Ejemplo de Respuesta | Documentación/URL     |
+|-------------------|------------------------------|-----------|------------|--------------------------|----------------------|-----------------------|
+| Herramientas      | `/api/tools`                  | Obtener lista de herramientas | GET | `?category={string}`     | `[{"id": 1, "name": "Tool A"}]` | [Herramientas](https://managewise-7c633.web.app/tool/tools) |
+| Calendar          | `/api/calendar/events`        | Crear evento | POST       | `{"title": string, "date": string}` | `{"id": 1, "title": "Event A"}` | [Calendar](https://managewisecalendar.web.app/calendar/activities) |
+| Reportes          | `/api/reports`                | Obtener reportes generados | GET  | `?type={string}`          | `[{"id": 1, "type": "weekly"}]` | [Reportes](https://managewise-reports.web.app/reports) |
+| Tareas            | `/api/tasks/{id}`             | Eliminar tarea | DELETE   | `{id: int}`               | `{"message": "Task deleted"}` | [Tareas](https://daos-2402-managewise-tasks.web.app/tasks) |
+| Miembros          | `/api/members`                | Listar miembros | GET    | `?role={string}`          | `[{"id": 1, "name": "Member A"}]` | [Miembros](https://managewise-si729-team-manage.web.app/member/members) |
+
+### Ejemplos de Respuesta y Explicación
+
+#### **GET** `/api/tools`
+**Descripción**: Obtiene una lista de herramientas filtradas por categoría (opcional).
+
+**Parámetros**:
+- `category`: Filtro opcional para la categoría de la herramienta (string).
+
+**Ejemplo de Llamada**:
+
+GET /api/tools?category=software
+
+**Ejemplo de Respuesta**:
+db.json:<br>
+
+ {<br>
+      "id": 2,<br>
+      "projectName": "Proyecto 2",<br>
+      "transmitter": "Desarrollador",<br>
+      "issuerName": "Carlos Ramírez",<br>
+      "title": "Problemas con la base de datos",<br>
+      "Summary": "El servidor de base de datos se ha caído durante varias horas.",<br>
+      "detailedDescription": "El servidor de base de datos ha estado inactivo desde las 8:00 AM, afectando la disponibilidad de la plataforma.",<br>
+      "dateTime": "24 de septiembre-11:15 AM",<br>
+      "assignedTo": "Equipo de Infraestructura",<br>
+      "priority": "Alta",<br>
+      "suggestedActions": "Reiniciar el servidor y revisar la configuración de la base de datos."<br>
+    },<br>
+
+### Capturas de Pantalla
+
+A continuación, se presentan algunas capturas de pantalla que muestran la interacción con los servicios Web, utilizando datos de muestra:
+
+**Captura 1**: Visualización de la lista de reportes `/api/tools`.
+
+![alt text](assets/images/reportes_endpoint.png)
+
+### Repositorio y Commits
+
+- **Repositorio de Web Services**: [GitHub - Proyecto Web Services](https://github.com/Horizon-ManageWise/Horizon)
+- **Commits relacionados con la documentación**:
+  - [Managewise-Herramientas](https://github.com/SoyValzzz/Managewise-tools) - Documentación de Herramientas
+  - [Managewise-Calendar](https://github.com/Firtness/ManageWiseCalendar) - Documentación de Calendar
+  - [Managewise-Reportes](https://github.com/estefanojaque/Managewise-reportes) - Documentación de Reportes
+  - [Managewise-Tareas](https://github.com/JohnArvlo/my-json-server-tareas) - Documentación de Tareas
+
+### Resumen de Acciones del Equipo
+
+| Integrante        | Acciones Realizadas                            |
+|-------------------|------------------------------------------------|
+| Valentino Sandoval | Diseño e implementación de bounded context herramientas |
+| Jose Alejo        | Diseño e implementación de bounded context Calendar |
+| Estefano Jaque    | Diseño e implementación de bounded context Reportes |
+| John Arevalo      | Diseño e implementación de bounded context Tareas |
+| Diego Acuña       | Diseño e implementación de bounded context Miembros |
+
+Este Sprint se centró en mejorar la documentación de los Web Services desarrollados para cada uno de los bounded contexts, facilitando su integración y uso en futuras iteraciones.
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
-Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
+Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional y mejorada. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
 
 Link landing page: https://horizon-managewise.github.io/LandingPage/
 
@@ -2230,12 +2305,31 @@ Link landing page: https://horizon-managewise.github.io/LandingPage/
 
 Link: https://daos-2402-managewise-tasks.web.app/tasks
 
+* Estefano Jaque
 
+![alt text](assets/images/exevidencJaque.jpg)
+
+Link: [bounded-context-Reports](https://managewise-reports.web.app)
+
+* Diego Acuña
+
+![alt text](assets/images/miembros-boundcont.jpg)
+Link: [bounded-context-Miembros](https://managewise-si729-team-manage.web.app/member/members)
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
+|Integrante|Acciones realizadas durante el sprint|
+|-|-|
+| Valentino Sandoval|Diseño e implementacion de bounded context herramientas|
+| Jose Alejo|Diseño e implementacion de bounded context Calendar|
+| Estefano Jaque|Diseño e implementacion de bounded context Reportes|
+| John Arevalo| Diseño e implementacion de bounded context Tareas|
+| Diego Acuña|Diseño e implementacion de bounded context Miembros|
 
+![alt text](assets/images/Insigths.jpg)
 
+### 5.2.2.8. About the product :
+[video About the product](https://drive.google.com/drive/folders/1Yf3cs4c9bwB1XwzLYqD0zeP0oRtKDAdJ?usp=sharing)
 
 ### Conclusiones
 
