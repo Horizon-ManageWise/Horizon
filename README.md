@@ -235,14 +235,20 @@ TB1:<br>
     - [2 5.2.2.1. Sprint Planning 2](#2-5221-sprint-planning-2)
     - [2.5.2.2.2. Sprint Backlog 2](#25222-sprint-backlog-2)
     - [Introducción](#introducción)
-    - [Sprint Backlog 1: Corrección](#sprint-backlog-1-corrección)
     - [2.5.2.2.3. Development Evidence for Sprint Review.](#25223-development-evidence-for-sprint-review)
     - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
     - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
     - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+    - [Tabla de Endpoints Documentados](#tabla-de-endpoints-documentados)
+    - [Ejemplos de Respuesta y Explicación](#ejemplos-de-respuesta-y-explicación)
+      - [**GET** `/api/tools`](#get-apitools)
+    - [Capturas de Pantalla](#capturas-de-pantalla)
+    - [Repositorio y Commits](#repositorio-y-commits)
+    - [Resumen de Acciones del Equipo](#resumen-de-acciones-del-equipo)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [Web Application:](#web-application)
     - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.2.8. About the product :](#5228-about-the-product-)
     - [Conclusiones](#conclusiones)
     - [Bibliografia](#bibliografia)
     - [Anexos](#anexos)
@@ -2387,6 +2393,14 @@ Link landing page: https://horizon-managewise.github.io/LandingPage/
 ![alt text](assets/images/bounded-context-task.jpg)
 
 Link: https://daos-2402-managewise-tasks.web.app/tasks
+
+* Jose Alejo  
+
+![alt text](assets/images/ManageWiseCalendar.png)
+
+![alt text](assets/images/ManageWiseCalendar2.png)
+
+Link: https://managewisecalendar.web.app/calendar/activities
 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
