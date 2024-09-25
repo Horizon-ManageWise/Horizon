@@ -180,6 +180,11 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 
 ![alt text](assets/images/exevidencJaque.jpg)
 
+* Valentino Sandoval - bounded context Reportes
+<br>
+
+![alt text](assets/images/TP_images/BDTools.jpeg)
+
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 **Introducción:**
@@ -314,6 +319,26 @@ https://managewise-reports.web.app
 ![alt text](assets/images/ManageWiseCalendar2.png)
 
 Link: https://managewisecalendar.web.app/calendar/activities
+
+
+* Valentino Sandoval
+**ADD Tools:**
+![alt text](assets/images/TP_images/ADDTOOLS1.jpeg)
+![alt text](assets/images/TP_images/ADDTOOLS2.jpeg)
+
+
+
+**EDIT Tools:**
+![alt text](assets/images/TP_images/EDIT.jpeg)
+
+
+**DELETE Tools**  
+Se eliminara el report que tiene todas las partes con PRUEBA EDIT
+
+![alt text](assets/images/TP_images/DELETE.jpeg)
+
+Link: 
+
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
