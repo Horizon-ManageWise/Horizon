@@ -152,10 +152,10 @@ TB1:<br>
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
 - [Segmento 1: María (Líder/Gerente de Proyecto)](#segmento-1-maría-lídergerente-de-proyecto)
 - [Segmento 2: Fabricio (Equipo de Desarrollo de Software)](#segmento-2-fabricio-equipo-de-desarrollo-de-software)
-  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-    - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-    - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+      - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+      - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
+    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [**Segmento 1:** Lider o gerente de proyectos de software](#segmento-1-lider-o-gerente-de-proyectos-de-software)
@@ -2275,6 +2275,24 @@ En el Sprint 1, el objetivo principal fue desarrollar una landing page completam
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint, se realizaron la implementación del Web Aplication. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
+
+| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
+|-|-|-|-|-|-|
+| Horizon-ManageWise/Testing | feature/TP | 48232594b722a6d3b1948c723cf903655a12bd35 |Initial commit  | Initial commit | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | 98bb0d238d4305c241a5e31f5bd0f658915553be |feature: added US10 gherkin  | feature: added US10 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | 4fe61f01bd7f0d6f19c3df562a72f05ff993746e |feature: added US14 gherkin  | feature: added US14 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US18 gherkin  | feature: added US18 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | b02f2bb10c47d255857145e96eb54f72cb66d383 |feature: added US19 gherkin  | feature: added US19 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | 9db14c0bd4735c9c0495d405d35f9c87f75109fe |feature: added US24 gherkin  | feature: added US24 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | a86f36565e3d66d635b71333d123cca9d9486dc8 |feature: added US25 gherkin  | feature: added US25 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | 903934c1d941c27b8a37108320411a5b322ffaa0 |feature: added US29 gherkin  | feature: added US29 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US34 gherkin  | feature: added US34 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | f8db7186ad943db1e5c671242d00aec94ab6eec0 |feature: added US37 gherkin  | feature: added US37 gherkin | 24/09/2024|
+
+<br>
+Link del repositorio Commints: https://github.com/Horizon-ManageWise/Testing/tree/feature/TP
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
