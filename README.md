@@ -2303,6 +2303,11 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 
 ![alt text](assets/images/exevidencJaque.jpg)
 
+- Diego Acuña - bounded context Members
+  <br>
+
+![alt text](assets/images/BC-member/ManageWise-members-1.png)
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 **Introducción:**
