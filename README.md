@@ -52,19 +52,19 @@ Product: ManageWise
 | TB1     | 29/08/2024 | John Arévalo             | Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.                                                                                                                                                                                          |
 | TB1     | 6/09/2024  | John Arévalo             | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
 | TB1     | 8/09/2024  | John Arévalo             | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
-| TP     | 24/09/2024  | Valentino Sandoval             | Diseño e implementacion de bounded context herramientas.                                                                                                                                                                                                                   |
-| TP     | 24/09/2024  | Jose Alejo             | Diseño e implementacion de bounded context Calendar.                                                                                                                                                                                                                   |
-| TP     | 24/09/2024  | Estefano Jaque             | Diseño e implementacion de bounded context Reportes.                                                                                                                                                                                                                   |
-| TP     | 24/09/2024  | John Arévalo             | Diseño e implementacion de bounded context Tareas.                                                                                                                                                                                                                   |
-| TP     | 24/09/2024  | Diego Acuña             | Diseño e implementacion de bounded context Miembros                                                                                                                                                                                                                   |
-| TP | 24/09/2024  | Estefano Jaque | Sprint Planning 2.   |
-| TP | 24/09/2024  | Estefano Jaque | Sprint Backlog 2  |
-| TP | 24/09/2024  | Jose Alejo |  Development Evidence for Sprint Review  |
-| TP | 24/09/2024  | Valentino Sandoval |  Testing Suite Evidence for Sprint Review.  |
-| TP | 24/09/2024  | Jose Alejo |  Execution Evidence for Sprint Review. |
-| TP | 24/09/2024  | Valentino Sandoval |  Services Documentation Evidence for Sprint Review |
-| TP | 24/09/2024  | John Arévalo |   Software Deployment Evidence for Sprint Review |
-| TP | 24/09/2024  | Diego Acuña |   Team Collaboration Insights during Sprint |
+| TP      | 24/09/2024 | Valentino Sandoval       | Diseño e implementacion de bounded context herramientas.                                                                                                                                                                                                                                    |
+| TP      | 24/09/2024 | Jose Alejo               | Diseño e implementacion de bounded context Calendar.                                                                                                                                                                                                                                        |
+| TP      | 24/09/2024 | Estefano Jaque           | Diseño e implementacion de bounded context Reportes.                                                                                                                                                                                                                                        |
+| TP      | 24/09/2024 | John Arévalo             | Diseño e implementacion de bounded context Tareas.                                                                                                                                                                                                                                          |
+| TP      | 24/09/2024 | Diego Acuña              | Diseño e implementacion de bounded context Miembros                                                                                                                                                                                                                                         |
+| TP      | 24/09/2024 | Estefano Jaque           | Sprint Planning 2.                                                                                                                                                                                                                                                                          |
+| TP      | 24/09/2024 | Estefano Jaque           | Sprint Backlog 2                                                                                                                                                                                                                                                                            |
+| TP      | 24/09/2024 | Jose Alejo               | Development Evidence for Sprint Review                                                                                                                                                                                                                                                      |
+| TP      | 24/09/2024 | Valentino Sandoval       | Testing Suite Evidence for Sprint Review.                                                                                                                                                                                                                                                   |
+| TP      | 24/09/2024 | Jose Alejo               | Execution Evidence for Sprint Review.                                                                                                                                                                                                                                                       |
+| TP      | 24/09/2024 | Valentino Sandoval       | Services Documentation Evidence for Sprint Review                                                                                                                                                                                                                                           |
+| TP      | 24/09/2024 | John Arévalo             | Software Deployment Evidence for Sprint Review                                                                                                                                                                                                                                              |
+| TP      | 24/09/2024 | Diego Acuña              | Team Collaboration Insights during Sprint                                                                                                                                                                                                                                                   |
 
 ## Project Report Collaboration Insights
 
@@ -152,10 +152,10 @@ TB1:<br>
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
 - [Segmento 1: María (Líder/Gerente de Proyecto)](#segmento-1-maría-lídergerente-de-proyecto)
 - [Segmento 2: Fabricio (Equipo de Desarrollo de Software)](#segmento-2-fabricio-equipo-de-desarrollo-de-software)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-      - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-      - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
-    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
+    - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [**Segmento 1:** Lider o gerente de proyectos de software](#segmento-1-lider-o-gerente-de-proyectos-de-software)
@@ -260,10 +260,10 @@ _ABET – EAC - Student Outcome 3_
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET - EAC - Student Outcome 3.
 
-| Criterio especifico                                                      | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| :----------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.<br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario.<br>**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. <br> **Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes                     | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br> **Jose Alejo**<br> TP:<br> Durante mi presentación de la evidencia de desarrollo y ejecución, me aseguré de transmitir claramente los avances del sprint, destacando cómo cada funcionalidad se alinea con los requisitos del proyecto. Esto me permitió asegurar que todos comprendieran nuestro progreso y logros. TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo  el trabajo en grupo |
-| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia |TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos lotesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentoss miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipó objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.<br>**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes <br> | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br> <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general <br>  TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo  el trabajo en grupo  |
+| Criterio especifico                                                      | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.<br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario.<br>**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. <br> **Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes                           | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br> **Jose Alejo**<br> TP:<br> Durante mi presentación de la evidencia de desarrollo y ejecución, me aseguré de transmitir claramente los avances del sprint, destacando cómo cada funcionalidad se alinea con los requisitos del proyecto. Esto me permitió asegurar que todos comprendieran nuestro progreso y logros. TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo |
+| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos lotesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentoss miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipó objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.<br>**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes <br> | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br> <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general <br> TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo                                                                                                                                                                                                                                                                                                                              |
 
 ## Capítulo I: Introducción
 
@@ -1763,10 +1763,12 @@ Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-ma
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
+
 ![alt text](assets/images/Diagramadeclasesfinal.png)
 
 LINK diagrama de clases:
 [Diagrama de Clases](https://lucid.app/lucidchart/a8574ee7-c46c-4f80-ab16-b2b91cd5abde/edit?viewport_loc=941%2C706%2C2376%2C1266%2CHWEp-vi-RSFO&invitationId=inv_aaac668a-b1fb-479d-93c9-5c7af375894a)
+
 ### 4.8. Database Design
 
 ### 4.7.2. Database Dictionary
@@ -1775,157 +1777,155 @@ Este es el formato que deberán seguir nuestras colecciones en MongoDB para repl
 
 **Usuarios**  
 Descripción: Colección que representa a los empleados o usuarios del sistema.
-| Campo     | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |-----------|----------------|------------------------------------------|
-| usuarioId | int            | Identificador único del usuario           |
-| nombre    | nvarchar(255)  | Nombre del usuario                        |
-| cargo     | nvarchar(255)  | Cargo del usuario                        |
-| email     | nvarchar(255)  | Correo electrónico del usuario           |
-| telefono  | bigint         | Teléfono del usuario                     |
+| usuarioId | int | Identificador único del usuario |
+| nombre | nvarchar(255) | Nombre del usuario |
+| cargo | nvarchar(255) | Cargo del usuario |
+| email | nvarchar(255) | Correo electrónico del usuario |
+| telefono | bigint | Teléfono del usuario |
 
 **Equipos**  
 Descripción: Colección que representa los equipos de trabajo.
-| Campo      | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| equipoId   | int            | Identificador único del equipo            |
-| nombreEquipo| nvarchar(255) | Nombre del equipo                        |
-| descripcion| nvarchar(max)  | Descripción del equipo                   |
+| equipoId | int | Identificador único del equipo |
+| nombreEquipo| nvarchar(255) | Nombre del equipo |
+| descripcion| nvarchar(max) | Descripción del equipo |
 
 **UsuarioEquipo**  
 Descripción: Colección que define la relación entre usuarios y equipos, incluyendo el rol.
-| Campo      | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| usuarioId  | int            | Identificador del usuario                |
-| equipoId   | int            | Identificador del equipo                 |
-| rol        | nvarchar(50)   | Rol del usuario (Líder o Miembro)       |
+| usuarioId | int | Identificador del usuario |
+| equipoId | int | Identificador del equipo |
+| rol | nvarchar(50) | Rol del usuario (Líder o Miembro) |
 
 **Proyectos**  
 Descripción: Colección que representa los proyectos.
-| Campo        | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| proyectoId   | int            | Identificador único del proyecto         |
-| nombreProyecto| nvarchar(255) | Nombre del proyecto                      |
-| descripcion  | nvarchar(max)  | Descripción del proyecto                 |
-| fechaInicio  | date           | Fecha de inicio del proyecto             |
-| fechaEntrega | date           | Fecha de entrega del proyecto            |
-| estado       | nvarchar(50)   | Estado del proyecto                      |
+| proyectoId | int | Identificador único del proyecto |
+| nombreProyecto| nvarchar(255) | Nombre del proyecto |
+| descripcion | nvarchar(max) | Descripción del proyecto |
+| fechaInicio | date | Fecha de inicio del proyecto |
+| fechaEntrega | date | Fecha de entrega del proyecto |
+| estado | nvarchar(50) | Estado del proyecto |
 
 **Tareas**  
 Descripción: Colección que representa las tareas de un proyecto.
-| Campo         | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |---------------|----------------|------------------------------------------|
-| tareaId       | int            | Identificador único de la tarea          |
-| descripcionTarea| nvarchar(max) | Descripción de la tarea                  |
-| fechaCreacion | date           | Fecha de creación de la tarea            |
-| prioridad     | nvarchar(50)   | Prioridad de la tarea                    |
-| estadoTarea   | nvarchar(50)   | Estado actual de la tarea                |
-| proyectoId    | int            | Identificador del proyecto asociado       |
-| responsableId | int            | Identificador del usuario responsable     |
+| tareaId | int | Identificador único de la tarea |
+| descripcionTarea| nvarchar(max) | Descripción de la tarea |
+| fechaCreacion | date | Fecha de creación de la tarea |
+| prioridad | nvarchar(50) | Prioridad de la tarea |
+| estadoTarea | nvarchar(50) | Estado actual de la tarea |
+| proyectoId | int | Identificador del proyecto asociado |
+| responsableId | int | Identificador del usuario responsable |
 
 **ArchivosAdjuntos**  
 Descripción: Colección que representa los archivos adjuntos a tareas.
-| Campo        | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| archivoId    | int            | Identificador único del archivo           |
-| nombreArchivo | nvarchar(255) | Nombre del archivo                        |
-| tipoArchivo   | nvarchar(50)  | Tipo del archivo                         |
-| rutaAlmacenamiento| nvarchar(255) | Ruta de almacenamiento del archivo   |
-| tareaId      | int            | Identificador de la tarea asociada       |
+| archivoId | int | Identificador único del archivo |
+| nombreArchivo | nvarchar(255) | Nombre del archivo |
+| tipoArchivo | nvarchar(50) | Tipo del archivo |
+| rutaAlmacenamiento| nvarchar(255) | Ruta de almacenamiento del archivo |
+| tareaId | int | Identificador de la tarea asociada |
 
 **Sprints**  
 Descripción: Colección que representa los sprints de un proyecto.
-| Campo       | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |-------------|----------------|------------------------------------------|
-| sprintId    | int            | Identificador único del sprint           |
-| nombreSprint | nvarchar(255) | Nombre del sprint                        |
-| fechaInicio | date           | Fecha de inicio del sprint               |
-| fechaFin    | date           | Fecha de fin del sprint                  |
-| proyectoId  | int            | Identificador del proyecto asociado       |
+| sprintId | int | Identificador único del sprint |
+| nombreSprint | nvarchar(255) | Nombre del sprint |
+| fechaInicio | date | Fecha de inicio del sprint |
+| fechaFin | date | Fecha de fin del sprint |
+| proyectoId | int | Identificador del proyecto asociado |
 
 **CasosDePrueba**  
 Descripción: Colección que define los casos de prueba.
-| Campo            | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |------------------|----------------|------------------------------------------|
-| casoPruebaId     | int            | Identificador único del caso de prueba    |
-| descripcionPrueba| nvarchar(max)  | Descripción del caso de prueba           |
-| resultadoEsperado| nvarchar(max)  | Resultado esperado del caso de prueba    |
-| estadoPrueba     | bit            | Estado del caso de prueba                |
-| usuarioId        | int            | Identificador del usuario responsable     |
-| proyectoId       | int            | Identificador del proyecto asociado       |
+| casoPruebaId | int | Identificador único del caso de prueba |
+| descripcionPrueba| nvarchar(max) | Descripción del caso de prueba |
+| resultadoEsperado| nvarchar(max) | Resultado esperado del caso de prueba |
+| estadoPrueba | bit | Estado del caso de prueba |
+| usuarioId | int | Identificador del usuario responsable |
+| proyectoId | int | Identificador del proyecto asociado |
 
 **Comentarios**  
 Descripción: Colección que almacena comentarios en tareas.
-| Campo         | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |---------------|----------------|------------------------------------------|
-| comentarioId  | int            | Identificador único del comentario       |
-| textoComentario| nvarchar(max) | Texto del comentario                     |
-| fechaComentario| datetime       | Fecha del comentario                     |
-| tareaId       | int            | Identificador de la tarea asociada      |
-| usuarioId     | int            | Identificador del usuario que comenta    |
+| comentarioId | int | Identificador único del comentario |
+| textoComentario| nvarchar(max) | Texto del comentario |
+| fechaComentario| datetime | Fecha del comentario |
+| tareaId | int | Identificador de la tarea asociada |
+| usuarioId | int | Identificador del usuario que comenta |
 
 **HistorialAcciones**  
 Descripción: Colección que registra las acciones realizadas en los proyectos.
-| Campo        | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| accionId     | int            | Identificador único de la acción         |
-| accionDescripcion| nvarchar(255)| Descripción de la acción                 |
-| fechaAccion  | datetime       | Fecha de la acción                       |
-| proyectoId   | int            | Identificador del proyecto asociado       |
+| accionId | int | Identificador único de la acción |
+| accionDescripcion| nvarchar(255)| Descripción de la acción |
+| fechaAccion | datetime | Fecha de la acción |
+| proyectoId | int | Identificador del proyecto asociado |
 
 **Reportes**  
 Descripción: Colección que representa los reportes generados para los proyectos.
-| Campo      | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| reporteId  | int            | Identificador único del reporte          |
-| tipoReporte| nvarchar(255)  | Tipo de reporte                          |
-| fechaGeneracion| datetime    | Fecha de generación del reporte          |
-| descripcion| nvarchar(max)  | Descripción del reporte                  |
-| proyectoId | int            | Identificador del proyecto asociado       |
+| reporteId | int | Identificador único del reporte |
+| tipoReporte| nvarchar(255) | Tipo de reporte |
+| fechaGeneracion| datetime | Fecha de generación del reporte |
+| descripcion| nvarchar(max) | Descripción del reporte |
+| proyectoId | int | Identificador del proyecto asociado |
 
 **Foros**  
 Descripción: Colección que almacena foros de discusión en los proyectos.
-| Campo      | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| foroId     | int            | Identificador único del foro             |
-| tema       | nvarchar(255)  | Tema del foro                            |
-| fechaCreacion| datetime     | Fecha de creación del foro               |
-| descripcion| nvarchar(max)  | Descripción del foro                     |
-| proyectoId | int            | Identificador del proyecto asociado       |
+| foroId | int | Identificador único del foro |
+| tema | nvarchar(255) | Tema del foro |
+| fechaCreacion| datetime | Fecha de creación del foro |
+| descripcion| nvarchar(max) | Descripción del foro |
+| proyectoId | int | Identificador del proyecto asociado |
 
 **Herramientas**  
 Descripción: Colección que define las herramientas utilizadas en los proyectos.
-| Campo        | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| herramientaId| int            | Identificador único de la herramienta     |
-| nombreHerramienta| nvarchar(255)| Nombre de la herramienta                |
-| descripcionHerramienta| nvarchar(max)| Descripción de la herramienta          |
+| herramientaId| int | Identificador único de la herramienta |
+| nombreHerramienta| nvarchar(255)| Nombre de la herramienta |
+| descripcionHerramienta| nvarchar(max)| Descripción de la herramienta |
 
 **ProyectoHerramienta**  
 Descripción: Colección que define la relación entre proyectos y herramientas.
-| Campo        | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| proyectoId   | int            | Identificador del proyecto                |
-| herramientaId | int           | Identificador de la herramienta           |
+| proyectoId | int | Identificador del proyecto |
+| herramientaId | int | Identificador de la herramienta |
 
 **Seguridad**  
 Descripción: Colección que define la seguridad de un proyecto.
-| Campo          | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |----------------|----------------|------------------------------------------|
-| seguridadId    | int            | Identificador único de la seguridad      |
-| nombreSeguridad | nvarchar(255) | Nombre de la seguridad                   |
-| descripcionSeguridad| nvarchar(max)| Descripción de la seguridad            |
-| proyectoId     | int            | Identificador del proyecto asociado       |
+| seguridadId | int | Identificador único de la seguridad |
+| nombreSeguridad | nvarchar(255) | Nombre de la seguridad |
+| descripcionSeguridad| nvarchar(max)| Descripción de la seguridad |
+| proyectoId | int | Identificador del proyecto asociado |
 
 **Configuraciones**  
 Descripción: Colección que define las configuraciones de un proyecto.
-| Campo              | Tipo de dato   | Descripción                              |
+| Campo | Tipo de dato | Descripción |
 |--------------------|----------------|------------------------------------------|
-| configuracionId    | int            | Identificador único de la configuración   |
-| nombreConfiguracion | nvarchar(255) | Nombre de la configuración                |
-| descripcionConfiguracion| nvarchar(max)| Descripción de la configuración          |
-| proyectoId         | int            | Identificador del proyecto asociado       |
-
-
+| configuracionId | int | Identificador único de la configuración |
+| nombreConfiguracion | nvarchar(255) | Nombre de la configuración |
+| descripcionConfiguracion| nvarchar(max)| Descripción de la configuración |
+| proyectoId | int | Identificador del proyecto asociado |
 
 #### 4.8.1. Database Diagram
 
@@ -2216,46 +2216,52 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 ![alt text](assets/images/imagen_participacion.jpg)
 
 ### 5.2.2. Sprint 2
+
 ### 2 5.2.2.1. Sprint Planning 2
+
 El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
 
-| Sprint #                            | Sprint 1                                                                                                                                                                                                                                                                                   |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
-| **Date**                            | 23/09/2024                                                                                                                                                                                                                                                                                 |
-| **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                   |
-| **Location**                        | Discord (Reunión virtual)  |
-| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
-| **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar                                                                                                                                                |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
-| **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y e implementar cada uno su bounded context lo cual separamos el dia de la reunion |
+| Sprint #                            | Sprint 1                                                                                                                                                                                                                                                                  |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                           |
+| **Date**                            | 23/09/2024                                                                                                                                                                                                                                                                |
+| **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                  |
+| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                 |
+| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                |
+| **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar                                                                                                                               |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                           |
+| **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y e implementar cada uno su bounded context lo cual separamos el dia de la reunion                                                                                                                                           |
 | **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US14 (2 puntos)<br>- US19 (2 puntos)<br>- US29 (3 puntos)<br>- US10 (3 puntos)<br>- US24 (3 puntos)<br>- US37 (3 puntos) |
-| **Sum of Story Points**             | 16                                                                                                                                                                                                                                                                                         |
+| **Sum of Story Points**             | 16                                                                                                                                                                                                                                                                        |
+
 ### 2.5.2.2.2. Sprint Backlog 2
+
 ### Introducción
+
 En el Sprint 1, el objetivo principal fue desarrollar una landing page completamente funcional, centrada en la presentación de los beneficios de la plataforma, una navegación sencilla, enlaces a redes sociales y la implementación de un sistema de registro e inicio de sesión rápido. Para lograr este objetivo, dividimos las User Stories en tareas más pequeñas (Work-Items/Tasks) y las asignamos a los miembros del equipo utilizando Trello, asegurándonos de una estimación adecuada y seguimiento efectivo.
 
 ![alt text](assets/images/Sprint2Trello.png)
 
-| Sprint #      | Sprint 2                                              |                 |                                                 |                                                                                                                          |                       |                              |                                                            |
-| ------------- | ----------------------------------------------------- | --------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------- | ---------------------------- | ---------------------------------------------------------- |
-| **User<br>Story** |                                                     | **Work-Item /Task** |                                                 |                                                                                                                          | **Estimation<br>(Hours)** | **Assigned<br>To**            | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
-| **ID**        | **Title**                                             | **ID**          | **Title**                                       | **Description**                                                                                                          |                       |                              |                                                            |
-| **US19**       | Integración de cronogramas                     | **TA001**       | Añadir actividades al calendario           | Facilitar la creación de nuevas actividades en el calendario, donde los usuarios pueden definir el nombre.                 | 2 horas               | Alejo Cardenas,Jose    | Done                                                       |
-| **US19**     | Integración de cronogramas                              | **TA002**        | Mostrar actividades del calendario                  | Mostrar todas las actividades programadas en el calendario en una vista clara y organizada.       | 4 horas               | Alejo Cardenas,Jose   | Done     
-| **US14**     | Herramienta de seguimiento de tareas en tiempo real | **TA003**  | Implementar estados de tareas   | Agregar la funcionalidad de cambiar el estado de las tareas, asegurando asi seguimiento constante por parte del líder   | 5 horas | Arevalo Meza, John Telesforo   | Done    |
-| **US24** | Reportes de tareas atrasadas    | **TA004**       | Implementar aspectos visuales, para resaltar las tareas atrasadas          | Agregar un cambio de color a las tareas que se encuentren atrasadas    | 3 horas  | Arevalo Meza, John Telesforo   | Done |
-| **US25**      | Gestión de dependencias de tareas       | **TA005**       | Agregar un apartado para ver las dependencias de una tarea            | Agregar atributos y hacerlos visibles, para asi ver cuales son las condiciones de estas           | 4 horas               | Arevalo Meza, John Telesforo | Done  |
-| **US37**      | Reporte de eficiencia del equipo  | **TA006** |Añadir reportes de eficiencia del proyecto por parte del desarrollador| Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.  | 3 horas               | Jaque Peña, Estefano Oscar     | Done      
-| **US37**      | Reporte de eficiencia del equipo  | **TA007** | Eliminar reportes de Lider y desarrollares | Desarrollar la eliminacion de reportes generados por los trabajadores del proyecto | 3 horas | Jaque Peña, Estefano Oscar | Done                                                       |
-| **US37**      | Reporte de eficiencia del equipo | **TA008**  | Actualizar reportes generadoros por trabajadores y lideres del equipo | Implementar la actualizacion de reportes generador por los trabajores del proyecto.| 3 horas               | Jaque Peña, Estefano Oscar     | Done |
-| **US37**      | Reporte de eficiencia del equipo  | **TA009** |Añadir reportes de observacion de la tarea por parte de lideres- gerentes| Programar la agregacion de reportes en el bounded context Reportes/Comentarios por parte de los lideres.| 2 horas| Jaque Peña, Estefano Oscar | Done |
-| **US24**      | Reporte de tareas atrasadas  | **TA010** |Añadir reportes de tareas atrasadas por parte de desarrolladores| Programar la funcionalidad del bounded context reportes para una mayor  |2 horas  | Jaque Peña, Estefano Oscar     | Done  |
-| **US10** | Sincronización con herramientas externas | **TA011** | Iniciar sincronización | Se configura la integración para que las tareas y eventos se sincronicen automáticamente entre la plataforma y las herramientas seleccionadas. | 2 horas | Valentino Sandoval |
-| **US10** | Sincronización con herramientas externas | **TA012** | Reflejar cambios en ambas plataformas | Los cambios realizados tanto en las herramientas externas como en la plataforma se reflejan en tiempo real. | 3 horas | Valentino Sandoval |
-| **US29** | Integración con herramientas de videollamadas | **TA013** | Iniciar videollamada integrada | Se implementa la funcionalidad para iniciar videollamadas directamente desde la plataforma, usando herramientas como Zoom o Google Meet. | 2 horas | Valentino Sandoval |
+| Sprint #          | Sprint 2                                            |                     |                                                                           |                                                                                                                                                |                           |                              |                                                               |
+| ----------------- | --------------------------------------------------- | ------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------- | ------------------------------------------------------------- |
+| **User<br>Story** |                                                     | **Work-Item /Task** |                                                                           |                                                                                                                                                | **Estimation<br>(Hours)** | **Assigned<br>To**           | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
+| **ID**            | **Title**                                           | **ID**              | **Title**                                                                 | **Description**                                                                                                                                |                           |                              |                                                               |
+| **US19**          | Integración de cronogramas                          | **TA001**           | Añadir actividades al calendario                                          | Facilitar la creación de nuevas actividades en el calendario, donde los usuarios pueden definir el nombre.                                     | 2 horas                   | Alejo Cardenas,Jose          | Done                                                          |
+| **US19**          | Integración de cronogramas                          | **TA002**           | Mostrar actividades del calendario                                        | Mostrar todas las actividades programadas en el calendario en una vista clara y organizada.                                                    | 4 horas                   | Alejo Cardenas,Jose          | Done                                                          |
+| **US14**          | Herramienta de seguimiento de tareas en tiempo real | **TA003**           | Implementar estados de tareas                                             | Agregar la funcionalidad de cambiar el estado de las tareas, asegurando asi seguimiento constante por parte del líder                          | 5 horas                   | Arevalo Meza, John Telesforo | Done                                                          |
+| **US24**          | Reportes de tareas atrasadas                        | **TA004**           | Implementar aspectos visuales, para resaltar las tareas atrasadas         | Agregar un cambio de color a las tareas que se encuentren atrasadas                                                                            | 3 horas                   | Arevalo Meza, John Telesforo | Done                                                          |
+| **US25**          | Gestión de dependencias de tareas                   | **TA005**           | Agregar un apartado para ver las dependencias de una tarea                | Agregar atributos y hacerlos visibles, para asi ver cuales son las condiciones de estas                                                        | 4 horas                   | Arevalo Meza, John Telesforo | Done                                                          |
+| **US37**          | Reporte de eficiencia del equipo                    | **TA006**           | Añadir reportes de eficiencia del proyecto por parte del desarrollador    | Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.                                           | 3 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
+| **US37**          | Reporte de eficiencia del equipo                    | **TA007**           | Eliminar reportes de Lider y desarrollares                                | Desarrollar la eliminacion de reportes generados por los trabajadores del proyecto                                                             | 3 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
+| **US37**          | Reporte de eficiencia del equipo                    | **TA008**           | Actualizar reportes generadoros por trabajadores y lideres del equipo     | Implementar la actualizacion de reportes generador por los trabajores del proyecto.                                                            | 3 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
+| **US37**          | Reporte de eficiencia del equipo                    | **TA009**           | Añadir reportes de observacion de la tarea por parte de lideres- gerentes | Programar la agregacion de reportes en el bounded context Reportes/Comentarios por parte de los lideres.                                       | 2 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
+| **US24**          | Reporte de tareas atrasadas                         | **TA010**           | Añadir reportes de tareas atrasadas por parte de desarrolladores          | Programar la funcionalidad del bounded context reportes para una mayor                                                                         | 2 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
+| **US10**          | Sincronización con herramientas externas            | **TA011**           | Iniciar sincronización                                                    | Se configura la integración para que las tareas y eventos se sincronicen automáticamente entre la plataforma y las herramientas seleccionadas. | 2 horas                   | Valentino Sandoval           |
+| **US10**          | Sincronización con herramientas externas            | **TA012**           | Reflejar cambios en ambas plataformas                                     | Los cambios realizados tanto en las herramientas externas como en la plataforma se reflejan en tiempo real.                                    | 3 horas                   | Valentino Sandoval           |
+| **US29**          | Integración con herramientas de videollamadas       | **TA013**           | Iniciar videollamada integrada                                            | Se implementa la funcionalidad para iniciar videollamadas directamente desde la plataforma, usando herramientas como Zoom o Google Meet.       | 2 horas                   |  Valentino Sandoval          |
 
 ### 2.5.2.2.3. Development Evidence for Sprint Review.
+
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
 | --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
@@ -2266,14 +2272,14 @@ En el Sprint 1, el objetivo principal fue desarrollar una landing page completam
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
 
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
+
 Durante este segundo sprint los integrantes del equipo desarrollaron los diferentes bounded context del dominio de ManageWise, con ayuda del framework Angular y los componentes de Angular Material.
 
-* John Arevalo 
-<br>
+- John Arevalo
+  <br>
 
 ![alt text](assets/images/bounded-context-task.jpg)
 
@@ -2282,8 +2288,8 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 ![alt text](assets/images/create-task2.png)
 <br>
 
-* Jose Alejo 
-<br>
+- Jose Alejo
+  <br>
 
 ![alt text](assets/images/ManageWiseCalendar.png)
 
@@ -2292,34 +2298,36 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 ![alt text](assets/images/ManageWiseCalendar2.png)
 <br>
 
-* Estefano Jaque - bounded context Reportes
-<br>
+- Estefano Jaque - bounded context Reportes
+  <br>
 
 ![alt text](assets/images/exevidencJaque.jpg)
 
+### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 **Introducción:**
-Durante este Sprint, se logró la documentación y despliegue de varios Endpoints correspondientes a los diferentes *bounded contexts* implementados por el equipo. Se utilizó OpenAPI para describir de forma estructurada los servicios Web desarrollados. A continuación, se presenta la relación de los Endpoints, las acciones soportadas y la respectiva documentación disponible.
+Durante este Sprint, se logró la documentación y despliegue de varios Endpoints correspondientes a los diferentes _bounded contexts_ implementados por el equipo. Se utilizó OpenAPI para describir de forma estructurada los servicios Web desarrollados. A continuación, se presenta la relación de los Endpoints, las acciones soportadas y la respectiva documentación disponible.
 
-Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, parámetros, ejemplos de respuesta, así como capturas de la interacción con los Web Services utilizando datos de muestra. También se proporciona el URL del repositorio de los Web Services y los *commit IDs* correspondientes al trabajo realizado en la documentación durante este Sprint.
+Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, parámetros, ejemplos de respuesta, así como capturas de la interacción con los Web Services utilizando datos de muestra. También se proporciona el URL del repositorio de los Web Services y los _commit IDs_ correspondientes al trabajo realizado en la documentación durante este Sprint.
 
 ### Tabla de Endpoints Documentados
 
-| Bounded Context   | Endpoint                     | Acción    | Verbo HTTP | Parámetros               | Ejemplo de Respuesta | Documentación/URL     |
-|-------------------|------------------------------|-----------|------------|--------------------------|----------------------|-----------------------|
-| Herramientas      | `/api/tools`                  | Obtener lista de herramientas | GET | `?category={string}`     | `[{"id": 1, "name": "Tool A"}]` | [Herramientas](https://managewise-7c633.web.app/tool/tools) |
-| Calendar          | `/api/calendar/events`        | Crear evento | POST       | `{"title": string, "date": string}` | `{"id": 1, "title": "Event A"}` | [Calendar](https://managewisecalendar.web.app/calendar/activities) |
-| Reportes          | `/api/reports`                | Obtener reportes generados | GET  | `?type={string}`          | `[{"id": 1, "type": "weekly"}]` | [Reportes](https://managewise-reports.web.app/reports) |
-| Tareas            | `/api/tasks/{id}`             | Eliminar tarea | DELETE   | `{id: int}`               | `{"message": "Task deleted"}` | [Tareas](https://daos-2402-managewise-tasks.web.app/tasks) |
-| Miembros          | `/api/members`                | Listar miembros | GET    | `?role={string}`          | `[{"id": 1, "name": "Member A"}]` | [Miembros](https://managewise-si729-team-manage.web.app/member/members) |
+| Bounded Context | Endpoint               | Acción                        | Verbo HTTP | Parámetros                          | Ejemplo de Respuesta              | Documentación/URL                                                       |
+| --------------- | ---------------------- | ----------------------------- | ---------- | ----------------------------------- | --------------------------------- | ----------------------------------------------------------------------- |
+| Herramientas    | `/api/tools`           | Obtener lista de herramientas | GET        | `?category={string}`                | `[{"id": 1, "name": "Tool A"}]`   | [Herramientas](https://managewise-7c633.web.app/tool/tools)             |
+| Calendar        | `/api/calendar/events` | Crear evento                  | POST       | `{"title": string, "date": string}` | `{"id": 1, "title": "Event A"}`   | [Calendar](https://managewisecalendar.web.app/calendar/activities)      |
+| Reportes        | `/api/reports`         | Obtener reportes generados    | GET        | `?type={string}`                    | `[{"id": 1, "type": "weekly"}]`   | [Reportes](https://managewise-reports.web.app/reports)                  |
+| Tareas          | `/api/tasks/{id}`      | Eliminar tarea                | DELETE     | `{id: int}`                         | `{"message": "Task deleted"}`     | [Tareas](https://daos-2402-managewise-tasks.web.app/tasks)              |
+| Miembros        | `/api/members`         | Listar miembros               | GET        | `?role={string}`                    | `[{"id": 1, "name": "Member A"}]` | [Miembros](https://managewise-si729-team-manage.web.app/member/members) |
 
 ### Ejemplos de Respuesta y Explicación
 
 #### **GET** `/api/tools`
+
 **Descripción**: Obtiene una lista de herramientas filtradas por categoría (opcional).
 
 **Parámetros**:
+
 - `category`: Filtro opcional para la categoría de la herramienta (string).
 
 **Ejemplo de Llamada**:
@@ -2329,19 +2337,19 @@ GET /api/tools?category=software
 **Ejemplo de Respuesta**:
 db.json:<br>
 
- {<br>
-      "id": 2,<br>
-      "projectName": "Proyecto 2",<br>
-      "transmitter": "Desarrollador",<br>
-      "issuerName": "Carlos Ramírez",<br>
-      "title": "Problemas con la base de datos",<br>
-      "Summary": "El servidor de base de datos se ha caído durante varias horas.",<br>
-      "detailedDescription": "El servidor de base de datos ha estado inactivo desde las 8:00 AM, afectando la disponibilidad de la plataforma.",<br>
-      "dateTime": "24 de septiembre-11:15 AM",<br>
-      "assignedTo": "Equipo de Infraestructura",<br>
-      "priority": "Alta",<br>
-      "suggestedActions": "Reiniciar el servidor y revisar la configuración de la base de datos."<br>
-    },<br>
+{<br>
+"id": 2,<br>
+"projectName": "Proyecto 2",<br>
+"transmitter": "Desarrollador",<br>
+"issuerName": "Carlos Ramírez",<br>
+"title": "Problemas con la base de datos",<br>
+"Summary": "El servidor de base de datos se ha caído durante varias horas.",<br>
+"detailedDescription": "El servidor de base de datos ha estado inactivo desde las 8:00 AM, afectando la disponibilidad de la plataforma.",<br>
+"dateTime": "24 de septiembre-11:15 AM",<br>
+"assignedTo": "Equipo de Infraestructura",<br>
+"priority": "Alta",<br>
+"suggestedActions": "Reiniciar el servidor y revisar la configuración de la base de datos."<br>
+},<br>
 
 ### Capturas de Pantalla
 
@@ -2362,17 +2370,17 @@ A continuación, se presentan algunas capturas de pantalla que muestran la inter
 
 ### Resumen de Acciones del Equipo
 
-| Integrante        | Acciones Realizadas                            |
-|-------------------|------------------------------------------------|
+| Integrante         | Acciones Realizadas                                     |
+| ------------------ | ------------------------------------------------------- |
 | Valentino Sandoval | Diseño e implementación de bounded context herramientas |
-| Jose Alejo        | Diseño e implementación de bounded context Calendar |
-| Estefano Jaque    | Diseño e implementación de bounded context Reportes |
-| John Arevalo      | Diseño e implementación de bounded context Tareas |
-| Diego Acuña       | Diseño e implementación de bounded context Miembros |
+| Jose Alejo         | Diseño e implementación de bounded context Calendar     |
+| Estefano Jaque     | Diseño e implementación de bounded context Reportes     |
+| John Arevalo       | Diseño e implementación de bounded context Tareas       |
+| Diego Acuña        | Diseño e implementación de bounded context Miembros     |
 
 Este Sprint se centró en mejorar la documentación de los Web Services desarrollados para cada uno de los bounded contexts, facilitando su integración y uso en futuras iteraciones.
 
-### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional y mejorada. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
 
@@ -2388,13 +2396,13 @@ Link landing page: https://horizon-managewise.github.io/LandingPage/
 
 #### Web Application:
 
-* John Arevalo  
+- John Arevalo
 
 ![alt text](assets/images/bounded-context-task.jpg)
 
 Link: https://daos-2402-managewise-tasks.web.app/tasks
 
-* Jose Alejo  
+- Jose Alejo
 
 ![alt text](assets/images/ManageWiseCalendar.png)
 
@@ -2402,20 +2410,28 @@ Link: https://daos-2402-managewise-tasks.web.app/tasks
 
 Link: https://managewisecalendar.web.app/calendar/activities
 
+- Diego Rolin Acuña Tomas
+
+![alt text](assets/images/BC-member/ManageWise-members-1.png)
+
+![alt text](assets/images/BC-member/ManageWise-members-3.png)
+
+Link: https://managewise-si729-member.web.app/member/members
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-|Integrante|Acciones realizadas durante el sprint|
-|-|-|
-| Valentino Sandoval|Diseño e implementacion de bounded context herramientas|
-| Jose Alejo|Diseño e implementacion de bounded context Calendar|
-| Estefano Jaque|Diseño e implementacion de bounded context Reportes|
-| John Arevalo| Diseño e implementacion de bounded context Tareas|
-| Diego Acuña|Diseño e implementacion de bounded context Miembros|
+| Integrante         | Acciones realizadas durante el sprint                   |
+| ------------------ | ------------------------------------------------------- |
+| Valentino Sandoval | Diseño e implementacion de bounded context herramientas |
+| Jose Alejo         | Diseño e implementacion de bounded context Calendar     |
+| Estefano Jaque     | Diseño e implementacion de bounded context Reportes     |
+| John Arevalo       | Diseño e implementacion de bounded context Tareas       |
+| Diego Acuña        | Diseño e implementacion de bounded context Miembros     |
 
 ![alt text](assets/images/Insigths.jpg)
 
 ### 5.2.2.8. About the product :
+
 [video About the product](https://drive.google.com/drive/folders/1Yf3cs4c9bwB1XwzLYqD0zeP0oRtKDAdJ?usp=sharing)
 
 ### Conclusiones
