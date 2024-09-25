@@ -2378,11 +2378,14 @@ Para la entrega del segundo sprint, se desplego la landing page, de manera compl
 
 Link landing page: https://horizon-managewise.github.io/LandingPage/
 
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-4.png)
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-5.png)
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-1.png)
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-2.png)
-![alt text](assets/images/Execution-Evidence-for-Sprint-Review-3.png)
+![alt text](assets/images/TP_images/landingPageEvidence1.png)
+![alt text](assets/images/TP_images/landingPageEvidence2.png)
+![alt text](assets/images/TP_images/landingPageEvidence3.png)
+![alt text](assets/images/TP_images/landingPageEvidence4.png)
+![alt text](assets/images/TP_images/landingPageEvidence5.png)
+![alt text](assets/images/TP_images/landingPageEvidence6.png)
+![alt text](assets/images/TP_images/landingPageEvidence7.png)
+![alt text](assets/images/TP_images/landingPageEvidence8.png)
 
 <br>
 
