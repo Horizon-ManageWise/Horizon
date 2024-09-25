@@ -53,6 +53,8 @@ Product: ManageWise
 |TP|24/09/2024|Diego Acuña|Team Collaboration Insights during Sprint|
 
 ## Project Report Collaboration Insights
+URL : https://github.com/Horizon-ManageWise/Horizon <br>
+
 **TP:**<br>
 |Integrante|Tarea Asignada|
 |-|-|
@@ -62,6 +64,7 @@ Product: ManageWise
 | Diego Rolin Acuña Tomas | Software Deployment Evidence for Sprint Review: Preparar la evidencia de despliegue del software, mostrando los entornos en los que se ha implementado y los resultados de estas acciones.<br> |
 | Arévalo Meza John | Team Collaboration Insights during Sprint: Recopilar y presentar información sobre la colaboración del equipo durante el sprint, destacando los procesos de comunicación, desafíos y cómo se superaron. |
 
+
 ## Contenido
 
 ### Tabla de contenidos
@@ -69,8 +72,8 @@ Product: ManageWise
   - [Student Outcome](#student-outcome)
   - [5.2.2. Sprint 2](#522-sprint-2)
     - [5.2.2.1. Sprint Planning 2](#2-5221-sprint-planning-2)
-    - [5.2.2.2. Sprint Backlog 2](#25222-sprint-backlog-2)
-    - [5.2.2.3. Development Evidence for Sprint Review.](#25223-development-evidence-for-sprint-review)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
     - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
     - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
     - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
@@ -89,11 +92,11 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio especifico| Acciones Realizadas|Conclusiones|
 |:-|:-|:-|
-| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia|**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes.| **Estefano Oscar Jaque Peña**<br>TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo  el trabajo en grupo |
-| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia |**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes <br> |**Estefano Oscar Jaque Peña**<br>TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo  |
+  | 1. Comunica oralmente con efectividad a diferentes rangos de audiencia|**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes.Para hacerlo se crearon reuniones de trabajo para decidir que estilos y componentes crearíamos para que todos los usen al crear sus Bounded Context. El Team Leader aviso en el grupo que se podían programar reuniones en Discord para ayudar a solucionar alguna duda, por ello tuvimos reuniones para solucionar problemas relacionadas a la creación de las páginas web.<br> **Valentino Sandoval Paiva :** <br>TP: 1. Me encargué de los puntos del informe, así como del desarrollo frontend de nuestra plataforma. Además, implementé el "bounded context de herramientas"<br> **Jose Antonio Alejo Cardenas** <br>TP: Para esta TP, realicé actividades como el Development Evidence for Sprint Review, preparando las evidencias a presentar concentradas en el core especificamente las funcionalidades desarrolladas durante el sprint, y el Execution Evidence for Sprint Review, demostrando la ejecucion de cada tarea funcional implementada por cada integrante del trabajo a integrarse proximamente en otros ambientes como produccion o QA.<br>**Diego Rolin Acuña Tomas** <br>TP: Realice el Bounded Context del apartado de miembros. Para hacerlo se crearon reuniones de trabajo para decidir que estilos y componentes crearíamos para que todos los usen al crear sus Bounded Context. El Team Leader aviso en el grupo que se podían programar reuniones en Discord para ayudar a solucionar alguna duda, por ello tuvimos reuniones para solucionar problemas relacionadas a la creación de las páginas web.| **Estefano Oscar Jaque Peña**<br>TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo  el trabajo en grupo , comparti parte de mi codigo para que todos puedan tener la misma visualizacion para el toolbar y sidebar <br>**Valentino Sandoval Paiva :** <br>TP: En esta entrega, aprendí a gestionar tanto el desarrollo frontend como la creación de informes técnicos de manera eficiente. Al implementar el "bonded context" en la aplicación, profundicé en la integración de componentes y la optimización de la comunicación entre ellos. Esto me permitió mejorar mis habilidades en arquitectura de aplicaciones y comprensión de la lógica que conecta diferentes partes del sistema, asegurando una experiencia de usuario más fluida y coherente. Además, adquirí una visión más amplia sobre la importancia de mantener la consistencia entre el diseño y la funcionalidad.<br>**Jose Antonio Alejo Cardenas**<br> TP: En esta TP, presente de las evidencias y la ejecución de las tareas, adapté mi comunicación para asegurarme de que fuera clara y comprensible para todos, desde mis compañeros de equipo mas experimentados hasta el menos experimentado. Me esforcé en hacer que los avances fueran entendidos por todos los integrantes, destacando su importancia y el valor del trabajo realizado. Esto me ayudo a clarificar mis ideas para llegar a distintos grupos de personas.<br>**Diego Rolin Acuña Tomas** <br>TP: Para la correcta creación de los Bounded Context se tienen que compartir aspectos como estilos y componentes que se usaran, pues son partes de la misma página web. También se debe motivar a cada miembro del equipo a compartir sus dudas, ya que más rápidamente podremos solucionarlo como equipo.|
+| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia |**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes <br><br>**Valentino Sandoval Paiva:** <br>TP: 1. Me encargué de los puntos del informe, así como del desarrollo frontend de nuestra plataforma. Además, implementé el "bounded context de herramientas" <br>**Diego Rolin Acuña Tomas** <br>TP: Realice el Bounded Context del apartado de miembros. Las reuniones en Discord eran frecuentes para ponernos de acuerdo, pero solo si la duda no podía ser solucionada por escrito en nuestro grupo de WhatsApp, por escrito se solucionaron dudas sobre el código del Bounded Context y el código de MarkDown, también lo usamos para enviar links del Figma o un Word online para tener una lista de actividades separadas por cada miembro del grupo.|**Estefano Oscar Jaque Peña**<br>TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo <br>**Valentino Sandoval Paiva:** <br>TP:  A lo largo de esta entrega, desarrollé mi capacidad para comunicarme de manera efectiva con diferentes rangos de audiencia. Al gestionar tanto el informe como el desarrollo frontend, tuve que adaptar mi lenguaje técnico para asegurar que todos, desde los desarrolladores hasta los miembros no técnicos del equipo, comprendieran el avance del proyecto. La implementación del "bonded context" me brindó la oportunidad de explicar conceptos complejos de una manera clara y accesible, ajustando el nivel de detalle según el público, lo que facilitó la colaboración y la toma de decisiones informadas.<br>**Jose Antonio Alejo Cardenas**<br> TP: En esta TP, Redacte las evidencias de desarrollo y ejecución, me enfoqué en escribir de manera clara y sencilla, facilitando que la información técnica fuera entendida por diferentes personas, desde miembros del equipo hasta quienes no conocen muchos tecnicismos. Esto me ayudó a mejorar mi capacidad de transmitir detalles técnicos de forma efectiva, al redactarlos de una manera comprensible para un publico general.<br>**Diego Rolin Acuña Tomas** <br>TP: Para el desarrollo de este sprint comprendí que muchas dudas pueden solucionarse enviando mensajes escritos, y que es la mejor manera de pasar links y guardarlos para futuras presentaciones.|
 
 ### 5.2.2. Sprint 2
-### 2 5.2.2.1. Sprint Planning 2
+### 5.2.2.1. Sprint Planning 2
 El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
 
 | Sprint #| Sprint 2|
@@ -105,13 +108,13 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Prepared By**|Jaque Peña, Estefano Oscar|
 | **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar|
 | **Sprint Goal & User Stories**||
-| **Sprint 1 Goal**|Nuestro enfoque está en finalizar el informe y e implementar cada uno su bounded context lo cual separamos el dia de la reunion |
-| **Sprint 1 Velocity**|El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US14 (2 puntos)<br>- US19 (2 puntos)<br>- US29 (3 puntos)<br>- US25 (3 puntos)<br>- US10 (3 puntos)<br>- US24 (3 puntos)<br>- US37 (3 puntos) |
+| **Sprint 2 Goal**|Nuestro enfoque está en separar las tareas para cada integrante respecto al bounded context que elijan y finalizar el informe detallando el trabajo realizado por cada integrante|
+| **Sprint 2 Velocity**|El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US14 (2 puntos)<br>- US19 (2 puntos)<br>- US29 (3 puntos)<br>- US25 (3 puntos)<br>- US10 (3 puntos)<br>- US24 (3 puntos)<br>- US37 (3 puntos) |
 | **Sum of Story Points**| 19|
 
-### 2.5.2.2.2. Sprint Backlog 2
+### 5.2.2.2. Sprint Backlog 2
 ### Introducción
-En el Sprint 2, el objetivo principal fue realizar cada alumno un bounded context que tenga relacion con la logica de negocio, que cada parte de la pagina web que cada integrante realice tenga una navegación sencilla y . Para lograr este objetivo, dividimos las User Stories en tareas más pequeñas (Work-Items/Tasks) y las asignamos a los miembros del equipo utilizando Trello, asegurándonos de una estimación adecuada y seguimiento efectivo.
+En el Sprint 2, el objetivo principal fue realizar cada alumno un bounded context que tenga relacion con la logica de negocio y que cada parte de la pagina web que cada integrante realice tenga una navegación sencilla en los que se pueda apreciar lo trabajado en la clase. Para lograr este objetivo, dividimos los bounded context en Tareas, Calendarios, Miembros ,Reporte/Comentarios y Herramientas.Ademas se realizo la actualizacion de la landing page.
 
 ![alt text](assets/images/TP_images/Sprint2Trello.png)
 
@@ -133,7 +136,9 @@ En el Sprint 2, el objetivo principal fue realizar cada alumno un bounded contex
 | **US10** | Sincronización con herramientas externas | **TA012** | Reflejar cambios en ambas plataformas | Los cambios realizados tanto en las herramientas externas como en la plataforma se reflejan en tiempo real. | 3 horas | Valentino Sandoval |
 | **US29** | Integración con herramientas de videollamadas | **TA013** | Iniciar videollamada integrada | Se implementa la funcionalidad para iniciar videollamadas directamente desde la plataforma, usando herramientas como Zoom o Google Meet. | 2 horas | Valentino Sandoval |
 
-### 2.5.2.2.3. Development Evidence for Sprint Review.
+### 5.2.2.3. Development Evidence for Sprint Review.
+
+
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
 | --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
@@ -236,10 +241,10 @@ A continuación, se presentan algunas capturas de pantalla que muestran la inter
 - GitHub - Proyecto Web Services: https://github.com/Horizon-ManageWise/Horizon
 
 - **Commits relacionados con la documentación**:
-  - Managewise-Herramientas: https://github.com/SoyValzzz/Managewise-tools - Documentación de Herramientas
-  - [Managewise-Calendar](https://github.com/Firtness/ManageWiseCalendar) - Documentación de Calendar
-  - [Managewise-Reportes](https://github.com/estefanojaque/Managewise-reportes) - Documentación de Reportes
-  - Managewise-Tareas:https://github.com/JohnArvlo/my-json-server-tareas -
+  - Managewise-Herramientas: https://github.com/SoyValzzz/Managewise-tools 
+  - Managewise-Calendar https://github.com/Firtness/ManageWiseCalendar
+  - Managewise-Reportes: (https://github.com/estefanojaque/Managewise-reportes)
+  - Managewise-Tareas: https://github.com/JohnArvlo/my-json-server-tareas 
   
    Documentación de Tareas
 
@@ -270,6 +275,7 @@ Link landing page: https://horizon-managewise.github.io/LandingPage/
 <br>
 
 #### Web Application:
+
 * John Arevalo  
 
 ![alt text](assets/images/bounded-context-task.jpg)
@@ -277,20 +283,37 @@ Link landing page: https://horizon-managewise.github.io/LandingPage/
 Link: https://daos-2402-managewise-tasks.web.app/tasks
 
 * Estefano Oscar Jaque Peña  
-**Internacionalización:**
-
+**Internacionalización:**  
+English:
 ![alt text](assets/images/TP_images/ENReports.png)
-
+Español:
 ![alt text](assets/images/TP_images/ESReports.png)
 **ADD Reports:**
-<br>![alt text](assets/images/TP_images/ADDReports.png)<br>
-<br>![alt text](assets/images/TP_images/ADDReports2.png)<br>
+![alt text](assets/images/TP_images/ADDReports.png)
+![alt text](assets/images/TP_images/ADDReports2.png)
+
 **EDIT Reports:**
-<br>![alt text](assets/images/TP_images/EDITReports1.png)<br>
+![alt text](assets/images/TP_images/EDITReports.png)
 
+![alt text](assets/images/TP_images/EDITReports2.png)
 
+**DELETE Reports**  
+Se eliminara el report que tiene todas las partes con PRUEBA EDIT
 
-Link: https://managewise-reports.web.app
+![alt text](assets/images/TP_images/EDITReports2.png)
+
+![alt text](assets/images/TP_images/DELETEReports.png)
+
+**Link:**  
+https://managewise-reports.web.app
+
+* Jose Alejo  
+
+![alt text](assets/images/ManageWiseCalendar.png)
+
+![alt text](assets/images/ManageWiseCalendar2.png)
+
+Link: https://managewisecalendar.web.app/calendar/activities
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -306,18 +329,11 @@ Link: https://managewise-reports.web.app
 
 ### Conclusiones
 
-- Jose Alejo:
-  La creación y diseño de ManageWise han sido un esfuerzo integral enfocado en optimizar la gestión de proyectos para startups de desarrollo de software. A través de una serie de sistemas bien estructurados, como el Navigation System, Labeling System, y Searching System, se ha buscado proporcionar una experiencia fluida y centrada en las necesidades de los usuarios, tanto para líderes o gerentes de empresas como para equipos de desarrollo.
+El desarrollo de "Horizon" ha sido un proceso tanto desafiante como gratificante. El equipo ha demostrado un gran compromiso y una excelente capacidad de colaboración, logrando identificar las necesidades clave de los usuarios, diseñar una interfaz intuitiva y funcional, y desarrollar una plataforma sólida y escalable. A lo largo del proyecto, se realizaron pruebas exhaustivas para garantizar la calidad del producto, validando las funcionalidades clave y asegurando que la plataforma cumpla con los objetivos establecidos.
 
-- Valentino Sandoval:
-  Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas como inteligencia artificial y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
+Durante este proyecto, el equipo ha adquirido valiosa experiencia en metodologías ágiles, como Scrum, y en principios de diseño orientado a dominios (DDD), particularmente con la implementación de bounded contexts, lo que ha permitido abordar problemas complejos de manera organizada y eficiente. Se recomienda para futuros proyectos mantener un enfoque centrado en el usuario, realizar pruebas continuas y fomentar la flexibilidad ante cambios, además de mantener una comunicación fluida y efectiva dentro del equipo.
 
-- Estefano Oscar Jaque Peña:<br>
-  En el desarrollo del proyecto , se utilizaron varias metodologías y herramientas de gestión de proyectos, incluido Lean UX, a lo largo del proyecto, lo que permitió definir claramente los problemas y las hipótesis a validar. Para garantizar que los requerimientos del usuario se alinearan con las soluciones propuestas, se debieron desarrollar User Stories, Product Backlog y Sprints. Los diagramas de clases y las bases de datos también brindaron una base sólida para la implementación del sistema. Este proceso permitió optimizar la organización y el flujo de trabajo dentro del equipo, lo que permitió la entrega de un producto eficiente y adaptable a las necesidades del mercado.
-
-- John Arévalo:  
-  El desarrollo de Horizon nos enseñó la importancia de crear sistemas bien estructurados como el Navigation System, Labeling System, y Searching System para garantizar una experiencia de usuario fluida. A lo largo del proyecto, aprendimos cómo la integración de tecnologías avanzadas puede no solo optimizar la gestión de proyectos, sino también facilitar la colaboración y la toma de decisiones informadas. De esta manera se promovió una cultura de innovación y a su vez, se logró profundizar en nuevas áreas.
-  <br><br>
+En conclusión, el desarrollo de esta plataforma ha sido una experiencia enriquecedora que ha permitido al equipo aprender, crecer y fortalecer sus habilidades en desarrollo de software. Las lecciones aprendidas y las recomendaciones para proyectos futuros servirán como un pilar fundamental para continuar mejorando, con el objetivo de ofrecer soluciones que satisfagan las necesidades del usuario de manera eficiente y escalable.
 
 ### Bibliografia
 
