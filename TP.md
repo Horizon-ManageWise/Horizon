@@ -64,6 +64,7 @@ URL : https://github.com/Horizon-ManageWise/Horizon <br>
 | Diego Rolin Acuña Tomas | Software Deployment Evidence for Sprint Review: Preparar la evidencia de despliegue del software, mostrando los entornos en los que se ha implementado y los resultados de estas acciones.<br> |
 | Arévalo Meza John | Team Collaboration Insights during Sprint: Recopilar y presentar información sobre la colaboración del equipo durante el sprint, destacando los procesos de comunicación, desafíos y cómo se superaron. |
 
+
 *Pull requests evidence:*
 
 ![alt text](assets/images/TP_images/1.png)
@@ -78,23 +79,48 @@ URL : https://github.com/Horizon-ManageWise/Horizon <br>
 ![alt text](assets/images/TP_images/6.jpg)
 ![alt text](assets/images/TP_images/8.jpg)
 
+
 ## Contenido
 
 ### Tabla de contenidos
 
+- [Horizon](#horizon)
+- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
+  - [Ingenieria de Software](#ingenieria-de-software)
+  - [5to ciclo](#5to-ciclo)
+  - [Desarrollo de Aplicaciones Open Source](#desarrollo-de-aplicaciones-open-source)
+    - [**Sección:** WS53](#sección-ws53)
+    - [**Profesor:** Juan Antonio Flores Moroco](#profesor-juan-antonio-flores-moroco)
+    - [Informe de Trabajo Final](#informe-de-trabajo-final)
+    - ["Horizon"](#horizon-1)
+    - ["ManageWise"](#managewise)
+    - [**Integrantes:**](#integrantes)
+    - [Agosto, 2024](#agosto-2024)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Contenido](#contenido)
+    - [Tabla de contenidos](#tabla-de-contenidos)
   - [Student Outcome](#student-outcome)
-  - [5.2.2. Sprint 2](#522-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](#2-5221-sprint-planning-2)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
     - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [Introducción](#introducción)
     - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
     - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
     - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
     - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+    - [Tabla de Endpoints Documentados](#tabla-de-endpoints-documentados)
+    - [Ejemplos de Respuesta y Explicación](#ejemplos-de-respuesta-y-explicación)
+      - [**GET** `/api/tools`](#get-apitools)
+    - [Capturas de Pantalla](#capturas-de-pantalla)
+    - [Repositorio y Commits](#repositorio-y-commits)
+    - [Resumen de Acciones del Equipo](#resumen-de-acciones-del-equipo)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [Web Application:](#web-application)
     - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-  - [Conclusiones](#conclusiones)
-  - [Bibliografia](#bibliografia)
-  - [Anexos](#anexos)
+    - [Conclusiones](#conclusiones)
+    - [Bibliografia](#bibliografia)
+    - [Anexos](#anexos)
 
 ## Student Outcome
 
