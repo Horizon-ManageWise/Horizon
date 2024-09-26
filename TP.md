@@ -64,6 +64,19 @@ URL : https://github.com/Horizon-ManageWise/Horizon <br>
 | Diego Rolin Acuña Tomas | Software Deployment Evidence for Sprint Review: Preparar la evidencia de despliegue del software, mostrando los entornos en los que se ha implementado y los resultados de estas acciones.<br> |
 | Arévalo Meza John | Team Collaboration Insights during Sprint: Recopilar y presentar información sobre la colaboración del equipo durante el sprint, destacando los procesos de comunicación, desafíos y cómo se superaron. |
 
+*Pull requests evidence:*
+
+![alt text](assets/images/TP_images/1.png)
+
+*Commits evidence:*
+
+![alt text](assets/images/TP_images/2.jpg)
+![alt text](assets/images/TP_images/3.jpg)
+![alt text](assets/images/TP_images/4.jpg)
+
+*Issues evidence:*
+![alt text](assets/images/TP_images/6.jpg)
+![alt text](assets/images/TP_images/8.jpg)
 
 ## Contenido
 
@@ -142,16 +155,34 @@ En el Sprint 2, el objetivo principal fue realizar cada alumno un bounded contex
 
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
 | --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | a58791b   | feat: added US43 gherkin | feat: added US43 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 29d0d8e   | feat: added US44 gherkin | feat: added US44 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 9c68a0f   | feat: added US45 gherkin | feat: added US45 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Horizon/pull/60 |feature/Sprint2-sprintBacklog-services_Documentation_Evidence|75c0c75| Se realizo la agregacion de los videos y paginas| Created the README file.|25/09/2024|
+| https://github.com/Horizon-ManageWise/Horizon/pull/59 | development | 6548432   | feat:Testing Suite Evidence for Sprint Review  | feat:Testing Suite Evidence for Sprint Review  | 25/09/2024|
+| https://github.com/Horizon-ManageWise/Horizon/pull/58 |development|a19b6ac |feature:Sprint Backlog 2 update|Se realizo una actualizacion del product backlog | 25/09/2024|
+| https://github.com/Horizon-ManageWise/Horizon/pull/57 | development | 29ca9f3 i   | feature/execution-evidence-from-sprint-review|feature/execution-evidence-from-sprint-review | 24/09/2024              |
+| https://github.com/Horizon-ManageWise/Horizon/pull/56 | docs/landingpage-deployment-evidence | 7fe8f1f   | feature: added landing page deployment evidence | feature: added landing page deployment evidence | 24/09/2024              |
+| https://github.com/Horizon-ManageWise/Horizon/pull/50 | fix/diagrama-clases | 6e41532 | feature: Add bounded context Reports images and Information | feature: Add bounded context Reports images and Information | 24/09/2024              |
 
+![alt text](assets/images/TP_images/pull_R.png)
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+Durante este sprint, se realizaron la implementación del Web Aplication. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
+
+| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
+|-|-|-|-|-|-|
+| Horizon-ManageWise/Testing | feature/TP | 48232594b722a6d3b1948c723cf903655a12bd35 |Initial commit  | Initial commit | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | 98bb0d238d4305c241a5e31f5bd0f658915553be |feature: added US10 gherkin  | feature: added US10 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | 4fe61f01bd7f0d6f19c3df562a72f05ff993746e |feature: added US14 gherkin  | feature: added US14 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US18 gherkin  | feature: added US18 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | b02f2bb10c47d255857145e96eb54f72cb66d383 |feature: added US19 gherkin  | feature: added US19 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | 9db14c0bd4735c9c0495d405d35f9c87f75109fe |feature: added US24 gherkin  | feature: added US24 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | a86f36565e3d66d635b71333d123cca9d9486dc8 |feature: added US25 gherkin  | feature: added US25 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | 903934c1d941c27b8a37108320411a5b322ffaa0 |feature: added US29 gherkin  | feature: added US29 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US34 gherkin  | feature: added US34 gherkin | 24/09/2024|
+| Horizon-ManageWise/Testing | feature/TP | f8db7186ad943db1e5c671242d00aec94ab6eec0 |feature: added US37 gherkin  | feature: added US37 gherkin | 24/09/2024|
+
+<br>
+Link del repositorio Commints: https://github.com/Horizon-ManageWise/Testing/tree/feature/TP
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 Durante este segundo sprint los integrantes del equipo desarrollaron los diferentes bounded context del dominio de ManageWise, con ayuda del framework Angular y los componentes de Angular Material.
@@ -166,7 +197,7 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 ![alt text](assets/images/create-task2.png)
 <br>
 
-Link Video: 
+Link Video: https://drive.google.com/drive/folders/1rvTZbtVs2qm98oGLgsAnPNa0LdZUxVGQ?usp=drive_link
 
 * Jose Alejo 
 <br>
@@ -193,6 +224,13 @@ Link Video: https://drive.google.com/file/d/11q8YnRJGMzfx-n6AbBIfxvugxmS4xuVw/vi
 ![alt text](assets/images/TP_images/BDTools.jpeg)
 
 Link Video: https://drive.google.com/file/d/1EGZlBOQEw8RfEzKQKlg4hFatObwWQRFM/view?usp=sharing 
+
+- Diego Acuña - bounded context Members
+  <br>
+
+![alt text](assets/images/BC-member/ManageWise-members-1.png)
+
+Link Video: https://drive.google.com/file/d/13PZa8b2W9nk5ZUygtHGwDKG9wxmd99qW/view?usp=sharing
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 **Introducción:**
@@ -348,6 +386,13 @@ Se eliminara el report que tiene todas las partes con PRUEBA EDIT
 Link: 
 
 https://managewise-vsp.web.app
+
+
+- Diego Acuña - bounded context Members
+  <br>
+
+![alt text](assets/images/BC-member/ManageWise-members-1.png)
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 |Integrante|Acciones realizadas durante el sprint|
