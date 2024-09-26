@@ -66,31 +66,21 @@ URL : https://github.com/Horizon-ManageWise/Horizon <br>
 
 **Pull requests evidence:**
 
-- Estefano Oscar Jaque Peña:<br>
-  
-- Diego Rolin Acuña Tomas:<br>
-  
-- Jose Antonio Alejo Cardenas:<br>
-
-  ![alt text](assets/images/Jose-pull%20request.png)
-  
-- John Telesforo Arevalo Meza:<br>
-  
-- Valentino Sandoval Paiva:<br>
+![alt text](assets/images/Register-Pull%20requests%20evidence.png)
 
 **Commits evidence:**
 
-- Estefano Oscar Jaque Peña:<br>
+![alt text](assets/images/Register-Commits%20evidence.png)
+![alt text](assets/images/Register-Commits%20evidence2.png)
+![alt text](assets/images/Register-Commits%20evidence3.png)
+![alt text](assets/images/Register-Commits%20evidence4.png)
+![alt text](assets/images/Register-Commits%20evidence5.png)
 
-- Diego Rolin Acuña Tomas:<br>
-  
-- Jose Antonio Alejo Cardenas:<br>
-  
-  ![alt text](assets/images/Jose-commit.png)
-  
-- John Telesforo Arevalo Meza:<br>
-  
-- Valentino Sandoval Paiva:<br>
+
+**Issues evidence:**
+
+![alt text](assets/images/Register-Issues%20evidence.png)
+![alt text](assets/images/Register-Issues%20evidence2.png)
 
 ## Contenido
 
