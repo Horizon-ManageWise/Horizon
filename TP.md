@@ -109,8 +109,8 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar|
 | **Sprint Goal & User Stories**||
 | **Sprint 2 Goal**|Nuestro enfoque está en separar las tareas para cada integrante respecto al bounded context que elijan y finalizar el informe detallando el trabajo realizado por cada integrante|
-| **Sprint 2 Velocity**|El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US14 (2 puntos)<br>- US19 (2 puntos)<br>- US29 (3 puntos)<br>- US25 (3 puntos)<br>- US10 (3 puntos)<br>- US24 (3 puntos)<br>- US37 (3 puntos) |
-| **Sum of Story Points**| 19|
+| **Sprint 2 Velocity**|El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US14 (2 puntos)<br>- US19 (2 puntos)<br>- US29 (3 puntos)<br>- US10 (3 puntos)<br>- US24 (3 puntos)<br>- US37 (3 puntos)<br>- US18 (5 puntos)<br>- US34 (5 puntos) |
+| **Sum of Story Points**|26|
 
 ### 5.2.2.2. Sprint Backlog 2
 ### Introducción
@@ -122,21 +122,23 @@ En el Sprint 2, el objetivo principal fue realizar cada alumno un bounded contex
 |--|--|--|--|-- |--|--|--|
 | **User<br>Story** |                                                     | **Work-Item /Task** |                                                 |                                                                                                                          | **Estimation<br>(Hours)** | **Assigned<br>To**            | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
 | **ID**        | **Title**                                             | **ID**          | **Title**                                       | **Description**                                                                                                          |                       |                              |                                                            |
-| **US19**| Integración de cronogramas                     | **TA001**       | Añadir actividades al calendario           | Facilitar la creación de nuevas actividades en el calendario, donde los usuarios pueden definir el nombre.                 | 2 horas               | Alejo Cardenas,Jose    | Done                                                       |
-| **US19**| Integración de cronogramas                              | **TA002**        | Mostrar actividades del calendario                  | Mostrar todas las actividades programadas en el calendario en una vista clara y organizada.       | 4 horas               | Alejo Cardenas,Jose   | Done     
-| **US14**| Herramienta de seguimiento de tareas en tiempo real | **TA003**  | Implementar estados de tareas   | Agregar la funcionalidad de cambiar el estado de las tareas, asegurando asi seguimiento constante por parte del líder   | 5 horas | Arevalo Meza, John Telesforo   | Done    |
-| **US25**| Gestión de dependencias de tareas       | **TA005**       | Agregar un apartado para ver las dependencias de una tarea            | Agregar atributos y hacerlos visibles, para asi ver cuales son las condiciones de estas| 4 horas| Arevalo Meza, John Telesforo | Done  |
-| **US37**| Reporte de eficiencia del equipo  | **TA006** |Añadir reportes de eficiencia del proyecto por parte del desarrollador| Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.  | 3 horas               | Jaque Peña, Estefano Oscar     | Done      
-| **US37**| Reporte de eficiencia del equipo  | **TA007** | Eliminar reportes de Lider y desarrollares | Desarrollar la eliminacion de reportes generados por los trabajadores del proyecto | 3 horas | Jaque Peña, Estefano Oscar | Done                                                       |
-| **US37**| Reporte de eficiencia del equipo | **TA008**  | Actualizar reportes generadoros por trabajadores y lideres del equipo | Implementar la actualizacion de reportes generador por los trabajores del proyecto.| 3 horas               | Jaque Peña, Estefano Oscar     | Done |
+| **US19**| Integración de cronogramas| **TA001**| Añadir actividades al calendario| Facilitar la creación de nuevas actividades en el calendario, donde los usuarios pueden definir el nombre.| 2 horas| Alejo Cardenas,Jose | Done|
+| **US19**| Integración de cronogramas|**TA002**| Mostrar actividades del calendario| Mostrar todas las actividades programadas en el calendario en una vista clara y organizada.| 4 horas| Alejo Cardenas,Jose|Done|
+| **US14**| Herramienta de seguimiento de tareas en tiempo real|**TA003**|Implementar estados de tareas|Agregar la funcionalidad de cambiar el estado de las tareas, asegurando asi seguimiento constante por parte del líder | 5 horas | Arevalo Meza, John Telesforo |Done|
+| **US25**| Gestión de dependencias de tareas|**TA005**| Agregar un apartado para ver las dependencias de una tarea| Agregar atributos y hacerlos visibles, para asi ver cuales son las condiciones de estas| 4 horas| Arevalo Meza, John Telesforo | Done  |
+| **US37**| Reporte de eficiencia del equipo  | **TA006** |Añadir reportes de eficiencia del proyecto por parte del desarrollador| Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.  | 3 horas               | Jaque Peña, Estefano Oscar| Done      
+| **US37**| Reporte de eficiencia del equipo  | **TA007** | Eliminar reportes de Lider y desarrollares | Desarrollar la eliminacion de reportes generados por los trabajadores del proyecto | 3 horas | Jaque Peña, Estefano Oscar | Done|
+| **US37**| Reporte de eficiencia del equipo | **TA008**  | Actualizar reportes generadoros por trabajadores y lideres del equipo | Implementar la actualizacion de reportes generador por los trabajores del proyecto.| 3 horas| Jaque Peña, Estefano Oscar     | Done |
 | **US37**| Reporte de eficiencia del equipo  | **TA009** |Añadir reportes de observacion de la tarea por parte de lideres- gerentes| Programar la agregacion de reportes en el bounded context Reportes/Comentarios por parte de los lideres.| 2 horas| Jaque Peña, Estefano Oscar | Done |
 | **US24**| Reporte de tareas atrasadas  | **TA010** |Añadir reportes de tareas atrasadas por parte de desarrolladores| Programar la funcionalidad del bounded context reportes para una mayor  |2 horas  | Jaque Peña, Estefano Oscar     | Done  |
 | **US10**| Sincronización con herramientas externas | **TA011** | Iniciar sincronización | Se configura la integración para que las tareas y eventos se sincronicen automáticamente entre la plataforma y las herramientas seleccionadas. | 2 horas | Valentino Sandoval |
 | **US10**| Sincronización con herramientas externas | **TA012** | Reflejar cambios en ambas plataformas | Los cambios realizados tanto en las herramientas externas como en la plataforma se reflejan en tiempo real. | 3 horas | Valentino Sandoval |
 | **US29**| Integración con herramientas de videollamadas | **TA013** | Iniciar videollamada integrada | Se implementa la funcionalidad para iniciar videollamadas directamente desde la plataforma, usando herramientas como Zoom o Google Meet. | 2 horas | Valentino Sandoval |
+| **US18**|Integración de gráfico radial de habilidades|**TA014**|Separar los miembros en equipos de trabajo por sus habilidades|Se implementa la capacidad de asignar un miembro a un equipo de trabajo que los separa por especialidad|2 horas|Diego Acuña |
+| **US34**|Sistema de evaluación automática de productividad|**TA015**| Mostrar con una grafica el avance| Se implementa una grafica en la seccion de miembros que permite conocer el avance respecto al total de tareas asignadas| 2 horas |Diego Acuña|
+
 
 ### 5.2.2.3. Development Evidence for Sprint Review.
-
 
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
 | --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
@@ -164,6 +166,8 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 ![alt text](assets/images/create-task2.png)
 <br>
 
+Link Video: 
+
 * Jose Alejo 
 <br>
 
@@ -174,16 +178,21 @@ Durante este segundo sprint los integrantes del equipo desarrollaron los diferen
 ![alt text](assets/images/ManageWiseCalendar2.png)
 <br>
 
+Link Video: https://drive.google.com/file/d/1v8EwJOrF5gchaASTJghXZPNo3dXT1mUW/view?usp=sharing
+
 * Estefano Jaque - bounded context Reportes
 <br>
 
 ![alt text](assets/images/exevidencJaque.jpg)
+
+Link Video: https://drive.google.com/file/d/11q8YnRJGMzfx-n6AbBIfxvugxmS4xuVw/view?usp=sharing
 
 * Valentino Sandoval - bounded context Reportes
 <br>
 
 ![alt text](assets/images/TP_images/BDTools.jpeg)
 
+Link Video: https://drive.google.com/file/d/1EGZlBOQEw8RfEzKQKlg4hFatObwWQRFM/view?usp=sharing 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 **Introducción:**
@@ -338,7 +347,7 @@ Se eliminara el report que tiene todas las partes con PRUEBA EDIT
 
 Link: 
 
-
+https://managewise-vsp.web.app
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 |Integrante|Acciones realizadas durante el sprint|
