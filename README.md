@@ -2221,7 +2221,7 @@ Durante este sprint, las actividades de implementación se organizaron siguiendo
 
 Este enfoque permitió un desarrollo colaborativo y organizado, con un seguimiento claro de cada tarea y la constante integración de funcionalidades en el proyecto.
 
-![alt text](assets/images/imagen_participacion.jpg)
+![alt text](assets/images/team.jpeg)
 
 ### 5.2.2. Sprint 2
 
