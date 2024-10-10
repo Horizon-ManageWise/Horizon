@@ -2215,6 +2215,8 @@ Durante este sprint, las actividades de implementación se organizaron siguiendo
 
 **Asignación de Tareas:** Para este sprint, se dividieron las tareas en dos grandes áreas: diseño e implementación de la landing page. Todos los integrantes del equipo participaron activamente en la fase de diseño, colaborando en la conceptualización y estructura visual de la página. Una vez definidos los diseños, las tareas de implementación fueron asignadas de acuerdo con la especialización de cada miembro, asegurando que todas las funcionalidades fueran correctamente desarrolladas.
 
+**Desarrollo de Funcionalidades:** El desarrollo de las funcionalidades se llevó a cabo de manera iterativa. Los miembros del equipo trabajaron de forma individual o en pares para implementar las historias de usuario asignadas. Se utilizó Git para controlar las versiones del código, permitiendo una integración continua y evitando conflictos durante el desarrollo.
+
 **Despliegue y Validación:** Al final del sprint, se llevó a cabo el despliegue en un entorno de pruebas para validar las funcionalidades implementadas. El equipo colaboró en la ejecución de pruebas finales, identificando y resolviendo posibles errores antes de la entrega.
 
 Este enfoque permitió un desarrollo colaborativo y organizado, con un seguimiento claro de cada tarea y la constante integración de funcionalidades en el proyecto.
