@@ -2211,7 +2211,13 @@ Verificación: Comprobación de que la landing page se despliega correctamente y
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint.
 
-A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
+Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. A continuación, se detallan los pasos principales que guiaron el desarrollo:
+
+**Asignación de Tareas:** Para este sprint, se dividieron las tareas en dos grandes áreas: diseño e implementación de la landing page. Todos los integrantes del equipo participaron activamente en la fase de diseño, colaborando en la conceptualización y estructura visual de la página. Una vez definidos los diseños, las tareas de implementación fueron asignadas de acuerdo con la especialización de cada miembro, asegurando que todas las funcionalidades fueran correctamente desarrolladas.
+
+**Despliegue y Validación:** Al final del sprint, se llevó a cabo el despliegue en un entorno de pruebas para validar las funcionalidades implementadas. El equipo colaboró en la ejecución de pruebas finales, identificando y resolviendo posibles errores antes de la entrega.
+
+Este enfoque permitió un desarrollo colaborativo y organizado, con un seguimiento claro de cada tarea y la constante integración de funcionalidades en el proyecto.
 
 ![alt text](assets/images/imagen_participacion.jpg)
 
