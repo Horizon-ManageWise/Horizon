@@ -34,6 +34,8 @@ Product: ManageWise
 
 ### Agosto, 2024
 
+### Url del proyecto: https://github.com/Horizon-ManageWise/Horizon
+
 ## Registro de Versiones del Informe
 
 |Version|Fecha|Autor| Descripcion|
@@ -90,6 +92,23 @@ TB1:<br>
 
 ### Tabla de contenidos
 
+- [Horizon](#horizon)
+- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
+  - [Ingenieria de Software](#ingenieria-de-software)
+  - [5to ciclo](#5to-ciclo)
+  - [Desarrollo de Aplicaciones Open Source](#desarrollo-de-aplicaciones-open-source)
+    - [**Sección:** WS53](#sección-ws53)
+    - [**Profesor:** Juan Antonio Flores Moroco](#profesor-juan-antonio-flores-moroco)
+    - [Informe de Trabajo Final](#informe-de-trabajo-final)
+    - ["Horizon"](#horizon-1)
+    - ["ManageWise"](#managewise)
+    - [**Integrantes:**](#integrantes)
+    - [Agosto, 2024](#agosto-2024)
+    - [Url del proyecto: https://github.com/Horizon-ManageWise/Horizon](#url-del-proyecto-httpsgithubcomhorizon-managewisehorizon)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Contenido](#contenido)
+    - [Tabla de contenidos](#tabla-de-contenidos)
   - [Student Outcome](#student-outcome)
   - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
@@ -97,13 +116,6 @@ TB1:<br>
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [What?](#what)
-    - [When?](#when)
-    - [Where?](#where)
-    - [Who?](#who)
-    - [Why?](#why)
-    - [How?](#how)
-    - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -116,34 +128,17 @@ TB1:<br>
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
     - [2.2. Entrevistas](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [Segmento: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-    - [Segmento: Equipo de Desarrollo de Software](#segmento-equipo-de-desarrollo-de-software)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-      - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-      - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-      - [Análisis Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#análisis-segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-      - [Análisis Segmento 2: Equipo de Desarrollo de Software](#análisis-segmento-2-equipo-de-desarrollo-de-software)
     - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
-      - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento-1)
-      - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software-1)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
-  - [**Análisis de Tareas**](#análisis-de-tareas)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-      - [User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software](#user-journey-mapping---líder-o-gerente-de-empresa-de-desarrollo-de-software)
-      - [User Journey Mapping - Equipo de Desarrollo de Software](#user-journey-mapping---equipo-de-desarrollo-de-software)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-- [Segmento 1: María (Líder/Gerente de Proyecto)](#segmento-1-maría-lídergerente-de-proyecto)
-- [Segmento 2: Fabricio (Equipo de Desarrollo de Software)](#segmento-2-fabricio-equipo-de-desarrollo-de-software)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-      - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-      - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
     - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-    - [**Segmento 1:** Lider o gerente de proyectos de software](#segmento-1-lider-o-gerente-de-proyectos-de-software)
-    - [**Segmento 2:** Miembro de un equipo de desarrollo de software](#segmento-2-miembro-de-un-equipo-de-desarrollo-de-software)
     - [3.2. User Stories](#32-user-stories)
     - [3.3. Impact Mapping](#33-impact-mapping)
     - [3.4. Product Backlog](#34-product-backlog)
@@ -297,11 +292,6 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 | <p align="center"><img width="300" src="assets/images/John_profile.jpg"> </p> | Soy John Arévalo, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes de programación como python y c++, y bases de datos como SQLServer y MongoDB. Desde pequeño me sentí atraído por la tecnología, por lo que me decidí a estudiar la carrera, además disfruto de jugar videojuegos con amigos en mi tiempo libre. |
 |:--|--|
 
-
-- Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401  
-
-|<p align="center"><img width="300" src="https://hackmd.io/_uploads/SkU_5d9cR.png"> </p> |Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
-|:--|--|
 
 
 ### 1.2. Solution Profile
@@ -530,7 +520,7 @@ Para poder tener un análisis completo sobre nuestro modelo de negocio además d
 
 | Nombre de <br>los Startups <br> o Empresas |                                                               | Nuestra startup                                                                                                                                                                                                                                                  | Competidor 1                                                                                                                                                                                                                                                                                                     | Competidor 2                                                                                                                                                                                       | Competidor 3                                                                                                                                                                                                      |
 | ------------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Perfil                                     | Overview                                                      | Horizon                                                                                                                                                                                                                                                          | Wrike                                                                                                                                                                                                                                                                                                            | Trello                                                                                                                                                                                             | ClickUp                                                                                                                                                                                                           |
+|Perfil|Overview|Horizon <br> ![Logo Horizon](assets/images/imagesTB1/managewiselogo.png)|Wrike <br> ![Logo Wrike](assets/images/imagesTB1/wrikelogo.png)|Trello <br> ![Logo Trello](assets/images/imagesTB1/trellologo.png)|ClickUp <br> ![Logo Click Up](assets/images/imagesTB1/clickuplogo.png)|
 |                                            | Ventaja competitiva:<br>¿Qué valor ofrece<br> a los clientes? | Proporciona una interfaz intuitiva <br>y fácil de usar, en la que Lo usan<br> antes, durante y después del<br> Ciclo de Vida del Desarrollo de<br> Software.                                                                                                     | ofrece análisis predictivos,<br> automatización avanzada y <br>herramientas de colaboración <br>que permiten a los equipos<br> mejorar la productividad y <br>la visibilidad del proyecto<br> en tiempo real.                                                                                                    | Proporciona una interfaz <br>intuitiva y fácil de usar,<br> ideal para equipos pequeños<br> y startups que buscan <br>simplicidad en la gestión <br>de tareas.                                     | Proporciona una solución <br>altamente personalizable <br>que puede adaptarse a <br>diferentes necesidades <br>empresariales, integrando <br>gestión de tareas, tiempo <br>y recursos en una sola <br>plataforma. |
 | Perfil de Marketing                        | Mercado Objetivo                                              | Startups de tecnología que buscan<br> mejorar la eficiencia y la colaboración<br> en sus equipos de desarrollo                                                                                                                                                   | Empresas medianas a grandes,<br> así como equipos de proyectos <br>complejos que requieren <br>integración y colaboración <br>avanzadas.                                                                                                                                                                         | Equipos pequeños, startups<br> y empresas que necesitan <br>una herramienta <br>de gestión de proyectos <br>visual y simple.                                                                       | Startups, pequeñas y medianas <br>empresas que buscan una <br>herramienta flexible y completa <br>para la gestión de proyectos.                                                                                   |
 |                                            | Estrategias de Marketing                                      | Uso de marketing digital dirigido<br> a comunidades tecnológicas, con <br> pruebas gratuitas y asociaciones<br> estratégicas                                                                                                                                     | Wrike se posiciona como una <br>herramienta robusta y flexible <br>para equipos que necesitan <br>mejorar la eficiencia operativa <br>y la gestión de proyectos. <br>Su estrategia incluye <br>demostraciones personalizadas <br>y un enfoque en las <br>integraciones con otras <br>herramientas empresariales. | Se enfoca en la simplicidad <br>y la accesibilidad, <br>promocionando su facilidad <br>de uso y la posibilidad de <br>integrarse con herramientas <br>populares como Slack y <br>Google Workspace. | Se posiciona como una alternativa<br> más económica y todo-en-uno a <br>las herramientas tradicionales de <br>gestión de proyectos, con un <br>fuerte enfoque en la personalización<br> y la escalabilidad.       |
@@ -1122,11 +1112,11 @@ Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficie
 
 Para nuestro primer segmento enfocado en Lider o gerente de empresa de desarrollo de software en crecimiento, el proceso inicia accediendo a la plataforma y registrándose. El líder o gerente accede a la plataforma "ManageWise" y completa el proceso de registro o inicio de sesión. Si es un usuario nuevo, configura su perfil, incluyendo información sobre su empresa, roles, y preferencias de notificación. Personaliza su Dashboard y otras vistas clave para alinear la información presentada con los objetivos estratégicos de la empresa. Esto incluye seleccionar los KPIs más relevantes, definir prioridades de proyectos, y establecer alertas para actualizaciones importantes.Navega por los proyectos actuales y planificados, categorizados por estado (en curso, pendientes, finalizados) y impacto estratégico. Puede acceder a un mapa visual que muestra cómo cada proyecto contribuye a los objetivos a largo plazo de la empresa.Supervisa el progreso de los proyectos, ajusta recursos, y toma decisiones estratégicas utilizando herramientas de análisis de datos. Puede reorganizar proyectos según prioridades cambiantes y revisar el cumplimiento de plazos y presupuestos.Participa en discusiones estratégicas con otros líderes y stakeholders, utilizando canales de comunicación categorizados por proyectos y temas. Accede a reportes colaborativos y comparte insights con su equipo de liderazgo. Utiliza paneles de control dinámicos y reportes personalizados para revisar el rendimiento general de la empresa y de cada proyecto en particular. Basado en estos análisis, toma decisiones sobre asignación de recursos, ajuste de objetivos y planificación a futuro. Al cierre de un proyecto, revisa informes finales categorizados por lecciones aprendidas y oportunidades de mejora. Participa en sesiones de retroalimentación con el equipo para identificar áreas de mejora para futuros proyectos.
 
-![texto_alternativo](assets/images/Segmento 1.png)
+![texto_alternativo](assets/images/imagesTB1/segmento1.png)
 
 Para nuestro segundo segmento enfocado en Equipo de Desarrollo de Software, el proceso inicia al registrarse y configurar su perfil. El integrante del equipo accede a la plataforma y se registra o inicia sesión. Configura su perfil, incluyendo su rol específico en el equipo, proyectos asignados, y preferencias de notificación. Personaliza su Dashboard para ver las tareas y sprints pendientes, ajusta alertas para fechas límite, y selecciona qué actualizaciones y notificaciones desea recibir de sus compañeros de equipo. Revisa su lista de tareas, categorizadas por prioridad, deadline, y dependencia de otras tareas. Explora el cronograma del proyecto para entender el flujo general de trabajo y cómo su tarea encaja en el contexto más amplio. Organiza y prioriza su trabajo diario utilizando herramientas de gestión de tareas. Marca tareas como completadas, colabora en sprints, y ajusta su flujo de trabajo según nuevas asignaciones o cambios en el proyecto. Participa en conversaciones dentro de los canales de proyecto, categorizados por temas específicos como bugs, nuevas características, o revisiones de código. Colabora activamente con otros miembros del equipo, compartiendo actualizaciones y retroalimentación. Revisa su rendimiento individual y el del equipo a través de dashboards que muestran métricas como velocidad de desarrollo, calidad del código, y cumplimiento de deadlines. Utiliza este análisis para mejorar su eficiencia y productividad. Al finalizar una tarea o sprint, revisa el rendimiento en un resumen categorizado por logros y desafíos. Participa en sesiones de retroalimentación para identificar lo que funcionó bien y lo que podría mejorarse en futuros sprints.
 
-![texto_alternativo](assets/images/Segmento 2.png)
+![texto_alternativo](assets/images/imagesTB1/segmento2.png)
 
 #### 4.2.2. Labeling Systems
 
