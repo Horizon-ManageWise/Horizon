@@ -1432,6 +1432,9 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 #### 4.3.1. Landing Page Wireframe
 
+**Introducción a las decisiones de diseño y arquitectura de información**:  
+El diseño de la landing page se realizó con el objetivo de optimizar la experiencia del usuario, asegurando una navegación clara y accesible en dispositivos de distintos tamaños. Se optó por una estructura de navegación sencilla y eficiente, permitiendo a los usuarios desplazarse fácilmente por las secciones más importantes. Se priorizó un diseño responsive que se adapta a diferentes dispositivos, desde computadoras de escritorio hasta teléfonos móviles. Además, la arquitectura de información asegura que el contenido más relevante esté destacado, facilitando la interacción con el usuario.
+
 Se estructuró la landing page para facilitar la navegación y claridad del contenido, con un navbar con links que redirigen al usuario a la sección deseada. El diseño es responsive, adaptándose a un hamburger menu en pantallas pequeñas. En el hero, se ubica el eslogan y un call-to-action, al igual que en la sección Nosotros, para redirigir así a los usuarios al formulario de registro. El footer contiene enlaces a redes sociales, manteniendo la coherencia visual.
 
 ##### Desktop Web Browser:
@@ -1444,7 +1447,7 @@ La landing page cuenta con diferentes secciones:
 - Descripción general: Se muestran las principales características de la aplicación al usuario.
 - Beneficios: El usuario puede ver los beneficios de usar la aplicación.
 - Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
-- Footer: Enlaces a las redes sociales de la paltaforma.  
+- Footer: Enlaces a las redes sociales de la plataforma.  
   <br>
   <img src="assets/images/WireframeDesktopWebBrowser.png">
   <br>
@@ -1469,7 +1472,31 @@ Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y e
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser-Menu.png">
 <br>
 
-Se cuenta con las mismas secciones que para desktop web browser ( Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
+<br>
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser.png">
+<br>
+
+El formulario de registro se adapta a la pantalla<br>
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser-Resgistro.png">
+<br>
+
+El formulario de inicio de sesión se adapta a la pantalla<br>
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser-InicioSesion.png">
+<br>
+
+</p>
+
+
+##### Mobile Web Browser:
+
+<p align="center">
+Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se ecuentran los links de navegación.<br>
+
+<img width=300px src="assets/images/Wireframe-MobileWebBrowser-Menu.png">
+<br>
+
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
 <br>
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser.png">
 <br>
