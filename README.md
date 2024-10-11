@@ -70,6 +70,44 @@ Product: ManageWise
 
 ## Project Report Collaboration Insights
 
+|           URL de la organización del proyecto            |               URL del repositorio del reporte               |
+| :-------------------------: | :-----------------------------------: |
+|   https://github.com/Horizon-ManageWise   |  https://github.com/Horizon-ManageWise/Horizon.git   |
+
+TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes al integrarse un nuevo miembro al equipo y aportar con ideas nuevas para la landing page. Por ende, se muestran capturas de los commits del mes pasado y de este mes.
+
+**Vista de commits: Landing page:**
+
+![Commits](assets\images\CommitsLandingS2.jpeg)
+![Commits](assets\images\CommitsLandingSJAD.jpeg)
+![Commits](assets\images\CommitsLandingNet.jpeg)
+
+* Estefano Oscar Jaque Peña: 1
+* Diego Rolin Acuña Tomas: 1
+* John Telesforo Arevalo Meza: 10
+* José Alejo Cardenas: 1
+* Valentino Sandoval Paiva: 1
+* Sergio Gomez: 8
+
+**Web Application Frontend:**
+
+![Commits](assets\images\CommitF1.jpeg)
+![Commits](assets\images\CommitF2.jpeg)
+
+**Report:** 
+
+![Commits](assets\images\CommitsReport1.jpeg)
+![Commits](assets\images\CommitsReport2.jpeg)
+![Commits](assets\images\CommitsReport3.jpeg)
+
+* Estefano Oscar Jaque Peña: 54
+* Diego Rolin Acuña Tomas: 50
+* John Telesforo Arevalo Meza: 37
+* José Alejo Cardenas: 34
+* Valentino Sandoval Paiva: 48
+
+
+
 TB1:<br>
 |Integrante|Tarea Asignada|
 |-|-|
@@ -1949,24 +1987,32 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 
   - **Editor de Código**: IntelliJ IDEA.
   - **Propósito**: Desarrollo de software y edición de código.
-  - **Ruta de descarga**: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+  - **Ruta de descarga**: https://www.jetbrains.com/idea/download/
 
 - **Editor de Código:** Visual Studio Code
   - **Propósito:** Desarrollo y edición de código con soporte extensivo para JavaScript y herramientas de desarrollo.
-  - **Ruta de descarga:** [Visual Studio Code](https://code.visualstudio.com/)
+  - **Ruta de descarga:** https://code.visualstudio.com/
+
 - **Control de Versiones:** Git, con repositorios en GitHub.
   - **Propósito:** Gestión de versiones y colaboración en el código.
-  - **Ruta de descarga:** [Git](https://git-scm.com/)
-  - **Repositorio:** [GitHub - Horizon](https://github.com/Firtness/Horizon.git)
+  - **Ruta de descarga:** https://git-scm.com/
+  - **Repositorio:** https://github.com/Firtness/Horizon.git
 
-## Diseño y Desarrollo
-
+**Product UX/UI Design**
 - **UI/UX:** Crear una interfaz amigable y accesible para los usuarios.
   - **Herramienta:** Figma
   - **Propósito:** Diseño de prototipos y interfaces de usuario.
-  - **Ruta del Figma**: [Figma - Horizon](https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/LandingPage-WireFrame-ManageWise?node-id=15-131&node-type=canvas&t=PXmYxR9lGN4kX4l0-0)
+  - **Ruta del Figma**: https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/LandingPage-WireFrame-ManageWise?node-id=15-131&node-type=canvas&t=PXmYxR9lGN4kX4l0-0
 
 ![FIGMA](assets/images/FIGMA2.png)
+
+**Software Development**
+ **HTML:**
+- **Descripción:** El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
+- **Enlace:** https://www.w3schools.com/html/default.asp
+  **CSS:**
+-  **Descripción:** Cascade Styles Sheet maneja el diseño visual de la landing page.
+- **Enlace:** https://www.w3schools.com/css/default.asp
 
 Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
 
@@ -1976,9 +2022,9 @@ Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos efic
 
 En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
 
-- **Landing Page**: [Landing Page - Horizon](https://github.com/Horizon-ManageWise/LandingPage.git)
-- **Frontend Web Applications**: [FrontEnd - Horizon](https://github.com/Horizon-ManageWise/Frontend-Web-Applications.git)
-- **Backend Web Applications**: [BackEnd - Horizon](https://github.com/Horizon-ManageWise/Backend-Web-Applications.git)
+- **Landing Page**: https://github.com/Horizon-ManageWise/LandingPage.git
+- **Frontend Web Applications**: https://github.com/Horizon-ManageWise/Frontend-Web-Applications.git
+- **Backend Web Applications**: https://github.com/Horizon-ManageWise/Backend-Web-Applications.git
 
 **Estructura del Repositorio**
 
@@ -2023,6 +2069,7 @@ En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseñ
 - **_HTML_** : Estructura del contenido en la web, utilizando etiquetas semánticas para mejorar la accesibilidad.
 - **_CSS_**: Estilos y diseño visual del software, garantizando una experiencia de usuario óptima.
 - **_JavaScript_**: Lógica y funcionalidad interactiva, permitiendo la automatización y personalización del software.
+- **_TypeScript_**: Superset de JavaScript que añade tipado estático y otras características para mejorar la mantenibilidad y la detección de errores en tiempo de compilación.
 
 **HTML**
 
@@ -2048,6 +2095,31 @@ En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseñ
 - **Espacios y Sangrías:** Utiliza espacios en blanco y sangrías para mejorar la legibilidad del código. Sigue un estilo consistente en todo el código.
 - **Modularidad:** Evita la creación de funciones globales. Utiliza módulos o patrones de diseño para modularizar el código y evitar conflictos de nombres.
 - **Convención de Nombres:** Emplea `camelCase` para nombrar variables y funciones, siguiendo una convención consistente.
+
+**TypeScript**
+
+- **Tipado Estático:** Utiliza el tipado estático de TypeScript para definir los tipos de variables, parámetros de funciones y retornos. Esto ayuda a detectar errores de manera anticipada. Por ejemplo, en lugar de `let age = "25"`, define el tipo correctamente: `let age: number = 25`.
+
+- **Interfaces y Tipos Personalizados:** Define interfaces y tipos personalizados para describir la forma de los objetos y otros datos complejos. Esto mejora la claridad del código y facilita su mantenimiento. Ejemplo:
+  ```typescript
+  interface Project {
+    id: number;
+    name: string;
+    description: string;
+  }
+
+- **Decoradores y Clases:** Emplea clases y decoradores para aprovechar las características orientadas a objetos de TypeScript, facilitando la organización del código, especialmente en Angular. Ejemplo de clase:
+  ```typescript
+  class User {
+    constructor(public name: string, public age: number) {}
+  }
+
+- **Manejo de Errores en Tiempo de Compilación:** TypeScript permite identificar errores en tiempo de compilación, lo que reduce problemas en tiempo de ejecución. Aprovecha este control para escribir código más seguro.
+
+- **Convención de Nombres:** Sigue las mismas convenciones de JavaScript, utilizando `camelCase` para variables y funciones, pero aplicando también la convención `PascalCase` para clases e interfaces.
+
+- **Convenciones y Nomenclaturas:** Es necesario definir las convenciones y nomenclaturas que se utilizarán en el proyecto. Esto incluye el uso de `camelCase` para variables y funciones, `PascalCase` para clases e interfaces, y nombres de métodos descriptivos para mejorar la legibilidad del código.
+
 
 **Comentarios**
 
@@ -2192,17 +2264,44 @@ Verificación: Comprobación de que la landing page se despliega correctamente y
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint.
 
-Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. A continuación, se detallan los pasos principales que guiaron el desarrollo:
+En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. Se exponen capturas de los analíticos de colaboración y de los commits realizados en GitHub, lo que permite visualizar la contribución individual de cada miembro del equipo.
 
-**Asignación de Tareas:** Para este sprint, se dividieron las tareas en dos grandes áreas: diseño e implementación de la landing page. Todos los integrantes del equipo participaron activamente en la fase de diseño, colaborando en la conceptualización y estructura visual de la página. Una vez definidos los diseños, las tareas de implementación fueron asignadas de acuerdo con la especialización de cada miembro, asegurando que todas las funcionalidades fueran correctamente desarrolladas.
+* Diseño y Desarrollo:
+Diseño de la Landing Page: Desarrollo y diseño completo de la landing page, incluyendo la creación de secciones y funcionalidad.
+Implementación: Realización de las tareas de codificación, pruebas y ajustes necesarios para completar la página.
+* Documentación y Despliegue:
+Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones.
+Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
-**Desarrollo de Funcionalidades:** El desarrollo de las funcionalidades se llevó a cabo de manera iterativa. Los miembros del equipo trabajaron de forma individual o en pares para implementar las historias de usuario asignadas. Se utilizó Git para controlar las versiones del código, permitiendo una integración continua y evitando conflictos durante el desarrollo.
+**Landing Page**
 
-**Despliegue y Validación:** Al final del sprint, se llevó a cabo el despliegue en un entorno de pruebas para validar las funcionalidades implementadas. El equipo colaboró en la ejecución de pruebas finales, identificando y resolviendo posibles errores antes de la entrega.
+![Commits](assets\images\CommitsLandingS2.jpeg)
+![Commits](assets\images\CommitsLandingSJAD.jpeg)
+![Commits](assets\images\CommitsLandingNet.jpeg)
 
-Este enfoque permitió un desarrollo colaborativo y organizado, con un seguimiento claro de cada tarea y la constante integración de funcionalidades en el proyecto.
+* Estefano Oscar Jaque Peña: 1
+* Diego Rolin Acuña Tomas: 1
+* John Telesforo Arevalo Meza: 10
+* José Alejo Cardenas: 1
+* Valentino Sandoval Paiva: 1
+* Sergio Gomez: 8
 
-![alt text](assets/images/team.jpeg)
+
+**Report:** 
+
+![Commits](assets\images\CommitsReport1.jpeg)
+![Commits](assets\images\CommitsReport2.jpeg)
+![Commits](assets\images\CommitsReport3.jpeg)
+
+* Estefano Oscar Jaque Peña: 54
+* Diego Rolin Acuña Tomas: 50
+* John Telesforo Arevalo Meza: 37
+* José Alejo Cardenas: 34
+* Valentino Sandoval Paiva: 48
+
+
+
+
 
 ### 5.2.2. Sprint 2
 
