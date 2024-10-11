@@ -2351,7 +2351,7 @@ Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, pa
 | Calendar        | `/api/calendar/events` | Crear evento                  | POST       | `{"title": string, "date": string}` | `{"id": 1, "title": "Event A"}`   | [Calendar](https://managewisecalendar.web.app/calendar/activities)      |
 | Reportes        | `/api/reports`         | Obtener reportes generados    | GET        | `?type={string}`                    | `[{"id": 1, "type": "weekly"}]`   | [Reportes](https://managewise-reports.web.app/reports)                  |
 | Tareas          | `/api/tasks/{id}`      | Eliminar tarea                | DELETE     | `{id: int}`                         | `{"message": "Task deleted"}`     | [Tareas](https://daos-2402-managewise-tasks.web.app/tasks)              |
-| Miembros        | `/api/members`         | Listar miembros               | GET        | `?role={string}`                    | `[{"id": 1, "name": "Member A"}]` | [Miembros](https://managewise-si729-team-manage.web.app/member/members) |
+| Miembross        | `/api/members`         | Listar miembros               | GET        | `?role={string}`                    | `[{"id": 1, "name": "Member A"}]` | [Miembros](https://managewise-si729-team-manage.web.app/member/members) |
 
 ### Ejemplos de Respuesta y Explicación
 
