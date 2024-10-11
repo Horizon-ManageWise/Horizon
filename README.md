@@ -1487,31 +1487,10 @@ El formulario de inicio de sesión se adapta a la pantalla<br>
 
 </p>
 
-
-##### Mobile Web Browser:
-
-<p align="center">
-Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se ecuentran los links de navegación.<br>
-
-<img width=300px src="assets/images/Wireframe-MobileWebBrowser-Menu.png">
-<br>
-
-Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
-<br>
-<img width=300px src="assets/images/Wireframe-MobileWebBrowser.png">
-<br>
-
-El formulario de registro se adapta a la pantalla<br>
-<img width=300px src="assets/images/Wireframe-MobileWebBrowser-Resgistro.png">
-<br>
-
-El formulario de inicio de sesión se adapta a la pantalla<br>
-<img width=300px src="assets/images/Wireframe-MobileWebBrowser-InicioSesion.png">
-<br>
-
-</p>
-
 #### 4.3.2. Landing Page Mock-up
+
+ 
+Los mock-ups proporcionan una representación visual de la estructura final de la landing page, tanto para la versión de escritorio como para dispositivos móviles. En el diseño de escritorio (Desktop Web Browser), se priorizó una disposición clara y organizada, mientras que en la versión móvil (Mobile Web Browser), se implementó un diseño responsive para asegurar una experiencia de usuario fluida y óptima en cualquier tamaño de pantalla.
 
 ##### Desktop Web Browser:
 
@@ -1522,17 +1501,19 @@ La landing page cuenta con diferentes secciones:
 - Hero o header: Se encuentra la barra de navegación, además del eslogan de la aplicación e imagen referencial.
 - Descripción general: Se muestran las principales características de la aplicación al usuario, junto con una imagen referente.
 - Beneficios: El usuario puede ver los beneficios de usar la aplicación.
-- Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
-- Footer: Enlaces a las redes sociales de la paltaforma.
+- Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además, se incentiva al usuario a registrarse.
+- Footer: Enlaces a las redes sociales de la plataforma.
   <br>
   <img src="assets/images/Mockup-DesktopWebBrowser.png">
   <br>
 
-Apartado de registro, en donde el usuario deberá ingresar datos necesarios de la manera que vea conveniente. <br>
+Apartado de registro, en donde el usuario deberá ingresar los datos necesarios de la manera que vea conveniente.  
+<br>
 <img src="assets/images/Mockup-DesktopWebBrowser-Resgistro.png">
 <br>
 
-Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.<br>
+Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.  
+<br>
 <img src="assets/images/Mockup-DesktopWebBrowser-InicioSesion.png">
 <br>
 
@@ -1541,24 +1522,29 @@ Apartado de inicio de sesión, en donde el usuario ingresa el correo y contrase�
 ##### Mobile Web Browser:
 
 <p align="center">
-Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se ecuentran los links de navegación. <br>
 
+Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se encuentran los links de navegación.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-Menu.png">
 <br>
 
-Se cuenta con las mismas secciones que para desktop web browser ( Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.<br>
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla, permitiendo así un acceso óptimo a la información.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser.png">
 <br>
 
-El formulario de registro que se adapta a la pantala del dispositivo, permitiendo de esta manera una navegación fluida.<br>
+El formulario de registro se adapta a la pantalla del dispositivo, permitiendo de esta manera una navegación fluida.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-Resgistro.png">
 <br>
 
-El formulario de inicio que se adapta a la pantala del dispositivo, permitiendo de esta manera una navegación fluida.<br>
+El formulario de inicio de sesión se adapta a la pantalla del dispositivo, permitiendo de esta manera una navegación fluida.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-InicioSesion.png">
 <br>
 
 </p>
+
 
 ### 4.4. Web Applications UX/UI Design
 
