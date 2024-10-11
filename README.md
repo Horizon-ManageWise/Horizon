@@ -1647,69 +1647,36 @@ Los siguientes mockups ofrecen una vista previa del diseño y estructural visual
 
 <p align="center">
 
-La sección de Proyectos es la principal, en donde el usuario podrá visualizar las diferentes actividades, las personas encargadas y diferentes aspectos de las mismas. En caso de ser el líder podra crear, editar y eliminar las tareas.
-<img src="assets/images/mockups/proyectos.png">
+La sección de Statistics es fundamental, en donde el product Owner y Scrum Master podrá visualizar las estadisticas en base a los sprints de las historias de usuario. Tanto tambien se podrá saber si el sprint se esta elaborando bien en temas de avance.
+<img src="assets/images/mockups/statistics.png">
 <br>
-En en el apartado Estado de Actividades en Proyectos, el usuario podrá visualizar si las actividades se encuentran por hacer, en progreso o terminadas, y en caso de ser el líder, podrá editar el estado de estas.
-<img src="assets/images/mockups/proyectos-estado.png">
+En en el apartado Estado de TimeLine, en lo cual el product Owner y Scrum Master podrá colocar en que tiempo se completo las historias de usuario en en esquema del tiempo por sprints.
+<img src="assets/images/mockups/timeline.png">
 <br>
-En en el apartado Cronograma Sprint en Proyectos, el usuarió podrá visualizar las fechas estipuladas, límites y diversas actividades.
-<img src="assets/images/mockups/proyectos-CronogramaSprint.png">
+En la sección Backlog permite gestionar y mover historias de usuario entre el product backlog y el sprint backlog, con la opción de iniciar sprints una vez las historias estén listas.
+<img src="assets/images/mockups/backlog.png">
 <br>
-En en el apartado Roles en Proyectos, el usuario visualizará los diferentes miembros del proyecto y en caso de ser el líder, podrá invitar y agregar a nuevos.
-<img src="assets/images/mockups/proyecto-roles.png">
+En la sección Board permite gestionar visualmente las User Stories, moviéndolas entre las columnas TO DO, IN PROGRESS, y DONE, con opciones para agregar, editar, eliminar y filtrar las tareas por prioridad.
+<img src="assets/images/mockups/board.png">
+<br>
+<img src="assets/images/mockups/board-members.png">
 <br>
 <br>
-
 En la sección de Herramientas, el usuario tendrá acceso a videollamadas, y los diferentes documentos compartidos por los miembros del proyecto, en caso de ser el líder, podra crear y eliminar videollamadas.
 <img src="assets/images/mockups/herramientas.png">
 <br>
-En en el apartado Documentos compartidos en Herramientas, el usuario puede visualizar los diferentes documentos compartidos por los miembros.
-<img src="assets/images/mockups/herramientas - documentos compartidos.png">
+En en el apartado Meeting, el Scrum Master o el Product Owner se registrara las reuniones y se podra planificar a que dia y hora estara dicha reunion.
+<img src="assets/images/mockups/meeting.png">
 <br>
 <br>
 
-En la sección de Seguridad, los usuarios podrán activar diferentes métodos de seguridad, como el de doble autenticación, y en caso de ser el líder poder hacer el proyecto publico.
-<img src="assets/images/mockups/Seguridad.png">
+La sección Members permite al project manager gestionar el equipo de desarrollo, invitando, removiendo miembros y asignándolos a grupos de trabajo, facilitando la colaboración en tareas específicas.
+<img src="assets/images/mockups/members-users.png">
+<br>
+<img src="assets/images/mockups/members-groups.png">
 <br>
 <br>
 
-En la sección de Historial, el usuario podrá visualizar diferentes actividades y sesiones que ya concluyeron; siendo el apartado por defecto el de conversaciones, donde podrá ver la interacción que tuvo con diferentes miembros en el foro.
-<img src="assets/images/mockups/Historial.png">
-<br>
-En en el apartado Actividades en Historial, el usuario puede ver las actividades pasadas y en qué estado culminaron.
-<img src="assets/images/mockups/Historial - actividades.png">
-<br>
-En en el apartado Sesiones en Historial, el usuario puede acceder a la grabación de las diferentes videollamadas.
-<img src="assets/images/mockups/Historial - sesiones.png">
-<br>
-<br>
-
-En la sección de Reporte, el usuarió podrá observar los errores ocurridos a lo largo del proeycto, así como un resumen sprint y el progreso general e individual de los miembros del equipo.
-<img src="assets/images/mockups/Reporte.png">
-<br>
-En en el apartado Progreso en Reporte, el usuario podrá visualizar una barra que indica el progreso general del proyecto, con respecto a las tareas, y una barra por cada miembro, mostrando el progreso individual, en caso de ser el líder, además, podrá visualizar un gráfico radial con las habilidades de cada miembro.
-<img src="assets/images/mockups/Reporte-Progreso.png">
-<br>
-En en el apartado Resumen Sprint en Reporte, el usuario podrá ver un resumen de cada sprint.
-<img src="assets/images/mockups/Reporte-ResumenSprint.png">
-<br>
-<br>
-
-En la sección de Foro, el usuario tendrá acceso al foro con los diferentes apartados del mismo.
-<img src="assets/images/mockups/Foro-Mejora.png">
-<br>
-En en el apartado Problemas en Foro, el usuario verá diferentes problemas reportados por los miembros, y podrá responder a los mismos.
-<img src="assets/images/mockups/Foro-Problemas.png">
-<br>
-En en el apartado Retroalimentación en Foro, usuario verá la retroalimentación brindada por el líder del proyecto.
-<img src="assets/images/mockups/Foro-retroalimentacion.png">
-<br>
-<br>
-
-En la sección de Configuración, el usuario será capaz de editar aspectos relacionados a su cuenta, y el apartado visual de la aplicación.
-<img src="assets/images/mockups/configuracion.png">
-<br>
 
 </p>
 
@@ -2573,7 +2540,7 @@ Link: https://managewise-si729-member.web.app/member/members
   En el desarrollo del proyecto Horizon, aprendimos la importancia de la visualización interactiva y su impacto en la planificación y seguimiento de tareas en un equipo ágil. Al integrar un timeline que permite gestionar User Stories y Sprints, así como descargar gráficos de rendimiento, Horizon nos mostró cómo la organización clara y visual del trabajo puede mejorar significativamente la colaboración y la toma de decisiones. Este proyecto también nos enseñó la relevancia de contar con herramientas que faciliten la comunicación entre roles clave, como el Scrum Master y el Product Owner, lo que contribuye al éxito general del equipo.
 
   <br><br>
-  
+
 ### Bibliografia
 
 - Biblioteca UPC. (2024). _Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas_. https://biblioteca.upc.edu.pe
