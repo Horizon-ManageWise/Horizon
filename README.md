@@ -1648,6 +1648,7 @@ Los siguientes mockups ofrecen una vista previa del diseño y estructural visual
 <p align="center">
 
 La sección de Statistics es fundamental, en donde el product Owner y Scrum Master podrá visualizar las estadisticas en base a los sprints de las historias de usuario. Tanto tambien se podrá saber si el sprint se esta elaborando bien en temas de avance.
+<br>
 <img src="assets/images/mockups/statistics.png">
 <br>
 En en el apartado Estado de TimeLine, en lo cual el product Owner y Scrum Master podrá colocar en que tiempo se completo las historias de usuario en en esquema del tiempo por sprints.
@@ -1662,9 +1663,6 @@ En la sección Board permite gestionar visualmente las User Stories, moviéndola
 <img src="assets/images/mockups/board-members.png">
 <br>
 <br>
-En la sección de Herramientas, el usuario tendrá acceso a videollamadas, y los diferentes documentos compartidos por los miembros del proyecto, en caso de ser el líder, podra crear y eliminar videollamadas.
-<img src="assets/images/mockups/herramientas.png">
-<br>
 En en el apartado Meeting, el Scrum Master o el Product Owner se registrara las reuniones y se podra planificar a que dia y hora estara dicha reunion.
 <img src="assets/images/mockups/meeting.png">
 <br>
@@ -1672,6 +1670,7 @@ En en el apartado Meeting, el Scrum Master o el Product Owner se registrara las 
 
 La sección Members permite al project manager gestionar el equipo de desarrollo, invitando, removiendo miembros y asignándolos a grupos de trabajo, facilitando la colaboración en tareas específicas.
 <img src="assets/images/mockups/members-users.png">
+<br>
 <br>
 <img src="assets/images/mockups/members-groups.png">
 <br>
