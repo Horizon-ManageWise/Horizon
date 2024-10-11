@@ -2569,7 +2569,11 @@ Link: https://managewise-si729-member.web.app/member/members
 - John Arévalo:  
   El desarrollo de Horizon nos enseñó la importancia de crear sistemas bien estructurados como el Navigation System, Labeling System, y Searching System para garantizar una experiencia de usuario fluida. A lo largo del proyecto, aprendimos cómo la integración de tecnologías avanzadas puede no solo optimizar la gestión de proyectos, sino también facilitar la colaboración y la toma de decisiones informadas. De esta manera se promovió una cultura de innovación y a su vez, se logró profundizar en nuevas áreas.
   <br><br>
+- Sergio Gómez: <br>
+  En el desarrollo del proyecto Horizon, aprendimos la importancia de la visualización interactiva y su impacto en la planificación y seguimiento de tareas en un equipo ágil. Al integrar un timeline que permite gestionar User Stories y Sprints, así como descargar gráficos de rendimiento, Horizon nos mostró cómo la organización clara y visual del trabajo puede mejorar significativamente la colaboración y la toma de decisiones. Este proyecto también nos enseñó la relevancia de contar con herramientas que faciliten la comunicación entre roles clave, como el Scrum Master y el Product Owner, lo que contribuye al éxito general del equipo.
 
+  <br><br>
+  
 ### Bibliografia
 
 - Biblioteca UPC. (2024). _Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas_. https://biblioteca.upc.edu.pe
