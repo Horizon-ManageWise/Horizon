@@ -1,6 +1,6 @@
 # Horizon
 
-Product: ManageWise
+Product: ManageWises
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
@@ -31,7 +31,7 @@ Product: ManageWise
 - Jose Antonio Alejo Cardenas - u202122484
 - John Telesforo Arevalo Meza - u202117377
 - Valentino Sandoval Paiva - u20211a962
-
+- Sergio André Gómez Vallejos - u20221d401
 ### Agosto, 2024
 
 ### Url del proyecto: https://github.com/Horizon-ManageWise/Horizon
