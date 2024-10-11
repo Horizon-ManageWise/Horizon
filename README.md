@@ -756,8 +756,8 @@ En resumen, los equipos de desarrollo buscan soluciones que mejoren la eficienci
 
 ### 2.3.2. User Task Matrix
 
-En este apartado de la User Task Matrix se va a hacer un análisis de las tareas realizadas por dos perfiles clave en el ámbito del desarrollo de software: Líder o Gerente de Empresa de Desarrollo de Software y Equipo de Desarrollo de Software. A través de esta matriz, se identificarán las tareas críticas y su frecuencia e importancia según cada User Persona, lo que permitirá comprender mejor sus necesidades y aspiraciones en la gestión de proyectos.
-| **Tarea** | **FABRICIO Frecuencia** | **FABRICIO Importancia** | **MARÍA Frecuencia** | **MARÍA Importancia** |
+En este apartado de la User Task Matrix se va a hacer un análisis de las tareas realizadas por dos perfiles clave en el ámbito del desarrollo de software: Líder o Gerente de Empresa de Desarrollo de Software (Leonardo) y Equipo de Desarrollo de Software (Oscar). A través de esta matriz, se identificarán las tareas críticas y su frecuencia e importancia según cada User Persona, lo que permitirá comprender mejor sus necesidades y aspiraciones en la gestión de proyectos.
+| **Tarea** | **Leonardo Frecuencia** | **Leonardo Importancia** | **Oscar Frecuencia** | **Oscar Importancia** |
 | ---------------------------------------------------------------------------- | ----------------------- | ------------------------ | -------------------- | --------------------- |
 | Monitorear operaciones y gestionar proyectos | A menudo | Alta | A menudo | Alta |
 | Evaluar y seleccionar software de gestión de proyectos | A menudo | Alta | A menudo | Alta |
@@ -773,17 +773,37 @@ En este apartado de la User Task Matrix se va a hacer un análisis de las tareas
 
 **Análisis de Tareas**
 
-Al observar la matriz, podemos destacar que tanto María como Fabricio consideran como tareas de alta frecuencia e importancia las siguientes:
+Al observar la matriz, podemos destacar que tanto Oscar como Leonardo consideran como tareas de alta frecuencia e importancia las siguientes:
 
 **Monitorear operaciones y gestionar proyectos**: Es fundamental para garantizar el desarrollo óptimo y la coordinación del equipo.
 
 **Evaluar y seleccionar software de gestión de proyectos**: Ambas User Personas están alineadas en la necesidad de herramientas efectivas que les ayuden a optimizar su flujo de trabajo.
 
-**Utilizar herramientas de desarrollo para colaboración**: La colaboración efectiva es vital, especialmente para Fabricio, quien enfatiza que la falta de herramientas innovadoras limita el trabajo en equipo.
+**Utilizar herramientas de desarrollo para colaboración**: La colaboración efectiva es vital, especialmente para Leonardo, quien enfatiza que la falta de herramientas innovadoras limita el trabajo en equipo.
 
 ### 2.3.3. User Journey Mapping
 
 **User Journey Mapping - Líder de Empresa de Desarrollo de Software(Product Owner y Scrum Master)**
+
+1. End-to-End Journey: Líder o Gerente de Empresa() <br>
+
+   El siguiente recorrido detalla el proceso completo que atraviesa un líder o gerente de empresa, desde la planificación inicial del proyecto hasta la evaluación y cierre. Este viaje abarca la supervisión estratégica y la toma de decisiones críticas para asegurar el éxito del proyecto y la alineación con los objetivos del negocio.
+
+    1. Planificación del Proyecto:<br>
+
+    El líder comienza identificando nuevas ideas para proyectos y definiendo objetivos claros para el equipo. Durante esta fase, se asegura de que los recursos sean asignados adecuadamente, pero también enfrenta ansiedad por la falta de visibilidad sobre los recursos disponibles y posibles retrasos en la planificación.
+
+    2. Ejecución del Proyecto:<br>
+
+    A medida que avanza el proyecto, el líder supervisa el progreso, revisa los reportes de rendimiento y participa en reuniones clave. Aquí, enfrenta estrés por la gestión de múltiples canales de información y frustración si los reportes de desempeño no son precisos. Es crucial que las herramientas de seguimiento sean automáticas y accesibles para evitar la incertidumbre sobre si el equipo está alineado con los plazos y presupuestos.
+
+    3. Evaluación y Cierre:<br>
+
+    En la etapa final, el líder revisa el rendimiento del proyecto en comparación con los objetivos y evalúa áreas de mejora para futuros proyectos. El cierre puede generar motivación si el proyecto es exitoso, pero también puede haber inseguridad si los informes de desempeño no fueron claros. El feedback del cliente es esencial para asegurar mejoras continuas en futuros proyectos.
+
+![Anexo F](./assets/images/User%20Journey%20Mapping%20Lider.png)
+
+**User Journey Mapping - Equipo de Desarrollo de Software**
 
 1. End-to-End Journey: Integrante del Equipo de Desarrollo de Software<br>
 
@@ -798,25 +818,7 @@ Al observar la matriz, podemos destacar que tanto María como Fabricio considera
    3. Revisión y Entrega<br>
       En la fase final, el integrante revisa su código o entregables desarrollados y prueba las funcionalidades para asegurarse de que cumplen con los requisitos del cliente. Al finalizar la entrega, se siente alivio, aunque puede haber incertidumbre sobre si el resultado cumplirá con las expectativas del cliente o si surgirán problemas técnicos cerca del cierre.
 
-![Anexo F](./assets/images/User%20Journey%20Mapping%20Lider.png)
 
-**User Journey Mapping - Equipo de Desarrollo de Software**
-
-1. End-to-End Journey: Líder o Gerente de Empresa() <br>
-
-   El siguiente recorrido detalla el proceso completo que atraviesa un líder o gerente de empresa, desde la planificación inicial del proyecto hasta la evaluación y cierre. Este viaje abarca la supervisión estratégica y la toma de decisiones críticas para asegurar el éxito del proyecto y la alineación con los objetivos del negocio.
-
-   1. Planificación del Proyecto<br>
-
-   El líder comienza identificando nuevas ideas para proyectos y definiendo objetivos claros para el equipo. Durante esta fase, se asegura de que los recursos sean asignados adecuadamente, pero también enfrenta ansiedad por la falta de visibilidad sobre los recursos disponibles y posibles retrasos en la planificación.
-
-   2. Ejecución del Proyecto<br>
-
-   A medida que avanza el proyecto, el líder supervisa el progreso, revisa los reportes de rendimiento y participa en reuniones clave. Aquí, enfrenta estrés por la gestión de múltiples canales de información y frustración si los reportes de desempeño no son precisos. Es crucial que las herramientas de seguimiento sean automáticas y accesibles para evitar la incertidumbre sobre si el equipo está alineado con los plazos y presupuestos.
-
-   3. Evaluación y Cierre <br>
-
-   En la etapa final, el líder revisa el rendimiento del proyecto en comparación con los objetivos y evalúa áreas de mejora para futuros proyectos. El cierre puede generar motivación si el proyecto es exitoso, pero también puede haber inseguridad si los informes de desempeño no fueron claros. El feedback del cliente es esencial para asegurar mejoras continuas en futuros proyectos.
 
 ![Anexo G](./assets/images/User%20Journey%20Mapping%20Integrante%20Equipo.png)
 
