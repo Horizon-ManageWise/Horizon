@@ -1502,6 +1502,7 @@ La landing page cuenta con diferentes secciones:
 - Descripción general: Se muestran las principales características de la aplicación al usuario, junto con una imagen referente.
 - Beneficios: El usuario puede ver los beneficios de usar la aplicación.
 - Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además, se incentiva al usuario a registrarse.
+- Preguntas Frecuentes: Se muestra las preguntas mas recurrentes de la aplicación lo cual le da a saber al usuario algunas respuestas de lo que es nuestra aplicación y lo facil de usar.
 - Footer: Enlaces a las redes sociales de la plataforma.
   <br>
   <img src="assets/images/Mockup-DesktopWebBrowser.png">
@@ -1528,7 +1529,7 @@ Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y e
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-Menu.png">
 <br>
 
-Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla, permitiendo así un acceso óptimo a la información.  
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros, Preguntas Frecuentes), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla, permitiendo así un acceso óptimo a la información.  
 <br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser.png">
 <br>
@@ -2181,7 +2182,7 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | US09          | Adición de una columna para un nuevo sprint   | TA002           | Implementación de Nueva Columna de Sprint      | Permitir al Product Owner agregar una nueva columna para organizar User Stories en el timeline.                           | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
 | US10          | Estimación de Esfuerzo en User Stories       | TA003           | Visualización de Estimaciones                   | Mostrar la estimación de esfuerzo para cada User Story en el timeline.                                                   | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
 | US11          | Interacción con el Timeline para Invitar Miembros | TA004        | Funcionalidad para Invitar Miembros            | Implementar la opción de invitar a miembros del equipo desde el timeline.                                                | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
-| US12          | Extensión del Timeline para un Sprint         | TA005           | Extender el Timeline                            | Permitir al Product Owner extender el timeline para incluir más días de trabajo en un sprint.                             | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
+| US12          |Visualización de Estadísticas del Rendimiento del Equipo | TA005           | Vista de las estadisticas y de como va el sprint  | Permitir al Product Owner ver el progreso de las historias de usuarios      | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
@@ -2215,7 +2216,7 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | 54e03628658a50f47c438bd1d90b6a8a73a239e1   | feat: add US08 | Se añade la adición de una columna para un nuevo sprint en el Timeline | 11/10/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | 346708f2369172bfd3424a8eea5cc2d6528675bb   | feat: add US10.feature | Se añade la estimación de Esfuerzo en User Stories | 11/10/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | de0406ea1369d4293a01c8d3d5c89d5a2b6c55b0   | feat: add US11.feature | Se añade la interacción con el Timeline para Invitar Miembros | 11/10/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | cd8c082796794691b7ae9f831c1494548fe0c229   | feat: add US12.feature| Se añade la extensión del Timeline para un Sprint | 11/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | cd8c082796794691b7ae9f831c1494548fe0c229   | feat: add US12.feature| Se añade la la vista de las estadisticas junto al progreso de las historias de susuario | 11/10/2024              |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
