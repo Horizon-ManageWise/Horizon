@@ -2177,6 +2177,11 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | US46          | Iniciar Sesión Rápido y Visible               | TA001           | Implementación de Enlace de Inicio de Sesión    | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                        | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
 | US47          | Resumen de la Empresa, Misión y Visión        | TA001           | Creación de Sección "Acerca de Nosotros"        | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
 | US48          | Navegación Clara y Directa en la Página       | TA001           | Diseño del Menú de Navegación                   | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
+| US08          | Visualización de User Stories en el Timeline   | TA002           | Implementación de Visualización de User Stories | Crear la funcionalidad para mostrar las User Stories en el timeline, organizadas por Sprints.                             | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
+| US09          | Adición de una columna para un nuevo sprint   | TA002           | Implementación de Nueva Columna de Sprint      | Permitir al Product Owner agregar una nueva columna para organizar User Stories en el timeline.                           | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
+| US10          | Estimación de Esfuerzo en User Stories       | TA003           | Visualización de Estimaciones                   | Mostrar la estimación de esfuerzo para cada User Story en el timeline.                                                   | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
+| US11          | Interacción con el Timeline para Invitar Miembros | TA004        | Funcionalidad para Invitar Miembros            | Implementar la opción de invitar a miembros del equipo desde el timeline.                                                | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
+| US12          | Extensión del Timeline para un Sprint         | TA005           | Extender el Timeline                            | Permitir al Product Owner extender el timeline para incluir más días de trabajo en un sprint.                             | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
@@ -2190,6 +2195,10 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | Landing-page | main   | 280c80e   | nojotros add                                            | nojotros add                                            | 08/09/2024              |
 | Landing-page | main   | ec30e3f   | AÑADIENDO MI PARTE                                      | AÑADIENDO MI PARTE                                      | 09/09/2024              |
 | Landing-page | main   | 5d497e7   | AÑADI MI PARTE                                          | AÑADI MI PARTE                                          | 09/09/2024              |
+| Landing-page | main   | c4a4795db0aa611aa25fc3f3dea4d0d9f5574ed1   | feat: Add files and update    | Se añade archivos al repositorio | 10/09/2024              |
+| Landing-page | main   | 1dd9e3e004dc828fd9134f631738121951dd1cba   | feat: Add funcionalidades   | Se añade funcionalidades al .js | 10/09/2024              |
+| Landing-page | main   | a6dde725b27df498b1d2a3e182e6ec2ac55541d4   | feat: Agregación de estilos para un sección  | Se implementa estilos al landing page| 10/09/2024              |
+| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c   | feat: Añadir preguntas y respuestas, actualización de imagenes  | Se añade una seccion de preguntas y respuestas y la actualización de imagenes | 10/09/2024              |
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
@@ -2202,6 +2211,11 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | 09580bc08b0432c239c355e93f25ae09c721dd87   | feat: add US08 gherkin | Se añade la visualización de User Stories en el Timeline | 11/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | 54e03628658a50f47c438bd1d90b6a8a73a239e1   | feat: add US08 | Se añade la adición de una columna para un nuevo sprint en el Timeline | 11/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | 346708f2369172bfd3424a8eea5cc2d6528675bb   | feat: add US10.feature | Se añade la estimación de Esfuerzo en User Stories | 11/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | de0406ea1369d4293a01c8d3d5c89d5a2b6c55b0   | feat: add US11.feature | Se añade la interacción con el Timeline para Invitar Miembros | 11/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | cd8c082796794691b7ae9f831c1494548fe0c229   | feat: add US12.feature| Se añade la extensión del Timeline para un Sprint | 11/10/2024              |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
