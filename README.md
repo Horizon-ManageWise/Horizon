@@ -31,7 +31,7 @@ Product: ManageWise
 - Jose Antonio Alejo Cardenas - u202122484
 - John Telesforo Arevalo Meza - u202117377
 - Valentino Sandoval Paiva - u20211a962
-
+- Sergio André Gómez Vallejos - u20221d401
 ### Agosto, 2024
 
 ### Url del proyecto: https://github.com/Horizon-ManageWise/Horizon
@@ -53,6 +53,7 @@ Product: ManageWise
 | TB1     | 8/09/2024  | Diego Rolin Acuña Tomas  | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
 | TB1     | 29/08/2024 | John Arévalo             | Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.                                                                                                                                                                                          |
 | TB1     | 6/09/2024  | John Arévalo             | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
+| TB1     | 11/10/2024  | Sergio Gómez            | Desarrolle los mockups de la landing page, además de los mockups, Landing Page Wireframe, conclusiones , Student Ourtcome.|
 | TB1     | 8/09/2024  | John Arévalo             | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
 | TP      | 24/09/2024 | Valentino Sandoval       | Diseño e implementacion de bounded context herramientas.                                                                                                                                                                                                                                    |
 | TP      | 24/09/2024 | Jose Alejo               | Diseño e implementacion de bounded context Calendar.                                                                                                                                                                                                                                        |
@@ -116,6 +117,7 @@ TB1:<br>
 |Sandoval Paiva Valentino|Descripción de la Startup, 5w y 2h, Solution Profile, Antecedentes y problemática, el regitro de una entrevista , Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management.|
 | Diego Rolin Acuña Tomas | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
 | Arévalo Meza John | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
+| Sergio André Gómez Vallejos | Student outcome , conclusiones, Landing Page Wireframe, Landing Page Mock-up, Testing Suite Evidence for Sprint Review, landing page mockups, web application wireframes, web application mockups, wSoftware Deployment Evidence for Sprint Review |
 
 <br>TP:<br>
 |Integrante|Tarea Asignada|
@@ -279,8 +281,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio especifico|Acciones Realizadas| Conclusiones|
 |:--|:--|--|
-| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.<br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario.<br>**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. <br> **Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br> **Jose Alejo**<br> TP:<br> Durante mi presentación de la evidencia de desarrollo y ejecución, me aseguré de transmitir claramente los avances del sprint, destacando cómo cada funcionalidad se alinea con los requisitos del proyecto. Esto me permitió asegurar que todos comprendieran nuestro progreso y logros. TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo |
-| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos lotesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentoss miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipó objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.<br>**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes <br> | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br> <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general <br> TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo|
+| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.<br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario.<br>**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo.<br>**Sergio André Gómez Vallejos**<br>TB1:Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas. <br> **Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br>**Sergio André Gómez Vallejos**<br>TB1:Durante mi participación desarrollé de manera puntual y clara con algunas secciones del documento, como los Mockoups, testing, etc. Me asegure de cumplir y transmitir los avances del documento del TB1. <br> **Jose Alejo**<br> TP:<br> Durante mi presentación de la evidencia de desarrollo y ejecución, me aseguré de transmitir claramente los avances del sprint, destacando cómo cada funcionalidad se alinea con los requisitos del proyecto. Esto me permitió asegurar que todos comprendieran nuestro progreso y logros. TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo |
+| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Sergio André Gómez Vallejos**<br>TB1:Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.<br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos lotesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentoss miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipó objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.<br>**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes <br> | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br>**Sergio André Gómez Vallejos**<br>TB1:Durante el proyecto coloque y redacté documentación de manera clara y efectiva, como el testing, landing page, entre muchas otras secciones. Con el fin de mejorar y asegurar al documento para un proceso garantizado del proyecto. <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general <br> TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo|
 
 ## Capítulo I: Introducción
 
@@ -330,7 +332,10 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 | <p align="center"><img width="300" src="assets/images/John_profile.jpg"> </p> | Soy John Arévalo, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes de programación como python y c++, y bases de datos como SQLServer y MongoDB. Desde pequeño me sentí atraído por la tecnología, por lo que me decidí a estudiar la carrera, además disfruto de jugar videojuegos con amigos en mi tiempo libre. |
 |:--|--|
 
+- Sergio André Gómez Vallejos – U20221d401
 
+|<p align="center"><img width="300" src="https://hackmd.io/_uploads/SkU_5d9cR.png"> </p> |Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
+|:--|--|
 
 ### 1.2. Solution Profile
 
@@ -1427,6 +1432,9 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 #### 4.3.1. Landing Page Wireframe
 
+**Introducción a las decisiones de diseño y arquitectura de información**:  
+El diseño de la landing page se realizó con el objetivo de optimizar la experiencia del usuario, asegurando una navegación clara y accesible en dispositivos de distintos tamaños. Se optó por una estructura de navegación sencilla y eficiente, permitiendo a los usuarios desplazarse fácilmente por las secciones más importantes. Se priorizó un diseño responsive que se adapta a diferentes dispositivos, desde computadoras de escritorio hasta teléfonos móviles. Además, la arquitectura de información asegura que el contenido más relevante esté destacado, facilitando la interacción con el usuario.
+
 Se estructuró la landing page para facilitar la navegación y claridad del contenido, con un navbar con links que redirigen al usuario a la sección deseada. El diseño es responsive, adaptándose a un hamburger menu en pantallas pequeñas. En el hero, se ubica el eslogan y un call-to-action, al igual que en la sección Nosotros, para redirigir así a los usuarios al formulario de registro. El footer contiene enlaces a redes sociales, manteniendo la coherencia visual.
 
 ##### Desktop Web Browser:
@@ -1439,7 +1447,7 @@ La landing page cuenta con diferentes secciones:
 - Descripción general: Se muestran las principales características de la aplicación al usuario.
 - Beneficios: El usuario puede ver los beneficios de usar la aplicación.
 - Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
-- Footer: Enlaces a las redes sociales de la paltaforma.  
+- Footer: Enlaces a las redes sociales de la plataforma.  
   <br>
   <img src="assets/images/WireframeDesktopWebBrowser.png">
   <br>
@@ -1464,7 +1472,7 @@ Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y e
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser-Menu.png">
 <br>
 
-Se cuenta con las mismas secciones que para desktop web browser ( Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
 <br>
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser.png">
 <br>
@@ -1481,6 +1489,9 @@ El formulario de inicio de sesión se adapta a la pantalla<br>
 
 #### 4.3.2. Landing Page Mock-up
 
+ 
+Los mock-ups proporcionan una representación visual de la estructura final de la landing page, tanto para la versión de escritorio como para dispositivos móviles. En el diseño de escritorio (Desktop Web Browser), se priorizó una disposición clara y organizada, mientras que en la versión móvil (Mobile Web Browser), se implementó un diseño responsive para asegurar una experiencia de usuario fluida y óptima en cualquier tamaño de pantalla.
+
 ##### Desktop Web Browser:
 
 <p align="center">
@@ -1490,17 +1501,20 @@ La landing page cuenta con diferentes secciones:
 - Hero o header: Se encuentra la barra de navegación, además del eslogan de la aplicación e imagen referencial.
 - Descripción general: Se muestran las principales características de la aplicación al usuario, junto con una imagen referente.
 - Beneficios: El usuario puede ver los beneficios de usar la aplicación.
-- Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
-- Footer: Enlaces a las redes sociales de la paltaforma.
+- Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además, se incentiva al usuario a registrarse.
+- Preguntas Frecuentes: Se muestra las preguntas mas recurrentes de la aplicación lo cual le da a saber al usuario algunas respuestas de lo que es nuestra aplicación y lo facil de usar.
+- Footer: Enlaces a las redes sociales de la plataforma.
   <br>
   <img src="assets/images/Mockup-DesktopWebBrowser.png">
   <br>
 
-Apartado de registro, en donde el usuario deberá ingresar datos necesarios de la manera que vea conveniente. <br>
+Apartado de registro, en donde el usuario deberá ingresar los datos necesarios de la manera que vea conveniente.  
+<br>
 <img src="assets/images/Mockup-DesktopWebBrowser-Resgistro.png">
 <br>
 
-Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.<br>
+Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.  
+<br>
 <img src="assets/images/Mockup-DesktopWebBrowser-InicioSesion.png">
 <br>
 
@@ -1509,24 +1523,29 @@ Apartado de inicio de sesión, en donde el usuario ingresa el correo y contrase�
 ##### Mobile Web Browser:
 
 <p align="center">
-Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se ecuentran los links de navegación. <br>
 
+Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se encuentran los links de navegación.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-Menu.png">
 <br>
 
-Se cuenta con las mismas secciones que para desktop web browser ( Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.<br>
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros, Preguntas Frecuentes), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla, permitiendo así un acceso óptimo a la información.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser.png">
 <br>
 
-El formulario de registro que se adapta a la pantala del dispositivo, permitiendo de esta manera una navegación fluida.<br>
+El formulario de registro se adapta a la pantalla del dispositivo, permitiendo de esta manera una navegación fluida.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-Resgistro.png">
 <br>
 
-El formulario de inicio que se adapta a la pantala del dispositivo, permitiendo de esta manera una navegación fluida.<br>
+El formulario de inicio de sesión se adapta a la pantalla del dispositivo, permitiendo de esta manera una navegación fluida.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-InicioSesion.png">
 <br>
 
 </p>
+
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -1642,69 +1661,35 @@ Los siguientes mockups ofrecen una vista previa del diseño y estructural visual
 
 <p align="center">
 
-La sección de Proyectos es la principal, en donde el usuario podrá visualizar las diferentes actividades, las personas encargadas y diferentes aspectos de las mismas. En caso de ser el líder podra crear, editar y eliminar las tareas.
-<img src="assets/images/mockups/proyectos.png">
+La sección de Statistics es fundamental, en donde el product Owner y Scrum Master podrá visualizar las estadisticas en base a los sprints de las historias de usuario. Tanto tambien se podrá saber si el sprint se esta elaborando bien en temas de avance.
 <br>
-En en el apartado Estado de Actividades en Proyectos, el usuario podrá visualizar si las actividades se encuentran por hacer, en progreso o terminadas, y en caso de ser el líder, podrá editar el estado de estas.
-<img src="assets/images/mockups/proyectos-estado.png">
+<img src="assets/images/mockups/statistics.png">
 <br>
-En en el apartado Cronograma Sprint en Proyectos, el usuarió podrá visualizar las fechas estipuladas, límites y diversas actividades.
-<img src="assets/images/mockups/proyectos-CronogramaSprint.png">
+En en el apartado Estado de TimeLine, en lo cual el product Owner y Scrum Master podrá colocar en que tiempo se completo las historias de usuario en en esquema del tiempo por sprints.
+<img src="assets/images/mockups/timeline.png">
 <br>
-En en el apartado Roles en Proyectos, el usuario visualizará los diferentes miembros del proyecto y en caso de ser el líder, podrá invitar y agregar a nuevos.
-<img src="assets/images/mockups/proyecto-roles.png">
+En la sección Backlog permite gestionar y mover historias de usuario entre el product backlog y el sprint backlog, con la opción de iniciar sprints una vez las historias estén listas.
+<img src="assets/images/mockups/backlog.png">
 <br>
+En la sección Board permite gestionar visualmente las User Stories, moviéndolas entre las columnas TO DO, IN PROGRESS, y DONE, con opciones para agregar, editar, eliminar y filtrar las tareas por prioridad.
+<img src="assets/images/mockups/board.png">
 <br>
-
-En la sección de Herramientas, el usuario tendrá acceso a videollamadas, y los diferentes documentos compartidos por los miembros del proyecto, en caso de ser el líder, podra crear y eliminar videollamadas.
-<img src="assets/images/mockups/herramientas.png">
-<br>
-En en el apartado Documentos compartidos en Herramientas, el usuario puede visualizar los diferentes documentos compartidos por los miembros.
-<img src="assets/images/mockups/herramientas - documentos compartidos.png">
+<img src="assets/images/mockups/board-members.png">
 <br>
 <br>
-
-En la sección de Seguridad, los usuarios podrán activar diferentes métodos de seguridad, como el de doble autenticación, y en caso de ser el líder poder hacer el proyecto publico.
-<img src="assets/images/mockups/Seguridad.png">
+En en el apartado Meeting, el Scrum Master o el Product Owner se registrara las reuniones y se podra planificar a que dia y hora estara dicha reunion.
+<img src="assets/images/mockups/meeting.png">
 <br>
 <br>
 
-En la sección de Historial, el usuario podrá visualizar diferentes actividades y sesiones que ya concluyeron; siendo el apartado por defecto el de conversaciones, donde podrá ver la interacción que tuvo con diferentes miembros en el foro.
-<img src="assets/images/mockups/Historial.png">
+La sección Members permite al project manager gestionar el equipo de desarrollo, invitando, removiendo miembros y asignándolos a grupos de trabajo, facilitando la colaboración en tareas específicas.
+<img src="assets/images/mockups/members-users.png">
 <br>
-En en el apartado Actividades en Historial, el usuario puede ver las actividades pasadas y en qué estado culminaron.
-<img src="assets/images/mockups/Historial - actividades.png">
 <br>
-En en el apartado Sesiones en Historial, el usuario puede acceder a la grabación de las diferentes videollamadas.
-<img src="assets/images/mockups/Historial - sesiones.png">
+<img src="assets/images/mockups/members-groups.png">
 <br>
 <br>
 
-En la sección de Reporte, el usuarió podrá observar los errores ocurridos a lo largo del proeycto, así como un resumen sprint y el progreso general e individual de los miembros del equipo.
-<img src="assets/images/mockups/Reporte.png">
-<br>
-En en el apartado Progreso en Reporte, el usuario podrá visualizar una barra que indica el progreso general del proyecto, con respecto a las tareas, y una barra por cada miembro, mostrando el progreso individual, en caso de ser el líder, además, podrá visualizar un gráfico radial con las habilidades de cada miembro.
-<img src="assets/images/mockups/Reporte-Progreso.png">
-<br>
-En en el apartado Resumen Sprint en Reporte, el usuario podrá ver un resumen de cada sprint.
-<img src="assets/images/mockups/Reporte-ResumenSprint.png">
-<br>
-<br>
-
-En la sección de Foro, el usuario tendrá acceso al foro con los diferentes apartados del mismo.
-<img src="assets/images/mockups/Foro-Mejora.png">
-<br>
-En en el apartado Problemas en Foro, el usuario verá diferentes problemas reportados por los miembros, y podrá responder a los mismos.
-<img src="assets/images/mockups/Foro-Problemas.png">
-<br>
-En en el apartado Retroalimentación en Foro, usuario verá la retroalimentación brindada por el líder del proyecto.
-<img src="assets/images/mockups/Foro-retroalimentacion.png">
-<br>
-<br>
-
-En la sección de Configuración, el usuario será capaz de editar aspectos relacionados a su cuenta, y el apartado visual de la aplicación.
-<img src="assets/images/mockups/configuracion.png">
-<br>
 
 </p>
 
@@ -2193,6 +2178,10 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | US46          | Iniciar Sesión Rápido y Visible               | TA001           | Implementación de Enlace de Inicio de Sesión    | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                        | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
 | US47          | Resumen de la Empresa, Misión y Visión        | TA001           | Creación de Sección "Acerca de Nosotros"        | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
 | US48          | Navegación Clara y Directa en la Página       | TA001           | Diseño del Menú de Navegación                   | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
+| US08          | Visualización de User Stories en el Timeline   | TA002           | Implementación de Visualización de User Stories | Crear la funcionalidad para mostrar las User Stories en el timeline, organizadas por Sprints.                             | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
+| US09          | Estimación de Esfuerzo en User Stories       | TA003           | Visualización de Estimaciones                   | Mostrar la estimación de esfuerzo para cada User Story en el timeline.                                                   | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
+| US10          | Interacción con el Timeline para Invitar Miembros | TA004        | Funcionalidad para Invitar Miembros            | Implementar la opción de invitar a miembros del equipo desde el timeline.                                                | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
+| US11          |Visualización de Estadísticas del Rendimiento del Equipo | TA005           | Vista de las estadisticas y de como va el sprint  | Permitir al Product Owner ver el progreso de las historias de usuarios      | 1 hora                | Sergio André Gómez Vallejos   | To-do                                                    |
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
@@ -2206,6 +2195,10 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | Landing-page | main   | 280c80e   | nojotros add                                            | nojotros add                                            | 08/09/2024              |
 | Landing-page | main   | ec30e3f   | AÑADIENDO MI PARTE                                      | AÑADIENDO MI PARTE                                      | 09/09/2024              |
 | Landing-page | main   | 5d497e7   | AÑADI MI PARTE                                          | AÑADI MI PARTE                                          | 09/09/2024              |
+| Landing-page | main   | c4a4795db0aa611aa25fc3f3dea4d0d9f5574ed1   | feat: Add files and update    | Se añade archivos al repositorio | 10/09/2024              |
+| Landing-page | main   | 1dd9e3e004dc828fd9134f631738121951dd1cba   | feat: Add funcionalidades   | Se añade funcionalidades al .js | 10/09/2024              |
+| Landing-page | main   | a6dde725b27df498b1d2a3e182e6ec2ac55541d4   | feat: Agregación de estilos para un sección  | Se implementa estilos al landing page| 10/09/2024              |
+| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c   | feat: Añadir preguntas y respuestas, actualización de imagenes  | Se añade una seccion de preguntas y respuestas y la actualización de imagenes | 10/09/2024              |
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
@@ -2218,6 +2211,10 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | 09580bc08b0432c239c355e93f25ae09c721dd87   | feat: add US08 gherkin | Se añade la visualización de User Stories en el Timeline | 11/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | 623e525f2877b7027ffcaab594e97e32329eb965   | feat: add US09.feature | Se añade la estimación de Esfuerzo en User Stories | 11/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | cb7e1c8cbf0141926cd0b7afc6f3cecd4e94dc2c   | feat: add US10.feature | Se añade la interacción con el Timeline para Invitar Miembros | 11/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Sergio | d15f9bc47510aa240a6d16efe046b26c8ac76c3b   | feat: add US11.feature| Se añade la la vista de las estadisticas junto al progreso de las historias de susuario | 11/10/2024              |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
@@ -2563,6 +2560,10 @@ Link: https://managewise-si729-member.web.app/member/members
 
 - John Arévalo:  
   El desarrollo de Horizon nos enseñó la importancia de crear sistemas bien estructurados como el Navigation System, Labeling System, y Searching System para garantizar una experiencia de usuario fluida. A lo largo del proyecto, aprendimos cómo la integración de tecnologías avanzadas puede no solo optimizar la gestión de proyectos, sino también facilitar la colaboración y la toma de decisiones informadas. De esta manera se promovió una cultura de innovación y a su vez, se logró profundizar en nuevas áreas.
+  <br><br>
+- Sergio Gómez: <br>
+  En el desarrollo del proyecto Horizon, aprendimos la importancia de la visualización interactiva y su impacto en la planificación y seguimiento de tareas en un equipo ágil. Al integrar un timeline que permite gestionar User Stories y Sprints, así como descargar gráficos de rendimiento, Horizon nos mostró cómo la organización clara y visual del trabajo puede mejorar significativamente la colaboración y la toma de decisiones. Este proyecto también nos enseñó la relevancia de contar con herramientas que faciliten la comunicación entre roles clave, como el Scrum Master y el Product Owner, lo que contribuye al éxito general del equipo.
+
   <br><br>
 
 ### Bibliografia
