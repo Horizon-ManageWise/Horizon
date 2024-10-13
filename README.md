@@ -77,13 +77,13 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 **Vista de commits: Landing page:**
 
 
-![alt text](assets\images\commitsLandingS2.jpeg)      
+![alt text](assets\TB1-image\commitslandings2.jpeg)      
 
 
-![alt text](assets\images\commitsLandingSJAD.jpeg)    
+![alt text](assets/TB1-image/commitslandingsdaj.jpeg)    
 
 
-![alt text](assets\images\commitsLandingNet.jpeg)    
+![alt text](assets/TB1-image/commitslandingnet.jpeg)    
 
 * Estefano Oscar Jaque Peña: 1
 * Diego Rolin Acuña Tomas: 1
@@ -94,20 +94,20 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 
 **Web Application Frontend:**
 
-![alt text](assets\images\commitF1.jpeg)    
+![alt text](assets/TB1-image/commitf1.jpeg)    
 
 
-![alt text](assets\images\commitF2.jpeg)    
+![alt text](assets/TB1-image/commitf2.jpeg)    
 
 **Report:** 
 
-![alt text](assets\images\commitsReport1.jpeg)    
+![alt text](assets/TB1-image/commitsreport1.jpeg)    
 
 
-![alt text](assets\images\commitsReport2.jpeg)    
+![alt text](assets/TB1-image/commitsreport2.jpeg)    
 
 
-![alt text](assets\images\commitsReport3.jpeg)    
+![alt text](assets/TB1-image/commitsreport3.jpeg)    
 
 * Estefano Oscar Jaque Peña: 54
 * Diego Rolin Acuña Tomas: 50
@@ -2305,9 +2305,9 @@ Despliegue: Configuración del entorno de despliegue y transferencia de archivos
 
 **Landing Page**
 
-![Commits](assets\images\commitsLandingS2.jpeg)
-![Commits](assets\images\commitsLandingSJAD.jpeg)
-![Commits](assets\images\commitsLandingNet.jpeg)
+![Commits](assets/TB1-image/commitslandings2.jpeg)
+![Commits](assets/TB1-image/commitslandingsdaj.jpeg)
+![Commits](assets/TB1-image/commitslandingnet.jpeg)
 
 * Estefano Oscar Jaque Peña: 1
 * Diego Rolin Acuña Tomas: 1
@@ -2319,9 +2319,9 @@ Despliegue: Configuración del entorno de despliegue y transferencia de archivos
 
 **Report:** 
 
-![Commits](assets\images\commitsReport1.jpeg)
-![Commits](assets\images\commitsReport2.jpeg)
-![Commits](assets\images\commitsReport3.jpeg)
+![Commits](assets/TB1-image/commitsreport1.jpeg)
+![Commits](assets/TB1-image/commitsreport2.jpeg)
+![Commits](assets/TB1-image/commitsreport3.jpeg)
 
 * Estefano Oscar Jaque Peña: 54
 * Diego Rolin Acuña Tomas: 50
