@@ -79,9 +79,9 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 
 **Vista de commits: Landing page:**
 
-![Commits](assets\images\CommitsLandingS2.jpeg)
-![Commits](assets\images\CommitsLandingSJAD.jpeg)
-![Commits](assets\images\CommitsLandingNet.jpeg)
+![Commits](assets\images\commitsLandingS2.jpeg)
+![Commits](assets\images\commitsLandingSJAD.jpeg)
+![Commits](assets\images\commitsLandingNet.jpeg)
 
 * Estefano Oscar Jaque Peña: 1
 * Diego Rolin Acuña Tomas: 1
@@ -92,14 +92,14 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 
 **Web Application Frontend:**
 
-![Commits](assets\images\CommitF1.jpeg)
-![Commits](assets\images\CommitF2.jpeg)
+![Commits](assets\images\commitF1.jpeg)
+![Commits](assets\images\commitF2.jpeg)
 
 **Report:** 
 
-![Commits](assets\images\CommitsReport1.jpeg)
-![Commits](assets\images\CommitsReport2.jpeg)
-![Commits](assets\images\CommitsReport3.jpeg)
+![Commits](assets\images\commitsReport1.jpeg)
+![Commits](assets\images\commitsReport2.jpeg)
+![Commits](assets\images\commitsReport3.jpeg)
 
 * Estefano Oscar Jaque Peña: 54
 * Diego Rolin Acuña Tomas: 50
@@ -2272,9 +2272,9 @@ Despliegue: Configuración del entorno de despliegue y transferencia de archivos
 
 **Landing Page**
 
-![Commits](assets\images\CommitsLandingS2.jpeg)
-![Commits](assets\images\CommitsLandingSJAD.jpeg)
-![Commits](assets\images\CommitsLandingNet.jpeg)
+![Commits](assets\images\commitsLandingS2.jpeg)
+![Commits](assets\images\commitsLandingSJAD.jpeg)
+![Commits](assets\images\commitsLandingNet.jpeg)
 
 * Estefano Oscar Jaque Peña: 1
 * Diego Rolin Acuña Tomas: 1
@@ -2286,9 +2286,9 @@ Despliegue: Configuración del entorno de despliegue y transferencia de archivos
 
 **Report:** 
 
-![Commits](assets\images\CommitsReport1.jpeg)
-![Commits](assets\images\CommitsReport2.jpeg)
-![Commits](assets\images\CommitsReport3.jpeg)
+![Commits](assets\images\commitsReport1.jpeg)
+![Commits](assets\images\commitsReport2.jpeg)
+![Commits](assets\images\commitsReport3.jpeg)
 
 * Estefano Oscar Jaque Peña: 54
 * Diego Rolin Acuña Tomas: 50
