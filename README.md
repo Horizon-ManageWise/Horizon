@@ -1564,68 +1564,50 @@ En esta parte se explorará el diseño de la experiencia que tendrán los usuari
 
 <p align="center">
 
-La sección de Proyectos es la principal, en donde el usuario podrá visualizar las actividades, estados, cronogramas, y en caso de tener permiso, editarlas.  
-<img src="assets/images/wireframes/proyectos.png">
-<br>
-Apartado Estado de actividades de proyectos en Proyectos
-<img src="assets/images/wireframes/proyectos-estado.png">
-<br>
-Apartado Cronograma Sprint en Proyectos
-<img src="assets/images/wireframes/proyectos-CronogramaSprint.png">
-<br>
-Apartado Roles en Proyectos
-<img src="assets/images/wireframes/proyecto-roles.png">
+La sección de Proyectos es la principal, en donde el usuario podrá visualizar los diferentes proyectos que ha creado y en caso desearlo, crear uno nuevo. Además de contar con una breve descripción de la app general.  
+<img src="assets/images/wireframes/Home.png">
 <br>
 <br>
 
-En la sección de Herramientas, el usuario tendrá acceso a videollamadas, y los diferentes documentos compartidos por los miembros del proyecto.
-<img src="assets/images/wireframes/herramientas.png">
+En la sección Backlog, el usuario podrá visualizar el product backlog y puede crear un sprint backlog, añadiendo backlog items a este. Además cuenta con una vista Backlog items, en donde en caso tener permisos, puede gestionar estos.
+<img src="assets/images/wireframes/backlog.png">
 <br>
-Apartado Documentos compartidos en Herramientas
-<img src="assets/images/wireframes/herramientas - documentos compartidos.png">
-<br>
-<br>
-
-En la sección de Seguridad, los usuarios podrán activar diferentes métodos de seguridad, como el de doble autenticación, y en caso de ser el líder poder hacer el proyecto publico.
-<img src="assets/images/wireframes/Seguridad.png">
+Vista Backlog Items
+<img src="assets/images/wireframes/backlog-items.png">
 <br>
 <br>
 
-En la sección de Historial, el usuario podrá visualizar diferentes actividades y sesiones que ya concluyeron.
-<img src="assets/images/wireframes/Historial.png">
+En la sección Members, el usuario visualiza a los diferentes miembros del equipo, puediendo añadir mas en caso desearlo. Además en caso seleccionar Groups, podrá gestionar estos.
+<img src="assets/images/wireframes/members.png">
 <br>
-Apartado Actividades en Historial
-<img src="assets/images/wireframes/Historial - actividades.png">
-<br>
-Apartado Sesiones en Historial
-<img src="assets/images/wireframes/Historial - sesiones.png">
+Vista Groups
+<img src="assets/images/wireframes/members-groups.png">
 <br>
 <br>
 
-En la sección de Reporte, el usuarió podrá observar los problemas ocurridos a lo largo del proeycto, así como un resumen sprint y el progreso general e individual de los miembros del equipo.
-<img src="assets/images/wireframes/Reporte.png">
+En la sección de Statistics, el usuario podrá visualizar diferentes datos estadísticos sobre el proyecto y en caso seleccionar Timeline, podra ver el cronograma de este.
+<img src="assets/images/wireframes/statistics.png">
 <br>
-Apartado Progreso en Reporte
-<img src="assets/images/wireframes/Reporte-Progreso.png">
-<br>
-Apartado Resumen Sprint en Reporte
-<img src="assets/images/wireframes/Reporte-ResumenSprint.png">
+Vista Timeline
+<img src="assets/images/wireframes/statistics-timeline.png">
 <br>
 <br>
 
-En la sección de Foro, el usuario tendrá acceso a foro con los diferentes apartados del mismo.
-<img src="assets/images/wireframes/Foro-Mejora.png">
-<br>
-Apartado Problemas en Foro
-<img src="assets/images/wireframes/Foro-Problemas.png">
-<br>
-Apartado Retroalimentación en Foro
-<img src="assets/images/wireframes/Foro-retroalimentacion.png">
+En la sección Meeting el usuario podrá visualizar si se encuentra activa alguna reunión e ingresar a esta.
+<img src="assets/images/wireframes/meeting.png">
 <br>
 <br>
 
-En la sección de Configuración, el usuario será capaz de editar aspectos relacionados a su cuenta, y el apartado visual de la aplicación.
-<img src="assets/images/wireframes/configuracion.png">
+En la sección Issues, el usuario crear reportes sobre incidencias, además de visualizar los ya existentes.
+<img src="assets/images/wireframes/issues.png">
+<br>
+<br>
+
+En la sección Board, el usuario será capaz visualizar un tablero scrum, en donde podrá visualizar quién es el encargado de cada item, además de, en caso de tener permisos, poder editar el estado de los items.
+<img src="assets/images/wireframes/board.png">
+<br>
+Vista de Miembros asignados
+<img src="assets/images/wireframes/board-members.png">
 <br>
 
 </p>
@@ -1640,29 +1622,59 @@ En la sección de Configuración, el usuario será capaz de editar aspectos rela
 
 <p align="center"><img src="assets/images/wireflow2.png"></p>
 
-##### User goal: Acceso a videollamadas
+##### User goal: Acceso a meeting
 
-<p align="center"><img src="assets/images/wireflow3.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-.png"></p>
 
-##### User goal: Acceso a historial
+##### User goal: Agregar un nuevo miembro
 
-<p align="center"><img src="assets/images/wireflow4.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-(1).png"></p>
 
-##### User goal: Visualizar secciónes del foro
+##### User goal: Crear un nuevo grupo
 
-<p align="center"><img src="assets/images/wireflow5.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-(2).png"></p>
 
-##### User goal: Realiazar el seguimiento de tareas en tiempo real
+##### User goal: Crear un nuevo backlog item
 
-<p align="center"><img src="assets/images/wireflow6.png"></p>
+<p align="center"><img src="assets/images/wireflow//Wireflow-(3).png"></p>
 
-##### User goal: Visualizar cronograma
+##### User goal: Editar un backlog item
 
-<p align="center"><img src="assets/images/wireflow7.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-(4).png"></p>
 
-##### User goal: Modificar estado de tareas
+##### User goal: Eliminar un backlog item
 
-<p align="center"><img src="assets/images/wireflow8.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-(5).png"></p>
+
+
+##### User goal: Crear un sprint
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(6).png"></p>
+
+
+##### User goal: Acceder a metricas del proyecto
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(7).png"></p>
+
+
+##### User goal: Acceder a la timeline del proyecto
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(8).png"></p>
+
+
+##### User goal: Acceder al tablero scrum
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(9).png"></p>
+
+
+##### User goal: Acceder a Issues
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(10).png"></p>
+
+
+##### User goal: Eliminar un backlog item
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(5).png"></p>
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -1712,25 +1724,57 @@ La sección Members permite al project manager gestionar el equipo de desarrollo
 
 <p align="center"><img src="assets/images/Userflow2.png"></p>
 
-##### User goal: Como lider del equipo quiero realizar un seguimiento en tiempo real del progreso de este. Para lograrlo, ingreso a reporte y luego a la sección progreso.
+##### User goal: Como scrum master o product owner, quiero poder agregar backlog items al sprint backlog. Para logralo selcciono add items en el sprint backlog, ingreso el id de este y selecciono add, en caso ingrese un dato incorrecto, el formulario se reiniciara.
 
-<p align="center"><img src="assets/images/Userflow3.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-.png"></p>
 
-##### User goal: Como miembro del equipo, quiero poder visualizar el cronograma sprint. Para lograrlo, ingreso a la sección Cronograma desde el apartado de Proyectos.
+##### User goal: Como miembro product owner, quiero poder crear backlog items para reflejar los requisitos y necesidades del cliente. Para lograrlo, dentro de la sección backlog, selecciono backlog items, y en en el item deseado, selecciono create. En caso llene el formulario de forma correcta y seleccione create, el item se creara y en caso contrario, el formulario se cerrará.
 
-<p align="center"><img src="assets/images/Userflow4.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-(1).png"></p>
 
-##### User goal: Como lider de equipo, quiero acceder al historial de actividades. Para lograrlo, ingreso a Historial en el panel lateral, y posteriormente a la sección Actividades.
+##### User goal: Como miembro product owner, quiero poder editar backlog items para ajustar los requisitos. Para lograrlo, dentro de la sección backlog, selecciono backlog items, y en en el item deseado, selecciono edit. En caso llene el formulario de forma correcta y seleccione save, el item se actualizara y en caso contrario, el formulario se cerrará.
 
-<p align="center"><img src="assets/images/Userflow5.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-(2).png"></p>
 
-##### User goal: Como miembro del equipo, quiero poder ingresar al foro para visualizar sugerencias. Para lograrlo, ingreso a Foro en el panel lateral.
+##### User goal: Como miembro product owner, quiero poder eliminar backlog items para no tener requisitos innecesarios. Para lograrlo, dentro de la sección backlog, selecciono backlog items, y en en el item deseado, selecciono delete. En caso llene el formulario de forma correcta y seleccione delete, el item se eliminará y en caso contrario, el formulario se cerrará.
 
-<p align="center"><img src="assets/images/Userflow6.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-(3).png"></p>
 
-##### User goal: Como miembro de equipo, quiero poder ingresar a una videollamada realizada por el líder. Para lograrlo, me dirijo a Herramientas en el panel lateral y luego ingreso a la seccion Videollamadas, para finalmente ingresar a la deseada.
+##### User goal: Como miembro del equipo de desarrollo quiero poder acceder a las reuniones, para asi contribuír con el equipo. Para lograrlo, selecciono Meetings en el menu lateral izquierdo e ingreso al meeting deseado, en caso no este disponible, se mostrará un mensaje.
 
-<p align="center"><img src="assets/images/Userflow7.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-(4).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero poder eliminar un reporte de incidencias. Para lograrlo, estando en la sección issues, selecciono el boton de eliminar en el reporte deseado y posteriormente confirmo, en caso no lo haga, se cancelará la acción.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(5).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero poder editar un reporte de incidencias. Para lograrlo, estando en la sección issues, selecciono el boton de editar en el reporte deseado y posteriormente relleno el formulario de forma correcta y selecciono update, en caso no lo haga, se cancelará la acción.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(6).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero poder crear un reporte de incidencias. Para lograrlo, estando en la sección issues, selecciono el boton de crear reporte de incidencias y posteriormente relleno el formulario y confirmo, en caso no lo haga, se cancelará la acción.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(7).png"></p>
+
+##### User goal: Como scrum master o product owner, quiero poder agregar nuevos miembros al equipo. Para lograrlo, estando en la sección members, selecciono invite member y paso a la persona el link de invitación o simplemenente ingreso el user name de esta.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(8).png"></p>
+
+##### User goal: Como scrum master o product owner, quiero poder crear subgrupos para así separar a los miembros según el perfil de cada uno. Para lograrlo, estando en la sección members, selecciono groups y posteriormente create group, relleno el formulario y confirmo, caso contrario se cancelará la acción.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(9).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero observar el tablero scrum del proyecto. Para lograrlo, selecciono board en el menu lateral izquierdo.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(10).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo quiero poder observar metricas sobre el proyecto. Para lograrlo, selecciono statistics en el menu lateral izquierdo.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(11).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero poder observar la timeline del proyecto, para asi estar al tanto de límites. Para lograrlo, selecciono Statistics en el menu lateral izquierdo y posteriormente selecciono Timeline.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(12).png"></p>
 
 ### 4.5. Web Applications Prototyping
 
