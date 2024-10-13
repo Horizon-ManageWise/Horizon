@@ -76,9 +76,10 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 
 **Vista de commits: Landing page:**
 
-![Commits](assets\images\commitsLandingS2.jpeg)
-![Commits](assets\images\commitsLandingSJAD.jpeg)
-![Commits](assets\images\commitsLandingNet.jpeg)
+
+![alt text](assets\images\commitsLandingS2.jpeg)
+![alt text](assets\images\commitsLandingSJAD.jpeg)
+![alt text](assets\images\commitsLandingNet.jpeg)
 
 * Estefano Oscar Jaque Peña: 1
 * Diego Rolin Acuña Tomas: 1
@@ -89,14 +90,14 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 
 **Web Application Frontend:**
 
-![Commits](assets\images\commitF1.jpeg)
-![Commits](assets\images\commitF2.jpeg)
+![alt text](assets\images\commitF1.jpeg)
+![alt text](assets\images\commitF2.jpeg)
 
 **Report:** 
 
-![Commits](assets\images\commitsReport1.jpeg)
-![Commits](assets\images\commitsReport2.jpeg)
-![Commits](assets\images\commitsReport3.jpeg)
+![alt text](assets\images\commitsReport1.jpeg)
+![alt text](assets\images\commitsReport2.jpeg)
+![alt text](assets\images\commitsReport3.jpeg)
 
 * Estefano Oscar Jaque Peña: 54
 * Diego Rolin Acuña Tomas: 50
