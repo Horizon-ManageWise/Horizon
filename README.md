@@ -1772,33 +1772,17 @@ Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-ma
 
 ### 4.6.1. Software Architecture Context Diagram
 
-<p align="center"><img src="assets/images/domain-driven/Software Architecture Context Diagram.png"></p>
+![alt text](assets/images/Context%20Diagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<p align="center"><img src="assets/images/domain-driven/Software Architecture Container Diagrams.png"></p>
+![alt text](assets/images/Container%20Diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-#### **Component: Team management**
+#### **Component: Backlog management**
 
-<p align="center"><img src="assets/images/domain-driven/Team management.png"></p>
-
-#### **Component: Social media management**
-
-<p align="center"><img src="assets/images/domain-driven/Social media management.png"></p>
-
-#### **Component: Task tracking management**
-
-<p align="center"><img src="assets/images/domain-driven/Task tracking management.png"></p>
-
-#### **Component: Data analysis management**
-
-<p align="center"><img src="assets/images/domain-driven/Data analysis management.png"></p>
-
-#### **Component: Payment analysis management**
-
-<p align="center"><img src="assets/images/domain-driven/Payment analysis management.png"></p>
+![alt text](assets/images/Components%20Diagram.png)
 
 ### 4.7. Software Object-Oriented Design
 
