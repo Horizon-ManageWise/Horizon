@@ -2293,7 +2293,7 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 **Report:**
 
 
-![Commits](assets/TB1-image/commitsreport1.jpeg)
+![commits](assets/TB1-image/pulse.png)
 ![Commits](assets/TB1-image/commitslandingsdaj.png)
 ![Commits](assets/TB1-image/graph.png)
 ![Commits](assets/TB1-image/commitsreport3.jpeg)
@@ -2301,7 +2301,7 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - Diego Rolin Acuña Tomas: 50
 - John Telesforo Arevalo Meza: 37
 - Valentino Sandoval Paiva: 48
-- Sergio Gómez: 
+- Sergio Gómez: 16
 ### Conclusiones
 
 - Jose Alejo:
