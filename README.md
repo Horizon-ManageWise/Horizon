@@ -2200,7 +2200,7 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                                                                | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                                                                | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio  | 0813c9549f96710be687e9a3c1f1d8913b3d3c57  | feat: added US07 gherkin | Se añade la sección de Preguntas Frecuentes    | 16/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergioo  | 451cf0957cd87a511014c1b35adc4b82a80ef9f4    | feat: added US08 gherkin | Se añade la sección de Contactanos  | 16/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio  | 451cf0957cd87a511014c1b35adc4b82a80ef9f4    | feat: added US08 gherkin | Se añade la sección de Contactanos  | 16/09/2024              |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
@@ -2293,7 +2293,7 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 **Report:**
 
 
-![Commits](assets/TB1-image/commitsreport1.jpeg)
+![commits](assets/TB1-image/pulse.png)
 ![Commits](assets/TB1-image/commitslandingsdaj.png)
 ![Commits](assets/TB1-image/graph.png)
 ![Commits](assets/TB1-image/commitsreport3.jpeg)
@@ -2301,7 +2301,7 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - Diego Rolin Acuña Tomas: 50
 - John Telesforo Arevalo Meza: 37
 - Valentino Sandoval Paiva: 48
-- Sergio Gómez: 
+- Sergio Gómez: 16
 ### Conclusiones
 
 - Jose Alejo:
