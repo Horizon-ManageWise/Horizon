@@ -2280,9 +2280,8 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
   Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
 **Landing Page**
-[FALTA COMITS]
-![Commits](assets/TB1-image/commitslandingsdaj.jpeg)
-![Commits](assets/TB1-image/commitslandingnet.jpeg)
+![commits](assets/TB1-image/commits.png)
+
 
 - Estefano Oscar Jaque Peña: 1
 - Diego Rolin Acuña Tomas: 1
@@ -2293,10 +2292,11 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 **Report:**
 
-![Commits](assets/TB1-image/commitsreport1.jpeg)
-![Commits](assets/TB1-image/commitsreport2.jpeg)
-![Commits](assets/TB1-image/commitsreport3.jpeg)
 
+![Commits](assets/TB1-image/commitsreport1.jpeg)
+![Commits](assets/TB1-image/commitslandingsdaj.png)
+![Commits](assets/TB1-image/graph.png)
+![Commits](assets/TB1-image/commitsreport3.jpeg)
 - Estefano Oscar Jaque Peña: 54
 - Diego Rolin Acuña Tomas: 50
 - John Telesforo Arevalo Meza: 37
