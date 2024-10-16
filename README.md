@@ -985,7 +985,7 @@ Anexo E
 | 5      | US05          | Resumen de la Empresa, Misión y Visión                  | Como visitante, quiero ver un resumen de la empresa junto con la misión y visión para entender su enfoque y valores antes de registrarme.                                                                                                      |               2               |
 | 6      | US06          | Navegación Clara y Directa en la Página                 | Como usuario potencial, quiero poder navegar de forma clara y directa entre las secciones de la página para encontrar la información que necesito rápidamente.                                                                                 |               2               |
 | 7      | US07          | Preguntas Frecuentes                                   | Como usuario, quiero poder acceder a una sección de preguntas frecuentes en la landing page para resolver mis dudas sobre el uso de la plataforma.   |               2               |
-| 8      | US08          | Análisis de rendimiento basado en IA                    | Como líder de proyecto, quiero que la plataforma analice métricas de rendimiento del equipo, como tiempos de entrega y eficiencia, y sugiera posibles mejoras basadas en datos históricos para optimizar el trabajo.                           |               8               |
+| 8      | US08          | Contactanos    | Como usuario, quiero poder acceder a la sección de "Contáctanos" para poder contactar rápidamente en caso de que tenga algún problema.  |               2               |
 | 9      | US09          | Personalización de interfaz                             | Como usuario de la plataforma, quiero poder personalizar la interfaz según mis preferencias y necesidades para facilitar el acceso rápido a las herramientas y funciones más utilizadas.                                                       |               3               |
 | 10     | US10          | Sincronización con herramientas externas                | Como líder de proyecto, quiero que la plataforma se integre de manera fluida con otras herramientas y sistemas externos (como calendarios y aplicaciones de mensajería) para centralizar la gestión de proyectos.                              |               5               |
 | 11     | US11          | Gestión de la seguridad y protección de datos           | Como administrador de la plataforma, quiero que el sistema implemente medidas avanzadas de seguridad para proteger los datos sensibles del proyecto y garantizar la privacidad de la información.                                              |               5               |
@@ -2156,17 +2156,7 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 #### 5.2.1.2 Sprint Backlog 1.
 
 Para el primer sprint backlog, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
-| sprint #      | Sprint 1                                                 |                 |                                                  |                                                                                                                           |                       |                              |                                                           |
-| ------------- | -------------------------------------------------------- | --------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- | --------------------------------------------------------- |
-| User<br>Story |                                                          | Work-Item /Task |                                                  |                                                                                                                           |                       |                              |                                                           |
-| ID            | Title                                                    | ID              | Title                                            | Description                                                                                                               | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
-| US01          | Vista General de Beneficios y Funcionalidades            | TA001           | Implementación de Sección de Beneficios          | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.                     | ½ hora                | Arevalo Meza, John Telesforo | Done                                                      |
-| US02          | Enlaces Directos a Redes Sociales                        | TA001           | Implementación de Enlaces a Redes Sociales       | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                       | ½ hora                | Sandoval Paiva, Valentino    | Done                                                      |
-| US03          | Registro Rápido y Simple                                 | TA001           | Diseño e Implementación del Registro de Usuario  | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                       | ½ hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| US04        | Iniciar Sesión Rápido y Visible                          | TA001           | Implementación de Enlace de Inicio de Sesión     | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                        | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| US05          | Resumen de la Empresa, Misión y Visión                   | TA001           | Creación de Sección "Acerca de Nosotros"         | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
-| US06          | Navegación Clara y Directa en la Página                  | TA001           | Diseño del Menú de Navegación                    | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
-[FALTA AÑADIR tu product bakclog Sergio esta mal pusiste las del sprint 2 ]
+
 ![alt text](assets/images/Trello.png)
 
 | sprint #      | Sprint 1                                                 |                 |                                                  |                                                                                                                           |                       |                              |                                                           |
@@ -2179,8 +2169,8 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | US04        | Iniciar Sesión Rápido y Visible                          | TA001           | Implementación de Enlace de Inicio de Sesión     | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                        | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
 | US05          | Resumen de la Empresa, Misión y Visión                   | TA001           | Creación de Sección "Acerca de Nosotros"         | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
 | US06          | Navegación Clara y Directa en la Página                  | TA001           | Diseño del Menú de Navegación                    | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
-[FALTA AÑADIR tu product bakclog Sergio esta mal pusiste las del sprint 2 ]
-
+| US07 | Acceso a Preguntas Frecuentes               | TA001  | Implementación de Sección de Preguntas Frecuentes         | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | ½ hora                 | Sergio André Gómez Vallejos      | Done                                                     |
+| US08          | Acceso a Contáctanos     | TA001           | Implementación de Sección de Contacto            | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas.           | ½ hora                |Sergio André Gómez Vallejos  | To-do                                                    |
 #### 5.2.1.3 Development Evidence for Sprint Review
 
 | Repository   | Branch | Commit Id                                | Commit Message                                                  | Commit Message Body                                                           | Committed on (Date)     |
@@ -2196,7 +2186,7 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | Landing-page | main   | c4a4795db0aa611aa25fc3f3dea4d0d9f5574ed1 | feat: Add files and update                                      | Se añade archivos al repositorio                                              | 10/09/2024              |
 | Landing-page | main   | 1dd9e3e004dc828fd9134f631738121951dd1cba | feat: Add funcionalidades                                       | Se añade funcionalidades al .js                                               | 10/09/2024              |
 | Landing-page | main   | a6dde725b27df498b1d2a3e182e6ec2ac55541d4 | feat: Agregación de estilos para un sección                     | Se implementa estilos al landing page                                         | 10/09/2024              |
-| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c | feat: Añadir preguntas y respuestas, actualización de imagenes  | Se añade una seccion de preguntas y respuestas y la actualización de imagenes | 10/09/2024              |
+| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c | feat: Añadir Preguntas frecuentes, actualización de imagenes y contactanos  | Se añade una seccion de preguntas y respuestas, la actualización de imagenes y la sección de contactanos| 10/09/2024              |
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
@@ -2209,21 +2199,43 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                                                                | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                                                                | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                                                                | 19/09/2024              |
-[FALTA AÑADIR tu product bakclog Sergio esta mal pusiste las del sprint 2 ]
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio  | 0813c9549f96710be687e9a3c1f1d8913b3d3c57  | feat: added US07 gherkin | Se añade la sección de Preguntas Frecuentes    | 16/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergioo  | 451cf0957cd87a511014c1b35adc4b82a80ef9f4    | feat: added US08 gherkin | Se añade la sección de Contactanos  | 16/09/2024              |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
-En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado el Landing Page. Mostraremos imágenes para observar que nuestra página muestra limpia e intuitivamente información sobre nuestro producto y nuestra empresa.
+En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado la Landing Page. A continuación, mostramos imágenes que demuestran cómo nuestra página presenta de manera clara e intuitiva la información sobre nuestro producto y nuestra empresa.
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-1.png">
+  <br>
+  Vista general de la Landing Page, destacando el diseño limpio y moderno que permite a los usuarios navegar fácilmente por la información.
+</p>
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-2.png">
+  <br>
+  Sección de beneficios clave del producto, mostrando cómo se presentan de manera atractiva y accesible para atraer a los usuarios.
+</p>
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-3.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-3.png">
+  <br>
+  Sección de preguntas frecuentes, organizada por categorías, donde los usuarios pueden encontrar respuestas rápidas a sus dudas sobre el uso de la plataforma y área de contacto, mostrando el formulario que permite a los usuarios enviar mensajes directamente al equipo de soporte, facilitando la comunicación.
+</p>
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-4.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-4.png">
+  <br>
+  Diseño del formulario de iniciar sesión, que garantiza de forma sencilla acceder a la aplicación web.
+</p>
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-5.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-5.png">
+  <br>
+  Diseño del formulario de registro, que enfatiza la simplicidad y la facilidad de uso, asegurando que los nuevos usuarios puedan registrarse sin complicaciones.
+</p>
+
 
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
@@ -2247,6 +2259,8 @@ Automatización: Configuración de scripts y herramientas para la automatizació
 Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting.
 Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
+**Deploy del Landing Page**
+![deploy](assets/images/deploy_tb1.png)
 **Capturas de Pantalla**
 
 - Repositorio de Landing Page:
