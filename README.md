@@ -28,45 +28,66 @@ Product: ManageWise
 
 - Estefano Oscar Jaque Peña - u202225466
 - Diego Rolin Acuña Tomas - u202221436
-- Jose Antonio Alejo Cardenas - u202122484
 - John Telesforo Arevalo Meza - u202117377
 - Valentino Sandoval Paiva - u20211a962
+- Sergio André Gómez Vallejos - u20221d401
 
 ### Agosto, 2024
 
+### Url del proyecto: https://github.com/Horizon-ManageWise/Horizon
+
 ## Registro de Versiones del Informe
 
-|Version|Fecha|Autor| Descripcion|
-|--|--|--|--|
-|TB1 | 28/08/24   | José Alejo               | Desarrollé el Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, Registro de entrevistas (1 entrevista) y Análisis de entrevistas (1 entrevista)                                                                                                                            |
-| TB1     | 29/08/24   | José Alejo               | Desarrollé el To-Be Scenario Mapping, 6 de las User Stories, Impact Mapping y todo el Information Architecture                                                                                                                                                                              |
-| TB1     | 26/08/2024 | Estefano Jaque           | Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores y Estrategias y tácticas frente a competidores                                                                                                                                             |
-| TB1     | 05/09/2024 | Estefano Jaque           | Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1                                                                                                                                                        |
-| TB1     | 29/08/2024 | Valentino Sandoval Paiva | Desarrollé la Descripción de la Startup, Solution Profile, el regitro de una entrevista a un usuario del segmento 1 y 2, y realicé una entrevista.                                                                                                                                          |
-| TB1     | 05/09/2024 | Valentino Sandoval Paiva | Desarrollé el Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management                                                                                                                                                                                       |
-| TB1     | 25/09/2024 | Diego Rolin Acuña Tomas  | Realice el Startup Profile. Completando los antecedentes y problematica                                                                                                                                                                                                                     |
-| TB1     | 27/09/2024 | Diego Rolin Acuña Tomas  | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.                                                                                                                                                                                                             |
-| TB1     | 1/09/2024  | Diego Rolin Acuña Tomas  | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.                                                                |
-| TB1     | 6/09/2024  | Diego Rolin Acuña Tomas  | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
-| TB1     | 8/09/2024  | Diego Rolin Acuña Tomas  | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
-| TB1     | 29/08/2024 | John Arévalo             | Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.                                                                                                                                                                                          |
-| TB1     | 6/09/2024  | John Arévalo             | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
-| TB1     | 8/09/2024  | John Arévalo             | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
-| TP      | 24/09/2024 | Valentino Sandoval       | Diseño e implementacion de bounded context herramientas.                                                                                                                                                                                                                                    |
-| TP      | 24/09/2024 | Jose Alejo               | Diseño e implementacion de bounded context Calendar.                                                                                                                                                                                                                                        |
-| TP      | 24/09/2024 | Estefano Jaque           | Diseño e implementacion de bounded context Reportes.                                                                                                                                                                                                                                        |
-| TP      | 24/09/2024 | John Arévalo             | Diseño e implementacion de bounded context Tareas.                                                                                                                                                                                                                                          |
-| TP      | 24/09/2024 | Diego Acuña              | Diseño e implementacion de bounded context Miembros                                                                                                                                                                                                                                         |
-| TP      | 24/09/2024 | Estefano Jaque           | Sprint Planning 2.                                                                                                                                                                                                                                                                          |
-| TP      | 24/09/2024 | Estefano Jaque           | Sprint Backlog 2                                                                                                                                                                                                                                                                            |
-| TP      | 24/09/2024 | Jose Alejo               | Development Evidence for Sprint Review                                                                                                                                                                                                                                                      |
-| TP      | 24/09/2024 | Valentino Sandoval       | Testing Suite Evidence for Sprint Review.                                                                                                                                                                                                                                                   |
-| TP      | 24/09/2024 | Jose Alejo               | Execution Evidence for Sprint Review.                                                                                                                                                                                                                                                       |
-| TP      | 24/09/2024 | Valentino Sandoval       | Services Documentation Evidence for Sprint Review                                                                                                                                                                                                                                           |
-| TP      | 24/09/2024 | John Arévalo             | Software Deployment Evidence for Sprint Review                                                                                                                                                                                                                                              |
-| TP      | 24/09/2024 | Diego Acuña              | Team Collaboration Insights during Sprint                                                                                                                                                                                                                                                   |
+| Version | Fecha      | Autor                    | Descripcion                                                                                                                                                                                                                                                                                 |
+| ------- | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TB1| 26/08/2024 | Estefano Jaque| Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores y Estrategias y tácticas frente a competidores|
+| TB1| 05/09/2024| Estefano Jaque| Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
+| TB1| 29/08/2024 | Valentino Sandoval Paiva | Desarrollé la Descripción de la Startup, Solution Profile, el regitro de una entrevista a un usuario del segmento 1 y 2, y realicé una entrevista.|
+| TB1| 05/09/2024 | Valentino Sandoval Paiva | Desarrollé el Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management|
+| TB1| 25/09/2024 | Diego Rolin Acuña Tomas  | Realice el Startup Profile. Completando los antecedentes y problematica|
+| TB1| 27/09/2024 | Diego Rolin Acuña Tomas  | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.|
+| TB1| 1/09/2024  | Diego Rolin Acuña Tomas  | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.|
+| TB1| 6/09/2024  | Diego Rolin Acuña Tomas  | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
+| TB1| 8/09/2024  | Diego Rolin Acuña Tomas  | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.|
+| TB1| 29/08/2024 | John Arévalo| Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.|
+| TB1| 6/09/2024  | John Arévalo| Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.|
+| TB1| 11/10/2024 | Sergio Gómez| Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.|
+| TB1|8/09/2024 | John Arévalo| Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.|
 
 ## Project Report Collaboration Insights
+
+|  URL de la organización del proyecto  |          URL del repositorio del reporte          |
+| :-----------------------------------: | :-----------------------------------------------: |
+| https://github.com/Horizon-ManageWise | https://github.com/Horizon-ManageWise/Horizon.git |
+
+TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes al integrarse un nuevo miembro al equipo y aportar con ideas nuevas para la landing page. Por ende, se muestran capturas de los commits del mes pasado y de este mes.
+
+**Vista de commits: Landing page:**  
+![alt text](assets/TB1-image/landing.jpeg)
+
+![alt text](assets/TB1-image/commitslandingsdaj.jpeg)
+
+![alt text](assets/TB1-image/commitslandingnet.jpeg)
+
+- Estefano Oscar Jaque Peña: 1
+- Diego Rolin Acuña Tomas: 1
+- John Telesforo Arevalo Meza: 10
+- Valentino Sandoval Paiva: 1
+- Sergio Gomez: 8
+
+**Report:**
+
+![alt text](assets/TB1-image/commitsreport1.jpeg)
+
+![alt text](assets/TB1-image/commitsreport2.jpeg)
+
+![alt text](assets/TB1-image/commitsreport3.jpeg)
+
+- Estefano Oscar Jaque Peña: 54
+- Diego Rolin Acuña Tomas: 50
+- John Telesforo Arevalo Meza: 37
+- José Alejo Cardenas: 34
+- Valentino Sandoval Paiva: 48
 
 TB1:<br>
 |Integrante|Tarea Asignada|
@@ -76,6 +97,7 @@ TB1:<br>
 |Sandoval Paiva Valentino|Descripción de la Startup, 5w y 2h, Solution Profile, Antecedentes y problemática, el regitro de una entrevista , Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management.|
 | Diego Rolin Acuña Tomas | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
 | Arévalo Meza John | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
+| Sergio André Gómez Vallejos | Student outcome , conclusiones, Landing Page Wireframe, Landing Page Mock-up, Testing Suite Evidence for Sprint Review, landing page mockups, web application wireframes, web application mockups, wSoftware Deployment Evidence for Sprint Review |
 
 <br>TP:<br>
 |Integrante|Tarea Asignada|
@@ -90,6 +112,7 @@ TB1:<br>
 
 ### Tabla de contenidos
 
+    - [Tabla de contenidos](#tabla-de-contenidos)
   - [Student Outcome](#student-outcome)
   - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
@@ -97,13 +120,6 @@ TB1:<br>
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [What?](#what)
-    - [When?](#when)
-    - [Where?](#where)
-    - [Who?](#who)
-    - [Why?](#why)
-    - [How?](#how)
-    - [How much?](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -116,34 +132,17 @@ TB1:<br>
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
     - [2.2. Entrevistas](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [Segmento: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-    - [Segmento: Equipo de Desarrollo de Software](#segmento-equipo-de-desarrollo-de-software)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-      - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-      - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-      - [Análisis Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#análisis-segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-      - [Análisis Segmento 2: Equipo de Desarrollo de Software](#análisis-segmento-2-equipo-de-desarrollo-de-software)
     - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
-      - [Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento](#segmento-1-líder-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento-1)
-      - [Segmento 2: Equipo de Desarrollo de Software](#segmento-2-equipo-de-desarrollo-de-software-1)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
-  - [**Análisis de Tareas**](#análisis-de-tareas)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-      - [User Journey Mapping - Líder o Gerente de Empresa de Desarrollo de Software](#user-journey-mapping---líder-o-gerente-de-empresa-de-desarrollo-de-software)
-      - [User Journey Mapping - Equipo de Desarrollo de Software](#user-journey-mapping---equipo-de-desarrollo-de-software)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-- [Segmento 1: María (Líder/Gerente de Proyecto)](#segmento-1-maría-lídergerente-de-proyecto)
-- [Segmento 2: Fabricio (Equipo de Desarrollo de Software)](#segmento-2-fabricio-equipo-de-desarrollo-de-software)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-      - [**Segmento 1:** Lider o gerente de empresa de desarrollo de software en crecimiento](#segmento-1-lider-o-gerente-de-empresa-de-desarrollo-de-software-en-crecimiento)
-      - [**Segmento 2:** Miembros de un equipo de Desarrollo de Software](#segmento-2-miembros-de-un-equipo-de-desarrollo-de-software)
     - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-    - [**Segmento 1:** Lider o gerente de proyectos de software](#segmento-1-lider-o-gerente-de-proyectos-de-software)
-    - [**Segmento 2:** Miembro de un equipo de desarrollo de software](#segmento-2-miembro-de-un-equipo-de-desarrollo-de-software)
     - [3.2. User Stories](#32-user-stories)
     - [3.3. Impact Mapping](#33-impact-mapping)
     - [3.4. Product Backlog](#34-product-backlog)
@@ -244,10 +243,10 @@ _ABET – EAC - Student Outcome 3_
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET - EAC - Student Outcome 3.
 
-| Criterio especifico|Acciones Realizadas| Conclusiones|
-|:--|:--|--|
-| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.<br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario.<br>**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. <br> **Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br> **Jose Alejo**<br> TP:<br> Durante mi presentación de la evidencia de desarrollo y ejecución, me aseguré de transmitir claramente los avances del sprint, destacando cómo cada funcionalidad se alinea con los requisitos del proyecto. Esto me permitió asegurar que todos comprendieran nuestro progreso y logros. TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo |
-| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos lotesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentoss miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipó objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.<br>**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes <br> | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br> <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general <br> TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo|
+| Criterio especifico                                                      | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :----------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.<br>**Jose Antonio Alejo Cardenas:** <br>TB1: Para esta TB1, realicé actividades como Lean UX Hypothesis Statements, desarrollando hipótesis enfocadas en el usuario, Lean UX Canvas, realizando investigaciones y resaltando puntos clave, definición de Segmentos objetivo basados en datos demográficos, Registro y análisis de entrevistas para obtener informacion valiosa, To-Be Scenario Mapping, detallando escenarios futuros de como deberia ser, User Stories centradas en las necesidades del usuario, Impact Mapping para alinear entregables con sus respectivas user stories, desarrollo de Organization Systems y Labeling Systems para una mejor estructura, implementación de SEO Tags y Meta Tags para optimización de búsqueda, diseño de Searching Systems efectivos y configuración de Navigation Systems para mejorar la experiencia del usuario.<br>**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo.<br>**Sergio André Gómez Vallejos**<br>TB1:Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas. <br> **Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes           | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br>**Sergio André Gómez Vallejos**<br>TB1:Durante mi participación desarrollé de manera puntual y clara con algunas secciones del documento, como los Mockoups, testing, etc. Me asegure de cumplir y transmitir los avances del documento del TB1. <br> **Jose Alejo**<br> TP:<br> Durante mi presentación de la evidencia de desarrollo y ejecución, me aseguré de transmitir claramente los avances del sprint, destacando cómo cada funcionalidad se alinea con los requisitos del proyecto. Esto me permitió asegurar que todos comprendieran nuestro progreso y logros. TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo |
+| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Sergio André Gómez Vallejos**<br>TB1:Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.<br>**Jose Antonio Alejo Cardenas**<br> TB1: En esta TB1, creé un entorno colaborativo e inclusivo al involucrar a todos lotesis clave. Se establecio metas claras a través del Lean UX Canvas, donde planificamos tareas alineadas con nuestros objetivos. Definimos Segmentoss miembros del equipo en la elaboración de cada uno de los siguientes puntos ,tales como Lean UX Hypothesis Statements, definiendo conjuntamente hipó objetivo basados en datos compartidos y analizamos en equipo el Registro y análisis de entrevistas para tomar decisiones informadas. El To-Be Scenario Mapping nos ayudó a visualizar escenarios futuros y planificar el cumplimiento de nuestras metas. A través de la creación conjunta de User Stories, Impact Mapping, Organization Systems, y Labeling Systems, garantizamos una planificación efectiva y estructurada, mientras que los SEO Tags, Meta Tags, Searching Systems, y Navigation Systems se diseñaron con una visión compartida para cumplir los objetivos establecidos que se implementaran en siguientes entregas. <br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.<br>**Estefano Oscar Jaque Peña**<br>TP1:Realice los bounded context de el apartado de reportes <br> | <br> **Jose Antonio Alejo Cardenas**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br>**Sergio André Gómez Vallejos**<br>TB1:Durante el proyecto coloque y redacté documentación de manera clara y efectiva, como el testing, landing page, entre muchas otras secciones. Con el fin de mejorar y asegurar al documento para un proceso garantizado del proyecto. <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general <br> TP1: Durante el avance se pudo realizar una gran parte de los bounded context y se mejoro la comunicacion en equipo el trabajo en grupo                                                                                                                                                                                                                                                                                                        |
 
 ## Capítulo I: Introducción
 
@@ -267,42 +266,39 @@ Nuestra misión es no solo ser un proveedor de herramientas de gestión, sino un
 
 Visión:
 Aspiramos a convertirnos en el referente principal en la optimización de la gestión de proyectos para startups de desarrollo de software, siendo reconocidos no solo por nuestras soluciones innovadoras, sino también por nuestra capacidad de transformar y potenciar el éxito de las empresas emergentes. Queremos ser el socio estratégico preferido que permita a las startups no solo alcanzar sus metas, sino superar sus expectativas y mantenerse a la vanguardia en un entorno tecnológico en constante evolución.
-Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las necesidades actuales, sino que también anticipen las tendencias futuras y adapten nuestras soluciones a los cambios del sector. Planeamos desarrollar capacidades adicionales como la integración con plataformas emergentes, el soporte para metodologías ágiles avanzadas y la incorporación de funciones de colaboración global para equipos distribuidos. 
+Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las necesidades actuales, sino que también anticipen las tendencias futuras y adapten nuestras soluciones a los cambios del sector. Planeamos desarrollar capacidades adicionales como la integración con plataformas emergentes, el soporte para metodologías ágiles avanzadas y la incorporación de funciones de colaboración global para equipos distribuidos.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
 - Estefano Oscar Jaque Peña - U202225466
 
-|<p align="center"><img width="180" height="180" src="assets/images/Estefano_profile.jpg"></p>| Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
-|--|:--|
+| <p align="center"><img width="180" height="180" src="assets/images/Estefano_profile.jpg"></p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
+| --------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Diego Rolin Acuña Tomas - U202221436
 
-|<p align="center"><img width="600" height="180" src="assets/images/perfil-Diego.png"></p>| Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han facinado las computadoras y como se mostraban en las peliculas los expertos en informatica. Hoy en dia entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profecional. Tambien conosco los tipos de base de datos, aprendi sql server para la bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos. |
-|--|:--|
+| <p align="center"><img width="600" height="180" src="assets/images/perfil-Diego.png"></p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han facinado las computadoras y como se mostraban en las peliculas los expertos en informatica. Hoy en dia entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profecional. Tambien conosco los tipos de base de datos, aprendi sql server para la bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos. |
+| ----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Valentino Sandoval Paiva - U20211A962
 
-|<p align="center"><img width="180" height="180" src="assets/images/WASAAAA.jpg"></p>| Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera.|
-|--|:--|
-
+| <p align="center"><img width="180" height="180" src="assets/images/WASAAAA.jpg"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| ------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - José Antonio Alejo Cárdenas - U202122484
 
-|<p align="center"><img src="assets/images/Jose_profile.jpg"></p> | Soy José Alejo Cárdenas tengo 23 años soy estudiante de la carrera de Ingeniería de Software del quinto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software. He estudiado lenguajes de programacion (java, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo.|
-|--|:--|
+| <p align="center"><img src="assets/images/Jose_profile.jpg"></p> | Soy José Alejo Cárdenas tengo 23 años soy estudiante de la carrera de Ingeniería de Software del quinto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software. He estudiado lenguajes de programacion (java, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo. |
+| ---------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - John Telésforo Arévalo Meza - U202117377
 
 | <p align="center"><img width="300" src="assets/images/John_profile.jpg"> </p> | Soy John Arévalo, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes de programación como python y c++, y bases de datos como SQLServer y MongoDB. Desde pequeño me sentí atraído por la tecnología, por lo que me decidí a estudiar la carrera, además disfruto de jugar videojuegos con amigos en mi tiempo libre. |
-|:--|--|
+| :---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+- Sergio André Gómez Vallejos – U20221d401
 
-- Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401  
-
-|<p align="center"><img width="300" src="https://hackmd.io/_uploads/SkU_5d9cR.png"> </p> |Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
-|:--|--|
-
+| <p align="center"><img width="300" src="https://hackmd.io/_uploads/SkU_5d9cR.png"> </p> | Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
+| :-------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 1.2. Solution Profile
 
@@ -325,7 +321,7 @@ Para las startups de desarrollo de software que utilizan Scrum, este problema se
 
 **When?**
 
-**¿Cuándo sucede el problema?**    
+**¿Cuándo sucede el problema?**  
 El problema se manifiesta a lo largo de todo el ciclo de vida de un proyecto Scrum. Desde la planificación inicial, pasando por la ejecución de los sprints, hasta la revisión y adaptación del producto. La falta de herramientas adecuadas dificulta la gestión de cada una de estas etapas, generando cuellos de botella y retrasos.
 
 **¿Cuándo utiliza el cliente el producto?**  
@@ -333,50 +329,50 @@ Los clientes utilizarán ManageWise a lo largo de todo el ciclo de vida de sus p
 
 **Where?**
 
-**¿Dónde ocurre el problema?**    
+**¿Dónde ocurre el problema?**  
 El problema se presenta en todos los entornos de trabajo donde se desarrollan proyectos de software, tanto en oficinas físicas como en entornos de trabajo remoto. La falta de una plataforma centralizada para la gestión del proyecto dificulta la colaboración entre los miembros del equipo y la visibilidad del progreso.
 
-**¿Dónde está el cliente cuando usa el producto?**    
+**¿Dónde está el cliente cuando usa el producto?**  
 Los clientes pueden usar ManageWise en sus oficinas, espacios de trabajo remoto o durante reuniones virtuales de equipo.
 
 **Who?**
 
-**¿Quiénes son los involucrados en este problema?**    
+**¿Quiénes son los involucrados en este problema?**  
 Los principales actores involucrados son los equipos de desarrollo de software, los product owners y los scrum masters. También se ven afectados los inversores y los clientes, ya que los problemas en la gestión del proyecto pueden impactar directamente en el éxito del producto y la satisfacción del cliente.
 
-**¿Quiénes están afectados por el problema?**    
+**¿Quiénes están afectados por el problema?**  
 Los equipos de desarrollo de software y los líderes de empresas de software son los principales afectados. Los desarrolladores enfrentan dificultades para completar tareas a tiempo y gestionar recursos, mientras que los líderes sufren por la falta de control, planificación ineficaz y dificultades para cumplir con los plazos.
 
-**Why?**  
+**Why?**
 
-**¿Por qué ocurre el problema?**    
+**¿Por qué ocurre el problema?**  
 El problema surge principalmente debido a la falta de adaptación de las herramientas de gestión de proyectos tradicionales a las necesidades específicas de los proyectos Scrum. Estas herramientas suelen estar diseñadas para proyectos más grandes y complejos, y no ofrecen las funcionalidades necesarias para gestionar de manera ágil y eficiente los proyectos de software.
 
-**How?**  
+**How?**
 
-**¿En qué condiciones los clientes usan nuestro producto?**     
+**¿En qué condiciones los clientes usan nuestro producto?**  
  Los ususarios-clientes utilizan el software en condiciones de alta demanda, donde la eficiencia y la capacidad de adaptación son cruciales para la gestión de proyectos. Además, los clientes lo emplearán durante todas las fases del ciclo de vida de un proyecto: planificación, ejecución, monitoreo y revisión.
 
-**¿Cómo nos conocieron los compradores?**    
+**¿Cómo nos conocieron los compradores?**  
 Los compradores potenciales conocen ManageWise a través de diversos canales, como recomendaciones de colegas en la industria del software, marketing digital, eventos de tecnología y conferencias, y a través de contenido relevante publicado en blogs y redes sociales.
 
-**¿Qué llevó a la persona a llegar a esta situación?**    
+**¿Qué llevó a la persona a llegar a esta situación?**  
 Las personas llegaron a la situación de buscar una solución como ManageWise debido a los desafíos enfrentados con las herramientas de gestión de proyectos actuales, que no satisfacen las necesidades específicas de las startups de desarrollo de software. Estos desafíos incluyen la falta de características avanzadas, como análisis predictivos, automatización de tareas, y personalización. Los clientes buscan una solución que les permita mejorar la eficiencia, la colaboración y la gestión de proyectos para poder competir eficazmente en el mercado.
 
-**How much?**  
+**How much?**
 
-**¿Cuánto cuesta este problema?**     
+**¿Cuánto cuesta este problema?**  
 La carencia de herramientas avanzadas para la gestión de proyectos en startups de desarrollo de software conlleva graves consecuencias.El Standish Group CHAOS Report 2020 revela que el 45% de los proyectos de software se retrasan significativamente, y aproximadamente el 19% se consideran fracasos completos debido a problemas en la gestión y falta de herramientas adecuadas.
 
 ![alt text](assets/images/2_H_estadistica.png)
 
 Los costos operativos también se ven incrementados significativamente. Un análisis de Gartner indica que las empresas que no cuentan con herramientas adecuadas pueden enfrentar un aumento del 25% en sus costos operativos debido a ineficiencias. La insatisfacción con las herramientas actuales es alta, con un 40% de los equipos de desarrollo reportando descontento, según un estudio de Atlassian. Finalmente, un informe de Forrester revela que el 50% de las decisiones en proyectos de software se basan en datos insuficientes, lo que afecta la calidad de la toma de decisiones y el éxito general de los proyectos.
 
-### 1.2.2. Lean UX Process  
+### 1.2.2. Lean UX Process
 
 El proceso Lean UX se adapta especialmente bien a startups como Horizon que buscan crear soluciones innovadoras y efectivas en el mercado. Este enfoque se caracteriza por su agilidad y centrado en el usuario, lo que significa que estamos constantemente buscando validar nuestras ideas y prototipos con los usuarios para garantizar que estamos abordando sus necesidades de manera adecuada.
 
-### 1.2.2.1. Lean UX Problem Statements  
+### 1.2.2.1. Lean UX Problem Statements
 
 El objetivo es gestionar proyectos de software de manera eficiente, mejorando la planificación, la asignación de recursos y el monitoreo del progreso en tiempo real.
 Actualmente, la falta de herramientas especializadas para la gestión de proyectos en el desarrollo de software está afectando la eficiencia y la capacidad de cumplir con los plazos. Las soluciones genéricas no abordan las complejidades particulares de este tipo de proyectos, lo que resulta en retrasos, recursos mal asignados y problemas no resueltos a tiempo.
@@ -484,16 +480,16 @@ Sabremos que hemos tenido exito cuando veamos un aumento del 35% en la productiv
 
 ### 1.2.2.4. Lean UX Canvas
 
-|Seccion|Contenido|
-|--|--|
-|**Business Problem** | La falta de herramientas especializadas para la gestión de proyectos de software resulta en demoras en las entregas, sobrepaso de presupuestos y disminución de la satisfacción del cliente. Las soluciones genéricas no abordan las complejidades específicas de los proyectos de desarrollo de software, lo que lleva a una gestión ineficiente, retrasos en la entrega, recursos mal asignados y problemas no resueltos a tiempo.|
-|**Business Outcomes** |Aumentar la productividad de la empresa. <br> Reducir el tiempo desde la planificación del proyecto hasta el lanzamiento del producto final.|
-|**Users and Customers**| Identificación de los diferentes tipos de usuarios y clientes que interactuarán con el producto, sus necesidades, comportamientos y características.|
-|**User Benefits**| Optimización del tiempo y recursos <br> Comunicación mejorada <br> Productos y servicios de excelente calidad.|
-|**Solution Ideas**| Integrar herramientas de comunicación para facilitar la comunicación y colaboración entre equipos mediante la integración de herramientas de mensajería instantánea, como Slack o Microsoft Teams, directamente en la plataforma de gestión de proyectos. <br> Permitir planificar y monitorear funcionalidades específicas para la planificación detallada, la asignación de recursos y el monitoreo en tiempo real, adaptadas a las particularidades del desarrollo de software. <br> Implementar un dashboard que proporcione visibilidad clara del progreso del proyecto y permita la identificación rápida de problemas y desviaciones.<br>|
-|**Hypotheses**|Creemos que brindar herramientas adecuadas para la gestión eficaz de proyectos e iniciativas en startups de desarrollo de software permitirá superar obstáculos y dificultades relacionados con plazos y recursos limitados.Sabremos que hemos tenido exito cuando los usuarios informen un incremento del 35% en la claridad y seguimiento de tareas, junto con una mejora del 18% en la satisfacción del equipo respecto a la gestión de proyectos. <br> Creemos que brindar herramientas adecuadas para la gestión eficaz de proyectos e iniciativas en startups de desarrollo de software permitirá superar obstáculos <br> y dificultades relacionados con plazos y recursos limitados. Sabremos que hemos tenido exito cuando los usuarios informen un incremento del 35% en la claridad y seguimiento de tareas, junto con una mejora del 18% en la satisfacción del equipo respecto a la gestión de proyectos.|
-|**What's the most important <br> thing we need to learn first?**| Conocer las expectativas y deseos de los clientes. <br> Identificar los problemas que los clientes puedan enfrentar. <br> Descubrir qué actualizaciones esperan los futuros usuarios para mejorar la app.|
-|**What's the least amount of <br> work we need to do to learn <br> the next most important thing?**|Realizar entrevistas para explorar cómo abordar el tema. <br> Tener como referencia una app similar que tenga algunas funciones, pero no idénticas. <br> Realizar encuestas a personas con experiencia y conocimientos.|
+| Seccion                                                                                             | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Business Problem**                                                                                | La falta de herramientas especializadas para la gestión de proyectos de software resulta en demoras en las entregas, sobrepaso de presupuestos y disminución de la satisfacción del cliente. Las soluciones genéricas no abordan las complejidades específicas de los proyectos de desarrollo de software, lo que lleva a una gestión ineficiente, retrasos en la entrega, recursos mal asignados y problemas no resueltos a tiempo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Business Outcomes**                                                                               | Aumentar la productividad de la empresa. <br> Reducir el tiempo desde la planificación del proyecto hasta el lanzamiento del producto final.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Users and Customers**                                                                             | Identificación de los diferentes tipos de usuarios y clientes que interactuarán con el producto, sus necesidades, comportamientos y características.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **User Benefits**                                                                                   | Optimización del tiempo y recursos <br> Comunicación mejorada <br> Productos y servicios de excelente calidad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Solution Ideas**                                                                                  | Integrar herramientas de comunicación para facilitar la comunicación y colaboración entre equipos mediante la integración de herramientas de mensajería instantánea, como Slack o Microsoft Teams, directamente en la plataforma de gestión de proyectos. <br> Permitir planificar y monitorear funcionalidades específicas para la planificación detallada, la asignación de recursos y el monitoreo en tiempo real, adaptadas a las particularidades del desarrollo de software. <br> Implementar un dashboard que proporcione visibilidad clara del progreso del proyecto y permita la identificación rápida de problemas y desviaciones.<br>                                                                                                                                                                                                                                                                       |
+| **Hypotheses**                                                                                      | Creemos que brindar herramientas adecuadas para la gestión eficaz de proyectos e iniciativas en startups de desarrollo de software permitirá superar obstáculos y dificultades relacionados con plazos y recursos limitados.Sabremos que hemos tenido exito cuando los usuarios informen un incremento del 35% en la claridad y seguimiento de tareas, junto con una mejora del 18% en la satisfacción del equipo respecto a la gestión de proyectos. <br> Creemos que brindar herramientas adecuadas para la gestión eficaz de proyectos e iniciativas en startups de desarrollo de software permitirá superar obstáculos <br> y dificultades relacionados con plazos y recursos limitados. Sabremos que hemos tenido exito cuando los usuarios informen un incremento del 35% en la claridad y seguimiento de tareas, junto con una mejora del 18% en la satisfacción del equipo respecto a la gestión de proyectos. |
+| **What's the most important <br> thing we need to learn first?**                                    | Conocer las expectativas y deseos de los clientes. <br> Identificar los problemas que los clientes puedan enfrentar. <br> Descubrir qué actualizaciones esperan los futuros usuarios para mejorar la app.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **What's the least amount of <br> work we need to do to learn <br> the next most important thing?** | Realizar entrevistas para explorar cómo abordar el tema. <br> Tener como referencia una app similar que tenga algunas funciones, pero no idénticas. <br> Realizar encuestas a personas con experiencia y conocimientos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ### 1.3. Segmentos objetivo
 
@@ -530,7 +526,7 @@ Para poder tener un análisis completo sobre nuestro modelo de negocio además d
 
 | Nombre de <br>los Startups <br> o Empresas |                                                               | Nuestra startup                                                                                                                                                                                                                                                  | Competidor 1                                                                                                                                                                                                                                                                                                     | Competidor 2                                                                                                                                                                                       | Competidor 3                                                                                                                                                                                                      |
 | ------------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Perfil                                     | Overview                                                      | Horizon                                                                                                                                                                                                                                                          | Wrike                                                                                                                                                                                                                                                                                                            | Trello                                                                                                                                                                                             | ClickUp                                                                                                                                                                                                           |
+| Perfil                                     | Overview                                                      | Horizon <br> ![Logo Horizon](assets/images/imagesTB1/managewiselogo.png)                                                                                                                                                                                         | Wrike <br> ![Logo Wrike](assets/images/imagesTB1/wrikelogo.png)                                                                                                                                                                                                                                                  | Trello <br> ![Logo Trello](assets/images/imagesTB1/trellologo.png)                                                                                                                                 | ClickUp <br> ![Logo Click Up](assets/images/imagesTB1/clickuplogo.png)                                                                                                                                            |
 |                                            | Ventaja competitiva:<br>¿Qué valor ofrece<br> a los clientes? | Proporciona una interfaz intuitiva <br>y fácil de usar, en la que Lo usan<br> antes, durante y después del<br> Ciclo de Vida del Desarrollo de<br> Software.                                                                                                     | ofrece análisis predictivos,<br> automatización avanzada y <br>herramientas de colaboración <br>que permiten a los equipos<br> mejorar la productividad y <br>la visibilidad del proyecto<br> en tiempo real.                                                                                                    | Proporciona una interfaz <br>intuitiva y fácil de usar,<br> ideal para equipos pequeños<br> y startups que buscan <br>simplicidad en la gestión <br>de tareas.                                     | Proporciona una solución <br>altamente personalizable <br>que puede adaptarse a <br>diferentes necesidades <br>empresariales, integrando <br>gestión de tareas, tiempo <br>y recursos en una sola <br>plataforma. |
 | Perfil de Marketing                        | Mercado Objetivo                                              | Startups de tecnología que buscan<br> mejorar la eficiencia y la colaboración<br> en sus equipos de desarrollo                                                                                                                                                   | Empresas medianas a grandes,<br> así como equipos de proyectos <br>complejos que requieren <br>integración y colaboración <br>avanzadas.                                                                                                                                                                         | Equipos pequeños, startups<br> y empresas que necesitan <br>una herramienta <br>de gestión de proyectos <br>visual y simple.                                                                       | Startups, pequeñas y medianas <br>empresas que buscan una <br>herramienta flexible y completa <br>para la gestión de proyectos.                                                                                   |
 |                                            | Estrategias de Marketing                                      | Uso de marketing digital dirigido<br> a comunidades tecnológicas, con <br> pruebas gratuitas y asociaciones<br> estratégicas                                                                                                                                     | Wrike se posiciona como una <br>herramienta robusta y flexible <br>para equipos que necesitan <br>mejorar la eficiencia operativa <br>y la gestión de proyectos. <br>Su estrategia incluye <br>demostraciones personalizadas <br>y un enfoque en las <br>integraciones con otras <br>herramientas empresariales. | Se enfoca en la simplicidad <br>y la accesibilidad, <br>promocionando su facilidad <br>de uso y la posibilidad de <br>integrarse con herramientas <br>populares como Slack y <br>Google Workspace. | Se posiciona como una alternativa<br> más económica y todo-en-uno a <br>las herramientas tradicionales de <br>gestión de proyectos, con un <br>fuerte enfoque en la personalización<br> y la escalabilidad.       |
@@ -766,8 +762,8 @@ En resumen, los equipos de desarrollo buscan soluciones que mejoren la eficienci
 
 ### 2.3.2. User Task Matrix
 
-En este apartado de la User Task Matrix se va a hacer un análisis de las tareas realizadas por dos perfiles clave en el ámbito del desarrollo de software: Líder o Gerente de Empresa de Desarrollo de Software y Equipo de Desarrollo de Software. A través de esta matriz, se identificarán las tareas críticas y su frecuencia e importancia según cada User Persona, lo que permitirá comprender mejor sus necesidades y aspiraciones en la gestión de proyectos.
-| **Tarea** | **FABRICIO Frecuencia** | **FABRICIO Importancia** | **MARÍA Frecuencia** | **MARÍA Importancia** |
+En este apartado de la User Task Matrix se va a hacer un análisis de las tareas realizadas por dos perfiles clave en el ámbito del desarrollo de software: Líder o Gerente de Empresa de Desarrollo de Software (Leonardo) y Equipo de Desarrollo de Software (Oscar). A través de esta matriz, se identificarán las tareas críticas y su frecuencia e importancia según cada User Persona, lo que permitirá comprender mejor sus necesidades y aspiraciones en la gestión de proyectos.
+| **Tarea** | **Leonardo Frecuencia** | **Leonardo Importancia** | **Oscar Frecuencia** | **Oscar Importancia** |
 | ---------------------------------------------------------------------------- | ----------------------- | ------------------------ | -------------------- | --------------------- |
 | Monitorear operaciones y gestionar proyectos | A menudo | Alta | A menudo | Alta |
 | Evaluar y seleccionar software de gestión de proyectos | A menudo | Alta | A menudo | Alta |
@@ -783,50 +779,50 @@ En este apartado de la User Task Matrix se va a hacer un análisis de las tareas
 
 **Análisis de Tareas**
 
-Al observar la matriz, podemos destacar que tanto María como Fabricio consideran como tareas de alta frecuencia e importancia las siguientes:
+Al observar la matriz, podemos destacar que tanto Oscar como Leonardo consideran como tareas de alta frecuencia e importancia las siguientes:
 
 **Monitorear operaciones y gestionar proyectos**: Es fundamental para garantizar el desarrollo óptimo y la coordinación del equipo.
 
 **Evaluar y seleccionar software de gestión de proyectos**: Ambas User Personas están alineadas en la necesidad de herramientas efectivas que les ayuden a optimizar su flujo de trabajo.
 
-**Utilizar herramientas de desarrollo para colaboración**: La colaboración efectiva es vital, especialmente para Fabricio, quien enfatiza que la falta de herramientas innovadoras limita el trabajo en equipo.
+**Utilizar herramientas de desarrollo para colaboración**: La colaboración efectiva es vital, especialmente para Leonardo, quien enfatiza que la falta de herramientas innovadoras limita el trabajo en equipo.
 
 ### 2.3.3. User Journey Mapping
 
 **User Journey Mapping - Líder de Empresa de Desarrollo de Software(Product Owner y Scrum Master)**
 
-1. End-to-End Journey: Integrante del Equipo de Desarrollo de Software<br>
+1. End-to-End Journey: Líder o Gerente de Empresa() <br>
 
-  Este recorrido muestra el proceso completo que experimenta un integrante del equipo de desarrollo de software, desde la recepción de tareas hasta la entrega final del proyecto. A lo largo del ciclo, el equipo de desarrollo enfrenta diversos retos, ajustes y expectativas, donde la eficiencia y la colaboración son claves para el éxito.
+   El siguiente recorrido detalla el proceso completo que atraviesa un líder o gerente de empresa, desde la planificación inicial del proyecto hasta la evaluación y cierre. Este viaje abarca la supervisión estratégica y la toma de decisiones críticas para asegurar el éxito del proyecto y la alineación con los objetivos del negocio.
 
-   1. Recibo de Tareas:<br>
-      En esta fase inicial, el integrante recibe las asignaciones del proyecto y revisa los requerimientos. Su principal preocupación es obtener toda la información y los recursos necesarios para realizar su trabajo sin complicaciones. La confusión o la falta de acceso a estos recursos puede causar frustración y retrasos.
+   1. Planificación del Proyecto:<br>
 
-   2. Desarrollo y progreso:<br>
-      Una vez que tiene las tareas claras, comienza el trabajo en las asignaciones. El desarrollador participa en reuniones de seguimiento para asegurar que su progreso esté alineado con las expectativas del cliente. Durante esta fase, la presión por cumplir con los plazos es constante, y la colaboración eficaz con herramientas adecuadas es fundamental para mantener el flujo de trabajo.
+   El líder comienza identificando nuevas ideas para proyectos y definiendo objetivos claros para el equipo. Durante esta fase, se asegura de que los recursos sean asignados adecuadamente, pero también enfrenta ansiedad por la falta de visibilidad sobre los recursos disponibles y posibles retrasos en la planificación.
 
-   3. Revisión y Entrega<br>
-      En la fase final, el integrante revisa su código o entregables desarrollados y prueba las funcionalidades para asegurarse de que cumplen con los requisitos del cliente. Al finalizar la entrega, se siente alivio, aunque puede haber incertidumbre sobre si el resultado cumplirá con las expectativas del cliente o si surgirán problemas técnicos cerca del cierre.
+   2. Ejecución del Proyecto:<br>
+
+   A medida que avanza el proyecto, el líder supervisa el progreso, revisa los reportes de rendimiento y participa en reuniones clave. Aquí, enfrenta estrés por la gestión de múltiples canales de información y frustración si los reportes de desempeño no son precisos. Es crucial que las herramientas de seguimiento sean automáticas y accesibles para evitar la incertidumbre sobre si el equipo está alineado con los plazos y presupuestos.
+
+   3. Evaluación y Cierre:<br>
+
+   En la etapa final, el líder revisa el rendimiento del proyecto en comparación con los objetivos y evalúa áreas de mejora para futuros proyectos. El cierre puede generar motivación si el proyecto es exitoso, pero también puede haber inseguridad si los informes de desempeño no fueron claros. El feedback del cliente es esencial para asegurar mejoras continuas en futuros proyectos.
 
 ![Anexo F](./assets/images/User%20Journey%20Mapping%20Lider.png)
 
 **User Journey Mapping - Equipo de Desarrollo de Software**
 
-1. End-to-End Journey: Líder o Gerente de Empresa() <br>
+1. End-to-End Journey: Integrante del Equipo de Desarrollo de Software<br>
 
-   El siguiente recorrido detalla el proceso completo que atraviesa un líder o gerente de empresa, desde la planificación inicial del proyecto hasta la evaluación y cierre. Este viaje abarca la supervisión estratégica y la toma de decisiones críticas para asegurar el éxito del proyecto y la alineación con los objetivos del negocio.
+Este recorrido muestra el proceso completo que experimenta un integrante del equipo de desarrollo de software, desde la recepción de tareas hasta la entrega final del proyecto. A lo largo del ciclo, el equipo de desarrollo enfrenta diversos retos, ajustes y expectativas, donde la eficiencia y la colaboración son claves para el éxito.
 
-   1. Planificación del Proyecto<br>
+1.  Recibo de Tareas:<br>
+    En esta fase inicial, el integrante recibe las asignaciones del proyecto y revisa los requerimientos. Su principal preocupación es obtener toda la información y los recursos necesarios para realizar su trabajo sin complicaciones. La confusión o la falta de acceso a estos recursos puede causar frustración y retrasos.
 
-   El líder comienza identificando nuevas ideas para proyectos y definiendo objetivos claros para el equipo. Durante esta fase, se asegura de que los recursos sean asignados adecuadamente, pero también enfrenta ansiedad por la falta de visibilidad sobre los recursos disponibles y posibles retrasos en la planificación.
+2.  Desarrollo y progreso:<br>
+    Una vez que tiene las tareas claras, comienza el trabajo en las asignaciones. El desarrollador participa en reuniones de seguimiento para asegurar que su progreso esté alineado con las expectativas del cliente. Durante esta fase, la presión por cumplir con los plazos es constante, y la colaboración eficaz con herramientas adecuadas es fundamental para mantener el flujo de trabajo.
 
-   2. Ejecución del Proyecto<br>
-
-   A medida que avanza el proyecto, el líder supervisa el progreso, revisa los reportes de rendimiento y participa en reuniones clave. Aquí, enfrenta estrés por la gestión de múltiples canales de información y frustración si los reportes de desempeño no son precisos. Es crucial que las herramientas de seguimiento sean automáticas y accesibles para evitar la incertidumbre sobre si el equipo está alineado con los plazos y presupuestos.
-
-   3. Evaluación y Cierre <br>
-
-   En la etapa final, el líder revisa el rendimiento del proyecto en comparación con los objetivos y evalúa áreas de mejora para futuros proyectos. El cierre puede generar motivación si el proyecto es exitoso, pero también puede haber inseguridad si los informes de desempeño no fueron claros. El feedback del cliente es esencial para asegurar mejoras continuas en futuros proyectos.
+3.  Revisión y Entrega<br>
+    En la fase final, el integrante revisa su código o entregables desarrollados y prueba las funcionalidades para asegurarse de que cumplen con los requisitos del cliente. Al finalizar la entrega, se siente alivio, aunque puede haber incertidumbre sobre si el resultado cumplirá con las expectativas del cliente o si surgirán problemas técnicos cerca del cierre.
 
 ![Anexo G](./assets/images/User%20Journey%20Mapping%20Integrante%20Equipo.png)
 
@@ -834,41 +830,41 @@ Al observar la matriz, podemos destacar que tanto María como Fabricio considera
 
 **Segmento 1: María (Líder/Gerente de Proyecto)**
 
-| **¿Qué Piensa y Siente?** | **¿Qué Ve?** |
-|--| --|
+| **¿Qué Piensa y Siente?**                                                                                                | **¿Qué Ve?**                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | Necesita garantizar que todos los proyectos se gestionen eficazmente y que el equipo alcance los objetivos establecidos. | Observa un entorno empresarial donde muchas empresas aún usan herramientas anticuadas.   |
 | Está interesada en nuevas tecnologías y en cómo pueden mejorar la gestión de proyectos.                                  | Ve que la competencia está adoptando nuevas tecnologías y herramientas más avanzadas.    |
 | Quiere un software intuitivo y adaptable que mejore la eficiencia del equipo y proteja los datos de la empresa.          | Nota una creciente integración de las tecnologias emergentes en la gestión de proyectos. |
 | Lidiar con herramientas obsoletas y encontrar soluciones que se adapten a las necesidades cambiantes de la empresa.      |                                                                                          |
 
-| **¿Qué Dice y Hace?**| **¿Qué Oye?**|
-|--|--|
-|Habla sobre la necesidad de modernizar el software y la importancia de la seguridad de los datos.|Recibe comentarios de su equipo sobre la falta de funcionalidad en las herramientas actuales y las necesidades de capacitación.|
-| Busca constantemente nuevas soluciones y herramientas que puedan integrarse y ser útiles para la empresa.| Escucha sobre nuevas tecnologías y herramientas que podrían ser beneficiosas para su empresa.|
+| **¿Qué Dice y Hace?**                                                                                     | **¿Qué Oye?**                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Habla sobre la necesidad de modernizar el software y la importancia de la seguridad de los datos.         | Recibe comentarios de su equipo sobre la falta de funcionalidad en las herramientas actuales y las necesidades de capacitación. |
+| Busca constantemente nuevas soluciones y herramientas que puedan integrarse y ser útiles para la empresa. | Escucha sobre nuevas tecnologías y herramientas que podrían ser beneficiosas para su empresa.                                   |
 
-| **Dolores** | **Ganancias** |
-|--| --|
-|Experimenta frustraciones con las herramientas obsoletas y la falta de opciones intuitivas que se adapten a sus necesidades.| Una solución moderna y segura que facilite la gestión de proyectos y mejore la colaboración del equipo.|
-|Preocupada por la seguridad de los datos y la posible falta de protección que puedan ofrecer las herramientas actuales.|La implementación exitosa de un software eficiente que permita al equipo alcanzar sus metas con mayor facilidad.|
+| **Dolores**                                                                                                                  | **Ganancias**                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Experimenta frustraciones con las herramientas obsoletas y la falta de opciones intuitivas que se adapten a sus necesidades. | Una solución moderna y segura que facilite la gestión de proyectos y mejore la colaboración del equipo.          |
+| Preocupada por la seguridad de los datos y la posible falta de protección que puedan ofrecer las herramientas actuales.      | La implementación exitosa de un software eficiente que permita al equipo alcanzar sus metas con mayor facilidad. |
 
 **Segmento 2: Fabricio (Equipo de Desarrollo de Software)**
 
-|**¿Qué Piensa y Siente?**|**¿Qué Ve?**|
-|--|--|
-|Le preocupa que las herramientas actuales limiten la colaboración efectiva y el flujo de trabajo del equipo.| Observa que muchas herramientas están desactualizadas y no cumplen con las expectativas actuales del desarrollo de software. |
-| Está interesado en herramientas que mejoren la eficiencia y precisión en el desarrollo de software.| Ve que otras empresas están usando herramientas más avanzadas y adaptativas.|
-| Desea trabajar con herramientas innovadoras que faciliten la colaboración y permitan un mejor seguimiento del progreso.| Nota una necesidad creciente de herramientas que promuevan una colaboración más efectiva y un registro preciso del trabajo.|
-| Enfrenta desafíos al trabajar con herramientas que no se adaptan bien a las necesidades del equipo y a la falta de capacitación adecuada.| |
+| **¿Qué Piensa y Siente?**                                                                                                                 | **¿Qué Ve?**                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Le preocupa que las herramientas actuales limiten la colaboración efectiva y el flujo de trabajo del equipo.                              | Observa que muchas herramientas están desactualizadas y no cumplen con las expectativas actuales del desarrollo de software. |
+| Está interesado en herramientas que mejoren la eficiencia y precisión en el desarrollo de software.                                       | Ve que otras empresas están usando herramientas más avanzadas y adaptativas.                                                 |
+| Desea trabajar con herramientas innovadoras que faciliten la colaboración y permitan un mejor seguimiento del progreso.                   | Nota una necesidad creciente de herramientas que promuevan una colaboración más efectiva y un registro preciso del trabajo.  |
+| Enfrenta desafíos al trabajar con herramientas que no se adaptan bien a las necesidades del equipo y a la falta de capacitación adecuada. |                                                                                                                              |
 
-|**¿Qué Dice y Hace?** |**¿Qué Oye?**|
-|--|--|
+| **¿Qué Dice y Hace?**                                                                                                   | **¿Qué Oye?**                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Habla sobre la importancia de la precisión y fiabilidad de las herramientas y cómo estas impactan en su trabajo diario. | Escucha a sus compañeros expresar la necesidad de herramientas más actualizadas y la falta de eficacia de las herramientas actuales. |
-| Participa en capacitaciones y busca herramientas que mejoren la colaboración y el seguimiento del progreso del equipo.  | Oye sobre nuevas soluciones y tecnologías que podrían ayudar a resolver problemas de colaboración y precisión.|
+| Participa en capacitaciones y busca herramientas que mejoren la colaboración y el seguimiento del progreso del equipo.  | Oye sobre nuevas soluciones y tecnologías que podrían ayudar a resolver problemas de colaboración y precisión.                       |
 
-|**Dolores**| **Ganancias**|
-|--|--|
-|**Frustraciones:** Frustrado por la falta de herramientas innovadoras que limiten la colaboración y el seguimiento del progreso.| Herramientas de desarrollo que sean precisas, fiables, y que faciliten una colaboración efectiva.|
-|**Riesgos:** Preocupado por la falta de adaptación de las herramientas a los modelos de negocio y las necesidades específicas del equipo.| Un entorno de trabajo más colaborativo y eficiente con herramientas que se adaptan a las necesidades del equipo.|
+| **Dolores**                                                                                                                               | **Ganancias**                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Frustraciones:** Frustrado por la falta de herramientas innovadoras que limiten la colaboración y el seguimiento del progreso.          | Herramientas de desarrollo que sean precisas, fiables, y que faciliten una colaboración efectiva.                |
+| **Riesgos:** Preocupado por la falta de adaptación de las herramientas a los modelos de negocio y las necesidades específicas del equipo. | Un entorno de trabajo más colaborativo y eficiente con herramientas que se adaptan a las necesidades del equipo. |
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -884,18 +880,18 @@ Anexo D
 
 ### 2.4. Ubiquitous Language
 
-|Término|Definición|
-|--|--|
-|**Proyecto**| En el contexto del ciclo de vida de desarrollo de software, un proyecto es el uso de la mano de obra de programadores de manera estructurada y con planificación para el desarrollo de un producto de software especifico, para cumplir con objetivos, marco de tiempo y presupuesto definidos en reuniones con expertos en otras áreas.|
-|**Herramienta**| En este contexto, una herramienta se refiere a un software, aplicación o recurso que se especializa en facilitar o automatizar aspectos de la gestión, desarrollo o comunicación en el proceso de desarrollo de un software especifico.|
-|**Opciones**| En este contexto, las opciones son las diferentes características, funcionalidades, configuraciones que las herramientas que ayudan en la gestión de desarrollo de software ofrecen.|
-|**Scrum**| Scrum es un marco de gestión de proyectos de mitología ágil que es popular entre los desarrolladores de software. Facilita la gestión y ejecución de proyectos mediante reuniones recurrentes y tiempos específicos de entrega de avances, una ventaja significativa es su predisposición a ser flexible y permitir adaptarse a los cambios.|
-|**Product owner**| Es un rol dentro del Scrum y miembro del Scrum Team, su función es ser el contacto entre los desarrolladores del proyecto y los clientes internos. Los últimos conocen las características que los clientes finales buscan, necesitan y utilizan, sin embargo, el Product owner debe filtrar por razones económicas, limitaciones tecnológicas o falta de experiencia del equipo de desarrollo para decidir qué características son aceptadas. Recordando que el Scrum pide la mayor cantidad de funcionalidades en el menor tiempo posible. |
-|**Scrum Master**| Es un rol dentro del Scrum y miembro del Scrum Team, sin embargo, no es un líder, él es un personal encargado en facilitar y corroborar el cumplimiento del Scrum de parte de todos los miembros del equipo de desarrollo. Entre sus responsabilidades esta la planificación de reuniones en todo el ciclo de tiempo de cada Sprint y estimar el tiempo para completar cada objetivo.|
-|**Development Team**| En el Scrum se refiere al equipo de desarrollo del producto de software conformado por profesionales como los programadores, Frontends o Backends, y miembros del Scrum Team. Aquí se encuentran también los lideres del proyecto o los Project mánager, pues aquí se encuentran todos los que no tienen un rol especifico dentro del Scrum.|
-|**Customers**| Es un rol en Scrum pero no son miembros del Scrum Team, son los clientes internos de la organización, ellos reconocen y comunican las características, apariencias o facilidades debe tener el software desarrollado. Aquí se encuentran los equipos de marketing, contabilidad, ventas todas las personas que pueden dar una opinión informada de otros campos, sin embargo, aquí no se encuentran los usuarios finales.|
-|**Backlog**| Dentro del Scrum es una lista de historias de usuario de donde se pueden sacar una o varias tareas filtradas por el Product owner y aprobadas por los Customers, pero solo el Development Team decide el orden y cantidad de objetivos desarrollados en cada sprint.|
-|**Sprint**| El tiempo de desarrollo con Scrum se divide en Sprints, generalmente duran entre 1 y 4 semanas y se caracterizan en que terminado el tiempo estimado se espera que una parte funcional del proyecto este ya desarrollado.|
+| Término              | Definición                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Proyecto**         | En el contexto del ciclo de vida de desarrollo de software, un proyecto es el uso de la mano de obra de programadores de manera estructurada y con planificación para el desarrollo de un producto de software especifico, para cumplir con objetivos, marco de tiempo y presupuesto definidos en reuniones con expertos en otras áreas.                                                                                                                                                                                                     |
+| **Herramienta**      | En este contexto, una herramienta se refiere a un software, aplicación o recurso que se especializa en facilitar o automatizar aspectos de la gestión, desarrollo o comunicación en el proceso de desarrollo de un software especifico.                                                                                                                                                                                                                                                                                                      |
+| **Opciones**         | En este contexto, las opciones son las diferentes características, funcionalidades, configuraciones que las herramientas que ayudan en la gestión de desarrollo de software ofrecen.                                                                                                                                                                                                                                                                                                                                                         |
+| **Scrum**            | Scrum es un marco de gestión de proyectos de mitología ágil que es popular entre los desarrolladores de software. Facilita la gestión y ejecución de proyectos mediante reuniones recurrentes y tiempos específicos de entrega de avances, una ventaja significativa es su predisposición a ser flexible y permitir adaptarse a los cambios.                                                                                                                                                                                                 |
+| **Product owner**    | Es un rol dentro del Scrum y miembro del Scrum Team, su función es ser el contacto entre los desarrolladores del proyecto y los clientes internos. Los últimos conocen las características que los clientes finales buscan, necesitan y utilizan, sin embargo, el Product owner debe filtrar por razones económicas, limitaciones tecnológicas o falta de experiencia del equipo de desarrollo para decidir qué características son aceptadas. Recordando que el Scrum pide la mayor cantidad de funcionalidades en el menor tiempo posible. |
+| **Scrum Master**     | Es un rol dentro del Scrum y miembro del Scrum Team, sin embargo, no es un líder, él es un personal encargado en facilitar y corroborar el cumplimiento del Scrum de parte de todos los miembros del equipo de desarrollo. Entre sus responsabilidades esta la planificación de reuniones en todo el ciclo de tiempo de cada Sprint y estimar el tiempo para completar cada objetivo.                                                                                                                                                        |
+| **Development Team** | En el Scrum se refiere al equipo de desarrollo del producto de software conformado por profesionales como los programadores, Frontends o Backends, y miembros del Scrum Team. Aquí se encuentran también los lideres del proyecto o los Project mánager, pues aquí se encuentran todos los que no tienen un rol especifico dentro del Scrum.                                                                                                                                                                                                 |
+| **Customers**        | Es un rol en Scrum pero no son miembros del Scrum Team, son los clientes internos de la organización, ellos reconocen y comunican las características, apariencias o facilidades debe tener el software desarrollado. Aquí se encuentran los equipos de marketing, contabilidad, ventas todas las personas que pueden dar una opinión informada de otros campos, sin embargo, aquí no se encuentran los usuarios finales.                                                                                                                    |
+| **Backlog**          | Dentro del Scrum es una lista de historias de usuario de donde se pueden sacar una o varias tareas filtradas por el Product owner y aprobadas por los Customers, pero solo el Development Team decide el orden y cantidad de objetivos desarrollados en cada sprint.                                                                                                                                                                                                                                                                         |
+| **Sprint**           | El tiempo de desarrollo con Scrum se divide en Sprints, generalmente duran entre 1 y 4 semanas y se caracterizan en que terminado el tiempo estimado se espera que una parte funcional del proyecto este ya desarrollado.                                                                                                                                                                                                                                                                                                                    |
 
 ## Capítulo III: Requirements Specification
 
@@ -1122,11 +1118,11 @@ Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficie
 
 Para nuestro primer segmento enfocado en Lider o gerente de empresa de desarrollo de software en crecimiento, el proceso inicia accediendo a la plataforma y registrándose. El líder o gerente accede a la plataforma "ManageWise" y completa el proceso de registro o inicio de sesión. Si es un usuario nuevo, configura su perfil, incluyendo información sobre su empresa, roles, y preferencias de notificación. Personaliza su Dashboard y otras vistas clave para alinear la información presentada con los objetivos estratégicos de la empresa. Esto incluye seleccionar los KPIs más relevantes, definir prioridades de proyectos, y establecer alertas para actualizaciones importantes.Navega por los proyectos actuales y planificados, categorizados por estado (en curso, pendientes, finalizados) y impacto estratégico. Puede acceder a un mapa visual que muestra cómo cada proyecto contribuye a los objetivos a largo plazo de la empresa.Supervisa el progreso de los proyectos, ajusta recursos, y toma decisiones estratégicas utilizando herramientas de análisis de datos. Puede reorganizar proyectos según prioridades cambiantes y revisar el cumplimiento de plazos y presupuestos.Participa en discusiones estratégicas con otros líderes y stakeholders, utilizando canales de comunicación categorizados por proyectos y temas. Accede a reportes colaborativos y comparte insights con su equipo de liderazgo. Utiliza paneles de control dinámicos y reportes personalizados para revisar el rendimiento general de la empresa y de cada proyecto en particular. Basado en estos análisis, toma decisiones sobre asignación de recursos, ajuste de objetivos y planificación a futuro. Al cierre de un proyecto, revisa informes finales categorizados por lecciones aprendidas y oportunidades de mejora. Participa en sesiones de retroalimentación con el equipo para identificar áreas de mejora para futuros proyectos.
 
-![texto_alternativo](assets/images/Segmento 1.png)
+![texto_alternativo](assets/images/imagesTB1/segmento1.png)
 
 Para nuestro segundo segmento enfocado en Equipo de Desarrollo de Software, el proceso inicia al registrarse y configurar su perfil. El integrante del equipo accede a la plataforma y se registra o inicia sesión. Configura su perfil, incluyendo su rol específico en el equipo, proyectos asignados, y preferencias de notificación. Personaliza su Dashboard para ver las tareas y sprints pendientes, ajusta alertas para fechas límite, y selecciona qué actualizaciones y notificaciones desea recibir de sus compañeros de equipo. Revisa su lista de tareas, categorizadas por prioridad, deadline, y dependencia de otras tareas. Explora el cronograma del proyecto para entender el flujo general de trabajo y cómo su tarea encaja en el contexto más amplio. Organiza y prioriza su trabajo diario utilizando herramientas de gestión de tareas. Marca tareas como completadas, colabora en sprints, y ajusta su flujo de trabajo según nuevas asignaciones o cambios en el proyecto. Participa en conversaciones dentro de los canales de proyecto, categorizados por temas específicos como bugs, nuevas características, o revisiones de código. Colabora activamente con otros miembros del equipo, compartiendo actualizaciones y retroalimentación. Revisa su rendimiento individual y el del equipo a través de dashboards que muestran métricas como velocidad de desarrollo, calidad del código, y cumplimiento de deadlines. Utiliza este análisis para mejorar su eficiencia y productividad. Al finalizar una tarea o sprint, revisa el rendimiento en un resumen categorizado por logros y desafíos. Participa en sesiones de retroalimentación para identificar lo que funcionó bien y lo que podría mejorarse en futuros sprints.
 
-![texto_alternativo](assets/images/Segmento 2.png)
+![texto_alternativo](assets/images/imagesTB1/segmento2.png)
 
 #### 4.2.2. Labeling Systems
 
@@ -1397,6 +1393,9 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
 #### 4.3.1. Landing Page Wireframe
 
+**Introducción a las decisiones de diseño y arquitectura de información**:  
+El diseño de la landing page se realizó con el objetivo de optimizar la experiencia del usuario, asegurando una navegación clara y accesible en dispositivos de distintos tamaños. Se optó por una estructura de navegación sencilla y eficiente, permitiendo a los usuarios desplazarse fácilmente por las secciones más importantes. Se priorizó un diseño responsive que se adapta a diferentes dispositivos, desde computadoras de escritorio hasta teléfonos móviles. Además, la arquitectura de información asegura que el contenido más relevante esté destacado, facilitando la interacción con el usuario.
+
 Se estructuró la landing page para facilitar la navegación y claridad del contenido, con un navbar con links que redirigen al usuario a la sección deseada. El diseño es responsive, adaptándose a un hamburger menu en pantallas pequeñas. En el hero, se ubica el eslogan y un call-to-action, al igual que en la sección Nosotros, para redirigir así a los usuarios al formulario de registro. El footer contiene enlaces a redes sociales, manteniendo la coherencia visual.
 
 ##### Desktop Web Browser:
@@ -1409,7 +1408,7 @@ La landing page cuenta con diferentes secciones:
 - Descripción general: Se muestran las principales características de la aplicación al usuario.
 - Beneficios: El usuario puede ver los beneficios de usar la aplicación.
 - Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
-- Footer: Enlaces a las redes sociales de la paltaforma.  
+- Footer: Enlaces a las redes sociales de la plataforma.  
   <br>
   <img src="assets/images/WireframeDesktopWebBrowser.png">
   <br>
@@ -1434,7 +1433,7 @@ Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y e
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser-Menu.png">
 <br>
 
-Se cuenta con las mismas secciones que para desktop web browser ( Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
 <br>
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser.png">
 <br>
@@ -1451,6 +1450,8 @@ El formulario de inicio de sesión se adapta a la pantalla<br>
 
 #### 4.3.2. Landing Page Mock-up
 
+Los mock-ups proporcionan una representación visual de la estructura final de la landing page, tanto para la versión de escritorio como para dispositivos móviles. En el diseño de escritorio (Desktop Web Browser), se priorizó una disposición clara y organizada, mientras que en la versión móvil (Mobile Web Browser), se implementó un diseño responsive para asegurar una experiencia de usuario fluida y óptima en cualquier tamaño de pantalla.
+
 ##### Desktop Web Browser:
 
 <p align="center">
@@ -1460,17 +1461,20 @@ La landing page cuenta con diferentes secciones:
 - Hero o header: Se encuentra la barra de navegación, además del eslogan de la aplicación e imagen referencial.
 - Descripción general: Se muestran las principales características de la aplicación al usuario, junto con una imagen referente.
 - Beneficios: El usuario puede ver los beneficios de usar la aplicación.
-- Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
-- Footer: Enlaces a las redes sociales de la paltaforma.
+- Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además, se incentiva al usuario a registrarse.
+- Preguntas Frecuentes: Se muestra las preguntas mas recurrentes de la aplicación lo cual le da a saber al usuario algunas respuestas de lo que es nuestra aplicación y lo facil de usar.
+- Footer: Enlaces a las redes sociales de la plataforma.
   <br>
   <img src="assets/images/Mockup-DesktopWebBrowser.png">
   <br>
 
-Apartado de registro, en donde el usuario deberá ingresar datos necesarios de la manera que vea conveniente. <br>
+Apartado de registro, en donde el usuario deberá ingresar los datos necesarios de la manera que vea conveniente.  
+<br>
 <img src="assets/images/Mockup-DesktopWebBrowser-Resgistro.png">
 <br>
 
-Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.<br>
+Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.  
+<br>
 <img src="assets/images/Mockup-DesktopWebBrowser-InicioSesion.png">
 <br>
 
@@ -1479,20 +1483,24 @@ Apartado de inicio de sesión, en donde el usuario ingresa el correo y contrase�
 ##### Mobile Web Browser:
 
 <p align="center">
-Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se ecuentran los links de navegación. <br>
 
+Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se encuentran los links de navegación.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-Menu.png">
 <br>
 
-Se cuenta con las mismas secciones que para desktop web browser ( Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.<br>
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros, Preguntas Frecuentes), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla, permitiendo así un acceso óptimo a la información.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser.png">
 <br>
 
-El formulario de registro que se adapta a la pantala del dispositivo, permitiendo de esta manera una navegación fluida.<br>
+El formulario de registro se adapta a la pantalla del dispositivo, permitiendo de esta manera una navegación fluida.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-Resgistro.png">
 <br>
 
-El formulario de inicio que se adapta a la pantala del dispositivo, permitiendo de esta manera una navegación fluida.<br>
+El formulario de inicio de sesión se adapta a la pantalla del dispositivo, permitiendo de esta manera una navegación fluida.  
+<br>
 <img width=300px src="assets/images/Mockup-MobileWebBrowser-InicioSesion.png">
 <br>
 
@@ -1506,68 +1514,50 @@ En esta parte se explorará el diseño de la experiencia que tendrán los usuari
 
 <p align="center">
 
-La sección de Proyectos es la principal, en donde el usuario podrá visualizar las actividades, estados, cronogramas, y en caso de tener permiso, editarlas.  
-<img src="assets/images/wireframes/proyectos.png">
-<br>
-Apartado Estado de actividades de proyectos en Proyectos
-<img src="assets/images/wireframes/proyectos-estado.png">
-<br>
-Apartado Cronograma Sprint en Proyectos
-<img src="assets/images/wireframes/proyectos-CronogramaSprint.png">
-<br>
-Apartado Roles en Proyectos
-<img src="assets/images/wireframes/proyecto-roles.png">
+La sección de Proyectos es la principal, en donde el usuario podrá visualizar los diferentes proyectos que ha creado y en caso desearlo, crear uno nuevo. Además de contar con una breve descripción de la app general.  
+<img src="assets/images/wireframes/Home.png">
 <br>
 <br>
 
-En la sección de Herramientas, el usuario tendrá acceso a videollamadas, y los diferentes documentos compartidos por los miembros del proyecto.
-<img src="assets/images/wireframes/herramientas.png">
+En la sección Backlog, el usuario podrá visualizar el product backlog y puede crear un sprint backlog, añadiendo backlog items a este. Además cuenta con una vista Backlog items, en donde en caso tener permisos, puede gestionar estos.
+<img src="assets/images/wireframes/backlog.png">
 <br>
-Apartado Documentos compartidos en Herramientas
-<img src="assets/images/wireframes/herramientas - documentos compartidos.png">
-<br>
-<br>
-
-En la sección de Seguridad, los usuarios podrán activar diferentes métodos de seguridad, como el de doble autenticación, y en caso de ser el líder poder hacer el proyecto publico.
-<img src="assets/images/wireframes/Seguridad.png">
+Vista Backlog Items
+<img src="assets/images/wireframes/backlog-items.png">
 <br>
 <br>
 
-En la sección de Historial, el usuario podrá visualizar diferentes actividades y sesiones que ya concluyeron.
-<img src="assets/images/wireframes/Historial.png">
+En la sección Members, el usuario visualiza a los diferentes miembros del equipo, puediendo añadir mas en caso desearlo. Además en caso seleccionar Groups, podrá gestionar estos.
+<img src="assets/images/wireframes/members.png">
 <br>
-Apartado Actividades en Historial
-<img src="assets/images/wireframes/Historial - actividades.png">
-<br>
-Apartado Sesiones en Historial
-<img src="assets/images/wireframes/Historial - sesiones.png">
+Vista Groups
+<img src="assets/images/wireframes/members-groups.png">
 <br>
 <br>
 
-En la sección de Reporte, el usuarió podrá observar los problemas ocurridos a lo largo del proeycto, así como un resumen sprint y el progreso general e individual de los miembros del equipo.
-<img src="assets/images/wireframes/Reporte.png">
+En la sección de Statistics, el usuario podrá visualizar diferentes datos estadísticos sobre el proyecto y en caso seleccionar Timeline, podra ver el cronograma de este.
+<img src="assets/images/wireframes/statistics.png">
 <br>
-Apartado Progreso en Reporte
-<img src="assets/images/wireframes/Reporte-Progreso.png">
-<br>
-Apartado Resumen Sprint en Reporte
-<img src="assets/images/wireframes/Reporte-ResumenSprint.png">
+Vista Timeline
+<img src="assets/images/wireframes/statistics-timeline.png">
 <br>
 <br>
 
-En la sección de Foro, el usuario tendrá acceso a foro con los diferentes apartados del mismo.
-<img src="assets/images/wireframes/Foro-Mejora.png">
-<br>
-Apartado Problemas en Foro
-<img src="assets/images/wireframes/Foro-Problemas.png">
-<br>
-Apartado Retroalimentación en Foro
-<img src="assets/images/wireframes/Foro-retroalimentacion.png">
+En la sección Meeting el usuario podrá visualizar si se encuentra activa alguna reunión e ingresar a esta.
+<img src="assets/images/wireframes/meeting.png">
 <br>
 <br>
 
-En la sección de Configuración, el usuario será capaz de editar aspectos relacionados a su cuenta, y el apartado visual de la aplicación.
-<img src="assets/images/wireframes/configuracion.png">
+En la sección Issues, el usuario crear reportes sobre incidencias, además de visualizar los ya existentes.
+<img src="assets/images/wireframes/issues.png">
+<br>
+<br>
+
+En la sección Board, el usuario será capaz visualizar un tablero scrum, en donde podrá visualizar quién es el encargado de cada item, además de, en caso de tener permisos, poder editar el estado de los items.
+<img src="assets/images/wireframes/board.png">
+<br>
+Vista de Miembros asignados
+<img src="assets/images/wireframes/board-members.png">
 <br>
 
 </p>
@@ -1582,29 +1572,53 @@ En la sección de Configuración, el usuario será capaz de editar aspectos rela
 
 <p align="center"><img src="assets/images/wireflow2.png"></p>
 
-##### User goal: Acceso a videollamadas
+##### User goal: Acceso a meeting
 
-<p align="center"><img src="assets/images/wireflow3.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-.png"></p>
 
-##### User goal: Acceso a historial
+##### User goal: Agregar un nuevo miembro
 
-<p align="center"><img src="assets/images/wireflow4.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-(1).png"></p>
 
-##### User goal: Visualizar secciónes del foro
+##### User goal: Crear un nuevo grupo
 
-<p align="center"><img src="assets/images/wireflow5.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-(2).png"></p>
 
-##### User goal: Realiazar el seguimiento de tareas en tiempo real
+##### User goal: Crear un nuevo backlog item
 
-<p align="center"><img src="assets/images/wireflow6.png"></p>
+<p align="center"><img src="assets/images/wireflow//Wireflow-(3).png"></p>
 
-##### User goal: Visualizar cronograma
+##### User goal: Editar un backlog item
 
-<p align="center"><img src="assets/images/wireflow7.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-(4).png"></p>
 
-##### User goal: Modificar estado de tareas
+##### User goal: Eliminar un backlog item
 
-<p align="center"><img src="assets/images/wireflow8.png"></p>
+<p align="center"><img src="assets/images/wireflow/Wireflow-(5).png"></p>
+
+##### User goal: Crear un sprint
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(6).png"></p>
+
+##### User goal: Acceder a metricas del proyecto
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(7).png"></p>
+
+##### User goal: Acceder a la timeline del proyecto
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(8).png"></p>
+
+##### User goal: Acceder al tablero scrum
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(9).png"></p>
+
+##### User goal: Acceder a Issues
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(10).png"></p>
+
+##### User goal: Eliminar un backlog item
+
+<p align="center"><img src="assets/images/wireflow/Wireflow-(5).png"></p>
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -1612,68 +1626,33 @@ Los siguientes mockups ofrecen una vista previa del diseño y estructural visual
 
 <p align="center">
 
-La sección de Proyectos es la principal, en donde el usuario podrá visualizar las diferentes actividades, las personas encargadas y diferentes aspectos de las mismas. En caso de ser el líder podra crear, editar y eliminar las tareas.
-<img src="assets/images/mockups/proyectos.png">
+La sección de Statistics es fundamental, en donde el product Owner y Scrum Master podrá visualizar las estadisticas en base a los sprints de las historias de usuario. Tanto tambien se podrá saber si el sprint se esta elaborando bien en temas de avance.
 <br>
-En en el apartado Estado de Actividades en Proyectos, el usuario podrá visualizar si las actividades se encuentran por hacer, en progreso o terminadas, y en caso de ser el líder, podrá editar el estado de estas.
-<img src="assets/images/mockups/proyectos-estado.png">
+<img src="assets/images/mockups/statistics.png">
 <br>
-En en el apartado Cronograma Sprint en Proyectos, el usuarió podrá visualizar las fechas estipuladas, límites y diversas actividades.
-<img src="assets/images/mockups/proyectos-CronogramaSprint.png">
+En en el apartado Estado de TimeLine, en lo cual el product Owner y Scrum Master podrá colocar en que tiempo se completo las historias de usuario en en esquema del tiempo por sprints.
+<img src="assets/images/mockups/timeline.png">
 <br>
-En en el apartado Roles en Proyectos, el usuario visualizará los diferentes miembros del proyecto y en caso de ser el líder, podrá invitar y agregar a nuevos.
-<img src="assets/images/mockups/proyecto-roles.png">
+En la sección Backlog permite gestionar y mover historias de usuario entre el product backlog y el sprint backlog, con la opción de iniciar sprints una vez las historias estén listas.
+<img src="assets/images/mockups/backlog.png">
 <br>
+En la sección Board permite gestionar visualmente las User Stories, moviéndolas entre las columnas TO DO, IN PROGRESS, y DONE, con opciones para agregar, editar, eliminar y filtrar las tareas por prioridad.
+<img src="assets/images/mockups/board.png">
 <br>
-
-En la sección de Herramientas, el usuario tendrá acceso a videollamadas, y los diferentes documentos compartidos por los miembros del proyecto, en caso de ser el líder, podra crear y eliminar videollamadas.
-<img src="assets/images/mockups/herramientas.png">
-<br>
-En en el apartado Documentos compartidos en Herramientas, el usuario puede visualizar los diferentes documentos compartidos por los miembros.
-<img src="assets/images/mockups/herramientas - documentos compartidos.png">
+<img src="assets/images/mockups/board-members.png">
 <br>
 <br>
-
-En la sección de Seguridad, los usuarios podrán activar diferentes métodos de seguridad, como el de doble autenticación, y en caso de ser el líder poder hacer el proyecto publico.
-<img src="assets/images/mockups/Seguridad.png">
+En en el apartado Meeting, el Scrum Master o el Product Owner se registrara las reuniones y se podra planificar a que dia y hora estara dicha reunion.
+<img src="assets/images/mockups/meeting.png">
 <br>
 <br>
 
-En la sección de Historial, el usuario podrá visualizar diferentes actividades y sesiones que ya concluyeron; siendo el apartado por defecto el de conversaciones, donde podrá ver la interacción que tuvo con diferentes miembros en el foro.
-<img src="assets/images/mockups/Historial.png">
-<br>
-En en el apartado Actividades en Historial, el usuario puede ver las actividades pasadas y en qué estado culminaron.
-<img src="assets/images/mockups/Historial - actividades.png">
-<br>
-En en el apartado Sesiones en Historial, el usuario puede acceder a la grabación de las diferentes videollamadas.
-<img src="assets/images/mockups/Historial - sesiones.png">
+La sección Members permite al project manager gestionar el equipo de desarrollo, invitando, removiendo miembros y asignándolos a grupos de trabajo, facilitando la colaboración en tareas específicas.
+<img src="assets/images/mockups/members-users.png">
 <br>
 <br>
-
-En la sección de Reporte, el usuarió podrá observar los errores ocurridos a lo largo del proeycto, así como un resumen sprint y el progreso general e individual de los miembros del equipo.
-<img src="assets/images/mockups/Reporte.png">
+<img src="assets/images/mockups/members-groups.png">
 <br>
-En en el apartado Progreso en Reporte, el usuario podrá visualizar una barra que indica el progreso general del proyecto, con respecto a las tareas, y una barra por cada miembro, mostrando el progreso individual, en caso de ser el líder, además, podrá visualizar un gráfico radial con las habilidades de cada miembro.
-<img src="assets/images/mockups/Reporte-Progreso.png">
-<br>
-En en el apartado Resumen Sprint en Reporte, el usuario podrá ver un resumen de cada sprint.
-<img src="assets/images/mockups/Reporte-ResumenSprint.png">
-<br>
-<br>
-
-En la sección de Foro, el usuario tendrá acceso al foro con los diferentes apartados del mismo.
-<img src="assets/images/mockups/Foro-Mejora.png">
-<br>
-En en el apartado Problemas en Foro, el usuario verá diferentes problemas reportados por los miembros, y podrá responder a los mismos.
-<img src="assets/images/mockups/Foro-Problemas.png">
-<br>
-En en el apartado Retroalimentación en Foro, usuario verá la retroalimentación brindada por el líder del proyecto.
-<img src="assets/images/mockups/Foro-retroalimentacion.png">
-<br>
-<br>
-
-En la sección de Configuración, el usuario será capaz de editar aspectos relacionados a su cuenta, y el apartado visual de la aplicación.
-<img src="assets/images/mockups/configuracion.png">
 <br>
 
 </p>
@@ -1688,31 +1667,65 @@ En la sección de Configuración, el usuario será capaz de editar aspectos rela
 
 <p align="center"><img src="assets/images/Userflow2.png"></p>
 
-##### User goal: Como lider del equipo quiero realizar un seguimiento en tiempo real del progreso de este. Para lograrlo, ingreso a reporte y luego a la sección progreso.
+##### User goal: Como scrum master o product owner, quiero poder agregar backlog items al sprint backlog. Para logralo selcciono add items en el sprint backlog, ingreso el id de este y selecciono add, en caso ingrese un dato incorrecto, el formulario se reiniciara.
 
-<p align="center"><img src="assets/images/Userflow3.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-.png"></p>
 
-##### User goal: Como miembro del equipo, quiero poder visualizar el cronograma sprint. Para lograrlo, ingreso a la sección Cronograma desde el apartado de Proyectos.
+##### User goal: Como miembro product owner, quiero poder crear backlog items para reflejar los requisitos y necesidades del cliente. Para lograrlo, dentro de la sección backlog, selecciono backlog items, y en en el item deseado, selecciono create. En caso llene el formulario de forma correcta y seleccione create, el item se creara y en caso contrario, el formulario se cerrará.
 
-<p align="center"><img src="assets/images/Userflow4.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-(1).png"></p>
 
-##### User goal: Como lider de equipo, quiero acceder al historial de actividades. Para lograrlo, ingreso a Historial en el panel lateral, y posteriormente a la sección Actividades.
+##### User goal: Como miembro product owner, quiero poder editar backlog items para ajustar los requisitos. Para lograrlo, dentro de la sección backlog, selecciono backlog items, y en en el item deseado, selecciono edit. En caso llene el formulario de forma correcta y seleccione save, el item se actualizara y en caso contrario, el formulario se cerrará.
 
-<p align="center"><img src="assets/images/Userflow5.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-(2).png"></p>
 
-##### User goal: Como miembro del equipo, quiero poder ingresar al foro para visualizar sugerencias. Para lograrlo, ingreso a Foro en el panel lateral.
+##### User goal: Como miembro product owner, quiero poder eliminar backlog items para no tener requisitos innecesarios. Para lograrlo, dentro de la sección backlog, selecciono backlog items, y en en el item deseado, selecciono delete. En caso llene el formulario de forma correcta y seleccione delete, el item se eliminará y en caso contrario, el formulario se cerrará.
 
-<p align="center"><img src="assets/images/Userflow6.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-(3).png"></p>
 
-##### User goal: Como miembro de equipo, quiero poder ingresar a una videollamada realizada por el líder. Para lograrlo, me dirijo a Herramientas en el panel lateral y luego ingreso a la seccion Videollamadas, para finalmente ingresar a la deseada.
+##### User goal: Como miembro del equipo de desarrollo quiero poder acceder a las reuniones, para asi contribuír con el equipo. Para lograrlo, selecciono Meetings en el menu lateral izquierdo e ingreso al meeting deseado, en caso no este disponible, se mostrará un mensaje.
 
-<p align="center"><img src="assets/images/Userflow7.png"></p>
+<p align="center"><img src="assets/images/userflow/Userflow-(4).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero poder eliminar un reporte de incidencias. Para lograrlo, estando en la sección issues, selecciono el boton de eliminar en el reporte deseado y posteriormente confirmo, en caso no lo haga, se cancelará la acción.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(5).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero poder editar un reporte de incidencias. Para lograrlo, estando en la sección issues, selecciono el boton de editar en el reporte deseado y posteriormente relleno el formulario de forma correcta y selecciono update, en caso no lo haga, se cancelará la acción.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(6).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero poder crear un reporte de incidencias. Para lograrlo, estando en la sección issues, selecciono el boton de crear reporte de incidencias y posteriormente relleno el formulario y confirmo, en caso no lo haga, se cancelará la acción.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(7).png"></p>
+
+##### User goal: Como scrum master o product owner, quiero poder agregar nuevos miembros al equipo. Para lograrlo, estando en la sección members, selecciono invite member y paso a la persona el link de invitación o simplemenente ingreso el user name de esta.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(8).png"></p>
+
+##### User goal: Como scrum master o product owner, quiero poder crear subgrupos para así separar a los miembros según el perfil de cada uno. Para lograrlo, estando en la sección members, selecciono groups y posteriormente create group, relleno el formulario y confirmo, caso contrario se cancelará la acción.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(9).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero observar el tablero scrum del proyecto. Para lograrlo, selecciono board en el menu lateral izquierdo.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(10).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo quiero poder observar metricas sobre el proyecto. Para lograrlo, selecciono statistics en el menu lateral izquierdo.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(11).png"></p>
+
+##### User goal: Como miembro de equipo de desarrollo, quiero poder observar la timeline del proyecto, para asi estar al tanto de límites. Para lograrlo, selecciono Statistics en el menu lateral izquierdo y posteriormente selecciono Timeline.
+
+<p align="center"><img src="assets/images/userflow/Userflow-(12).png"></p>
 
 ### 4.5. Web Applications Prototyping
 
 El prototipo de la aplicación busca ofrecer una experiencia intuitiva para la gestión de proyectos. Las principales decisiones de interacción se centraron en la accesibilidad, permitiendo a usuarios seleccionados, en este caso los líderes, crear, editar y visualizar tareas fácilmente. Además, secciones como Proyectos, Herramientas, Seguridad y Reportes están diseñadas para asegurar una navegación clara y eficiente, optimizando la colaboración y el seguimiento del progreso en tiempo real.
 
-Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=1%3A2&node-id=118-122&node-type=CANVAS&viewport=-385%2C681%2C0.08&t=grI8nuvCu1Ox92G5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=118%3A122
+Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=571%3A4620&node-id=593-8064&node-type=canvas&viewport=322%2C241%2C0.19&t=y2voS4erht03K4To-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=593%3A8064
+<br>
+Link del video: https://drive.google.com/drive/folders/12NAEuYcQpbOkQ6pO8YS2SoGiv-g4CQp4?usp=sharing
 
 <br>
 
@@ -1722,200 +1735,186 @@ Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-ma
 
 ### 4.6.1. Software Architecture Context Diagram
 
-<p align="center"><img src="assets/images/domain-driven/Software Architecture Context Diagram.png"></p>
+![alt text](assets/images/Context%20Diagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<p align="center"><img src="assets/images/domain-driven/Software Architecture Container Diagrams.png"></p>
+![alt text](assets/images/Container%20Diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-#### **Component: Team management**
+#### **Component: Backlog management**
 
-<p align="center"><img src="assets/images/domain-driven/Team management.png"></p>
-
-#### **Component: Social media management**
-
-<p align="center"><img src="assets/images/domain-driven/Social media management.png"></p>
-
-#### **Component: Task tracking management**
-
-<p align="center"><img src="assets/images/domain-driven/Task tracking management.png"></p>
-
-#### **Component: Data analysis management**
-
-<p align="center"><img src="assets/images/domain-driven/Data analysis management.png"></p>
-
-#### **Component: Payment analysis management**
-
-<p align="center"><img src="assets/images/domain-driven/Payment analysis management.png"></p>
+![alt text](assets/images/Components%20Diagram.png)
 
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
 
-![alt text](assets/images/Diagramadeclasesfinal.png)
+![alt text](assets/TB1-image/diagramclass.png)
 
 LINK diagrama de clases:
-[Diagrama de Clases](https://lucid.app/lucidchart/a8574ee7-c46c-4f80-ab16-b2b91cd5abde/edit?viewport_loc=941%2C706%2C2376%2C1266%2CHWEp-vi-RSFO&invitationId=inv_aaac668a-b1fb-479d-93c9-5c7af375894a)
+https://lucid.app/lucidchart/a8574ee7-c46c-4f80-ab16-b2b91cd5abde/edit?viewport_loc=941%2C706%2C2376%2C1266%2CHWEp-vi-RSFO&invitationId=inv_aaac668a-b1fb-479d-93c9-5c7af375894a 
 
 ### 4.8. Database Design
+
+![alt text](assets/images/DBaseDeDatosVfinal.png)
 
 ### 4.7.2. Database Dictionary
 
 Este es el formato que deberán seguir nuestras colecciones en MongoDB para replicar nuestras entidades de la base de datos.
 
-**Usuarios**  
+**Users**  
 Descripción: Colección que representa a los empleados o usuarios del sistema.
 | Campo | Tipo de dato | Descripción |
 |-----------|----------------|------------------------------------------|
-| usuarioId | int | Identificador único del usuario |
-| nombre | nvarchar(255) | Nombre del usuario |
-| cargo | nvarchar(255) | Cargo del usuario |
-| email | nvarchar(255) | Correo electrónico del usuario |
-| telefono | bigint | Teléfono del usuario |
+| id | int | Identificador único del usuario |
+| firstName | nvarchar(150) | Nombre del usuario |
+| lastName | nvarchar(150) | Apellido del usuario |
+| email | nvarchar(150) | Correo electrónico del usuario |
+| phone | nvarchar(50) | Teléfono del usuario |
+| avatar | nvarchar(150) | Link de la imagen del usuario |
+| biography | nvarchar(250) | Descripcion del usuario |
 
-**Equipos**  
+**Skill**  
+Descripción: Colección que representa cada habilidad en programacion o otros campos que tiene un usuario del sistema.
+| Campo | Tipo de dato | Descripción |
+|------------|----------------|------------------------------------------|
+| skillName | nvarchar(150) | Nombre del software dominado o habilidad |
+| description| nvarchar(150) | Descripción detallada de la habilidad. |
+| proficiencyLevel| nvarchar(150) | Nivel de dominación de la habilidad |
+| category| nvarchar(150) | Categoría a la que pertenece la habilidad |
+| userId| int | Identificador del usuario |
+
+**Subgroup**  
 Descripción: Colección que representa los equipos de trabajo.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| equipoId | int | Identificador único del equipo |
-| nombreEquipo| nvarchar(255) | Nombre del equipo |
+| id | int | Identificador único del equipo |
+| name | nvarchar(255) | Nombre del equipo |
 | descripcion| nvarchar(max) | Descripción del equipo |
+| creationDate | date | Fecha de creación |
+| status | nvarchar(255) | Nos dice que si el equipo esta ocupado o libre |
+| projectId | date | Identificador del proyecto asociado |
 
-**UsuarioEquipo**  
-Descripción: Colección que define la relación entre usuarios y equipos, incluyendo el rol.
+**ProjectTeamMembers**  
+Descripción: Colección que define la relación entre usuarios y un proyecto, incluyendo el rol en la metodologia SCRUM.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| usuarioId | int | Identificador del usuario |
-| equipoId | int | Identificador del equipo |
-| rol | nvarchar(50) | Rol del usuario (Líder o Miembro) |
+| projectId | int | Identificador del proyecto |
+| assignedDate | date | Fecha de ingreso al proyecto |
+| userId | int | Identificador del usuario |
+| role | nvarchar(50) | Rol del usuario (Líder o Miembro) |
+| description | nvarchar(250) | Rol del usuario (Líder o Miembro) |
 
-**Proyectos**  
+**Project**  
 Descripción: Colección que representa los proyectos.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| proyectoId | int | Identificador único del proyecto |
-| nombreProyecto| nvarchar(255) | Nombre del proyecto |
+| id | int | Identificador único del proyecto |
+| name | nvarchar(255) | Nombre del proyecto |
 | descripcion | nvarchar(max) | Descripción del proyecto |
-| fechaInicio | date | Fecha de inicio del proyecto |
-| fechaEntrega | date | Fecha de entrega del proyecto |
-| estado | nvarchar(50) | Estado del proyecto |
+| startDate | date | Fecha de inicio del proyecto |
+| endDate | date | Fecha de entrega del proyecto |
+| status | nvarchar(50) | Estado del proyecto |
 
-**Tareas**  
+**Tasks**  
 Descripción: Colección que representa las tareas de un proyecto.
 | Campo | Tipo de dato | Descripción |
 |---------------|----------------|------------------------------------------|
-| tareaId | int | Identificador único de la tarea |
-| descripcionTarea| nvarchar(max) | Descripción de la tarea |
-| fechaCreacion | date | Fecha de creación de la tarea |
-| prioridad | nvarchar(50) | Prioridad de la tarea |
-| estadoTarea | nvarchar(50) | Estado actual de la tarea |
-| proyectoId | int | Identificador del proyecto asociado |
-| responsableId | int | Identificador del usuario responsable |
+| id | int | Identificador único de la tarea |
+| title | nvarchar(150) | Titulo de la tarea |
+| description | nvarchar(max) | Descripción de la tarea |
+| status | nvarchar(50) | Estado actual de la tarea |
+| creationDate | int | Identificador del proyecto asociado |
+| userStoriesId | int | Identificador de la Historia de usuario asociada |
 
-**ArchivosAdjuntos**  
-Descripción: Colección que representa los archivos adjuntos a tareas.
+**SubgroupAssignments**  
+Descripción: Colección que representa los miembros de un grupo de trabajo.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| archivoId | int | Identificador único del archivo |
-| nombreArchivo | nvarchar(255) | Nombre del archivo |
-| tipoArchivo | nvarchar(50) | Tipo del archivo |
-| rutaAlmacenamiento| nvarchar(255) | Ruta de almacenamiento del archivo |
-| tareaId | int | Identificador de la tarea asociada |
+| subgroupId | int | Identificador del subgrupo |
+| userId | int | Identificador del usuario |
+| joinDate | date | Fecha de ingreso al grupo |
+| Role | nvarchar(150) | Funciones específicas que los miembros del equipo |
 
 **Sprints**  
 Descripción: Colección que representa los sprints de un proyecto.
 | Campo | Tipo de dato | Descripción |
 |-------------|----------------|------------------------------------------|
-| sprintId | int | Identificador único del sprint |
-| nombreSprint | nvarchar(255) | Nombre del sprint |
-| fechaInicio | date | Fecha de inicio del sprint |
-| fechaFin | date | Fecha de fin del sprint |
+| id | int | Identificador único del sprint |
+| title | nvarchar(255) | Nombre del sprint |
+| goal | nvarchar(255) | Objetivo del sprint |
+| startDate | date | Fecha de inicio del sprint |
+| endDate | date | Fecha de fin del sprint |
 | proyectoId | int | Identificador del proyecto asociado |
 
-**CasosDePrueba**  
-Descripción: Colección que define los casos de prueba.
-| Campo | Tipo de dato | Descripción |
-|------------------|----------------|------------------------------------------|
-| casoPruebaId | int | Identificador único del caso de prueba |
-| descripcionPrueba| nvarchar(max) | Descripción del caso de prueba |
-| resultadoEsperado| nvarchar(max) | Resultado esperado del caso de prueba |
-| estadoPrueba | bit | Estado del caso de prueba |
-| usuarioId | int | Identificador del usuario responsable |
-| proyectoId | int | Identificador del proyecto asociado |
-
-**Comentarios**  
-Descripción: Colección que almacena comentarios en tareas.
+**Meeting**  
+Descripción: Colección que almacena un resumen de las reuniones de cada Sprint.
 | Campo | Tipo de dato | Descripción |
 |---------------|----------------|------------------------------------------|
-| comentarioId | int | Identificador único del comentario |
-| textoComentario| nvarchar(max) | Texto del comentario |
-| fechaComentario| datetime | Fecha del comentario |
-| tareaId | int | Identificador de la tarea asociada |
-| usuarioId | int | Identificador del usuario que comenta |
+| id | int | Identificador único de la reunión |
+| meetingType | nvarchar(150) | Tipo de reunión en el sprint |
+| date | datetime | Fecha de la reunión |
+| time | time | Hora de la reunión |
+| duration | nvarchar(50) | Duracion de la reunión |
+| location | nvarchar(150) | Lugar de la reunion |
+| agenda | nvarchar(max) | Lista de temas tratados en la reunion |
+| notes | nvarchar(max) | Concluciones y anunciones que se comunicaron en la reunion |
 
-**HistorialAcciones**  
-Descripción: Colección que registra las acciones realizadas en los proyectos.
+**MeetingInvolvement**  
+Descripción: Colección que registra a los que asistieron a cada reunion.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| accionId | int | Identificador único de la acción |
-| accionDescripcion| nvarchar(255)| Descripción de la acción |
-| fechaAccion | datetime | Fecha de la acción |
-| proyectoId | int | Identificador del proyecto asociado |
+| meetingId | int | Identificador de la reunion asociada |
+| attendance | nvarchar(255)| Guarda el estado de su asistencia |
+| feedback | datetime | Retroalimentacion |
+| userId | int | Identificador del usuario asociado |
 
-**Reportes**  
+**Bugs**  
 Descripción: Colección que representa los reportes generados para los proyectos.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| reporteId | int | Identificador único del reporte |
-| tipoReporte| nvarchar(255) | Tipo de reporte |
-| fechaGeneracion| datetime | Fecha de generación del reporte |
-| descripcion| nvarchar(max) | Descripción del reporte |
-| proyectoId | int | Identificador del proyecto asociado |
+| id | int | Identificador único del reporte |
+| title| nvarchar(150) | Titulo del reporte |
+| descripcion | nvarchar(max) | Descripcion del reporte |
+| status| nvarchar(150) | Estado del problema a cual el reporte se refiere |
+| priority | nvarchar(150) | Nivel de prioridad del problema |
+| createdAt | date | Fecha de creacion del reporte |
+| stepsToReproduce | nvarchar(max) | Pasos para reproducir el problema del reporte |
+| assigneeId | int | Identificador de la persona que debe resolver el problema |
+| createdBy | int | Identificador del creador del reporte |
 
-**Foros**  
-Descripción: Colección que almacena foros de discusión en los proyectos.
+**TaskAssignments**  
+Descripción: Colección que almacena las relaciones entre tareas y personal asignado a completarlas.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| foroId | int | Identificador único del foro |
-| tema | nvarchar(255) | Tema del foro |
-| fechaCreacion| datetime | Fecha de creación del foro |
-| descripcion| nvarchar(max) | Descripción del foro |
-| proyectoId | int | Identificador del proyecto asociado |
+| taskId | int | Identificador de la tarea |
+| userId | int | Identificador del usuario |
 
-**Herramientas**  
-Descripción: Colección que define las herramientas utilizadas en los proyectos.
+**Epics**  
+Descripción: Colección de las epicas del proyecto.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| herramientaId| int | Identificador único de la herramienta |
-| nombreHerramienta| nvarchar(255)| Nombre de la herramienta |
-| descripcionHerramienta| nvarchar(max)| Descripción de la herramienta |
+| id | int | Identificador único de la herramienta |
+| title| nvarchar(200)| Nombre de la epica |
+| projectId | int | Identificador del proyecto asociado a la epica |
+| description | nvarchar(max)| Descripcion de la epica |
+| status | nvarchar(50 )| Estado de la epica |
+| creationDate | date | Fecha de creacion de la epica |
 
-**ProyectoHerramienta**  
-Descripción: Colección que define la relación entre proyectos y herramientas.
+**UserStories**  
+Descripción: Colección de los user stories relacionados a las epicas de un proyecto.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| proyectoId | int | Identificador del proyecto |
-| herramientaId | int | Identificador de la herramienta |
-
-**Seguridad**  
-Descripción: Colección que define la seguridad de un proyecto.
-| Campo | Tipo de dato | Descripción |
-|----------------|----------------|------------------------------------------|
-| seguridadId | int | Identificador único de la seguridad |
-| nombreSeguridad | nvarchar(255) | Nombre de la seguridad |
-| descripcionSeguridad| nvarchar(max)| Descripción de la seguridad |
-| proyectoId | int | Identificador del proyecto asociado |
-
-**Configuraciones**  
-Descripción: Colección que define las configuraciones de un proyecto.
-| Campo | Tipo de dato | Descripción |
-|--------------------|----------------|------------------------------------------|
-| configuracionId | int | Identificador único de la configuración |
-| nombreConfiguracion | nvarchar(255) | Nombre de la configuración |
-| descripcionConfiguracion| nvarchar(max)| Descripción de la configuración |
-| proyectoId | int | Identificador del proyecto asociado |
+| id | int | Identificador del user storie |
+| epicId | int | Identificador de la epica asociada |
+| title | nvarchar(150) | Titulo del User Storie |
+| description | nvarchar(max) | Descripcion del user storie |
+| acceptanceCriteria | nvarchar(max) | Criterios de aceptacion del user storie |
+| status | nvarchar(50) | Estado de avance del user storie |
+| creationDate | int | Fecha de creacion del user storie |
+| subgroupId | int | Identificador del grupo que resolvera las tareas de este user storie |
 
 #### 4.8.1. Database Diagram
 
@@ -1957,24 +1956,35 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 
   - **Editor de Código**: IntelliJ IDEA.
   - **Propósito**: Desarrollo de software y edición de código.
-  - **Ruta de descarga**: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+  - **Ruta de descarga**: https://www.jetbrains.com/idea/download/
 
 - **Editor de Código:** Visual Studio Code
+
   - **Propósito:** Desarrollo y edición de código con soporte extensivo para JavaScript y herramientas de desarrollo.
-  - **Ruta de descarga:** [Visual Studio Code](https://code.visualstudio.com/)
+  - **Ruta de descarga:** https://code.visualstudio.com/
+
 - **Control de Versiones:** Git, con repositorios en GitHub.
   - **Propósito:** Gestión de versiones y colaboración en el código.
-  - **Ruta de descarga:** [Git](https://git-scm.com/)
-  - **Repositorio:** [GitHub - Horizon](https://github.com/Firtness/Horizon.git)
+  - **Ruta de descarga:** https://git-scm.com/
+  - **Repositorio:** https://github.com/Firtness/Horizon.git
 
-## Diseño y Desarrollo
+**Product UX/UI Design**
 
 - **UI/UX:** Crear una interfaz amigable y accesible para los usuarios.
   - **Herramienta:** Figma
   - **Propósito:** Diseño de prototipos y interfaces de usuario.
-  - **Ruta del Figma**: [Figma - Horizon](https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/LandingPage-WireFrame-ManageWise?node-id=15-131&node-type=canvas&t=PXmYxR9lGN4kX4l0-0)
+  - **Ruta del Figma**: https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/LandingPage-WireFrame-ManageWise?node-id=15-131&node-type=canvas&t=PXmYxR9lGN4kX4l0-0
 
 ![FIGMA](assets/images/FIGMA2.png)
+
+**Software Development**
+**HTML:**
+
+- **Descripción:** El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
+- **Enlace:** https://www.w3schools.com/html/default.asp
+  **CSS:**
+- **Descripción:** Cascade Styles Sheet maneja el diseño visual de la landing page.
+- **Enlace:** https://www.w3schools.com/css/default.asp
 
 Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
 
@@ -1984,9 +1994,9 @@ Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos efic
 
 En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
 
-- **Landing Page**: [Landing Page - Horizon](https://github.com/Horizon-ManageWise/LandingPage.git)
-- **Frontend Web Applications**: [FrontEnd - Horizon](https://github.com/Horizon-ManageWise/Frontend-Web-Applications.git)
-- **Backend Web Applications**: [BackEnd - Horizon](https://github.com/Horizon-ManageWise/Backend-Web-Applications.git)
+- **Landing Page**: https://github.com/Horizon-ManageWise/LandingPage.git
+- **Frontend Web Applications**: https://github.com/Horizon-ManageWise/Frontend-Web-Applications.git
+- **Backend Web Applications**: https://github.com/Horizon-ManageWise/Backend-Web-Applications.git
 
 **Estructura del Repositorio**
 
@@ -2031,6 +2041,7 @@ En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseñ
 - **_HTML_** : Estructura del contenido en la web, utilizando etiquetas semánticas para mejorar la accesibilidad.
 - **_CSS_**: Estilos y diseño visual del software, garantizando una experiencia de usuario óptima.
 - **_JavaScript_**: Lógica y funcionalidad interactiva, permitiendo la automatización y personalización del software.
+- **_TypeScript_**: Superset de JavaScript que añade tipado estático y otras características para mejorar la mantenibilidad y la detección de errores en tiempo de compilación.
 
 **HTML**
 
@@ -2056,6 +2067,34 @@ En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseñ
 - **Espacios y Sangrías:** Utiliza espacios en blanco y sangrías para mejorar la legibilidad del código. Sigue un estilo consistente en todo el código.
 - **Modularidad:** Evita la creación de funciones globales. Utiliza módulos o patrones de diseño para modularizar el código y evitar conflictos de nombres.
 - **Convención de Nombres:** Emplea `camelCase` para nombrar variables y funciones, siguiendo una convención consistente.
+
+**TypeScript**
+
+- **Tipado Estático:** Utiliza el tipado estático de TypeScript para definir los tipos de variables, parámetros de funciones y retornos. Esto ayuda a detectar errores de manera anticipada. Por ejemplo, en lugar de `let age = "25"`, define el tipo correctamente: `let age: number = 25`.
+
+- **Interfaces y Tipos Personalizados:** Define interfaces y tipos personalizados para describir la forma de los objetos y otros datos complejos. Esto mejora la claridad del código y facilita su mantenimiento. Ejemplo:
+
+  ```typescript
+  interface Project {
+    id: number;
+    name: string;
+    description: string;
+  }
+  ```
+
+- **Decoradores y Clases:** Emplea clases y decoradores para aprovechar las características orientadas a objetos de TypeScript, facilitando la organización del código, especialmente en Angular. Ejemplo de clase:
+
+  ```typescript
+  class User {
+    constructor(public name: string, public age: number) {}
+  }
+  ```
+
+- **Manejo de Errores en Tiempo de Compilación:** TypeScript permite identificar errores en tiempo de compilación, lo que reduce problemas en tiempo de ejecución. Aprovecha este control para escribir código más seguro.
+
+- **Convención de Nombres:** Sigue las mismas convenciones de JavaScript, utilizando `camelCase` para variables y funciones, pero aplicando también la convención `PascalCase` para clases e interfaces.
+
+- **Convenciones y Nomenclaturas:** Es necesario definir las convenciones y nomenclaturas que se utilizarán en el proyecto. Esto incluye el uso de `camelCase` para variables y funciones, `PascalCase` para clases e interfaces, y nombres de métodos descriptivos para mejorar la legibilidad del código.
 
 **Comentarios**
 
@@ -2119,41 +2158,47 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 
 ![alt text](assets/images/Trello.png)
 
-| sprint #      | Sprint 1                                      |                 |                                                 |                                                                                                                           |                       |                              |                                                           |
-| ------------- | --------------------------------------------- | --------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- | --------------------------------------------------------- |
-| User<br>Story |                                               | Work-Item /Task |                                                 |                                                                                                                           |                       |                              |                                                           |
-| ID            | Title                                         | ID              | Title                                           | Description                                                                                                               | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
-| US43          | Vista General de Beneficios y Funcionalidades | TA001           | Implementación de Sección de Beneficios         | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.                     | ½ hora                | Arevalo Meza, John Telesforo | Done                                                      |
-| US44          | Enlaces Directos a Redes Sociales             | TA001           | Implementación de Enlaces a Redes Sociales      | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                       | ½ hora                | Sandoval Paiva, Valentino    | Done                                                      |
-| US45          | Registro Rápido y Simple                      | TA001           | Diseño e Implementación del Registro de Usuario | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                       | ½ hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| US46          | Iniciar Sesión Rápido y Visible               | TA001           | Implementación de Enlace de Inicio de Sesión    | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                        | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| US47          | Resumen de la Empresa, Misión y Visión        | TA001           | Creación de Sección "Acerca de Nosotros"        | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
-| US48          | Navegación Clara y Directa en la Página       | TA001           | Diseño del Menú de Navegación                   | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
+| sprint #      | Sprint 1                                                 |                 |                                                  |                                                                                                                           |                       |                              |                                                           |
+| ------------- | -------------------------------------------------------- | --------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- | --------------------------------------------------------- |
+| User<br>Story |                                                          | Work-Item /Task |                                                  |                                                                                                                           |                       |                              |                                                           |
+| ID            | Title                                                    | ID              | Title                                            | Description                                                                                                               | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
+| US01          | Vista General de Beneficios y Funcionalidades            | TA001           | Implementación de Sección de Beneficios          | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.                     | ½ hora                | Arevalo Meza, John Telesforo | Done                                                      |
+| US02          | Enlaces Directos a Redes Sociales                        | TA001           | Implementación de Enlaces a Redes Sociales       | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                       | ½ hora                | Sandoval Paiva, Valentino    | Done                                                      |
+| US03          | Registro Rápido y Simple                                 | TA001           | Diseño e Implementación del Registro de Usuario  | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                       | ½ hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
+| US04        | Iniciar Sesión Rápido y Visible                          | TA001           | Implementación de Enlace de Inicio de Sesión     | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                        | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
+| US05          | Resumen de la Empresa, Misión y Visión                   | TA001           | Creación de Sección "Acerca de Nosotros"         | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
+| US06          | Navegación Clara y Directa en la Página                  | TA001           | Diseño del Menú de Navegación                    | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
+[FALTA AÑADIR tu product bakclog Sergio esta mal pusiste las del sprint 2 ]
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
-| Repository   | Branch | Commit Id | Commit Message                                          | Commit Message Body                                     | Committed on (Date)     |
-| ------------ | ------ | --------- | ------------------------------------------------------- | ------------------------------------------------------- | ----------------------- |
-| Landing-page | main   | 1b462d3   | Initial commit                                          | Created the README file.                                | 08/09/2024              |
-| Landing-page | main   | 3cd1ffc   | Feat: added navbar and header                           | Feat: added navbar and header                           | 08/09/2024              |
-| Landing-page | main   | 2fb452a   | feat: added descripcion general and beneficios sections | feat: added descripcion general and beneficios sections | 08/09/2024              |
-| Landing-page | main   | 7fe0bdd   | Feat: Add nosotros                                      | Feat: Add nosotros                                      | 08/09/2024              |
-| Landing-page | main   | 47d2070   | Feat: Add nosotros                                      | Feat: Add nosotros                                      | 08/09/2024              |
-| Landing-page | main   | 280c80e   | nojotros add                                            | nojotros add                                            | 08/09/2024              |
-| Landing-page | main   | ec30e3f   | AÑADIENDO MI PARTE                                      | AÑADIENDO MI PARTE                                      | 09/09/2024              |
-| Landing-page | main   | 5d497e7   | AÑADI MI PARTE                                          | AÑADI MI PARTE                                          | 09/09/2024              |
+| Repository   | Branch | Commit Id                                | Commit Message                                                  | Commit Message Body                                                           | Committed on (Date)     |
+| ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------- |
+| Landing-page | main   | 1b462d3                                  | Initial commit                                                  | Created the README file.                                                      | 08/09/2024              |
+| Landing-page | main   | 3cd1ffc                                  | Feat: added navbar and header                                   | Feat: added navbar and header                                                 | 08/09/2024              |
+| Landing-page | main   | 2fb452a                                  | feat: added descripcion general and beneficios sections         | feat: added descripcion general and beneficios sections                       | 08/09/2024              |
+| Landing-page | main   | 7fe0bdd                                  | Feat: Add nosotros                                              | Feat: Add nosotros                                                            | 08/09/2024              |
+| Landing-page | main   | 47d2070                                  | Feat: Add nosotros                                              | Feat: Add nosotros                                                            | 08/09/2024              |
+| Landing-page | main   | 280c80e                                  | nojotros add                                                    | nojotros add                                                                  | 08/09/2024              |
+| Landing-page | main   | ec30e3f                                  | AÑADIENDO MI PARTE                                              | AÑADIENDO MI PARTE                                                            | 09/09/2024              |
+| Landing-page | main   | 5d497e7                                  | AÑADI MI PARTE                                                  | AÑADI MI PARTE                                                                | 09/09/2024              |
+| Landing-page | main   | c4a4795db0aa611aa25fc3f3dea4d0d9f5574ed1 | feat: Add files and update                                      | Se añade archivos al repositorio                                              | 10/09/2024              |
+| Landing-page | main   | 1dd9e3e004dc828fd9134f631738121951dd1cba | feat: Add funcionalidades                                       | Se añade funcionalidades al .js                                               | 10/09/2024              |
+| Landing-page | main   | a6dde725b27df498b1d2a3e182e6ec2ac55541d4 | feat: Agregación de estilos para un sección                     | Se implementa estilos al landing page                                         | 10/09/2024              |
+| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c | feat: Añadir preguntas y respuestas, actualización de imagenes  | Se añade una seccion de preguntas y respuestas y la actualización de imagenes | 10/09/2024              |
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
-| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
-| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | a58791b   | feat: added US43 gherkin | feat: added US43 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 29d0d8e   | feat: added US44 gherkin | feat: added US44 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 9c68a0f   | feat: added US45 gherkin | feat: added US45 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
+| Repository                                    | Branch             | Commit Id                                | Commit Message           | Commit Message Body                                                                     | Committed on (Date)     |
+| --------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------- | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 4823259                                  | Initial commit           | Created the README file.                                                                | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                                                                | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                                                                | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                                                                | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                                                                | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                                                                | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                                                                | 19/09/2024              |
+[FALTA AÑADIR tu product bakclog Sergio esta mal pusiste las del sprint 2 ]
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
@@ -2200,257 +2245,38 @@ Verificación: Comprobación de que la landing page se despliega correctamente y
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint.
 
-A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
-
-![alt text](assets/images/imagen_participacion.jpg)
-
-### 5.2.2. Sprint 2
-
-### 2 5.2.2.1. Sprint Planning 2
-
-El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
-
-| Sprint #                            | Sprint 1                                                                                                                                                                                                                                                                                                            |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                                                     |
-| **Date**                            | 23/09/2024                                                                                                                                                                                                                                                                                                          |
-| **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                                            |
-| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                                           |
-| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                                          |
-| **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar                                                                                                                                                                         |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                                                     |
-| **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y e implementar cada uno su bounded context lo cual separamos el dia de la reunion                                                                                                                                                                                     |
-| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US14 (2 puntos)<br>- US19 (2 puntos)<br>- US29 (3 puntos)<br>- US10 (3 puntos)<br>- US24 (3 puntos)<br>- US37 (3 puntos)<br>- US18 (5 puntos)<br>- US34 (5 puntos) |
-| **Sum of Story Points**             | 26                                                                                                                                                                                                                                                                                                                  |
-
-### 2.5.2.2.2. Sprint Backlog 2
-
-### Introducción
-
-En el Sprint 1, el objetivo principal fue desarrollar una landing page completamente funcional, centrada en la presentación de los beneficios de la plataforma, una navegación sencilla, enlaces a redes sociales y la implementación de un sistema de registro e inicio de sesión rápido. Para lograr este objetivo, dividimos las User Stories en tareas más pequeñas (Work-Items/Tasks) y las asignamos a los miembros del equipo utilizando Trello, asegurándonos de una estimación adecuada y seguimiento efectivo.
-
-![alt text](assets/images/Sprint2Trello.png)
-
-| Sprint #          | Sprint 2                                            |                     |                                                                           |                                                                                                                                                |                           |                              |                                                               |
-| ----------------- | --------------------------------------------------- | ------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------- | ------------------------------------------------------------- |
-| **User<br>Story** |                                                     | **Work-Item /Task** |                                                                           |                                                                                                                                                | **Estimation<br>(Hours)** | **Assigned<br>To**           | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
-| **ID**            | **Title**                                           | **ID**              | **Title**                                                                 | **Description**                                                                                                                                |                           |                              |                                                               |
-| **US19**          | Integración de cronogramas                          | **TA001**           | Añadir actividades al calendario                                          | Facilitar la creación de nuevas actividades en el calendario, donde los usuarios pueden definir el nombre.                                     | 2 horas                   | Alejo Cardenas,Jose          | Done                                                          |
-| **US19**          | Integración de cronogramas                          | **TA002**           | Mostrar actividades del calendario                                        | Mostrar todas las actividades programadas en el calendario en una vista clara y organizada.                                                    | 4 horas                   | Alejo Cardenas,Jose          | Done                                                          |
-| **US14**          | Herramienta de seguimiento de tareas en tiempo real | **TA003**           | Implementar estados de tareas                                             | Agregar la funcionalidad de cambiar el estado de las tareas, asegurando asi seguimiento constante por parte del líder                          | 5 horas                   | Arevalo Meza, John Telesforo | Done                                                          |
-| **US24**        | Reportes de tareas atrasadas                        | **TA004**           | Implementar aspectos visuales, para resaltar las tareas atrasadas         | Agregar un cambio de color a las tareas que se encuentren atrasadas                                                                            | 3 horas                   | Arevalo Meza, John Telesforo | Done                                                          |
-| **US25**          | Gestión de dependencias de tareas                   | **TA005**           | Agregar un apartado para ver las dependencias de una tarea                | Agregar atributos y hacerlos visibles, para asi ver cuales son las condiciones de estas                                                        | 4 horas                   | Arevalo Meza, John Telesforo | Done                                                          |
-| **US37**          | Reporte de eficiencia del equipo                    | **TA006**           | Añadir reportes de eficiencia del proyecto por parte del desarrollador    | Programar la funcionalidad del menú de navegación asegurando que las rutas sean correctas y rápidas.                                           | 3 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
-| **US37**          | Reporte de eficiencia del equipo                    | **TA007**| Eliminar reportes de Lider y desarrollares                                | Desarrollar la eliminacion de reportes generados por los trabajadores del proyecto                                                             | 3 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
-| **US37**          | Reporte de eficiencia del equipo                    | **TA008**           | Actualizar reportes generadoros por trabajadores y lideres del equipo     | Implementar la actualizacion de reportes generador por los trabajores del proyecto.                                                            | 3 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
-| **US37**          | Reporte de eficiencia del equipo                    | **TA009**           | Añadir reportes de observacion de la tarea por parte de lideres- gerentes | Programar la agregacion de reportes en el bounded context Reportes/Comentarios por parte de los lideres.                                       | 2 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
-| **US24**          | Reporte de tareas atrasadas                         | **TA010**           | Añadir reportes de tareas atrasadas por parte de desarrolladores          | Programar la funcionalidad del bounded context reportes para una mayor                                                                         | 2 horas                   | Jaque Peña, Estefano Oscar   | Done                                                          |
-| **US10**          | Sincronización con herramientas externas            | **TA011**           | Iniciar sincronización                                                    | Se configura la integración para que las tareas y eventos se sincronicen automáticamente entre la plataforma y las herramientas seleccionadas. | 2 horas                   | Valentino Sandoval           |
-| **US10**          | Sincronización con herramientas externas            | **TA012**           | Reflejar cambios en ambas plataformas                                     | Los cambios realizados tanto en las herramientas externas como en la plataforma se reflejan en tiempo real.                                    | 3 horas                   | Valentino Sandoval           |
-| **US29**          | Integración con herramientas de videollamadas       | **TA013**           | Iniciar videollamada integrada                                            | Se implementa la funcionalidad para iniciar videollamadas directamente desde la plataforma, usando herramientas como Zoom o Google Meet.       | 2 horas                   |  Valentino Sandoval          |
-| **US18**          | Integración de gráfico radial de habilidades        | **TA014**           | Separar los miembros en equipos de trabajo por sus habilidades            | Se implementa la capacidad de asignar un miembro a un equipo de trabajo que los separa por especialidad                                        | 2 horas                   |  Diego Acuña                 |
-| **US34**          | Sistema de evaluación automática de productividad   | **TA015**           | Mostrar con una grafica el avance                                         | Se implementa una grafica en la seccion de miembros que permite conocer el avance respecto al total de tareas asignadas                        | 2 horas                   |  Diego Acuña                 |
-
-### 2.5.2.2.3. Development Evidence for Sprint Review.
-
-| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
-| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 4823259   | Initial commit           | Created the README file. | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | a58791b   | feat: added US43 gherkin | feat: added US43 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 29d0d8e   | feat: added US44 gherkin | feat: added US44 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 9c68a0f   | feat: added US45 gherkin | feat: added US45 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 92ff505   | feat: added US46 gherkin | feat: added US46 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | 6d40835   | feat: added US47 gherkin | feat: added US47 gherkin | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego | ab19556   | feat: added US48 gherkin | feat: added US48 gherkin | 19/09/2024              |
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review.
-
-Durante este sprint, se realizaron la implementación del Web Aplication. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
-
-| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
-|-|-|-|-|-|-|
-| Horizon-ManageWise/Testing | feature/TP | 48232594b722a6d3b1948c723cf903655a12bd35 |Initial commit  | Initial commit | 24/09/2024|
-| Horizon-ManageWise/Testing | feature/TP | 98bb0d238d4305c241a5e31f5bd0f658915553be |feature: added US10 gherkin  | feature: added US10 gherkin | 24/09/2024|
-| Horizon-ManageWise/Testing | feature/TP | 4fe61f01bd7f0d6f19c3df562a72f05ff993746e |feature: added US14 gherkin  | feature: added US14 gherkin | 24/09/2024|
-| Horizon-ManageWise/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US18 gherkin  | feature: added US18 gherkin | 24/09/2024|
-| Horizon-ManageWise/Testing | feature/TP | b02f2bb10c47d255857145e96eb54f72cb66d383 |feature: added US19 gherkin  | feature: added US19 gherkin | 24/09/2024|
-| Horizon-ManageWise/Testing | feature/TP | 9db14c0bd4735c9c0495d405d35f9c87f75109fe |feature: added US24 gherkin  | feature: added US24 gherkin | 24/09/2024|
-| Horizon-ManageWise/Testing | feature/TP | a86f36565e3d66d635b71333d123cca9d9486dc8 |feature: added US25 gherkin  | feature: added US25 gherkin | 24/09/2024|
-| Horizon-ManageWise/Testing | feature/TP | 903934c1d941c27b8a37108320411a5b322ffaa0 |feature: added US29 gherkin  | feature: added US29 gherkin | 24/09/2024|
-| Horizon-ManageWise/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US34 gherkin  | feature: added US34 gherkin | 24/09/2024|
-| Horizon-ManageWise/Testing | feature/TP | f8db7186ad943db1e5c671242d00aec94ab6eec0 |feature: added US37 gherkin  | feature: added US37 gherkin | 24/09/2024|
-
-<br>
-Link del repositorio Commints: https://github.com/Horizon-ManageWise/Testing/tree/feature/TP
-
-### 5.2.2.5. Execution Evidence for Sprint Review.
-
-Durante este segundo sprint los integrantes del equipo desarrollaron los diferentes bounded context del dominio de ManageWise, con ayuda del framework Angular y los componentes de Angular Material.
-
-- John Arevalo
-  <br>
-
-![alt text](assets/images/bounded-context-task.jpg)
-
-<br>
-
-![alt text](assets/images/create-task2.png)
-<br>
-
-- Jose Alejo
-  <br>
-
-![alt text](assets/images/ManageWiseCalendar.png)
-
-<br>
-
-![alt text](assets/images/ManageWiseCalendar2.png)
-<br>
-
-- Estefano Jaque - bounded context Reportes
-  <br>
-
-![alt text](assets/images/exevidencJaque.jpg)
-
-- Diego Acuña - bounded context Members
-  <br>
-
-![alt text](assets/images/BC-member/ManageWise-members-1.png)
-
-### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-
-**Introducción:**
-Durante este Sprint, se logró la documentación y despliegue de varios Endpoints correspondientes a los diferentes _bounded contexts_ implementados por el equipo. Se utilizó OpenAPI para describir de forma estructurada los servicios Web desarrollados. A continuación, se presenta la relación de los Endpoints, las acciones soportadas y la respectiva documentación disponible.
-
-Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, parámetros, ejemplos de respuesta, así como capturas de la interacción con los Web Services utilizando datos de muestra. También se proporciona el URL del repositorio de los Web Services y los _commit IDs_ correspondientes al trabajo realizado en la documentación durante este Sprint.
-
-### Tabla de Endpoints Documentados
-
-| Bounded Context | Endpoint               | Acción                        | Verbo HTTP | Parámetros                          | Ejemplo de Respuesta              | Documentación/URL                                                       |
-| --------------- | ---------------------- | ----------------------------- | ---------- | ----------------------------------- | --------------------------------- | ----------------------------------------------------------------------- |
-| Herramientas    | `/api/tools`           | Obtener lista de herramientas | GET        | `?category={string}`                | `[{"id": 1, "name": "Tool A"}]`   | [Herramientas](https://managewise-7c633.web.app/tool/tools)             |
-| Calendar        | `/api/calendar/events` | Crear evento                  | POST       | `{"title": string, "date": string}` | `{"id": 1, "title": "Event A"}`   | [Calendar](https://managewisecalendar.web.app/calendar/activities)      |
-| Reportes        | `/api/reports`         | Obtener reportes generados    | GET        | `?type={string}`                    | `[{"id": 1, "type": "weekly"}]`   | [Reportes](https://managewise-reports.web.app/reports)                  |
-| Tareas          | `/api/tasks/{id}`      | Eliminar tarea                | DELETE     | `{id: int}`                         | `{"message": "Task deleted"}`     | [Tareas](https://daos-2402-managewise-tasks.web.app/tasks)              |
-| Miembros        | `/api/members`         | Listar miembros               | GET        | `?role={string}`                    | `[{"id": 1, "name": "Member A"}]` | [Miembros](https://managewise-si729-team-manage.web.app/member/members) |
-
-### Ejemplos de Respuesta y Explicación
-
-#### **GET** `/api/tools`
-
-**Descripción**: Obtiene una lista de herramientas filtradas por categoría (opcional).
-
-**Parámetros**:
-
-- `category`: Filtro opcional para la categoría de la herramienta (string).
-
-**Ejemplo de Llamada**:
-
-GET /api/tools?category=software
-
-**Ejemplo de Respuesta**:
-db.json:<br>
-
-{<br>
-"id": 2,<br>
-"projectName": "Proyecto 2",<br>
-"transmitter": "Desarrollador",<br>
-"issuerName": "Carlos Ramírez",<br>
-"title": "Problemas con la base de datos",<br>
-"Summary": "El servidor de base de datos se ha caído durante varias horas.",<br>
-"detailedDescription": "El servidor de base de datos ha estado inactivo desde las 8:00 AM, afectando la disponibilidad de la plataforma.",<br>
-"dateTime": "24 de septiembre-11:15 AM",<br>
-"assignedTo": "Equipo de Infraestructura",<br>
-"priority": "Alta",<br>
-"suggestedActions": "Reiniciar el servidor y revisar la configuración de la base de datos."<br>
-},<br>
-
-### Capturas de Pantalla
-
-A continuación, se presentan algunas capturas de pantalla que muestran la interacción con los servicios Web, utilizando datos de muestra:
-
-**Captura 1**: Visualización de la lista de reportes `/api/tools`.
-
-![alt text](assets/images/reportes_endpoint.png)
-
-### Repositorio y Commits
-
-- **Repositorio de Web Services**: [GitHub - Proyecto Web Services](https://github.com/Horizon-ManageWise/Horizon)
-- **Commits relacionados con la documentación**:
-  - [Managewise-Herramientas](https://github.com/SoyValzzz/Managewise-tools) - Documentación de Herramientas
-  - [Managewise-Calendar](https://github.com/Firtness/ManageWiseCalendar) - Documentación de Calendar
-  - [Managewise-Reportes](https://github.com/estefanojaque/Managewise-reportes) - Documentación de Reportes
-  - [Managewise-Tareas](https://github.com/JohnArvlo/my-json-server-tareas) - Documentación de Tareas
-
-### Resumen de Acciones del Equipo
-
-| Integrante         | Acciones Realizadas                                     |
-| ------------------ | ------------------------------------------------------- |
-| Valentino Sandoval | Diseño e implementación de bounded context herramientas |
-| Jose Alejo         | Diseño e implementación de bounded context Calendar     |
-| Estefano Jaque     | Diseño e implementación de bounded context Reportes     |
-| John Arevalo       | Diseño e implementación de bounded context Tareas       |
-| Diego Acuña        | Diseño e implementación de bounded context Miembros     |
-
-Este Sprint se centró en mejorar la documentación de los Web Services desarrollados para cada uno de los bounded contexts, facilitando su integración y uso en futuras iteraciones.
-
-### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-
-Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional y mejorada. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
-
-Link landing page: https://horizon-managewise.github.io/LandingPage/
-
-![alt text](assets/images/TP_images/landingPageEvidence1.png)
-![alt text](assets/images/TP_images/landingPageEvidence2.png)
-![alt text](assets/images/TP_images/landingPageEvidence3.png)
-![alt text](assets/images/TP_images/landingPageEvidence4.png)
-![alt text](assets/images/TP_images/landingPageEvidence5.png)
-![alt text](assets/images/TP_images/landingPageEvidence6.png)
-![alt text](assets/images/TP_images/landingPageEvidence7.png)
-![alt text](assets/images/TP_images/landingPageEvidence8.png)
-
-<br>
-
-#### Web Application:
-
-- John Arevalo
-
-![alt text](assets/images/bounded-context-task.jpg)
-
-Link: https://daos-2402-managewise-tasks.web.app/tasks
-
-- Jose Alejo
-
-![alt text](assets/images/ManageWiseCalendar.png)
-
-![alt text](assets/images/ManageWiseCalendar2.png)
-
-Link: https://managewisecalendar.web.app/calendar/activities
-
-- Diego Rolin Acuña Tomas
-
-![alt text](assets/images/BC-member/ManageWise-members-1.png)
-
-![alt text](assets/images/BC-member/ManageWise-members-3.png)
-
-Link: https://managewise-si729-member.web.app/member/members
-
-### 5.2.2.8. Team Collaboration Insights during Sprint.
-
-| Integrante         | Acciones realizadas durante el sprint                   |
-| ------------------ | ------------------------------------------------------- |
-| Valentino Sandoval | Diseño e implementacion de bounded context herramientas |
-| Jose Alejo         | Diseño e implementacion de bounded context Calendar     |
-| Estefano Jaque     | Diseño e implementacion de bounded context Reportes     |
-| John Arevalo       | Diseño e implementacion de bounded context Tareas       |
-| Diego Acuña        | Diseño e implementacion de bounded context Miembros     |
-
-![alt text](assets/images/Insigths.jpg)
-
-### 5.2.2.8. About the product :
-
-[video About the product](https://drive.google.com/drive/folders/1Yf3cs4c9bwB1XwzLYqD0zeP0oRtKDAdJ?usp=sharing)
-
+En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. Se exponen capturas de los analíticos de colaboración y de los commits realizados en GitHub, lo que permite visualizar la contribución individual de cada miembro del equipo.
+
+- Diseño y Desarrollo:
+  Diseño de la Landing Page: Desarrollo y diseño completo de la landing page, incluyendo la creación de secciones y funcionalidad.
+  Implementación: Realización de las tareas de codificación, pruebas y ajustes necesarios para completar la página.
+- Documentación y Despliegue:
+  Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones.
+  Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
+
+**Landing Page**
+[FALTA COMITS]
+![Commits](assets/TB1-image/commitslandingsdaj.jpeg)
+![Commits](assets/TB1-image/commitslandingnet.jpeg)
+
+- Estefano Oscar Jaque Peña: 1
+- Diego Rolin Acuña Tomas: 1
+- John Telesforo Arevalo Meza: 10
+- José Alejo Cardenas: 1
+- Valentino Sandoval Paiva: 1
+- Sergio Gomez: 8
+
+**Report:**
+
+![Commits](assets/TB1-image/commitsreport1.jpeg)
+![Commits](assets/TB1-image/commitsreport2.jpeg)
+![Commits](assets/TB1-image/commitsreport3.jpeg)
+
+- Estefano Oscar Jaque Peña: 54
+- Diego Rolin Acuña Tomas: 50
+- John Telesforo Arevalo Meza: 37
+- Valentino Sandoval Paiva: 48
+- Sergio Gómez: 
 ### Conclusiones
 
 - Jose Alejo:
@@ -2464,6 +2290,10 @@ Link: https://managewise-si729-member.web.app/member/members
 
 - John Arévalo:  
   El desarrollo de Horizon nos enseñó la importancia de crear sistemas bien estructurados como el Navigation System, Labeling System, y Searching System para garantizar una experiencia de usuario fluida. A lo largo del proyecto, aprendimos cómo la integración de tecnologías avanzadas puede no solo optimizar la gestión de proyectos, sino también facilitar la colaboración y la toma de decisiones informadas. De esta manera se promovió una cultura de innovación y a su vez, se logró profundizar en nuevas áreas.
+  <br><br>
+- Sergio Gómez: <br>
+  En el desarrollo del proyecto Horizon, aprendimos la importancia de la visualización interactiva y su impacto en la planificación y seguimiento de tareas en un equipo ágil. Al integrar un timeline que permite gestionar User Stories y Sprints, así como descargar gráficos de rendimiento, Horizon nos mostró cómo la organización clara y visual del trabajo puede mejorar significativamente la colaboración y la toma de decisiones. Este proyecto también nos enseñó la relevancia de contar con herramientas que faciliten la comunicación entre roles clave, como el Scrum Master y el Product Owner, lo que contribuye al éxito general del equipo.
+
   <br><br>
 
 ### Bibliografia
