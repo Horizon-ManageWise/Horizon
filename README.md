@@ -63,9 +63,9 @@ Product: ManageWise
 TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes al integrarse un nuevo miembro al equipo y aportar con ideas nuevas para la landing page. Por ende, se muestran capturas de los commits del mes pasado y de este mes.
 
 **Vista de commits: Landing page:**  
-![alt text](assets/TB1-image/landing.jpeg)
+![alt text](assets/TB1-new/landingc1.jpeg)
 
-![alt text](assets/TB1-image/commitslandingsdaj.jpeg)
+![alt text](assets/TB1-new/landingc2.jpeg)
 
 ![alt text](assets/TB1-image/commitslandingnet.jpeg)
 
@@ -77,9 +77,9 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 
 **Report:**
 
-![alt text](assets\TB1-new\commitsall2.jpeg)
+![alt text](assets/TB1-new/commitsall2.jpeg)
 
-![alt text](assets\TB1-new\commitall1.jpeg)
+![alt text](assets/TB1-new/commitall1.jpeg)
 
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
 
@@ -2256,8 +2256,8 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 **Landing Page**
 [FALTA COMITS]
-![Commits](assets/TB1-image/commitslandingsdaj.jpeg)
-![Commits](assets/TB1-image/commitslandingnet.jpeg)
+![Commits](assets/TB1-new/landingc1.jpeg)
+![Commits](assets/TB1-new/landingc2.jpeg)
 
 - Estefano Oscar Jaque Peña: 1
 - Diego Rolin Acuña Tomas: 1
@@ -2268,9 +2268,9 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 **Report:**
 
-![alt text](assets\TB1-new\commitsall2.jpeg)
+![alt text](assets/TB1-new/commitsall2.jpeg)
 
-![alt text](assets\TB1-new\commitall1.jpeg)
+![alt text](assets/TB1-new/commitall1.jpeg)
 
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
 
