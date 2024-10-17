@@ -917,7 +917,7 @@ EPICS:
 
 
 | User Storiy ID | Título| Descripción| Criterios de Aceptación| Relacionado con(Epic ID) |     
-| -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- |
 | US01| Vista General de Beneficios y Funcionalidades| Como usuario potencial, quiero ver una descripción general de los beneficios y funcionalidades clave de la plataforma| Escenario: El usuario potencial visita la página principal.<br>Dado que el usuario potencial ha accedido a la página de inicio, Cuando navega hacia la sección de beneficios y funcionalidades, Entonces puede ver una descripción clara y visualmente destacada de las características clave de la plataforma.| EP01|
 | US02| Enlaces Directos a Redes Sociales| Como usuario potencial, quiero tener enlaces directos a las redes sociales de la plataforma para seguir la empresa y estar al tanto de novedades.| Escenario: El usuario potencial busca información sobre la plataforma en redes sociales.<br>Dado que el usuario potencial navega a la página de inicio,Cuando se desplaza hasta el pie de página o la sección de contacto,Entonces puede hacer clic en enlaces directos a las redes sociales de la plataforma.| EP01|
 | US03| Registro Rápido y Simple| Como usuario nuevo, quiero poder registrarme de una manera rápida y sin tantas complicaciones| Escenario: Un nuevo usuario desea registrarse.<br>Dado que el usuario nuevo accede a la página de registro,Cuando completa el formulario con los datos básicos,Entonces puede finalizar el registro sin complicaciones ni pasos adicionales innecesarios.| EP01|
