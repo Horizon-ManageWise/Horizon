@@ -914,6 +914,10 @@ EPICS:
 |EP05|Administración de Colaboradores y Roles|Como Scrum Master, quiero invitar a nuevos usuarios, asignar roles específicos y permitir que los usuarios vean información personal para que pueda gestionar eficientemente el acceso al proyecto, garantizar que cada miembro del equipo tenga las autorizaciones adecuadas y asegurar que la información de contacto de todos esté actualizada.|
 |EP06|Gestión de User Stories y Sprints en el Timeline|Como Scrum Master y Product Owner, quiero gestionar las User Stories y los Sprints en un timeline interactivo para facilitar la planificación y seguimiento del progreso del equipo. Esto permitirá organizar las tareas en columnas correspondientes a los Sprints, visualizar estadísticas del rendimiento del equipo y descargar gráficos en formato PNG, mejorando así la toma de decisiones y la comunicación.|
 |EP07|Gestión de Incidencias|Como equipo de desarrollo, queremos implementar un sistema de gestión de incidencias completo y eficiente, para poder rastrear, priorizar y resolver los problemas y mejoras de manera colaborativa y transparente, mejorando así la calidad del producto y la satisfacción del cliente.|
+|EP08|Desarrollo de Funcionalidades de la Aplicación|Como equipo de desarrollo, queremos implementar un sistema robusto para gestionar las funcionalidades de ManageWise Horizon, que incluya la creación, edición y eliminación de videoconferencias, la gestión de miembros y notificaciones, y el seguimiento del historial de eventos. Esto nos permitirá mejorar la colaboración y la comunicación dentro del equipo, garantizando un acceso eficiente y transparente a los recursos y asegurando una experiencia de usuario óptima.|
+
+
+
 
 
 
