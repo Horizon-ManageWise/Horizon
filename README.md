@@ -73,21 +73,22 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 - Diego Rolin Acuña Tomas: 1
 - John Telesforo Arevalo Meza: 10
 - Valentino Sandoval Paiva: 1
-- Sergio Gomez: 8
+- Sergio André Gómez Vallejos: 8
 
 **Report:**
 
-![alt text](assets/TB1-image/commitsreport1.jpeg)
+![alt text](assets\TB1-image\commitsall2.jpeg)
 
-![alt text](assets/TB1-image/commitsreport2.jpeg)
+![alt text](assets\TB1-image\commitall1.jpeg)
 
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
 
-- Estefano Oscar Jaque Peña: 54
-- Diego Rolin Acuña Tomas: 50
-- John Telesforo Arevalo Meza: 37
-- José Alejo Cardenas: 34
-- Valentino Sandoval Paiva: 48
+- Estefano Oscar Jaque Peña: 55
+- Diego Rolin Acuña Tomas: 52
+- John Telesforo Arevalo Meza: 40
+- José Alejo Cardenas: 36
+- Valentino Sandoval Paiva: 59
+- Sergio André Gómez Vallejos: 13
 
 TB1:<br>
 |Integrante|Tarea Asignada|
@@ -2268,15 +2269,19 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 **Report:**
 
-![Commits](assets/TB1-image/commitsreport1.jpeg)
-![Commits](assets/TB1-image/commitsreport2.jpeg)
-![Commits](assets/TB1-image/commitsreport3.jpeg)
+![alt text](assets\TB1-image\commitsall2.jpeg)
 
-- Estefano Oscar Jaque Peña: 54
-- Diego Rolin Acuña Tomas: 50
-- John Telesforo Arevalo Meza: 37
-- Valentino Sandoval Paiva: 48
-- Sergio Gómez: 
+![alt text](assets\TB1-image\commitall1.jpeg)
+
+![alt text](assets/TB1-image/commitsreport3.jpeg)
+
+- Estefano Oscar Jaque Peña: 55
+- Diego Rolin Acuña Tomas: 52
+- John Telesforo Arevalo Meza: 40
+- José Alejo Cardenas: 36
+- Valentino Sandoval Paiva: 59
+- Sergio André Gómez Vallejos: 13
+
 ### Conclusiones
 
 - Jose Alejo:
