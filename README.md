@@ -985,8 +985,8 @@ Anexo E
 | 4      | US04          | Iniciar Sesión Rápido y Visible                         | Como usuario de la plataforma, quiero poder iniciar sesión desde un enlace visible en la página principal para acceder rápidamente a mi cuenta.                                                                                                |               3               |
 | 5      | US05          | Resumen de la Empresa, Misión y Visión                  | Como visitante, quiero ver un resumen de la empresa junto con la misión y visión para entender su enfoque y valores antes de registrarme.                                                                                                      |               2               |
 | 6      | US06          | Navegación Clara y Directa en la Página                 | Como usuario potencial, quiero poder navegar de forma clara y directa entre las secciones de la página para encontrar la información que necesito rápidamente.                                                                                 |               2               |
-| 7      | US07          | Comentar actividades                                    | Como líder del equipo, quiero poder agregar y eliminar comentarios sobre las actividades de los miembros del equipo, para que mis observaciones sean visibles y revisadas por el equipo antes de ser eliminadas.                               |               2               |
-| 8      | US08          | Análisis de rendimiento basado en IA                    | Como líder de proyecto, quiero que la plataforma analice métricas de rendimiento del equipo, como tiempos de entrega y eficiencia, y sugiera posibles mejoras basadas en datos históricos para optimizar el trabajo.                           |               8               |
+| 7      | US07          | Preguntas Frecuentes                                   | Como usuario, quiero poder acceder a una sección de preguntas frecuentes en la landing page para resolver mis dudas sobre el uso de la plataforma.   |               2               |
+| 8      | US08          | Contactanos    | Como usuario, quiero poder acceder a la sección de "Contáctanos" para poder contactar rápidamente en caso de que tenga algún problema.  |               2               |
 | 9      | US09          | Personalización de interfaz                             | Como usuario de la plataforma, quiero poder personalizar la interfaz según mis preferencias y necesidades para facilitar el acceso rápido a las herramientas y funciones más utilizadas.                                                       |               3               |
 | 10     | US10          | Sincronización con herramientas externas                | Como líder de proyecto, quiero que la plataforma se integre de manera fluida con otras herramientas y sistemas externos (como calendarios y aplicaciones de mensajería) para centralizar la gestión de proyectos.                              |               5               |
 | 11     | US11          | Gestión de la seguridad y protección de datos           | Como administrador de la plataforma, quiero que el sistema implemente medidas avanzadas de seguridad para proteger los datos sensibles del proyecto y garantizar la privacidad de la información.                                              |               5               |
@@ -1117,38 +1117,52 @@ La principal estética tanto de la página web como de la aplicación será mini
 
 Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, podemos ver la estructura visual, la cual fue diseñada para adaptarse a nuestros dos segmentos objetivos.
 
-Para nuestro primer segmento enfocado en Lider o gerente de empresa de desarrollo de software en crecimiento, el proceso inicia accediendo a la plataforma y registrándose. El líder o gerente accede a la plataforma "ManageWise" y completa el proceso de registro o inicio de sesión. Si es un usuario nuevo, configura su perfil, incluyendo información sobre su empresa, roles, y preferencias de notificación. Personaliza su Dashboard y otras vistas clave para alinear la información presentada con los objetivos estratégicos de la empresa. Esto incluye seleccionar los KPIs más relevantes, definir prioridades de proyectos, y establecer alertas para actualizaciones importantes.Navega por los proyectos actuales y planificados, categorizados por estado (en curso, pendientes, finalizados) y impacto estratégico. Puede acceder a un mapa visual que muestra cómo cada proyecto contribuye a los objetivos a largo plazo de la empresa.Supervisa el progreso de los proyectos, ajusta recursos, y toma decisiones estratégicas utilizando herramientas de análisis de datos. Puede reorganizar proyectos según prioridades cambiantes y revisar el cumplimiento de plazos y presupuestos.Participa en discusiones estratégicas con otros líderes y stakeholders, utilizando canales de comunicación categorizados por proyectos y temas. Accede a reportes colaborativos y comparte insights con su equipo de liderazgo. Utiliza paneles de control dinámicos y reportes personalizados para revisar el rendimiento general de la empresa y de cada proyecto en particular. Basado en estos análisis, toma decisiones sobre asignación de recursos, ajuste de objetivos y planificación a futuro. Al cierre de un proyecto, revisa informes finales categorizados por lecciones aprendidas y oportunidades de mejora. Participa en sesiones de retroalimentación con el equipo para identificar áreas de mejora para futuros proyectos.
+Aunque ambos segmentos tienen acceso a las mismas secciones, la diferencia clave radica en los permisos. Mientras que el Scrum Master o Product Owner puede gestionar y editar múltiples aspectos del proyecto, los miembros del equipo solo pueden visualizar el contenido y acceder a los enlaces, sin posibilidad de modificar la información.
 
-![texto_alternativo](assets/images/imagesTB1/segmento1.png)
+**Scrum Master/Product Owner:**  
+Se inicia accediendo a la plataforma "ManageWise" desde la landing page, donde se presenta una lista de todos los proyectos en los que el usuario está involucrado. El usuario puede seleccionar un proyecto específico para gestionar o crear nuevos proyectos. Una vez dentro de un proyecto, se despliegan las siguientes secciones clave:
 
-Para nuestro segundo segmento enfocado en Equipo de Desarrollo de Software, el proceso inicia al registrarse y configurar su perfil. El integrante del equipo accede a la plataforma y se registra o inicia sesión. Configura su perfil, incluyendo su rol específico en el equipo, proyectos asignados, y preferencias de notificación. Personaliza su Dashboard para ver las tareas y sprints pendientes, ajusta alertas para fechas límite, y selecciona qué actualizaciones y notificaciones desea recibir de sus compañeros de equipo. Revisa su lista de tareas, categorizadas por prioridad, deadline, y dependencia de otras tareas. Explora el cronograma del proyecto para entender el flujo general de trabajo y cómo su tarea encaja en el contexto más amplio. Organiza y prioriza su trabajo diario utilizando herramientas de gestión de tareas. Marca tareas como completadas, colabora en sprints, y ajusta su flujo de trabajo según nuevas asignaciones o cambios en el proyecto. Participa en conversaciones dentro de los canales de proyecto, categorizados por temas específicos como bugs, nuevas características, o revisiones de código. Colabora activamente con otros miembros del equipo, compartiendo actualizaciones y retroalimentación. Revisa su rendimiento individual y el del equipo a través de dashboards que muestran métricas como velocidad de desarrollo, calidad del código, y cumplimiento de deadlines. Utiliza este análisis para mejorar su eficiencia y productividad. Al finalizar una tarea o sprint, revisa el rendimiento en un resumen categorizado por logros y desafíos. Participa en sesiones de retroalimentación para identificar lo que funcionó bien y lo que podría mejorarse en futuros sprints.
+- Statistics: Aquí, el Scrum Master/Product Owner puede ver métricas clave sobre el proyecto, como el número de backlog items completados. También puede acceder a la Timeline del proyecto, donde se muestra un flujo visual de las tareas y eventos a lo largo del tiempo.
 
-![texto_alternativo](assets/images/imagesTB1/segmento2.png)
+- Backlog: En esta sección, el usuario puede gestionar tanto el product backlog como el sprint backlog. Tiene la opción de agregar items al sprint backlog y comenzar un nuevo sprint. Además, hay un botón para acceder a la gestión de items (user stories, epics y tasks).
+
+- Board: Este espacio ofrece un Scrum Board donde el Scrum Master puede actualizar el estado de los items de trabajo (to-do, in progress, done), facilitando el monitoreo del flujo de trabajo.
+
+- Meeting: Aquí, el usuario puede gestionar las reuniones de Scrum (planning, daily scrum, review, retrospective). Si tiene los permisos adecuados, puede agregar enlaces a herramientas externas (ej. Google Meet) y visualizar grabaciones externas de las reuniones.
+
+- Members: El Scrum Master/Product Owner puede invitar o agregar nuevos miembros al equipo, así como ver y gestionar los roles de los usuarios actuales.
+
+- Issues: En esta sección, el usuario puede crear nuevos reportes de issues (problemas o errores) y añadir un historial para monitorear el progreso de cada problema a lo largo del tiempo.
+
+![information-architecture](assets/TB1-image/information-architecture.png)
+
+**Miembro del equipo de desarrollo:**  
+Este segmento tiene acceso a las mismas secciones de la plataforma, pero su capacidad se limita a la visualización de información. Puede acceder a las estadísticas del proyecto, ver la timeline, consultar el product y sprint backlog, revisar el Scrum Board y los issues, pero no puede editar ni gestionar ningún aspecto del proyecto, a exepción de actualizar el historial en issues. En la sección de Meeting, puede unirse a reuniones y acceder a los enlaces proporcionados por el Scrum Master, pero no puede agregar o modificar enlaces.
 
 #### 4.2.2. Labeling Systems
 
 El equipo de "ManageWise" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "ManageWise". Acontinuacion las mencionaremos y sus relaciones:
 
 - Proyectos: <br>
-  La sección de Proyectos en ManageWise es el núcleo de la gestión de iniciativas. Aquí, los usuarios pueden crear, visualizar y administrar proyectos de manera integral. Ofrece herramientas para definir tareas, establecer cronogramas, asignar roles, y monitorear el progreso del proyecto. Facilita la coordinación del equipo y asegura que todos los aspectos del proyecto se mantengan organizados y alineados con los objetivos establecidos.
+  La sección de Proyectos en ManageWise es el punto de partida de la aplicación. Aquí, los usuarios pueden crear, visualizar y administrar proyectos de manera integral.
 
-- Herramientas: <br>
-  La sección de Herramientas proporciona una variedad de recursos para mejorar la productividad y la colaboración en el equipo. Incluye funciones como videollamadas para comunicación en tiempo real, documentos compartidos para la colaboración en archivos, y widgets para personalizar el entorno de trabajo. También permite integrar otras aplicaciones y herramientas que el equipo ya utiliza, centralizando todas las funcionalidades necesarias en una sola plataforma.
+- Statistics: <br>
+  La sección de Statistics proporciona diferentes métricas clave del proyecto y es a través de esta se puede acceder a la timeline.
 
-- Seguridad: <br>
-  La sección de Seguridad se centra en proteger la información y asegurar la integridad de los datos en ManageWise. Incluye configuraciones para autenticación en dos pasos (2FA) para una capa adicional de seguridad, gestión de permisos de usuario para controlar el acceso a diferentes áreas, y medidas para proteger los datos sensibles. También abarca la gestión de copias de seguridad y la monitorización de posibles amenazas para garantizar una plataforma segura.
+- Backlog: <br>
+  La sección de Backlog permite visualizar el product backlog y gestionar el sprint backlog, además se cuenta con acceso a backlog items, en donde se puede gestionar estos.
 
-- Historial: <br>
-  La sección de Historial mantiene un registro detallado de todas las actividades realizadas dentro de la plataforma. Incluye cambios en tareas, comentarios realizados, actualizaciones en el cronograma y estados de tareas. Esta sección proporciona una visión completa del flujo de trabajo y permite a los usuarios revisar y auditar el progreso y las decisiones tomadas durante el ciclo de vida del proyecto.
+- Board: <br>
+  La sección de Board permite visualizar el estado de los diferentes items, ademas de modificar este dependiendo del avance en los mismos.
 
-- Reportes: <br>
-  La sección de Reportes ofrece una serie de análisis y resúmenes clave sobre el rendimiento del proyecto y del equipo. Incluye reportes sobre el progreso individual, cumplimiento de tareas, y resúmenes de sprint. También proporciona informes sobre errores encontrados y eficiencia del equipo, ayudando a identificar áreas de mejora y a tomar decisiones basadas en datos para optimizar el rendimiento general.
+- Meeting: <br>
+  Meeting es la sección dedicada a la gestión de reuniones y sus enlaces.
 
-- Foro: <br>
-  La sección de Foro facilita la comunicación y el intercambio de ideas entre los miembros del equipo y otros usuarios de la plataforma. Permite discutir problemas técnicos, sugerir mejoras, compartir soluciones de codificación y hacer preguntas. Es un espacio colaborativo para resolver dudas, debatir sobre temas relevantes y recibir feedback sobre diversos aspectos del proyecto y la plataforma.
+- Members: <br>
+  La sección de Members permite visualizar los diferentes miembros de un proyecto, además de agregar o invitar a nuevos.
 
-- Configuración: <br>
-  La sección de Configuración permite a los usuarios personalizar y ajustar su experiencia en ManageWise según sus preferencias y necesidades. Incluye opciones para gestionar notificaciones, ajustar la visualización del dashboard, configurar permisos de usuario y establecer preferencias de idioma. También abarca ajustes de seguridad como la gestión de contraseñas y la configuración de autenticación en dos pasos, asegurando que cada usuario pueda adaptar la plataforma a sus requerimientos personales y de equipo.
+- Issues: <br>
+  La sección de Issues permite a los usuarios gestionar reportes sobre incidencias y seguir el historial de estas, además de modificarlo según sea necesario.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
@@ -1163,232 +1177,139 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
     gestión de proyectos, plataforma para startups, administración de tareas, herramientas de colaboración, software de gestión, productividad de equipos.<br>
   - Author: ManageWise Team
 
-- Proyectos
+- Statistics
 
   - Title :<br>
-    Gestión de Proyectos <br>
-  - Meta Description: Organiza y administra tus proyectos de software con ManageWise. Gestiona tareas, cronogramas, roles y monitorea el progreso para asegurar el éxito de tus iniciativas.<br>
+    Estadísticas de Proyecto <br>
+  - Meta Description:  Revisa las métricas clave de tus proyectos y accede a la timeline para monitorear el progreso de principio a fin.<br>
   - Keywords :
-    gestión de proyectos, administración de tareas, cronograma de proyectos, roles de equipo, seguimiento de progreso.<br>
+     estadísticas de proyecto, timeline, progreso de proyecto, backlog completado.<br>
   - Author: ManageWise Team
 
-- Herramientas
+- Backlog
 
   - Title :<br>
-    Herramientas de Colaboración y Productividad<br>
-  - Meta Description: Accede a herramientas avanzadas en ManageWise para mejorar la colaboración y la productividad. Incluye videollamadas, documentos compartidos y widgets personalizables para un flujo de trabajo optimizado.<br>
+    Product Backlog y Sprint Backlog<br>
+  - Meta Description: Gestiona tus items de backlog y organiza sprints efectivos con ManageWise.<br>
   - Keywords :
-    herramientas de colaboración, videollamadas, documentos compartidos, widgets de productividad, integración de aplicaciones.<br>
+     product backlog, sprint backlog, gestión de tareas, sprints ágiles.<br>
   - Author: ManageWise Team
 
-- Seguridad
+- Board
 
   - Title :<br>
-    Seguridad de Datos y Gestión de Accesos <br>
-  - Meta Description: Protege tus datos con las avanzadas funciones de seguridad de ManageWise. Configura autenticación en dos pasos, gestiona permisos de usuario y asegura la integridad de la información.<br>
+    Scrum Board  <br>
+  - Meta Description: Visualiza y actualiza el estado de tus tareas en el Scrum Board interactivo de ManageWise.<br>
   - Keywords :
-    seguridad de datos, autenticación en dos pasos, gestión de accesos, protección de información, medidas de seguridad<br>
+    Scrum Board, gestión de tareas, flujo de trabajo ágil.<br>
   - Author: ManageWise Team
 
-- Historial
+- Meeting
 
   - Title :<br>
-    Historial de Actividades y Cambios<br>
-  - Meta Description: Consulta el historial completo de actividades en tus proyectos con ManageWise. Revisa cambios, comentarios y actualizaciones para un seguimiento detallado del progreso.<br>
+    Gestión de Reuniones Scrum<br>
+  - Meta Description: Accede a tus reuniones Scrum, agenda enlaces y consulta grabaciones de las sesiones pasadas.<br>
   - Keywords :
-    historial de actividades, registros de cambios, auditoría de proyectos, historial de comentarios<br>
+     reuniones Scrum, planificación de sprint, daily scrum, enlaces de reunión.<br>
   - Author: ManageWise Team
 
-- Reportes
+- Members
 
   - Title :<br>
-    Reportes y Análisis de Rendimiento<br>
-  - Meta Description: Genera reportes detallados con ManageWise para analizar el progreso y rendimiento de tus proyectos. Obtén insights clave para mejorar la productividad y tomar decisiones basadas en datos.<br>
+    Gestión de Miembros y Roles<br>
+  - Meta Description: Administra los roles y permisos de los miembros de tu equipo en ManageWise.<br>
   - Keywords :
-    reportes de proyectos, análisis de rendimiento, generación de reportes, informes de eficiencia, análisis de datos.<br>
+    gestión de miembros, roles de equipo, administración de equipo ágil.<br>
   - Author: ManageWise Team
 
-- Foro
+- Issues
 
   - Title :<br>
-    ManageWise - Foro de Discusión y Soporte<br>
-  - Meta Description: Participa en el Foro de ManageWise para resolver problemas, intercambiar ideas y obtener soporte técnico. Conecta con otros usuarios y mejora tu experiencia en la plataforma.<br>
+    Gestión de Issues y Reportes <br>
+  - Meta Description:  Crea y monitorea issues en tus proyectos de software para mejorar la calidad y el rendimiento.<br>
   - Keywords :
-    foro de discusión, preguntas y respuestas, intercambio de ideas, comunidad de usuarios<br>
-  - Author: ManageWise Team
-
-- Configuración
-  - Title :<br>
-    Configuración y Personalización<br>
-  - Meta Description: Personaliza tu experiencia en ManageWise con opciones avanzadas de configuración. Ajusta notificaciones, gestiona permisos y personaliza tu entorno de trabajo para adaptarlo a tus necesidades.<br>
-  - Keywords :
-    configuración de usuario, ajustes de notificaciones, personalización de plataforma<br>
+    gestión de issues, reporte de errores, seguimiento de problemas.<br>
   - Author: ManageWise Team
 
 #### 4.2.4. Searching Systems
 
-1. Búsqueda Global<br>
-   Objetivo: Permitir a los usuarios realizar búsquedas amplias en toda la plataforma.
+1. Búsqueda en Issues<br>
+   Objetivo: Facilitar la localización de reportes de incidencias específicos dentro de los proyectos.
 
-   - Ubicación: En el encabezado o el panel lateral de la aplicación.
+   - Ubicación: En la sección de Issues.
 
-   - Funcionalidad: Permite a los usuarios ingresar términos de búsqueda para buscar en todas las secciones de la plataforma (Proyectos, Herramientas, Foro, etc.).
+   - Funcionalidad: Permite buscar por nombre de incidencia, descripción, encargado.
 
-   - Sugerencias en Tiempo Real: Muestra sugerencias mientras el usuario escribe, basadas en términos de búsqueda comunes y resultados previos.
+   - Vista de Resultados: Muestra los reportes de incidencias correspondientes.
 
-   - Vista de Resultados: Muestra una lista de resultados categorizados por tipo de contenido (Proyectos, Tareas, Documentos, Foro, etc.).
+  #### 4.2.5. Navigation Systems
 
-2. Búsqueda en Proyectos<br>
-   Objetivo: Facilitar la localización de proyectos, tareas, y detalles específicos dentro de los proyectos.
+1. **Página Principal (Proyectos)**
 
-   - Ubicación: En la sección de Proyectos.
+   - **Estructura**:
+     - Muestra todos los proyectos en los que el usuario está involucrado.
+     - Botones de acción para crear, editar o gestionar los proyectos existentes.
+   - **Acción del Usuario**:
+     - **Scrum Master/Product Owner**: Puede gestionar proyectos, crear nuevos y editar los existentes.
+     - **Miembro del equipo de desarrollo**: Solo puede visualizar los proyectos en los que participa.
 
-   - Funcionalidad: Permite buscar por nombre de proyecto, descripción, o tareas asociadas.
+2. **Sección de Statistics**
 
-   - Vista de Resultados: Muestra proyectos relevantes junto con tareas y sub-tareas relacionadas.
+   - **Estructura**:
+     - Visualización de estadísticas sobre el proyecto: backlog items completados, tareas pendientes, entre otros.
+     - Submenú para acceder a la vista **Timeline**.
+   - **Acción del Usuario**:
+     - **Scrum Master/Product Owner**: Puede interactuar con las estadísticas y ver la **Timeline** del proyecto.
+     - **Miembro del equipo de desarrollo**: Solo puede visualizar las estadísticas y la **Timeline**.
 
-3. Búsqueda en Herramientas<br>
-   Objetivo: Permitir a los usuarios localizar herramientas y documentos compartidos específicos.
+3. **Sección de Backlog**
 
-   - Ubicación: En la sección de Herramientas.
+   - **Estructura**:
+     - Dividido en **Product Backlog** y **Sprint Backlog**.
+     - Botón de acceso a la gestión de **User Stories, Epics y Tasks** mediante la opción **Items**.
+   - **Acción del Usuario**:
+     - **Scrum Master/Product Owner**: Puede gestionar el backlog, agregar items y comenzar el sprint.
+     - **Miembro del equipo de desarrollo**: Solo puede visualizar los items del backlog y acceder a la sección de items sin editar.
 
-   - Funcionalidad: Permite buscar herramientas específicas, documentos o recursos compartidos.
+4. **Sección de Board**
 
-   - Vista de Resultados: Muestra herramientas y documentos con opciones para visualizar, editar o descargar.
+   - **Estructura**:
+     - Un Scrum Board que muestra los items del sprint en categorías como **To Do**, **In Progress** y **Done**.
+   - **Acción del Usuario**:
+     - **Scrum Master/Product Owner**: Puede cambiar el estado de los items en el board.
+     - **Miembro del equipo de desarrollo**: Solo puede visualizar el estado de los items.
 
-4. Búsqueda en Seguridad<br>
-   Objetivo: Facilitar la localización de configuraciones y eventos relacionados con la seguridad.
+5. **Sección de Meetings**
 
-   - Ubicación: En la sección de Seguridad.
+   - **Estructura**:
+     - Acceso a las reuniones Scrum del proyecto, como **Daily Standup**, **Sprint Planning**, etc.
+     - Los usuarios con permisos pueden agregar enlaces a reuniones externas (como Google Meet) y ver grabaciones.
+   - **Acción del Usuario**:
+     - **Scrum Master/Product Owner**: Puede agregar o modificar enlaces a las reuniones.
+     - **Miembro del equipo de desarrollo**: Solo puede visualizar las reuniones y acceder a los enlaces agregados.
 
-   - Funcionalidad: Permite buscar por tipo de configuración de seguridad, eventos de auditoría, o registros de acceso.
+6. **Sección de Members**
 
-   - Vista de Resultados: Muestra eventos y configuraciones relevantes con detalles como fecha, tipo de evento y usuario afectado.
+   - **Estructura**:
+     - Gestión de miembros del equipo, incluyendo invitaciones y roles asignados.
+   - **Acción del Usuario**:
+     - **Scrum Master/Product Owner**: Puede agregar nuevos miembros e invitar usuarios al proyecto, además de gestionar roles.
+     - **Miembro del equipo de desarrollo**: Solo puede visualizar la lista de miembros y los roles.
 
-5. Búsqueda en Historial<br>
-   Objetivo: Facilitar la localización de actividades y cambios históricos.
+7. **Sección de Issues**
 
-   - Ubicación: En la sección de Historial.
+   - **Estructura**:
+     - Permite la creación de reportes de issues o errores detectados en el proyecto.
+     - Los usuarios pueden añadir un historial para ver el progreso de resolución de cada issue.
+   - **Acción del Usuario**:
+     - **Scrum Master/Product Owner**: Puede gestionar el historial y editar los reportes.
+     - **Miembro del equipo de desarrollo**: Puede crear nuevos issues, pero no modificar los existentes.
 
-   - Funcionalidad: Permite buscar eventos específicos, cambios o comentarios pasados.
+8. **Sistema de Navegación Condicional por Roles**
 
-   - Vista de Resultados: Muestra una lista de eventos históricos con detalles como fecha, tipo de actividad y usuario.
+   - **Scrum Master/Product Owner**: Tienen acceso completo a todas las opciones de navegación y pueden realizar acciones en todas las secciones mencionadas.
+   - **Miembro del equipo de desarrollo**: Solo puede visualizar la información disponible en las secciones, sin opciones de edición o gestión.
 
-6. Búsqueda en Reportes<br>
-   Objetivo: Permitir a los usuarios localizar informes y análisis específicos.
-
-   - Ubicación: En la sección de Reportes.
-
-   - Funcionalidad: Permite buscar por tipo de reporte, fecha o palabras clave en el informe.
-
-   - Vista de Resultados: Muestra reportes relevantes con opciones para ver, editar o exportar.
-
-7. Búsqueda en Foro<br>
-   Objetivo: Facilitar la localización de discusiones y respuestas en el foro.
-
-   - Ubicación: En la sección del Foro.
-
-   - Funcionalidad: Permite buscar por términos en temas de discusión, preguntas y respuestas.
-
-   - Vista de Resultados: Muestra hilos de discusión relevantes con opciones para responder o seguir.
-
-#### 4.2.5. Navigation Systems
-
-1. Página de Inicio (Landing Page)
-
-   - Estructura:
-     - Encabezado (Header): Contiene el logotipo de ManageWise, el menú de navegación principal con enlaces a las secciones principales (Proyectos, Herramientas, Seguridad, Historial, Reportes, Foro, Configuración), y un campo de búsqueda.
-     - Llamadas a la Acción (CTAs): Botones visibles para "Registrarse" y "Iniciar Sesión". Opcionalmente, incluir un botón de "Solicitar una Demo" para los nuevos usuarios.
-     - Sección Principal: Descripción de la plataforma con características clave y beneficios. Incluir enlaces a páginas de detalle como "Características" y "Precios".
-   - Acción del Usuario:
-
-     - Nuevos Visitantes: Se les anima a registrarse o solicitar una demostración.
-     - Usuarios Existentes: Pueden iniciar sesión para acceder a su cuenta.
-
-2. Registro e Inicio de Sesión
-
-   - Estructura:
-     - Formulario de Registro: Campos para nombre, correo electrónico, contraseña, y otros datos necesarios.
-     - Formulario de Inicio de Sesión: Campos para correo electrónico y contraseña, con opciones para recuperar contraseña y activar autenticación en dos pasos (2FA).
-   - Acción del Usuario:
-
-     - Nuevos Usuarios: Completar el registro y acceder al panel principal.
-     - Usuarios Recurrentes: Ingresar credenciales para acceder a su cuenta.
-
-3. Panel Principal (Dashboard)
-
-   - Estructura:
-     - Menú Lateral o Superior: Enlaces a las secciones Proyectos, Herramientas, Seguridad, Historial, Reportes, Foro, y Configuración.
-     - Resumen de Actividades: Vista general con tareas pendientes, proyectos activos, y notificaciones recientes.
-     - Widgets Personalizables: Para acceso rápido a datos clave y funciones.
-   - Acción del Usuario:
-
-     - Interacción Inicial: Explorar el panel para acceder a proyectos y tareas, utilizar herramientas, y revisar notificaciones.
-     - Acceso a Secciones: Usar el menú para navegar a otras secciones.
-
-4. Sección de Proyectos
-
-   - Estructura:
-     - Lista de Proyectos: Muestra proyectos actuales, completados y en espera.
-     - Detalles del Proyecto: Información sobre tareas, cronograma y progreso.
-     - Opciones de Gestión: Crear, editar, y actualizar proyectos y tareas.
-   - Acción del Usuario:
-
-     - Gestión de Proyectos: Agregar nuevos proyectos, actualizar el estado de tareas y revisar el progreso de proyectos.
-
-5. Sección de Herramientas
-
-   - Estructura:
-     - Lista de Herramientas: Acceso a herramientas como videollamadas, documentos compartidos, y widgets.
-     - Configuración de Herramientas: Personalizar y ajustar las herramientas según las necesidades del equipo.
-   - Acción del Usuario:
-
-     - Uso de Herramientas: Acceder a y gestionar herramientas colaborativas para mejorar la eficiencia del equipo.
-
-6. Sección de Seguridad
-
-   - Estructura:
-     - Configuración de Seguridad: Ajustes para autenticación en dos pasos, permisos de usuario y protección de datos.
-     - Historial de Seguridad: Registro de eventos de seguridad y auditoría.
-   - Acción del Usuario:
-
-     - Configuración de Seguridad: Ajustar opciones de seguridad para proteger la cuenta y revisar el historial de eventos.
-
-7. Sección de Historial
-
-   - Estructura:
-     - Registro de Actividades: Historial de cambios y acciones realizadas en proyectos y tareas.
-     - Filtros y Búsqueda: Herramientas para buscar y filtrar eventos.
-   - Acción del Usuario:
-
-     - Revisión de Actividades: Consultar el historial para comprender el contexto de cambios y acciones previas.
-
-8. Sección de Reportes
-
-   - Estructura:
-     - Creación de Reportes: Herramientas para crear reportes personalizados con datos relevantes.
-     - Visualización de Reportes: Gráficos y tablas para analizar información.
-   - Acción del Usuario:
-
-     - Generación de Reportes: Crear y revisar reportes para tomar decisiones informadas.
-
-9. Sección de Foro
-
-   - Estructura:
-     - Hilos de Discusión: Temas organizados por categorías y popularidad.
-     - Participación en el Foro: Crear nuevos temas, responder y seguir discusiones.
-   - Acción del Usuario:
-
-     - Interacción en el Foro: Participar en discusiones, buscar respuestas y contribuir a la comunidad.
-
-10. Sección de Configuración
-
-    - Estructura:
-      - Ajustes de Usuario: Configurar notificaciones, idioma, y perfil.
-      - Configuración de Cuenta: Cambiar contraseñas, activar 2FA, y gestionar permisos.
-    - Acción del Usuario:
-
-      - Personalización: Ajustar la configuración personal y de cuenta para adaptar la plataforma a sus necesidades.
 
 ### 4.3. Landing Page UI Design
 
@@ -1410,6 +1331,7 @@ La landing page cuenta con diferentes secciones:
 - Beneficios: El usuario puede ver los beneficios de usar la aplicación.
 - Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
 - Footer: Enlaces a las redes sociales de la plataforma.  
+- Preguntas Frecuentes: Se muestra las preguntas frecuentes que suelen hacernos al momento de utilizar nuestra aplicación web
   <br>
   <img src="assets/images/WireframeDesktopWebBrowser.png">
   <br>
@@ -1434,7 +1356,7 @@ Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y e
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser-Menu.png">
 <br>
 
-Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros, preguntas frecuentes), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
 <br>
 <img width=300px src="assets/images/Wireframe-MobileWebBrowser.png">
 <br>
@@ -2169,8 +2091,8 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | US04        | Iniciar Sesión Rápido y Visible                          | TA001           | Implementación de Enlace de Inicio de Sesión     | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                        | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
 | US05          | Resumen de la Empresa, Misión y Visión                   | TA001           | Creación de Sección "Acerca de Nosotros"         | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
 | US06          | Navegación Clara y Directa en la Página                  | TA001           | Diseño del Menú de Navegación                    | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
-[FALTA AÑADIR tu product bakclog Sergio esta mal pusiste las del sprint 2 ]
-
+| US07 | Acceso a Preguntas Frecuentes               | TA001  | Implementación de Sección de Preguntas Frecuentes         | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | ½ hora                 | Sergio André Gómez Vallejos      | Done                                                     |
+| US08          | Acceso a Contáctanos     | TA001           | Implementación de Sección de Contacto            | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas.           | ½ hora                |Sergio André Gómez Vallejos  | To-do                                                    |
 #### 5.2.1.3 Development Evidence for Sprint Review
 
 | Repository   | Branch | Commit Id                                | Commit Message                                                  | Commit Message Body                                                           | Committed on (Date)     |
@@ -2186,7 +2108,7 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | Landing-page | main   | c4a4795db0aa611aa25fc3f3dea4d0d9f5574ed1 | feat: Add files and update                                      | Se añade archivos al repositorio                                              | 10/09/2024              |
 | Landing-page | main   | 1dd9e3e004dc828fd9134f631738121951dd1cba | feat: Add funcionalidades                                       | Se añade funcionalidades al .js                                               | 10/09/2024              |
 | Landing-page | main   | a6dde725b27df498b1d2a3e182e6ec2ac55541d4 | feat: Agregación de estilos para un sección                     | Se implementa estilos al landing page                                         | 10/09/2024              |
-| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c | feat: Añadir preguntas y respuestas, actualización de imagenes  | Se añade una seccion de preguntas y respuestas y la actualización de imagenes | 10/09/2024              |
+| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c | feat: Añadir Preguntas frecuentes, actualización de imagenes y contactanos  | Se añade una seccion de preguntas y respuestas, la actualización de imagenes y la sección de contactanos| 10/09/2024              |
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
@@ -2199,21 +2121,43 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                                                                | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                                                                | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                                                                | 19/09/2024              |
-[FALTA AÑADIR tu product bakclog Sergio esta mal pusiste las del sprint 2 ]
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio  | 0813c9549f96710be687e9a3c1f1d8913b3d3c57  | feat: added US07 gherkin | Se añade la sección de Preguntas Frecuentes    | 16/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio  | 451cf0957cd87a511014c1b35adc4b82a80ef9f4    | feat: added US08 gherkin | Se añade la sección de Contactanos  | 16/09/2024              |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
-En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado el Landing Page. Mostraremos imágenes para observar que nuestra página muestra limpia e intuitivamente información sobre nuestro producto y nuestra empresa.
+En este Sprint, los miembros del equipo de desarrollo de software de Horizon han completado y desplegado la Landing Page. A continuación, mostramos imágenes que demuestran cómo nuestra página presenta de manera clara e intuitiva la información sobre nuestro producto y nuestra empresa.
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-1.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-1.png">
+  <br>
+  Vista general de la Landing Page, destacando el diseño limpio y moderno que permite a los usuarios navegar fácilmente por la información.
+</p>
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-2.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-2.png">
+  <br>
+  Sección de beneficios clave del producto, mostrando cómo se presentan de manera atractiva y accesible para atraer a los usuarios.
+</p>
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-3.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-3.png">
+  <br>
+  Sección de preguntas frecuentes, organizada por categorías, donde los usuarios pueden encontrar respuestas rápidas a sus dudas sobre el uso de la plataforma y área de contacto, mostrando el formulario que permite a los usuarios enviar mensajes directamente al equipo de soporte, facilitando la comunicación.
+</p>
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-4.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-4.png">
+  <br>
+  Diseño del formulario de iniciar sesión, que garantiza de forma sencilla acceder a la aplicación web.
+</p>
 
-<p align="center"><img src="assets/images/Execution-Evidence-for-Sprint-Review-5.png"></p>
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-5.png">
+  <br>
+  Diseño del formulario de registro, que enfatiza la simplicidad y la facilidad de uso, asegurando que los nuevos usuarios puedan registrarse sin complicaciones.
+</p>
+
 
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
@@ -2237,6 +2181,8 @@ Automatización: Configuración de scripts y herramientas para la automatizació
 Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting.
 Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
+**Deploy del Landing Page**
+![deploy](assets/images/deploy_tb1.png)
 **Capturas de Pantalla**
 
 - Repositorio de Landing Page:
@@ -2256,9 +2202,8 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
   Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
 **Landing Page**
-[FALTA COMITS]
-![Commits](assets/TB1-image/commitslandingsdaj.jpeg)
-![Commits](assets/TB1-image/commitslandingnet.jpeg)
+![commits](assets/TB1-image/commits.png)
+
 
 - Estefano Oscar Jaque Peña: 1
 - Diego Rolin Acuña Tomas: 1
@@ -2275,12 +2220,15 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
 
+![Commits](assets/TB1-image/commitsreport3.jpeg)
+
 - Estefano Oscar Jaque Peña: 55
 - Diego Rolin Acuña Tomas: 52
 - John Telesforo Arevalo Meza: 40
 - José Alejo Cardenas: 36
 - Valentino Sandoval Paiva: 59
 - Sergio André Gómez Vallejos: 13
+
 
 ### Conclusiones
 
