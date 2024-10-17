@@ -77,9 +77,9 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 
 **Report:**
 
-![alt text](assets\TB1-image\commitsall2.jpeg)
+![alt text](assets\TB1-new\commitsall2.jpeg)
 
-![alt text](assets\TB1-image\commitall1.jpeg)
+![alt text](assets\TB1-new\commitall1.jpeg)
 
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
 
@@ -2269,9 +2269,9 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 **Report:**
 
-![alt text](assets\TB1-image\commitsall2.jpeg)
+![alt text](assets\TB1-new\commitsall2.jpeg)
 
-![alt text](assets\TB1-image\commitall1.jpeg)
+![alt text](assets\TB1-new\commitall1.jpeg)
 
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
 
