@@ -916,6 +916,7 @@ EPICS:
 |EP07|Gestión de Incidencias|Como equipo de desarrollo, queremos implementar un sistema de gestión de incidencias completo y eficiente, para poder rastrear, priorizar y resolver los problemas y mejoras de manera colaborativa y transparente, mejorando así la calidad del producto y la satisfacción del cliente.|
 
 
+
 | User Storiy ID | Título| Descripción| Criterios de Aceptación| Relacionado con(Epic ID) |     
 | -- | -- | -- | -- | -- |
 | US01| Vista General de Beneficios y Funcionalidades| Como usuario potencial, quiero ver una descripción general de los beneficios y funcionalidades clave de la plataforma| Escenario: El usuario potencial visita la página principal.<br>Dado que el usuario potencial ha accedido a la página de inicio, Cuando navega hacia la sección de beneficios y funcionalidades, Entonces puede ver una descripción clara y visualmente destacada de las características clave de la plataforma.| EP01|
@@ -959,9 +960,107 @@ EPICS:
 | US39 | Ver reporte de una incidencia | Como miembro del equipo, quiero ver un reporte detallado de una incidencia específica, para comprender completamente su contexto, resolución y acciones tomadas. | Escenario 1: Reporte completo.<br>Dado que el usuario selecciona una incidencia de la lista, cuando accede al reporte de dicha incidencia, entonces se muestra un reporte completo que incluye una descripción detallada del problema, el historial completo de cambios de la incidencia, el estado actual de la incidencia y las asignaciones de la incidencia a diferentes miembros del equipo con sus respectivas fechas de asignación. | EP07 |
 | US40 | Ver historial de una incidencia | Como miembro del equipo, quiero ver un historial completo de una incidencia, incluyendo todos los cambios, comentarios y archivos adjuntos, para entender su evolución y resolución. | Escenario 1: Visualización del Historial de Eventos del Issue.<br>Dado que soy un miembro del equipo con acceso a un issue, cuando visualizo el detalle del issue, entonces puedo ver un historial de todos los eventos asociados, incluyendo quién los creó, la fecha y una descripción. | EP07 |
 | US41 | Creación automática de los eventos creación y asignación del issue | Como miembro del equipo, quiero que automáticamente al llenar el reporte del issue que quiero agregar, automáticamente se añadan los eventos creación y asignación del issue. | Escenario 1: Creación automática del evento de creación del issue.<br>Dado que soy un miembro del equipo, cuando creo un nuevo issue, entonces se genera automáticamente un evento de creación, registrando la fecha, el creador y una descripción.<br>Escenario 2: Creación automática del evento de asignación del issue.<br>Dado que soy un miembro del equipo, cuando asigno el issue a otro miembro, entonces se genera automáticamente un evento de asignación, registrando la fecha, el miembro asignado y una descripción. | EP07 |
-| US42 | Filtrar incidencias por Sprint y Prioridad | Como miembro del equipo, quiero poder filtrar las incidencias por el Sprint al que están asociadas y por su Prioridad, para poder visualizar solo aquellas que son relevantes para mi trabajo. | Escenario 1: Filtro por Sprint.<br>Dado que estoy en la sección de Issues, cuando selecciono un Sprint en el filtro de búsqueda, entonces solo se muestran las incidencias que están asociadas a ese Sprint en la lista de incidencias.<br>Escenario 2: Filtro por Prioridad.<br>Dado que estoy en la sección de Issues, cuando selecciono un nivel de Prioridad en el filtro de búsqueda (Alta, Media, Baja), entonces solo se muestran las incidencias con esa prioridad en la lista de incidencias.<br>Escenario 3: Filtro combinado.<br>Dado que estoy en la sección de Issues, cuando selecciono tanto un Sprint como un nivel de Prioridad en el filtro de búsqueda, entonces solo se muestran las incidencias que cumplen ambos criterios en la lista de incidencias. | EP07 |
+| US42 | Filtrar incidencias por Sprint y Prioridad | Como miembro del equipo, quiero poder filtrar las incidencias por el Sprint al que están asociadas y por su Prioridad, para poder visualizar solo aquellas que son relevantes para mi trabajo. | Escenario 1: Filtro por Sprint.<br>Dado que estoy en la sección de Issues, cuando selecciono un Sprint en el filtro de búsqueda, entonces solo se muestran las incidencias que están asociadas a ese Sprint en la lista de incidencias.<br>Escenario 2: Filtro por Prioridad.<br>Dado que estoy en la sección de Issues, cuando selecciono un nivel de Prioridad en el filtro de búsqueda (Alta, Media, Baja), entonces solo se muestran las incidencias con esa prioridad en la lista de incidencias.<br>Escenario 3: Filtro combinado.<br>Dado que estoy en la sección de Issues, cuando selecciono tanto un Sprint como un nivel de Prioridad en el filtro de búsqueda, entonces solo se muestran las incidencias que cumplen ambos criterios en la lista de incidencias. | EP07 || TS-43   | Configurar Entorno de Desarrollo para ManageWise Horizon   | Como desarrollador, quiero configurar un entorno de desarrollo para ManageWise Horizon, para asegurar que todos los miembros del equipo tengan un ambiente consistente y funcional para trabajar en el proyecto.                                                        | Given que se dispone de la documentación del entorno, when se realiza la configuración, then todos los miembros del equipo deben poder clonar el repositorio y ejecutar la aplicación sin errores. Además, se debe verificar la instalación de las dependencias necesarias y la configuración correcta del sistema.               | EP-08     |
+| TS-44   | Solucionar Errores Reportados en ManageWise Horizon       | Como desarrollador, quiero solucionar los errores reportados en ManageWise Horizon, para mejorar la estabilidad y funcionalidad de la aplicación, asegurando una experiencia de usuario óptima.                                           | Given que se han reportado errores en el sistema, when se aborda cada error, then se debe realizar pruebas para confirmar que se han solucionado y que no se han introducido nuevos problemas. Además, se debe actualizar la documentación con los cambios realizados y comunicar las soluciones al equipo.                     | EP-08     |
+| TS-45   | Implementar Notificaciones en ManageWise Horizon           | Como desarrollador, quiero implementar un sistema de notificaciones en ManageWise Horizon, para mantener a los usuarios informados sobre eventos importantes y cambios en el sistema, mejorando así la comunicación dentro de la aplicación.                             | Given que existe un sistema de notificaciones, when se produce un evento relevante, then los usuarios deben recibir notificaciones en tiempo real a través de la interfaz. Además, se debe proporcionar una opción para que los usuarios configuren sus preferencias de notificación y se asegure que las notificaciones sean accesibles. | EP-08     |
+| TS-46   | Crear Tablero de Estadísticas en ManageWise Horizon        | Como desarrollador, quiero crear un tablero de estadísticas en ManageWise Horizon, para ofrecer a los usuarios una visualización clara y concisa de los datos relevantes, facilitando la toma de decisiones informadas.                                                    | Given que se requiere un tablero de estadísticas, when se diseñan y desarrollan los componentes necesarios, then el tablero debe mostrar datos relevantes y permitir a los usuarios filtrar y exportar la información. También debe ser responsivo y accesible desde diferentes dispositivos.                                        | EP-08     |
+| TS-47   | Implementación de la Gestión de Miembros                  | Como desarrollador, quiero implementar un sistema de gestión de miembros que permita invitar usuarios, asignar roles y gestionar la información de contacto, para que los Scrum Masters puedan administrar eficientemente el acceso al proyecto y mantener actualizados los datos de los colaboradores.                     | Given que existe una API para la gestión de miembros, when se envía una solicitud POST para invitar usuarios, asignar roles o eliminar miembros, then el sistema deberá procesar la solicitud y actualizar la base de datos de miembros según corresponda, confirmando con el código HTTP 200 o 201.                          | EP-08     |
+| TS-48   | Implementación de la Gestión de Backlog                   | Como desarrollador, quiero implementar un sistema de gestión de backlog que permita a los Scrum Masters y Product Owners crear, actualizar y eliminar backlog items, para que se definan claramente los requisitos y funcionalidades del producto, asegurando la alineación con los objetivos del equipo de desarrollo. | Given que existe una interfaz para gestionar el backlog, when se crea, edita o elimina un backlog item, then el sistema deberá actualizar la lista de items y mostrar mensajes de éxito para cada acción. Además, cada item debe incluir título, descripción, prioridad y criterios de aceptación. | EP-08     |
+| TS-49   | Implementación de la Gestión de Videoconferencias         | Como desarrollador, quiero implementar un sistema que gestione videoconferencias a través de una plataforma, permitiendo crear, editar, eliminar, visualizar y administrar grabaciones de reuniones, para organizar el trabajo del equipo de manera eficiente. | 1. Given que el Scrum Master está en la sección de Reuniones, when hace clic en el botón para crear una nueva videoconferencia, then se debe abrir un formulario con campos para título, fecha, hora y enlace. <br> 2. Given que hay videoconferencias existentes, when se selecciona una para editar, then se debe abrir un modal con los detalles actuales. <br> 3. Given que se quiere eliminar una videoconferencia, when se selecciona y se confirma la acción, then se debe eliminar de la lista. <br> 4. Given que hay grabaciones de videoconferencias, when se accede a la sección de grabaciones, then se deben mostrar con opciones para editar nombres y enlaces. <br> 5. Given que se quiere ver los detalles de una videoconferencia, when se hace clic en su título, then se debe abrir un modal con la información correspondiente. <br> 6. Given que hay grabaciones, when se utilizan filtros, then se deben mostrar solo las grabaciones que cumplan con los criterios. | EP-08     |
+| TS-50   | Implementación del Historial de Eventos para Incidencias   | Como desarrollador, quiero implementar un sistema de historial de eventos para las incidencias, para que los miembros del equipo puedan visualizar toda la actividad relacionada con una incidencia y garantizar la trazabilidad completa de los cambios. | Given que el endpoint (/api/v1/issues/{id}/events) esté disponible, when se consulta una incidencia existente a través de una solicitud GET, then se devuelve el historial completo de eventos asociados a esa incidencia, incluyendo tipo de evento, usuario, fecha y descripción. | EP-08     |
+| TS-51   | Implementación de la Gestión de User Stories y Sprints en el Timeline | Como desarrollador, quiero implementar un timeline interactivo para gestionar User Stories y Sprints, facilitando la planificación y seguimiento del progreso del equipo, permitiendo una mejor organización y comunicación en el proyecto. | Given que existe un componente de timeline, when se agrega una columna para un Sprint, then debe ser visible y permitir arrastrar y soltar User Stories a la columna correspondiente. Además, el estado de cada User Story debe mostrarse claramente con colores, y se deben poder visualizar estadísticas de rendimiento y descargar gráficos en PNG. | EP-08     |
 
-Si necesitas más detalles o ajustes, házmelo saber.
+
+# Epic 01: Experiencia del Usuario en la Landing Page
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US-01    | Vista General de Beneficios y Funcionalidades |
+| US-02    | Enlaces Directos a Redes Sociales         |
+| US-03    | Registro Rápido y Simple                  |
+| US-04    | Iniciar Sesión Rápido y Visible           |
+| US-05    | Resumen de la Empresa, Misión y Visión    |
+| US-06    | Navegación Clara y Directa en la Página   |
+| US-07    | Acceder a Preguntas Frecuentes            |
+| US-08    | Contactar vía Correo                      |
+
+# Epic 02: Gestión de backlog items
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US-09    | Creación de User Stories                  |
+| US-10    | Modificación de User Stories              |
+| US-11    | Eliminación de User Stories               |
+| US-12    | Creación de User Epics                    |
+| US-13    | Modificación de User Epics                |
+| US-14    | Eliminación de User Epics                 |
+| US-15    | Creación de Tasks                         |
+| US-16    | Modificación de Tasks                     |
+| US-17    | Eliminación de Tasks                      |
+
+# Epic 03: Gestión de artefactos
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US-18    | Visualización del Product Backlog         |
+| US-19    | Asignación de Backlog Items a un Sprint   |
+| US-20    | Gestión de Sprints                        |
+
+# Epic 04: Gestión Eficiente de Videoconferencias del Equipo
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US-21    | Gestión de Nuevas Videoconferencias       |
+| US-22    | Edición de Videoconferencias Existentes   |
+| US-23    | Eliminación de Videoconferencias          |
+| US-24    | Gestión de Grabaciones de Videoconferencias |
+| US-25    | Visualización de Detalles de Videoconferencias |
+
+# Epic 05: Administración de Colaboradores y Roles
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US-26    | Editar el Acceso de Miembros al Proyecto  |
+| US-27    | Ver Información de Usuario de los Miembros |
+| US-28    | Asignar Roles a los Miembros del Equipo   |
+| US-29    | Conocer Información del Perfil de un Miembro |
+| US-30    | Ver Habilidades de Cada Miembro           |
+
+# Epic 06: Gestión de User Stories y Sprints en el Timeline
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US-31    | Visualización de User Stories en el Timeline |
+| US-32    | Estimación de Esfuerzo en User Stories    |
+| US-33    | Visualización de Estadísticas del Rendimiento del Equipo |
+
+# Epic 07: Gestión de Incidencias
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US-34    | Crear una Nueva Incidencia                |
+| US-35    | Visualizar las Incidencias                |
+| US-36    | Editar una Incidencia                     |
+| US-37    | Eliminar una Incidencia                   |
+| US-38    | Ver Reporte de una Incidencia             |
+| US-39    | Ver Historial de una Incidencia           |
+| US-40    | Creación Automática de Eventos de Creación y Asignación |
+| US-41    | Filtrar Incidencias por Sprint y Prioridad |
+
+# Epic 08: Desarrollo de Funcionalidades de la Aplicación
+
+
+| Story ID | Título                                               |
+|----------|-----------------------------------------------------|
+| TS-43    | Configurar Entorno de Desarrollo para ManageWise Horizon |
+| TS-44    | Solucionar Errores Reportados en ManageWise Horizon   |
+| TS-45    | Implementar Notificaciones en ManageWise Horizon       |
+| TS-46    | Crear Tablero de Estadísticas en ManageWise Horizon    |
+| TS-47    | Implementación de la Gestión de Miembros              |
+| TS-48    | Implementación de la Gestión de Backlog               |
+| TS-49    | Implementación de la Gestión de Videoconferencias     |
+| TS-50    | Implementación del Historial de Eventos para Incidencias |
+| TS-51    | Implementación de la Gestión de User Stories y Sprints en el Timeline |
 
 ### 3.3. Impact Mapping
 
@@ -2069,14 +2168,14 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar                                                                                                                                                |
 | **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
 | **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **14 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US43 (2 puntos)<br>- US44 (2 puntos)<br>- US45 (3 puntos)<br>- US46 (3 puntos)<br>- US47 (2 puntos)<br>- US48 (2 puntos)                  |
-| **Sum of Story Points**             | 14                                                                                                                                                                                                                                                                                         |
+| **Sprint 1 Velocity**               | El velocity establecido para el Sprint 1 es de **18 Story Points**, que es la capacidad que el equipo ha acordado aceptar para este Sprint.<br>- US01 (2 puntos)<br>- US02 (2 puntos)<br>- US03 (3 puntos)<br>- US04 (3 puntos)<br>- US05 (2 puntos)<br>- US06 (2 puntos)<br>- US07 (2 puntos)<br>- US08 (2 puntos)                  |
+| **Sum of Story Points**             | 18                                                                                                                                                                                                                                                                                         |
 
 #### 5.2.1.2 Sprint Backlog 1.
 
 Para el primer sprint backlog, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
 
-![alt text](assets/images/Trello.png)
+![alt text](assets/TB1-new/saff.jpeg)
 
 | sprint #      | Sprint 1                                      |                 |                                                   |                                                                                                                            |                       |                              |                                                           |
 | ------------- | --------------------------------------------- | --------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- | --------------------------------------------------------- |
@@ -2086,7 +2185,7 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 | US02          | Enlaces Directos a Redes Sociales             | TA001           | Implementación de Enlaces a Redes Sociales        | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                        | ½ hora                | Sandoval Paiva, Valentino    | Done                                                      |
 | US03          | Registro Rápido y Simple                      | TA001           | Diseño e Implementación del Registro de Usuario   | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                        | ½ hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
 | US04          | Iniciar Sesión Rápido y Visible               | TA001           | Implementación de Enlace de Inicio de Sesión      | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                         | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| US05          | Resumen de la Empresa, Misión y Visión        | TA001           | Creación de Sección "Acerca de Nosotros"          | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                 | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
+| US05          | Resumen de la Empresa, Misión y Visión        | TA001           | Creación de Sección "Acerca de Nosotros"          | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                 | ½ hora                | Arevalo Meza, John Telesforo | Done                                                      |
 | US06          | Navegación Clara y Directa en la Página       | TA001           | Diseño del Menú de Navegación                     | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.  | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
 | US07          | Acceder a Preguntas Frecuentes                | TA001           | Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | ½ hora                | Sergio André Gómez Vallejos  | Done                                                      |
 | US08          | Contactar via correo                          | TA001           | Implementación de Sección de Contacto             | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas.          | ½ hora                | Sergio André Gómez Vallejos  | Done                                                      |
@@ -2112,12 +2211,12 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 
 | Repository                                                            | Branch             | Commit Id                                | Commit Message           | Commit Message Body                         | Committed on (Date)     |
 | --------------------------------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | ------------------------------------------- | ----------------------- |
-| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 4823259                                  | Initial commit           | Created the README file.                    | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Estefano  | 4823259                                  | Initial commit           | Created the README file.                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Estefano  | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Valentino  | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Valentino  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US07 gherkin | Se añade la sección de Preguntas Frecuentes | 16/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US08 gherkin | Se añade la sección de Contactanos          | 16/09/2024              |
