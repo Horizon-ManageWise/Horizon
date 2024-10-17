@@ -40,19 +40,19 @@ Product: ManageWise
 
 | Version | Fecha      | Autor                    | Descripcion                                                                                                                                                                                                                                                                                 |
 | ------- | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1| 26/08/2024 | Estefano Jaque| Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores y Estrategias y tácticas frente a competidores|
-| TB1| 05/09/2024| Estefano Jaque| Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
-| TB1| 29/08/2024 | Valentino Sandoval Paiva | Desarrollé la Descripción de la Startup, Solution Profile, el regitro de una entrevista a un usuario del segmento 1 y 2, y realicé una entrevista.|
-| TB1| 05/09/2024 | Valentino Sandoval Paiva | Desarrollé el Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management|
-| TB1| 25/09/2024 | Diego Rolin Acuña Tomas  | Realice el Startup Profile. Completando los antecedentes y problematica|
-| TB1| 27/09/2024 | Diego Rolin Acuña Tomas  | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.|
-| TB1| 1/09/2024  | Diego Rolin Acuña Tomas  | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.|
-| TB1| 6/09/2024  | Diego Rolin Acuña Tomas  | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
-| TB1| 8/09/2024  | Diego Rolin Acuña Tomas  | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.|
-| TB1| 29/08/2024 | John Arévalo| Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.|
-| TB1| 6/09/2024  | John Arévalo| Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.|
-| TB1| 11/10/2024 | Sergio Gómez| Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.|
-| TB1|8/09/2024 | John Arévalo| Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.|
+| TB1     | 26/08/2024 | Estefano Jaque           | Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores y Estrategias y tácticas frente a competidores                                                                                                                                             |
+| TB1     | 05/09/2024 | Estefano Jaque           | Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1                                                                                                                                                        |
+| TB1     | 29/08/2024 | Valentino Sandoval Paiva | Desarrollé la Descripción de la Startup, Solution Profile, el regitro de una entrevista a un usuario del segmento 1 y 2, y realicé una entrevista.                                                                                                                                          |
+| TB1     | 05/09/2024 | Valentino Sandoval Paiva | Desarrollé el Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management                                                                                                                                                                                       |
+| TB1     | 25/09/2024 | Diego Rolin Acuña Tomas  | Realice el Startup Profile. Completando los antecedentes y problematica                                                                                                                                                                                                                     |
+| TB1     | 27/09/2024 | Diego Rolin Acuña Tomas  | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.                                                                                                                                                                                                             |
+| TB1     | 1/09/2024  | Diego Rolin Acuña Tomas  | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.                                                                |
+| TB1     | 6/09/2024  | Diego Rolin Acuña Tomas  | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
+| TB1     | 8/09/2024  | Diego Rolin Acuña Tomas  | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
+| TB1     | 29/08/2024 | John Arévalo             | Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.                                                                                                                                                                                          |
+| TB1     | 6/09/2024  | John Arévalo             | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
+| TB1     | 11/10/2024 | Sergio Gómez             | Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.                                                                                                                                                                                         |
+| TB1     | 8/09/2024  | John Arévalo             | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
 
 ## Project Report Collaboration Insights
 
@@ -63,9 +63,9 @@ Product: ManageWise
 TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes al integrarse un nuevo miembro al equipo y aportar con ideas nuevas para la landing page. Por ende, se muestran capturas de los commits del mes pasado y de este mes.
 
 **Vista de commits: Landing page:**  
-![alt text](assets/TB1-image/landing.jpeg)
+![alt text](assets/TB1-new/landingc1.jpeg)
 
-![alt text](assets/TB1-image/commitslandingsdaj.jpeg)
+![alt text](assets/TB1-new/landingc2.jpeg)
 
 ![alt text](assets/TB1-image/commitslandingnet.jpeg)
 
@@ -77,9 +77,9 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 
 **Report:**
 
-![alt text](assets\TB1-new\commitsall2.jpeg)
+![alt text](assets/TB1-new/commitsall2.jpeg)
 
-![alt text](assets\TB1-new\commitall1.jpeg)
+![alt text](assets/TB1-new/commitall1.jpeg)
 
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
 
@@ -978,8 +978,8 @@ Anexo E
 | 4      | US04          | Iniciar Sesión Rápido y Visible                         | Como usuario de la plataforma, quiero poder iniciar sesión desde un enlace visible en la página principal para acceder rápidamente a mi cuenta.                                                                                                |               3               |
 | 5      | US05          | Resumen de la Empresa, Misión y Visión                  | Como visitante, quiero ver un resumen de la empresa junto con la misión y visión para entender su enfoque y valores antes de registrarme.                                                                                                      |               2               |
 | 6      | US06          | Navegación Clara y Directa en la Página                 | Como usuario potencial, quiero poder navegar de forma clara y directa entre las secciones de la página para encontrar la información que necesito rápidamente.                                                                                 |               2               |
-| 7      | US07          | Preguntas Frecuentes                                   | Como usuario, quiero poder acceder a una sección de preguntas frecuentes en la landing page para resolver mis dudas sobre el uso de la plataforma.   |               2               |
-| 8      | US08          | Contactanos    | Como usuario, quiero poder acceder a la sección de "Contáctanos" para poder contactar rápidamente en caso de que tenga algún problema.  |               2               |
+| 7      | US07          | Acceder a Preguntas Frecuentes                          | Como usuario, quiero poder acceder a una sección de preguntas frecuentes en la landing page para resolver mis dudas sobre el uso de la plataforma.                                                                                             |               2               |
+| 8      | US08          | Contactar via correo                                    | Como usuario, quiero poder acceder a la sección de "Contáctanos" para poder contactar rápidamente en caso de que tenga algún problema.                                                                                                         |               2               |
 | 9      | US09          | Personalización de interfaz                             | Como usuario de la plataforma, quiero poder personalizar la interfaz según mis preferencias y necesidades para facilitar el acceso rápido a las herramientas y funciones más utilizadas.                                                       |               3               |
 | 10     | US10          | Sincronización con herramientas externas                | Como líder de proyecto, quiero que la plataforma se integre de manera fluida con otras herramientas y sistemas externos (como calendarios y aplicaciones de mensajería) para centralizar la gestión de proyectos.                              |               5               |
 | 11     | US11          | Gestión de la seguridad y protección de datos           | Como administrador de la plataforma, quiero que el sistema implemente medidas avanzadas de seguridad para proteger los datos sensibles del proyecto y garantizar la privacidad de la información.                                              |               5               |
@@ -1174,9 +1174,9 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
   - Title :<br>
     Estadísticas de Proyecto <br>
-  - Meta Description:  Revisa las métricas clave de tus proyectos y accede a la timeline para monitorear el progreso de principio a fin.<br>
+  - Meta Description: Revisa las métricas clave de tus proyectos y accede a la timeline para monitorear el progreso de principio a fin.<br>
   - Keywords :
-     estadísticas de proyecto, timeline, progreso de proyecto, backlog completado.<br>
+    estadísticas de proyecto, timeline, progreso de proyecto, backlog completado.<br>
   - Author: ManageWise Team
 
 - Backlog
@@ -1185,13 +1185,13 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
     Product Backlog y Sprint Backlog<br>
   - Meta Description: Gestiona tus items de backlog y organiza sprints efectivos con ManageWise.<br>
   - Keywords :
-     product backlog, sprint backlog, gestión de tareas, sprints ágiles.<br>
+    product backlog, sprint backlog, gestión de tareas, sprints ágiles.<br>
   - Author: ManageWise Team
 
 - Board
 
   - Title :<br>
-    Scrum Board  <br>
+    Scrum Board <br>
   - Meta Description: Visualiza y actualiza el estado de tus tareas en el Scrum Board interactivo de ManageWise.<br>
   - Keywords :
     Scrum Board, gestión de tareas, flujo de trabajo ágil.<br>
@@ -1203,7 +1203,7 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
     Gestión de Reuniones Scrum<br>
   - Meta Description: Accede a tus reuniones Scrum, agenda enlaces y consulta grabaciones de las sesiones pasadas.<br>
   - Keywords :
-     reuniones Scrum, planificación de sprint, daily scrum, enlaces de reunión.<br>
+    reuniones Scrum, planificación de sprint, daily scrum, enlaces de reunión.<br>
   - Author: ManageWise Team
 
 - Members
@@ -1219,7 +1219,7 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
   - Title :<br>
     Gestión de Issues y Reportes <br>
-  - Meta Description:  Crea y monitorea issues en tus proyectos de software para mejorar la calidad y el rendimiento.<br>
+  - Meta Description: Crea y monitorea issues en tus proyectos de software para mejorar la calidad y el rendimiento.<br>
   - Keywords :
     gestión de issues, reporte de errores, seguimiento de problemas.<br>
   - Author: ManageWise Team
@@ -1235,7 +1235,7 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
 
    - Vista de Resultados: Muestra los reportes de incidencias correspondientes.
 
-  #### 4.2.5. Navigation Systems
+#### 4.2.5. Navigation Systems
 
 1. **Página Principal (Proyectos)**
 
@@ -1303,7 +1303,6 @@ Para mejorar la visibilidad de "ManageWise" en los motores de búsqueda y atraer
    - **Scrum Master/Product Owner**: Tienen acceso completo a todas las opciones de navegación y pueden realizar acciones en todas las secciones mencionadas.
    - **Miembro del equipo de desarrollo**: Solo puede visualizar la información disponible en las secciones, sin opciones de edición o gestión.
 
-
 ### 4.3. Landing Page UI Design
 
 #### 4.3.1. Landing Page Wireframe
@@ -1323,7 +1322,7 @@ La landing page cuenta con diferentes secciones:
 - Descripción general: Se muestran las principales características de la aplicación al usuario.
 - Beneficios: El usuario puede ver los beneficios de usar la aplicación.
 - Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
-- Footer: Enlaces a las redes sociales de la plataforma.  
+- Footer: Enlaces a las redes sociales de la plataforma.
 - Preguntas Frecuentes: Se muestra las preguntas frecuentes que suelen hacernos al momento de utilizar nuestra aplicación web
   <br>
   <img src="assets/images/WireframeDesktopWebBrowser.png">
@@ -1386,12 +1385,12 @@ La landing page cuenta con diferentes secciones:
 
 Apartado de registro, en donde el usuario deberá ingresar los datos necesarios de la manera que vea conveniente.  
 <br>
-<img src="assets/images/Mockup-DesktopWebBrowser-Resgistro.png">
+<img src="assets/TB1-image/registrarse.png">
 <br>
 
 Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.  
 <br>
-<img src="assets/images/Mockup-DesktopWebBrowser-InicioSesion.png">
+<img src="assets/TB1-image/iniciar-sesion.png">
 <br>
 
 </p>
@@ -1651,17 +1650,17 @@ Link del video: https://drive.google.com/drive/folders/12NAEuYcQpbOkQ6pO8YS2SoGi
 
 ### 4.6.1. Software Architecture Context Diagram
 
-![alt text](assets/images/Context%20Diagram.png)
+![alt text](assets/images/domain-driven/ContextDiagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-![alt text](assets/images/Container%20Diagram.png)
+![alt text](assets/images/domain-driven/ContainerDiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 #### **Component: Backlog management**
 
-![alt text](assets/images/Components%20Diagram.png)
+![alt text](assets/images/domain-driven/ComponentsDiagram.png)
 
 ### 4.7. Software Object-Oriented Design
 
@@ -1670,174 +1669,186 @@ Link del video: https://drive.google.com/drive/folders/12NAEuYcQpbOkQ6pO8YS2SoGi
 ![alt text](assets/TB1-image/diagramclass.png)
 
 LINK diagrama de clases:
-https://lucid.app/lucidchart/a8574ee7-c46c-4f80-ab16-b2b91cd5abde/edit?viewport_loc=941%2C706%2C2376%2C1266%2CHWEp-vi-RSFO&invitationId=inv_aaac668a-b1fb-479d-93c9-5c7af375894a 
+https://lucid.app/lucidchart/a8574ee7-c46c-4f80-ab16-b2b91cd5abde/edit?viewport_loc=941%2C706%2C2376%2C1266%2CHWEp-vi-RSFO&invitationId=inv_aaac668a-b1fb-479d-93c9-5c7af375894a
 
 ### 4.8. Database Design
-
-![alt text](assets/images/DBaseDeDatosVfinal.png)
 
 ### 4.7.2. Database Dictionary
 
 Este es el formato que deberán seguir nuestras colecciones en MongoDB para replicar nuestras entidades de la base de datos.
 
-**Users**  
+**User**  
 Descripción: Colección que representa a los empleados o usuarios del sistema.
 | Campo | Tipo de dato | Descripción |
 |-----------|----------------|------------------------------------------|
 | id | int | Identificador único del usuario |
-| firstName | nvarchar(150) | Nombre del usuario |
-| lastName | nvarchar(150) | Apellido del usuario |
-| email | nvarchar(150) | Correo electrónico del usuario |
-| phone | nvarchar(50) | Teléfono del usuario |
-| avatar | nvarchar(150) | Link de la imagen del usuario |
-| biography | nvarchar(250) | Descripcion del usuario |
+| email | nvarchar(150) | Correo electronico del usuario |
+| phone | nvarchar(50) | Numero telefonico del usuario |
+| password | nvarchar(150) | Contraseña del usuario |
 
-**Skill**  
-Descripción: Colección que representa cada habilidad en programacion o otros campos que tiene un usuario del sistema.
+**Issue**  
+Descripción: Colección que representa los reportes de errores de un proyecto creado por un desarrollador.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| skillName | nvarchar(150) | Nombre del software dominado o habilidad |
-| description| nvarchar(150) | Descripción detallada de la habilidad. |
-| proficiencyLevel| nvarchar(150) | Nivel de dominación de la habilidad |
-| category| nvarchar(150) | Categoría a la que pertenece la habilidad |
-| userId| int | Identificador del usuario |
+| id | int | Identificador del reporte |
+| title | varchar(150) | Titulo del reporte |
+| description | varchar(500) | Descripcion del reporte |
+| status | varchar(50) | Estado del reporte |
+| priority | varchar(50) | Prioridad del reporte |
+| creationDate | date | Fecha de creacion del reporte |
+| resolutionDate | date | Fecha de resolucion del reporte |
+| sprintId | int | Identificador del sprint asociado al reporte |
+| madeBy | varchar(150) | Nombre del creador del reporte |
+| assignedId | int | Identificador del miembro del equipo asignado a resolver el reporte |
 
-**Subgroup**  
-Descripción: Colección que representa los equipos de trabajo.
-| Campo | Tipo de dato | Descripción |
-|------------|----------------|------------------------------------------|
-| id | int | Identificador único del equipo |
-| name | nvarchar(255) | Nombre del equipo |
-| descripcion| nvarchar(max) | Descripción del equipo |
-| creationDate | date | Fecha de creación |
-| status | nvarchar(255) | Nos dice que si el equipo esta ocupado o libre |
-| projectId | date | Identificador del proyecto asociado |
-
-**ProjectTeamMembers**  
-Descripción: Colección que define la relación entre usuarios y un proyecto, incluyendo el rol en la metodologia SCRUM.
-| Campo | Tipo de dato | Descripción |
-|------------|----------------|------------------------------------------|
-| projectId | int | Identificador del proyecto |
-| assignedDate | date | Fecha de ingreso al proyecto |
-| userId | int | Identificador del usuario |
-| role | nvarchar(50) | Rol del usuario (Líder o Miembro) |
-| description | nvarchar(250) | Rol del usuario (Líder o Miembro) |
-
-**Project**  
+**Event**  
 Descripción: Colección que representa los proyectos.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| id | int | Identificador único del proyecto |
-| name | nvarchar(255) | Nombre del proyecto |
-| descripcion | nvarchar(max) | Descripción del proyecto |
-| startDate | date | Fecha de inicio del proyecto |
-| endDate | date | Fecha de entrega del proyecto |
-| status | nvarchar(50) | Estado del proyecto |
+| issueId | int | Identificador del reporte asociado |
+| id | int | Identificador único del evento |
+| creationDate | date | Fecha de creacion del evento |
+| madeBy | varchar(150) | Nombre del creador del evento |
+| description | varchar(500) | Descripcion del evento |
 
-**Tasks**  
-Descripción: Colección que representa las tareas de un proyecto.
+**Sprint**  
+Descripción: Colección que representa los sprint de un proyecto.
 | Campo | Tipo de dato | Descripción |
 |---------------|----------------|------------------------------------------|
-| id | int | Identificador único de la tarea |
-| title | nvarchar(150) | Titulo de la tarea |
-| description | nvarchar(max) | Descripción de la tarea |
-| status | nvarchar(50) | Estado actual de la tarea |
-| creationDate | int | Identificador del proyecto asociado |
-| userStoriesId | int | Identificador de la Historia de usuario asociada |
-
-**SubgroupAssignments**  
-Descripción: Colección que representa los miembros de un grupo de trabajo.
-| Campo | Tipo de dato | Descripción |
-|--------------|----------------|------------------------------------------|
-| subgroupId | int | Identificador del subgrupo |
-| userId | int | Identificador del usuario |
-| joinDate | date | Fecha de ingreso al grupo |
-| Role | nvarchar(150) | Funciones específicas que los miembros del equipo |
-
-**Sprints**  
-Descripción: Colección que representa los sprints de un proyecto.
-| Campo | Tipo de dato | Descripción |
-|-------------|----------------|------------------------------------------|
 | id | int | Identificador único del sprint |
-| title | nvarchar(255) | Nombre del sprint |
-| goal | nvarchar(255) | Objetivo del sprint |
+| name | varchar(150) | Nombre del sprint |
+| status | varchar(50) | Estado del sprint |
 | startDate | date | Fecha de inicio del sprint |
-| endDate | date | Fecha de fin del sprint |
-| proyectoId | int | Identificador del proyecto asociado |
+| endDate | date | Fecha de cierre del sprint |
+| projectId | int | Identificador del proyecto asociado al sprint |
 
 **Meeting**  
-Descripción: Colección que almacena un resumen de las reuniones de cada Sprint.
+Descripción: Colección que representa las reuniones de un proyecto.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador de la reunion |
+| title | varchar(150) | Titulo de la reunion |
+| date | date | Fecha de la reunion |
+| time | time | Duracion de la reunion |
+| link | varchar(150) | Link de la reunion |
+| recordingLink | varchar(150) | Link de la grabacion de la reunion |
+| hostId | int | Identificador del creador de la reunion |
+
+**Statistic**  
+Descripción: Colección que representa las estadisticas de un sprint.
+| Campo | Tipo de dato | Descripción |
+|-------------|----------------|------------------------------------------|
+| id | int | Identificador unico de las estadisticas |
+| sprintId | int | Identificador del sprint |
+
+**Member**  
+Descripción: Colección que almacena los miembros de un proyecto.
 | Campo | Tipo de dato | Descripción |
 |---------------|----------------|------------------------------------------|
-| id | int | Identificador único de la reunión |
-| meetingType | nvarchar(150) | Tipo de reunión en el sprint |
-| date | datetime | Fecha de la reunión |
-| time | time | Hora de la reunión |
-| duration | nvarchar(50) | Duracion de la reunión |
-| location | nvarchar(150) | Lugar de la reunion |
-| agenda | nvarchar(max) | Lista de temas tratados en la reunion |
-| notes | nvarchar(max) | Concluciones y anunciones que se comunicaron en la reunion |
+| userId | int | Identificador único del miembro y identificador del User que hereda sus atributos |
+| roleId | int | Identificador del rol del miembro |
+| biography | varchar(500) | Biografia del miembro |
+| lastname | varchar(150) | Apellido del miembro |
+| firstname | nvarchar(150) | Nombre del miembro |
 
-**MeetingInvolvement**  
-Descripción: Colección que registra a los que asistieron a cada reunion.
+**Project**  
+Descripción: Colección que los proyectos que el sistema guarda.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| meetingId | int | Identificador de la reunion asociada |
-| attendance | nvarchar(255)| Guarda el estado de su asistencia |
-| feedback | datetime | Retroalimentacion |
-| userId | int | Identificador del usuario asociado |
+| id | int | Identificador del proyecto asociado |
+| name | nvarchar(255)| Nombre del proyecto |
+| description | datetime | Descripcion del proyecto |
+| startDate | int | Fecha de inicio del proyecto |
+| status | int | Estado del proyecto |
+| companyId | int | Identificador de la compañia asociada |
 
-**Bugs**  
-Descripción: Colección que representa los reportes generados para los proyectos.
+**Company**  
+Descripción: Colección que representa los usuarios Compañia que pueden crear proyectos.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| id | int | Identificador único del reporte |
-| title| nvarchar(150) | Titulo del reporte |
-| descripcion | nvarchar(max) | Descripcion del reporte |
-| status| nvarchar(150) | Estado del problema a cual el reporte se refiere |
-| priority | nvarchar(150) | Nivel de prioridad del problema |
-| createdAt | date | Fecha de creacion del reporte |
-| stepsToReproduce | nvarchar(max) | Pasos para reproducir el problema del reporte |
-| assigneeId | int | Identificador de la persona que debe resolver el problema |
-| createdBy | int | Identificador del creador del reporte |
+| name | varchar(150) | Nombre de la compañia |
+| userId | int | Identificador único de la compañia y identificador del User que hereda sus atributos |
 
-**TaskAssignments**  
-Descripción: Colección que almacena las relaciones entre tareas y personal asignado a completarlas.
+**Task**  
+Descripción: Colección que almacena las tareas de un user story.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| taskId | int | Identificador de la tarea |
-| userId | int | Identificador del usuario |
+| id | int | Identificador de la tarea |
+| name | int | Nombre de la tarea |
+| description | int | Descripcion de la tarea |
+| status | int | Estado de la tarea |
+| startDate | int | Fecha de inicio de la tarea |
+| endDate | int | Fecha de cierre de la tarea |
+| userStorieId | int | Identificador del user storie asociado a la tarea |
+| memberId | int | Identificador del miembro que hara la tarea |
 
-**Epics**  
-Descripción: Colección de las epicas del proyecto.
-| Campo | Tipo de dato | Descripción |
-|--------------|----------------|------------------------------------------|
-| id | int | Identificador único de la herramienta |
-| title| nvarchar(200)| Nombre de la epica |
-| projectId | int | Identificador del proyecto asociado a la epica |
-| description | nvarchar(max)| Descripcion de la epica |
-| status | nvarchar(50 )| Estado de la epica |
-| creationDate | date | Fecha de creacion de la epica |
-
-**UserStories**  
+**UserStorie**  
 Descripción: Colección de los user stories relacionados a las epicas de un proyecto.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| id | int | Identificador del user storie |
+| id | int | Identificador unico del user storie |
+| title | varchar(150) | Titulo del User Storie |
+| description | varchar(500) | Descripcion del user storie |
+| status | varchar(150) | Estado del user storie |
 | epicId | int | Identificador de la epica asociada |
-| title | nvarchar(150) | Titulo del User Storie |
-| description | nvarchar(max) | Descripcion del user storie |
-| acceptanceCriteria | nvarchar(max) | Criterios de aceptacion del user storie |
-| status | nvarchar(50) | Estado de avance del user storie |
-| creationDate | int | Fecha de creacion del user storie |
-| subgroupId | int | Identificador del grupo que resolvera las tareas de este user storie |
+| backlogId | int | Identificador del backlog asociado |
+| effort | varchar(150) | Explicacion del esfuerzo para cumplirlo |
+
+**UserStorie**  
+Descripción: Colección de los user stories relacionados a las epicas de un proyecto.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador unico del user storie |
+| title | varchar(150) | Titulo del User Storie |
+| description | varchar(500) | Descripcion del user storie |
+| status | varchar(150) | Estado del user storie |
+| epicId | int | Identificador de la epica asociada |
+| backlogId | int | Identificador del backlog asociado |
+| effort | varchar(150) | Explicacion del esfuerzo para cumplirlo |
+
+**Backlog**  
+Descripción: Colección del backlog para los user stories en un sprint.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador unico del backlog |
+| projectId | int | Identificador del projecto asociado |
+| sprintId | int | Identificador del sprint asociado |
+
+**Role**  
+Descripción: Colección de los roles que un miembro del equipo puede tener.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador unico del rol |
+| name | varchar(150) | Nombre del rol |
+
+**Epic**  
+Descripción: Colección de los epicas de un proyecto.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador unico de la epica |
+| name | varchar(150) | Nombre de la epica |
+| description | varchar(500) | Descripcion de la epica |
+
+**Participation**  
+Descripción: Colección de los participantes de una reunion.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| meetingId | int | Identificador unico de una reunion |
+| memberId | varchar(150) | Identificador unico de un miembro |
+
+**MembersInProject**  
+Descripción: Colección de los miembros de un proyecto.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| projectId | int | Identificador unico de un proyecto |
+| memberId | varchar(150) | Identificador unico de un miembro |
 
 #### 4.8.1. Database Diagram
 
 Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Clientes, Empleados, Proyectos, Tareas y Requisitos. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades. Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
 
-![alt text](assets/images/DATA.jpg)
-[Descargar PDF](assets/images/BASE.pdf)
+![alt text](assets/images/HorizonDBVF.png)
+[Descargar PDF](assets/images/HorizonPgAdmin.pdf)
 
 ## Capítulo V: Product Implementation, Validation & Deploymentt
 
@@ -1865,7 +1876,6 @@ Antes de iniciar el desarrollo, es crucial definir claramente los requisitos de 
 Con base en los requisitos, hemos seleccionado las siguientes tecnologías para Horizon:
 
 - **Frontend:** Angular para una interfaz de usuario dinámica y receptiva, que permita una interacción fluida con las herramientas de gestión y análisis.
-
 
 - **Configuración del Entorno de Desarrollo** ItelliJ IDEA
 
@@ -2073,48 +2083,49 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 
 ![alt text](assets/images/Trello.png)
 
-| sprint #      | Sprint 1                                                 |                 |                                                  |                                                                                                                           |                       |                              |                                                           |
-| ------------- | -------------------------------------------------------- | --------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- | --------------------------------------------------------- |
-| User<br>Story |                                                          | Work-Item /Task |                                                  |                                                                                                                           |                       |                              |                                                           |
-| ID            | Title                                                    | ID              | Title                                            | Description                                                                                                               | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
-| US01          | Vista General de Beneficios y Funcionalidades            | TA001           | Implementación de Sección de Beneficios          | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.                     | ½ hora                | Arevalo Meza, John Telesforo | Done                                                      |
-| US02          | Enlaces Directos a Redes Sociales                        | TA001           | Implementación de Enlaces a Redes Sociales       | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                       | ½ hora                | Sandoval Paiva, Valentino    | Done                                                      |
-| US03          | Registro Rápido y Simple                                 | TA001           | Diseño e Implementación del Registro de Usuario  | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                       | ½ hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| US04        | Iniciar Sesión Rápido y Visible                          | TA001           | Implementación de Enlace de Inicio de Sesión     | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                        | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| US05          | Resumen de la Empresa, Misión y Visión                   | TA001           | Creación de Sección "Acerca de Nosotros"         | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
-| US06          | Navegación Clara y Directa en la Página                  | TA001           | Diseño del Menú de Navegación                    | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
-| US07 | Acceso a Preguntas Frecuentes               | TA001  | Implementación de Sección de Preguntas Frecuentes         | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | ½ hora                 | Sergio André Gómez Vallejos      | Done                                                     |
-| US08          | Acceso a Contáctanos     | TA001           | Implementación de Sección de Contacto            | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas.           | ½ hora                |Sergio André Gómez Vallejos  | Done                                                   |
+| sprint #      | Sprint 1                                      |                 |                                                   |                                                                                                                            |                       |                              |                                                           |
+| ------------- | --------------------------------------------- | --------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- | --------------------------------------------------------- |
+| User<br>Story |                                               | Work-Item /Task |                                                   |                                                                                                                            |                       |                              |                                                           |
+| ID            | Title                                         | ID              | Title                                             | Description                                                                                                                | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
+| US01          | Vista General de Beneficios y Funcionalidades | TA001           | Implementación de Sección de Beneficios           | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.                      | ½ hora                | Arevalo Meza, John Telesforo | Done                                                      |
+| US02          | Enlaces Directos a Redes Sociales             | TA001           | Implementación de Enlaces a Redes Sociales        | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                        | ½ hora                | Sandoval Paiva, Valentino    | Done                                                      |
+| US03          | Registro Rápido y Simple                      | TA001           | Diseño e Implementación del Registro de Usuario   | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                        | ½ hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
+| US04          | Iniciar Sesión Rápido y Visible               | TA001           | Implementación de Enlace de Inicio de Sesión      | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                         | 1 hora                | Jaque Peña, Estefano Oscar   | Done                                                      |
+| US05          | Resumen de la Empresa, Misión y Visión        | TA001           | Creación de Sección "Acerca de Nosotros"          | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                 | ½ hora                | Alejo Cardenas, Jose Antonio | Done                                                      |
+| US06          | Navegación Clara y Directa en la Página       | TA001           | Diseño del Menú de Navegación                     | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.  | ½ hora                | Acuña Tomas, Diego Rolin     | Done                                                      |
+| US07          | Acceder a Preguntas Frecuentes                | TA001           | Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | ½ hora                | Sergio André Gómez Vallejos  | Done                                                      |
+| US08          | Contactar via correo                          | TA001           | Implementación de Sección de Contacto             | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas.          | ½ hora                | Sergio André Gómez Vallejos  | Done                                                      |
+
 #### 5.2.1.3 Development Evidence for Sprint Review
 
-| Repository   | Branch | Commit Id                                | Commit Message                                                  | Commit Message Body                                                           | Committed on (Date)     |
-| ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------- |
-| Landing-page | main   | 1b462d3                                  | Initial commit                                                  | Created the README file.                                                      | 08/09/2024              |
-| Landing-page | main   | 3cd1ffc                                  | Feat: added navbar and header                                   | Feat: added navbar and header                                                 | 08/09/2024              |
-| Landing-page | main   | 2fb452a                                  | feat: added descripcion general and beneficios sections         | feat: added descripcion general and beneficios sections                       | 08/09/2024              |
-| Landing-page | main   | 7fe0bdd                                  | Feat: Add nosotros                                              | Feat: Add nosotros                                                            | 08/09/2024              |
-| Landing-page | main   | 47d2070                                  | Feat: Add nosotros                                              | Feat: Add nosotros                                                            | 08/09/2024              |
-| Landing-page | main   | 280c80e                                  | nojotros add                                                    | nojotros add                                                                  | 08/09/2024              |
-| Landing-page | main   | ec30e3f                                  | AÑADIENDO MI PARTE                                              | AÑADIENDO MI PARTE                                                            | 09/09/2024              |
-| Landing-page | main   | 5d497e7                                  | AÑADI MI PARTE                                                  | AÑADI MI PARTE                                                                | 09/09/2024              |
-| Landing-page | main   | c4a4795db0aa611aa25fc3f3dea4d0d9f5574ed1 | feat: Add files and update                                      | Se añade archivos al repositorio                                              | 10/09/2024              |
-| Landing-page | main   | 1dd9e3e004dc828fd9134f631738121951dd1cba | feat: Add funcionalidades                                       | Se añade funcionalidades al .js                                               | 10/09/2024              |
-| Landing-page | main   | a6dde725b27df498b1d2a3e182e6ec2ac55541d4 | feat: Agregación de estilos para un sección                     | Se implementa estilos al landing page                                         | 10/09/2024              |
-| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c | feat: Añadir Preguntas frecuentes, actualización de imagenes y contactanos  | Se añade una seccion de preguntas y respuestas, la actualización de imagenes y la sección de contactanos| 10/09/2024              |
+| Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
+| ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Landing-page | main   | 1b462d3                                  | Initial commit                                                              | Created the README file.                                                                                 | 08/09/2024              |
+| Landing-page | main   | 3cd1ffc                                  | Feat: added navbar and header                                               | Feat: added navbar and header                                                                            | 08/09/2024              |
+| Landing-page | main   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 08/09/2024              |
+| Landing-page | main   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 08/09/2024              |
+| Landing-page | main   | 47d2070                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 08/09/2024              |
+| Landing-page | main   | 280c80e                                  | nojotros add                                                                | nojotros add                                                                                             | 08/09/2024              |
+| Landing-page | main   | ec30e3f                                  | AÑADIENDO MI PARTE                                                          | AÑADIENDO MI PARTE                                                                                       | 09/09/2024              |
+| Landing-page | main   | 5d497e7                                  | AÑADI MI PARTE                                                              | AÑADI MI PARTE                                                                                           | 09/09/2024              |
+| Landing-page | main   | c4a4795db0aa611aa25fc3f3dea4d0d9f5574ed1 | feat: Add files and update                                                  | Se añade archivos al repositorio                                                                         | 10/09/2024              |
+| Landing-page | main   | 1dd9e3e004dc828fd9134f631738121951dd1cba | feat: Add funcionalidades                                                   | Se añade funcionalidades al .js                                                                          | 10/09/2024              |
+| Landing-page | main   | a6dde725b27df498b1d2a3e182e6ec2ac55541d4 | feat: Agregación de estilos para un sección                                 | Se implementa estilos al landing page                                                                    | 10/09/2024              |
+| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c | feat: Añadir Preguntas frecuentes, actualización de imagenes y contactanos  | Se añade una seccion de preguntas y respuestas, la actualización de imagenes y la sección de contactanos | 10/09/2024              |
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
-| Repository                                    | Branch             | Commit Id                                | Commit Message           | Commit Message Body                                                                     | Committed on (Date)     |
-| --------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------- | ----------------------- |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 4823259                                  | Initial commit           | Created the README file.                                                                | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                                                                | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                                                                | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                                                                | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                                                                | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                                                                | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                                                                | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio  | 0813c9549f96710be687e9a3c1f1d8913b3d3c57  | feat: added US07 gherkin | Se añade la sección de Preguntas Frecuentes    | 16/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio  | 451cf0957cd87a511014c1b35adc4b82a80ef9f4    | feat: added US08 gherkin | Se añade la sección de Contactanos  | 16/09/2024              |
+| Repository                                                            | Branch             | Commit Id                                | Commit Message           | Commit Message Body                         | Committed on (Date)     |
+| --------------------------------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | ------------------------------------------- | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 4823259                                  | Initial commit           | Created the README file.                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US07 gherkin | Se añade la sección de Preguntas Frecuentes | 16/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb1-Sergio | feature/tb1-Sergio | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US08 gherkin | Se añade la sección de Contactanos          | 16/09/2024              |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
@@ -2149,7 +2160,6 @@ En este Sprint, los miembros del equipo de desarrollo de software de Horizon han
   <br>
   Diseño del formulario de registro, que enfatiza la simplicidad y la facilidad de uso, asegurando que los nuevos usuarios puedan registrarse sin complicaciones.
 </p>
-
 
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
@@ -2194,20 +2204,21 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
   Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
 **Landing Page**
-![commits](assets/TB1-image/commits.png)
 
+![Commits](assets/TB1-new/landingc1.jpeg)
+![Commits](assets/TB1-new/landingc2.jpeg)
 
-- Estefano Oscar Jaque Peña: 1
+- Estefano Oscar Jaque Peña: 2
 - Diego Rolin Acuña Tomas: 1
 - John Telesforo Arevalo Meza: 10
 - Valentino Sandoval Paiva: 1
-- Sergio Gomez: 8
+- Sergio André Gómez Vallejos: 8
 
 **Report:**
 
-![alt text](assets\TB1-new\commitsall2.jpeg)
+![alt text](assets/TB1-new/commitsall2.jpeg)
 
-![alt text](assets\TB1-new\commitall1.jpeg)
+![alt text](assets/TB1-new/commitall1.jpeg)
 
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
 
