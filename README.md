@@ -1393,12 +1393,12 @@ La landing page cuenta con diferentes secciones:
 
 Apartado de registro, en donde el usuario deberá ingresar los datos necesarios de la manera que vea conveniente.  
 <br>
-<img src="assets/images/Mockup-DesktopWebBrowser-Resgistro.png">
+<img src="assets/TB1-image/registrarse.png">
 <br>
 
 Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.  
 <br>
-<img src="assets/images/Mockup-DesktopWebBrowser-InicioSesion.png">
+<img src="assets/TB1-image/iniciar-sesion.png">
 <br>
 
 </p>
