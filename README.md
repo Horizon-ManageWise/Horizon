@@ -1681,7 +1681,7 @@ https://lucid.app/lucidchart/a8574ee7-c46c-4f80-ab16-b2b91cd5abde/edit?viewport_
 
 ### 4.8. Database Design
 
-![alt text](assets/images/DBaseDeDatosVfinal.png)
+![alt text](assets/images/HorizonDBVF.png)
 
 ### 4.7.2. Database Dictionary
 
