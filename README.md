@@ -1681,169 +1681,181 @@ https://lucid.app/lucidchart/a8574ee7-c46c-4f80-ab16-b2b91cd5abde/edit?viewport_
 
 ### 4.8. Database Design
 
-![alt text](assets/images/HorizonDBVF.png)
-
 ### 4.7.2. Database Dictionary
 
 Este es el formato que deberán seguir nuestras colecciones en MongoDB para replicar nuestras entidades de la base de datos.
 
-**Users**  
+**User**  
 Descripción: Colección que representa a los empleados o usuarios del sistema.
 | Campo | Tipo de dato | Descripción |
 |-----------|----------------|------------------------------------------|
 | id | int | Identificador único del usuario |
-| firstName | nvarchar(150) | Nombre del usuario |
-| lastName | nvarchar(150) | Apellido del usuario |
-| email | nvarchar(150) | Correo electrónico del usuario |
-| phone | nvarchar(50) | Teléfono del usuario |
-| avatar | nvarchar(150) | Link de la imagen del usuario |
-| biography | nvarchar(250) | Descripcion del usuario |
+| email | nvarchar(150) | Correo electronico del usuario |
+| phone | nvarchar(50) | Numero telefonico del usuario |
+| password | nvarchar(150) | Contraseña del usuario |
 
-**Skill**  
-Descripción: Colección que representa cada habilidad en programacion o otros campos que tiene un usuario del sistema.
+**Issue**  
+Descripción: Colección que representa los reportes de errores de un proyecto creado por un desarrollador.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| skillName | nvarchar(150) | Nombre del software dominado o habilidad |
-| description| nvarchar(150) | Descripción detallada de la habilidad. |
-| proficiencyLevel| nvarchar(150) | Nivel de dominación de la habilidad |
-| category| nvarchar(150) | Categoría a la que pertenece la habilidad |
-| userId| int | Identificador del usuario |
+| id | int | Identificador del reporte |
+| title | varchar(150) | Titulo del reporte |
+| description | varchar(500) | Descripcion del reporte |
+| status | varchar(50) | Estado del reporte |
+| priority | varchar(50) | Prioridad del reporte |
+| creationDate | date | Fecha de creacion del reporte |
+| resolutionDate | date | Fecha de resolucion del reporte |
+| sprintId | int | Identificador del sprint asociado al reporte |
+| madeBy | varchar(150) | Nombre del creador del reporte |
+| assignedId | int | Identificador del miembro del equipo asignado a resolver el reporte |
 
-**Subgroup**  
-Descripción: Colección que representa los equipos de trabajo.
-| Campo | Tipo de dato | Descripción |
-|------------|----------------|------------------------------------------|
-| id | int | Identificador único del equipo |
-| name | nvarchar(255) | Nombre del equipo |
-| descripcion| nvarchar(max) | Descripción del equipo |
-| creationDate | date | Fecha de creación |
-| status | nvarchar(255) | Nos dice que si el equipo esta ocupado o libre |
-| projectId | date | Identificador del proyecto asociado |
-
-**ProjectTeamMembers**  
-Descripción: Colección que define la relación entre usuarios y un proyecto, incluyendo el rol en la metodologia SCRUM.
-| Campo | Tipo de dato | Descripción |
-|------------|----------------|------------------------------------------|
-| projectId | int | Identificador del proyecto |
-| assignedDate | date | Fecha de ingreso al proyecto |
-| userId | int | Identificador del usuario |
-| role | nvarchar(50) | Rol del usuario (Líder o Miembro) |
-| description | nvarchar(250) | Rol del usuario (Líder o Miembro) |
-
-**Project**  
+**Event**  
 Descripción: Colección que representa los proyectos.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| id | int | Identificador único del proyecto |
-| name | nvarchar(255) | Nombre del proyecto |
-| descripcion | nvarchar(max) | Descripción del proyecto |
-| startDate | date | Fecha de inicio del proyecto |
-| endDate | date | Fecha de entrega del proyecto |
-| status | nvarchar(50) | Estado del proyecto |
+| issueId | int | Identificador del reporte asociado |
+| id | int | Identificador único del evento |
+| creationDate | date | Fecha de creacion del evento |
+| madeBy | varchar(150) | Nombre del creador del evento |
+| description | varchar(500) | Descripcion del evento |
 
-**Tasks**  
-Descripción: Colección que representa las tareas de un proyecto.
+**Sprint**  
+Descripción: Colección que representa los sprint de un proyecto.
 | Campo | Tipo de dato | Descripción |
 |---------------|----------------|------------------------------------------|
-| id | int | Identificador único de la tarea |
-| title | nvarchar(150) | Titulo de la tarea |
-| description | nvarchar(max) | Descripción de la tarea |
-| status | nvarchar(50) | Estado actual de la tarea |
-| creationDate | int | Identificador del proyecto asociado |
-| userStoriesId | int | Identificador de la Historia de usuario asociada |
-
-**SubgroupAssignments**  
-Descripción: Colección que representa los miembros de un grupo de trabajo.
-| Campo | Tipo de dato | Descripción |
-|--------------|----------------|------------------------------------------|
-| subgroupId | int | Identificador del subgrupo |
-| userId | int | Identificador del usuario |
-| joinDate | date | Fecha de ingreso al grupo |
-| Role | nvarchar(150) | Funciones específicas que los miembros del equipo |
-
-**Sprints**  
-Descripción: Colección que representa los sprints de un proyecto.
-| Campo | Tipo de dato | Descripción |
-|-------------|----------------|------------------------------------------|
 | id | int | Identificador único del sprint |
-| title | nvarchar(255) | Nombre del sprint |
-| goal | nvarchar(255) | Objetivo del sprint |
+| name | varchar(150) | Nombre del sprint |
+| status | varchar(50) | Estado del sprint |
 | startDate | date | Fecha de inicio del sprint |
-| endDate | date | Fecha de fin del sprint |
-| proyectoId | int | Identificador del proyecto asociado |
+| endDate | date | Fecha de cierre del sprint |
+| projectId | int | Identificador del proyecto asociado al sprint |
 
 **Meeting**  
-Descripción: Colección que almacena un resumen de las reuniones de cada Sprint.
+Descripción: Colección que representa las reuniones de un proyecto.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador de la reunion |
+| title | varchar(150) | Titulo de la reunion |
+| date | date | Fecha de la reunion |
+| time | time | Duracion de la reunion |
+| link | varchar(150) | Link de la reunion |
+| recordingLink | varchar(150) | Link de la grabacion de la reunion |
+| hostId | int | Identificador del creador de la reunion |
+
+**Statistic**  
+Descripción: Colección que representa las estadisticas de un sprint.
+| Campo | Tipo de dato | Descripción |
+|-------------|----------------|------------------------------------------|
+| id | int | Identificador unico de las estadisticas |
+| sprintId | int | Identificador del sprint |
+
+**Member**  
+Descripción: Colección que almacena los miembros de un proyecto.
 | Campo | Tipo de dato | Descripción |
 |---------------|----------------|------------------------------------------|
-| id | int | Identificador único de la reunión |
-| meetingType | nvarchar(150) | Tipo de reunión en el sprint |
-| date | datetime | Fecha de la reunión |
-| time | time | Hora de la reunión |
-| duration | nvarchar(50) | Duracion de la reunión |
-| location | nvarchar(150) | Lugar de la reunion |
-| agenda | nvarchar(max) | Lista de temas tratados en la reunion |
-| notes | nvarchar(max) | Concluciones y anunciones que se comunicaron en la reunion |
+| userId | int | Identificador único del miembro y identificador del User que hereda sus atributos |
+| roleId | int | Identificador del rol del miembro |
+| biography | varchar(500) | Biografia del miembro |
+| lastname | varchar(150) | Apellido del miembro |
+| firstname | nvarchar(150) | Nombre del miembro |
 
-**MeetingInvolvement**  
-Descripción: Colección que registra a los que asistieron a cada reunion.
+**Project**  
+Descripción: Colección que los proyectos que el sistema guarda.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| meetingId | int | Identificador de la reunion asociada |
-| attendance | nvarchar(255)| Guarda el estado de su asistencia |
-| feedback | datetime | Retroalimentacion |
-| userId | int | Identificador del usuario asociado |
+| id | int | Identificador del proyecto asociado |
+| name | nvarchar(255)| Nombre del proyecto |
+| description | datetime | Descripcion del proyecto |
+| startDate | int | Fecha de inicio del proyecto |
+| status | int | Estado del proyecto |
+| companyId | int | Identificador de la compañia asociada |
 
-**Bugs**  
-Descripción: Colección que representa los reportes generados para los proyectos.
+**Company**  
+Descripción: Colección que representa los usuarios Compañia que pueden crear proyectos.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| id | int | Identificador único del reporte |
-| title| nvarchar(150) | Titulo del reporte |
-| descripcion | nvarchar(max) | Descripcion del reporte |
-| status| nvarchar(150) | Estado del problema a cual el reporte se refiere |
-| priority | nvarchar(150) | Nivel de prioridad del problema |
-| createdAt | date | Fecha de creacion del reporte |
-| stepsToReproduce | nvarchar(max) | Pasos para reproducir el problema del reporte |
-| assigneeId | int | Identificador de la persona que debe resolver el problema |
-| createdBy | int | Identificador del creador del reporte |
+| name | varchar(150) | Nombre de la compañia |
+| userId | int | Identificador único de la compañia y identificador del User que hereda sus atributos |
 
-**TaskAssignments**  
-Descripción: Colección que almacena las relaciones entre tareas y personal asignado a completarlas.
+**Task**  
+Descripción: Colección que almacena las tareas de un user story.
 | Campo | Tipo de dato | Descripción |
 |------------|----------------|------------------------------------------|
-| taskId | int | Identificador de la tarea |
-| userId | int | Identificador del usuario |
+| id | int | Identificador de la tarea |
+| name | int | Nombre de la tarea |
+| description | int | Descripcion de la tarea |
+| status | int | Estado de la tarea |
+| startDate | int | Fecha de inicio de la tarea |
+| endDate | int | Fecha de cierre de la tarea |
+| userStorieId | int | Identificador del user storie asociado a la tarea |
+| memberId | int | Identificador del miembro que hara la tarea |
 
-**Epics**  
-Descripción: Colección de las epicas del proyecto.
-| Campo | Tipo de dato | Descripción |
-|--------------|----------------|------------------------------------------|
-| id | int | Identificador único de la herramienta |
-| title| nvarchar(200)| Nombre de la epica |
-| projectId | int | Identificador del proyecto asociado a la epica |
-| description | nvarchar(max)| Descripcion de la epica |
-| status | nvarchar(50 )| Estado de la epica |
-| creationDate | date | Fecha de creacion de la epica |
-
-**UserStories**  
+**UserStorie**  
 Descripción: Colección de los user stories relacionados a las epicas de un proyecto.
 | Campo | Tipo de dato | Descripción |
 |--------------|----------------|------------------------------------------|
-| id | int | Identificador del user storie |
+| id | int | Identificador unico del user storie |
+| title | varchar(150) | Titulo del User Storie |
+| description | varchar(500) | Descripcion del user storie |
+| status | varchar(150) | Estado del user storie |
 | epicId | int | Identificador de la epica asociada |
-| title | nvarchar(150) | Titulo del User Storie |
-| description | nvarchar(max) | Descripcion del user storie |
-| acceptanceCriteria | nvarchar(max) | Criterios de aceptacion del user storie |
-| status | nvarchar(50) | Estado de avance del user storie |
-| creationDate | int | Fecha de creacion del user storie |
-| subgroupId | int | Identificador del grupo que resolvera las tareas de este user storie |
+| backlogId | int | Identificador del backlog asociado |
+| effort | varchar(150) | Explicacion del esfuerzo para cumplirlo |
+
+**UserStorie**  
+Descripción: Colección de los user stories relacionados a las epicas de un proyecto.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador unico del user storie |
+| title | varchar(150) | Titulo del User Storie |
+| description | varchar(500) | Descripcion del user storie |
+| status | varchar(150) | Estado del user storie |
+| epicId | int | Identificador de la epica asociada |
+| backlogId | int | Identificador del backlog asociado |
+| effort | varchar(150) | Explicacion del esfuerzo para cumplirlo |
+
+**Backlog**  
+Descripción: Colección del backlog para los user stories en un sprint.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador unico del backlog |
+| projectId | int | Identificador del projecto asociado |
+| sprintId | int | Identificador del sprint asociado |
+
+**Role**  
+Descripción: Colección de los roles que un miembro del equipo puede tener.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador unico del rol |
+| name | varchar(150) | Nombre del rol |
+
+**Epic**  
+Descripción: Colección de los epicas de un proyecto.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| id | int | Identificador unico de la epica |
+| name | varchar(150) | Nombre de la epica |
+| description | varchar(500) | Descripcion de la epica |
+
+**Participation**  
+Descripción: Colección de los participantes de una reunion.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| meetingId | int | Identificador unico de una reunion |
+| memberId | varchar(150) | Identificador unico de un miembro |
+
+**MembersInProject**  
+Descripción: Colección de los miembros de un proyecto.
+| Campo | Tipo de dato | Descripción |
+|--------------|----------------|------------------------------------------|
+| projectId | int | Identificador unico de un proyecto |
+| memberId | varchar(150) | Identificador unico de un miembro |
 
 #### 4.8.1. Database Diagram
 
 Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Clientes, Empleados, Proyectos, Tareas y Requisitos. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades. Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
 
-![alt text](assets/images/HorizonPgAdmin.png)
+![alt text](assets/images/HorizonDBVF.png)
 [Descargar PDF](assets/images/HorizonPgAdmin.pdf)
 
 ## Capítulo V: Product Implementation, Validation & Deploymentt
@@ -2203,7 +2215,6 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 ![Commits](assets/TB1-new/landingc1.jpeg)
 ![Commits](assets/TB1-new/landingc2.jpeg)
-
 
 - Estefano Oscar Jaque Peña: 2
 - Diego Rolin Acuña Tomas: 1
