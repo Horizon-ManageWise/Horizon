@@ -1872,8 +1872,7 @@ Antes de iniciar el desarrollo, es crucial definir claramente los requisitos de 
 Con base en los requisitos, hemos seleccionado las siguientes tecnologías para Horizon:
 
 - **Frontend:** Angular para una interfaz de usuario dinámica y receptiva, que permita una interacción fluida con las herramientas de gestión y análisis.
-- **Backend:** Express.js sobre Node.js, ofreciendo una solución robusta para manejar la lógica del servidor y las operaciones con la base de datos.
-- **Base de Datos:** PostgreSQL para almacenar de manera segura y eficiente la información crítica sobre proyectos e iniciativas.
+
 
 - **Configuración del Entorno de Desarrollo** ItelliJ IDEA
 
