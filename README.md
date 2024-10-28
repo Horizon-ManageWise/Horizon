@@ -2268,6 +2268,168 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - Valentino Sandoval Paiva: 59
 - Sergio André Gómez Vallejos: 13
 
+
+### 5.2.2 Sprint 2
+
+Durante el Sprint 2, nuestro enfoque principal fue el desarrollo de la primera aplicación web del proyecto Horizon utilizando Angular, además de mejorar la landing page previamente desarrollada. Este sprint fue fundamental para implementar las primeras funcionalidades de la aplicación, asegurando también la inclusión de la funcionalidad de internacionalización (i18n).
+
+#### 5.2.2.1 Sprint Planning 2.
+
+En este Sprint 2, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
+
+
+| Sprint #                            | Sprint 2                                                                                                                                                                                                                                                                                   |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
+| **Date**                            | 10/10/2024                                                                                                                                                                                                                                                                                 |
+| **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                   |
+| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
+| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
+| **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar, Sergio Gómez                                                                                                                                                |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
+| **Sprint 2 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Aplicación Web desde firebase. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
+| **Sprint 2 Velocity**               | 23 Story Points |
+| **Sum of Story Points**             | 18 Story Points Atendidos|
+
+#### 5.2.2.2 Sprint Backlog 2.
+
+Para el segundo sprint backlog, recopilamos historias de usuario relacionadas a la aplicación web. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una aplicación web mas concreta y completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
+
+
+| sprint #      | Sprint 2                                      |                 |                                                   |                                                                                                                            |                       |                              |                                                           |
+| ------------- | --------------------------------------------- | --------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- | --------------------------------------------------------- |
+| User<br>Story |                                               | Work-Item /Task |                                                   |                                                                                                                            |                       |                              |                                                           |
+| ID            | Title                                         | ID              | Title                                             | Description                                                                                                                | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
+| US08          | Visualización de User Stories en el Timeline | TA001           | Implementación de la sección TimeLine | Visualizar y analisar el avance de cada sprints  | 1 horas                | Sergio André Gómez Vallejos | Done                                                      |
+| US09          | Detalles de User Stories en el Timeline             | TA001           | Implementación de los detalles de cada use story |Visualización de los detalles | 1 horas                | Sergio André Gómez Vallejos    | Done                                                      |
+| US10          | Estimación de Esfuerzo en User Stories                      | TA001           | Implementación de la vista de la estimación de esfuerzo  | Visualización de la estimación de cada user story  | 1 horas                | Sergio André Gómez Vallejos   | Done                                                      |
+| US11          | Visualización de Estadísticas del Rendimiento del Equipo               | TA001           | Implementación de la estadisticas de cada sprint  |Visualización de las estadísticas de rendimiento de los sprints | 1 horas                | Sergio André Gómez Vallejos   | Done                                                      |
+
+
+Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
+
+#### 5.2.2.3 Development Evidence for Sprint Review.
+
+| Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
+| ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Frontend-Web-Application| tp1/Sergio-Gómez   | 4414741cd8540f7c729a524faf2f27e85e011fb2                | feat: add files   |Se añade los archivos al github | 27/09/2024  |
+| Frontend-Web-Application| tp1/Sergio-Gómez   | f742ac5c292376710b9fe719260090f7e3d31efd         | feat: fix a error  | Se arregla un error  | 27/09/2024   |
+| Frontend-Web-Application | tp1/Sergio-Gómez   | 341fced91af0e0632ad2bd4b5249e075c1e12faf          | fead: add section Timeline  | Se añade la sección Timeline con cada detaller y historias de usuario    | 27/09/2024   |
+| Frontend-Web-Application | tp1/Sergio-Gómez   | 530b500fddfe8d2c252f76443404057d398b3737     | Feat:add section Statistic   | Se añade la sección de estadistica con un diagrama de barras por cada sprint | 27/09/2024  |
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review.
+
+
+| Repository                                                            | Branch             | Commit Id                                | Commit Message           | Commit Message Body                         | Committed on (Date)     |
+| --------------------------------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | ------------------------------------------- | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Estefano  | 4823259                                  | Initial commit           | Created the README file.                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Estefano  | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Valentino  | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Valentino  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US13 gherkin | Se añade el db Timeline | 27/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US14 gherkin | Se añade el db Statistic | 27/10/2024              |
+
+Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
+
+#### 5.2.2.5 Execution Evidence for Sprint Review.
+
+
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+
+
+### 5.2.3 Sprint 3
+
+Durante el Sprint 3, nuestro enfoque principal fue el desarrollo del BackEnd de Horizon utilizando java, además de mejorar el FrontEnd. Este sprint fue fundamental para implementar las primeras funcionalidades del BackEnd.
+
+#### 5.2.3.1 Sprint Planning 3.
+
+En este Sprint 2, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
+
+
+| Sprint #                            | Sprint 3                                                                                                                                                                                                                                                                                   |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
+| **Date**                            | 27/10/2024                                                                                                                                                                                                                                                                                 |
+| **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                   |
+| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
+| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
+| **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar, Sergio Gómez                                                                                                                                                |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
+| **Sprint 3 Goal**                   | Nuestro enfoque está en finalizar el BackEnd individual, cada uno con su Bounded Context lanzarlo localmente. Creemos que esto, nos ayudara a mejorar y a entender el BackEnd. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
+| **Sprint 3 Velocity**               | 23 Story Points |
+| **Sum of Story Points**             | 18 Story Points Atendidos|
+
+#### 5.2.3.2 Sprint Backlog 3.
+
+
+Para el tercer sprint backlog, recopilamos historias de usuario relacionadas al Backend. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
+
+
+| sprint #      | Sprint 3                                      |                 |                                                   |                                                                                                                            |                       |                              |                                                           |
+| ------------- | --------------------------------------------- | --------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- | --------------------------------------------------------- |
+| User<br>Story |                                               | Work-Item /Task |                                                   |                                                                                                                            |                       |                              |                                                           |
+| ID            | Title                                         | ID              | Title                                             | Description                                                                                                                | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
+| US08          | Visualización de User Stories en el Timeline | TA001           | Implementación de la sección TimeLine | Visualizar y analisar el avance de cada sprints  | 1 horas                | Sergio André Gómez Vallejos | Done                                                      |
+| US09          | Detalles de User Stories en el Timeline             | TA001           | Implementación de los detalles de cada use story |Visualización de los detalles | 1 horas                | Sergio André Gómez Vallejos    | Done                                                      |
+| US10          | Estimación de Esfuerzo en User Stories                      | TA001           | Implementación de la vista de la estimación de esfuerzo  | Visualización de la estimación de cada user story  | 1 horas                | Sergio André Gómez Vallejos   | Done                                                      |
+| US11          | Visualización de Estadísticas del Rendimiento del Equipo               | TA001           | Implementación de la estadisticas de cada sprint  |Visualización de las estadísticas de rendimiento de los sprints | 1 horas                | Sergio André Gómez Vallejos   | Done                                                      |
+
+Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
+
+#### 5.2.3.3 Development Evidence for Sprint Review.
+
+
+| Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
+| ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Backend-Web-Applications | dev   | 1b462d3                                  | feat: add dates of timeline  |Se añade los datos para el db timeline  | 27/09/2024  |
+| Backend-Web-Applications | dev   | 3cd1ffc                                  | feat: add dates of statistic              | Se añade los datos para el db statistic  | 27/09/2024   |
+| Backend-Web-Applications | dev   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 27/09/2024   |
+| Backend-Web-Applications | dev   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 27/09/2024  |
+| Backend-Web-Applications | dev   | 47d2070                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       |27/09/2024   |
+
+
+
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review.
+
+
+| Repository                                                            | Branch             | Commit Id                                | Commit Message           | Commit Message Body                         | Committed on (Date)     |
+| --------------------------------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | ------------------------------------------- | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Estefano  | 4823259                                  | Initial commit           | Created the README file.                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Estefano  | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Valentino  | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Valentino  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US13 gherkin | Se añade el db Timeline | 27/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US14 gherkin | Se añade el db Statistic | 27/10/2024              |
+
+Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
+
+#### 5.2.3.5 Execution Evidence for Sprint Review.
+
+
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review.
+
+Evidencia del BackEnd
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review.
+
+
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint.
+
+
 ### Conclusiones
 
 - Valentino Sandoval:
