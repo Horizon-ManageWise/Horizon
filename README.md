@@ -2689,6 +2689,7 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 
 Preguntas principales: ¿Se te hace facil encontrar lo que buscas? ¿Siente que es facil de usar? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
 
+
 #### 5.3.2. Registro de Entrevistas.
 
 **Entrevista 1**
@@ -2699,10 +2700,30 @@ Link de entrevista: https://acortar.link/uRvayO
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
 |-------------|------------------|------|------------|--------|----------|
-| Daniel  | Mamani | 19   | Lima, Lima | 0:00   | 4:07     |
+| Daniel  | Mamani | 23   | Lima, Lima | 0:00   | 4:07     |
 
+Descripción: Daniel, trabajador de Interbank de proyectos agiles, comenta que la aplicación web en la sección de Statistic que en la parte de members este un poco más detallado de cada Miembro, ya que solo se muestra el nombre y su rol, sin embargo todo lo demas sobre el diagrama de barras y la informacion de esta , le parece agradable y didactico para el rendimiento de cada sprint. En la sección de TimeLine, observa la linea de tiempo y la lista de user stories debajo de esta, comenta que le parece bien la sección ya que cumple con sus espectativas al momento de ver la linea de tiempo de cada sprint, visualize  que le hace facil encontrar lo que busca en una aplicación web para proyectos agiles.
 
 #### 5.3.3. Evaluaciones según heurísticas.
+
+Durante las entrevistas se identificaron varios problemas relacionados con las heurísticas de usabilidad y la arquitectura de la información.
+
+## Escala de severidad
+
+| Nivel | Descripción                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: ----------------------------- |
+| 2     | Problema menor: ----------------------------- |
+| 3     | Problema mayor: ----------------------------- |
+| 4     | Problema muy grave: ----------------------------- |
+
+## Tabla resumen
+
+| # | Problema                                                     | Escala de severidad | Heurística/Principio violada(o)                                  |
+|---|-------------------------------------------------------------|---------------------|-------------------------------------------------------------------|
+| 1 | -----------------------------     | 2                   | Usability: -----------------------------    |
+| 2 | -----------------------------| 1                   | Usability: -----------------------------    |
+| 3 | ----------------------------- | 1               | Feedback y visibilidad del sistema (en relación con la usabilidad) |
 
 
 ### 5.4. Video About-the-Product.
