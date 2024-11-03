@@ -2386,6 +2386,7 @@ Para el segundo sprint backlog, recopilamos historias de usuario relacionadas a 
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise
 
+
 #### 5.2.2.3 Development Evidence for Sprint Review.
 
 | Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
@@ -2643,11 +2644,10 @@ Durante el Sprint 3, nuestro enfoque principal fue el desarrollo del BackEnd de 
 
 En este Sprint 2, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
 
-
 | Sprint #| Sprint 3                                                                                                                                                                                                                                                                                   |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
-| **Date**| 27/10/2024                                                                                                                                                                                                                                                                                 |
+| **Date**| 27/10/2024 |                                                                                                                                                                                                                                                                                |
 | **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                   |
 | **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
 | **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
@@ -2658,8 +2658,6 @@ En este Sprint 2, durante la reunión de planificación, el equipo seleccionará
 | **Sum of Story Points**             | 18 Story Points Atendidos|
 
 #### 5.2.3.2 Sprint Backlog 3.
-
-
 Para el tercer sprint backlog, recopilamos historias de usuario relacionadas al Backend. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
 
 | Sprint # | Sprint 3|||||||
@@ -2787,6 +2785,19 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise-backend
 
 ### Backlog Bounded Context
+
+**MembersController**
+
+|Tag| Http Verbs | Endpoint| Summary| Description| OperationId|
+|-|-|-|-|-|-|
+| Epics | GET| /api/v1/members| Get all members| Retrieve all embers| GetAllMembers|
+| Epics | GET| /api/v1/members/{id}| Get members by members ID  | Get an epic by its id | GetMembersById |
+| Epics | POST | /api/v1/members/| Create a new Member| Create a new Member| CreateMember|
+| Epics | DELETE| /api/v1/members/{id}| Delete an Member| Remove an specific Member| DeleteMember|
+| Epics | PUT| /api/v1/members/{id}| Update an Member| Update an specific Member| UpdateMember|
+
+![Ejemplo de Imagen](assets/TB2/backlog/members/swagger3.png)
+![Ejemplo de Imagen](assets/TB2/backlog/members/pgadmin.png)
 
 **EpicsController**
 
@@ -2933,30 +2944,144 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 
 ### 5.3 Validation Interviews
 
-### 5.3.1. Diseño de Entrevistas. 
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
+
+Preguntas principales: ¿Se te hace facil encontrar lo que buscas? ¿Siente que es facil de usar? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
 
 #### 5.3.2. Registro de Entrevistas.
 
+**Trabajador**
+**Entrevista 1**
+
+![Ejemplo de Imagen](assets/TB2/backlog/members/entrevista.jpg)
+Link de entrevista: https://acortar.link/uRvayO
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| Daniel  | Mamani | 23   | Lima, Lima | 0:00   | 4:07     |
+
+Descripción: Daniel, trabajador de Interbank de proyectos agiles, comenta que la aplicación web en la sección de Statistic que en la parte de members este un poco más detallado de cada Miembro, ya que solo se muestra el nombre y su rol, sin embargo todo lo demas sobre el diagrama de barras y la informacion de esta , le parece agradable y didactico para el rendimiento de cada sprint. En la sección de TimeLine, observa la linea de tiempo y la lista de user stories debajo de esta, comenta que le parece bien la sección ya que cumple con sus espectativas al momento de ver la linea de tiempo de cada sprint, visualize  que le hace facil encontrar lo que busca en una aplicación web para proyectos agiles.
+<br>
+
+**Entrevista 2**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+
+<br>
+
+**Entrevista 3**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+
+
+<br>
+
+**Entrevista 4**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+
+
+
+<br>
+
+**Entrevista 5**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+<br>
+
+
+**Entrevista 6**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+<br>
+
 #### 5.3.3. Evaluaciones según heurísticas.
+
+Durante las entrevistas se identificaron varios problemas relacionados con las heurísticas de usabilidad y la arquitectura de la información.
+
+## Escala de severidad
+
+| Nivel | Descripción                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: ----------------------------- |
+| 2     | Problema menor: ----------------------------- |
+| 3     | Problema mayor: ----------------------------- |
+| 4     | Problema muy grave: ----------------------------- |
+
+## Tabla resumen
+
+| # | Problema                                                     | Escala de severidad | Heurística/Principio violada(o)                                  |
+|---|-------------------------------------------------------------|---------------------|-------------------------------------------------------------------|
+| 1 | -----------------------------     | 2                   | Usability: -----------------------------    |
+| 2 | -----------------------------| 1                   | Usability: -----------------------------    |
+| 3 | ----------------------------- | 1               | Feedback y visibilidad del sistema (en relación con la usabilidad) |
+
 
 ### 5.4. Video About-the-Product.
 
+
 ### Conclusiones
 
-- Valentino Sandoval:<br>
-  Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.<br>
+- Valentino Sandoval:
+  Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
 
 - Estefano Oscar Jaque Peña:<br>
-  En el desarrollo del proyecto , se utilizaron varias metodologías y herramientas de gestión de proyectos, incluido Lean UX, a lo largo del proyecto, lo que permitió definir claramente los problemas y las hipótesis a validar. Para garantizar que los requerimientos del usuario se alinearan con las soluciones propuestas, se debieron desarrollar User Stories, Product Backlog y Sprints. Los diagramas de clases y las bases de datos también brindaron una base sólida para la implementación del sistema. Este proceso permitió optimizar la organización y el flujo de trabajo dentro del equipo, lo que permitió la entrega de un producto eficiente y adaptable a las necesidades del mercado.<br>
+  En el desarrollo del proyecto , se utilizaron varias metodologías y herramientas de gestión de proyectos, incluido Lean UX, a lo largo del proyecto, lo que permitió definir claramente los problemas y las hipótesis a validar. Para garantizar que los requerimientos del usuario se alinearan con las soluciones propuestas, se debieron desarrollar User Stories, Product Backlog y Sprints. Los diagramas de clases y las bases de datos también brindaron una base sólida para la implementación del sistema. Este proceso permitió optimizar la organización y el flujo de trabajo dentro del equipo, lo que permitió la entrega de un producto eficiente y adaptable a las necesidades del mercado.
 
 - John Arévalo:<br>
-  El desarrollo de Horizon nos enseñó la importancia de crear sistemas bien estructurados como el Navigation System, Labeling System, y Searching System para garantizar una experiencia de usuario fluida. A lo largo del proyecto, aprendimos cómo la integración de tecnologías avanzadas puede no solo optimizar la gestión de proyectos, sino también facilitar la colaboración y la toma de decisiones informadas. De esta manera se promovió una cultura de innovación y a su vez, se logró profundizar en nuevas áreas.<br>
+  El desarrollo de Horizon nos enseñó la importancia de crear sistemas bien estructurados como el Navigation System, Labeling System, y Searching System para garantizar una experiencia de usuario fluida. A lo largo del proyecto, aprendimos cómo la integración de tecnologías avanzadas puede no solo optimizar la gestión de proyectos, sino también facilitar la colaboración y la toma de decisiones informadas. De esta manera se promovió una cultura de innovación y a su vez, se logró profundizar en nuevas áreas.
+  <br>
 
 - Sergio Gómez: <br>
-  En el desarrollo del proyecto Horizon, aprendimos la importancia de la visualización interactiva y su impacto en la planificación y seguimiento de tareas en un equipo ágil. Al integrar un timeline que permite gestionar User Stories y Sprints, así como descargar gráficos de rendimiento, Horizon nos mostró cómo la organización clara y visual del trabajo puede mejorar significativamente la colaboración y la toma de decisiones. Este proyecto también nos enseñó la relevancia de contar con herramientas que faciliten la comunicación entre roles clave, como el Scrum Master y el Product Owner, lo que contribuye al éxito general del equipo.<br>
-  
-- Diego Acuña<br>
-  La creación y diseño de ManageWise han sido un esfuerzo integral enfocado en optimizar la gestión de proyectos para startups de desarrollo de software. A través de una serie de sistemas bien estructurados, como el Navigation System, Labeling System, y Searching System, se ha buscado proporcionar una experiencia fluida y centrada en las necesidades de los usuarios, tanto para líderes o gerentes de empresas como para equipos de desarrollo.<br>
+  En el desarrollo del proyecto Horizon, aprendimos la importancia de la visualización interactiva y su impacto en la planificación y seguimiento de tareas en un equipo ágil. Al integrar un timeline que permite gestionar User Stories y Sprints, así como descargar gráficos de rendimiento, Horizon nos mostró cómo la organización clara y visual del trabajo puede mejorar significativamente la colaboración y la toma de decisiones. Este proyecto también nos enseñó la relevancia de contar con herramientas que faciliten la comunicación entre roles clave, como el Scrum Master y el Product Owner, lo que contribuye al éxito general del equipo.
+ <br>
 
 ### Bibliografia
 
