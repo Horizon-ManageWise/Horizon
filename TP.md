@@ -152,7 +152,6 @@ En el Sprint 2, el objetivo principal fue realizar cada alumno un bounded contex
 | **US18**|Integración de gráfico radial de habilidades|**TA014**|Separar los miembros en equipos de trabajo por sus habilidades|Se implementa la capacidad de asignar un miembro a un equipo de trabajo que los separa por especialidad|2 horas|Diego Acuña |
 | **US34**|Sistema de evaluación automática de productividad|**TA015**| Mostrar con una grafica el avance| Se implementa una grafica en la seccion de miembros que permite conocer el avance respecto al total de tareas asignadas| 2 horas |Diego Acuña|
 
-
 ### 5.2.2.3. Development Evidence for Sprint Review.
 
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
