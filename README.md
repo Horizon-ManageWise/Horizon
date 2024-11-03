@@ -2692,6 +2692,7 @@ Preguntas principales: ¿Se te hace facil encontrar lo que buscas? ¿Siente que 
 
 #### 5.3.2. Registro de Entrevistas.
 
+**Trabajador**
 **Entrevista 1**
 
 ![Ejemplo de Imagen](assets/TB2/backlog/members/entrevista.jpg)
@@ -2703,6 +2704,84 @@ Link de entrevista: https://acortar.link/uRvayO
 | Daniel  | Mamani | 23   | Lima, Lima | 0:00   | 4:07     |
 
 Descripción: Daniel, trabajador de Interbank de proyectos agiles, comenta que la aplicación web en la sección de Statistic que en la parte de members este un poco más detallado de cada Miembro, ya que solo se muestra el nombre y su rol, sin embargo todo lo demas sobre el diagrama de barras y la informacion de esta , le parece agradable y didactico para el rendimiento de cada sprint. En la sección de TimeLine, observa la linea de tiempo y la lista de user stories debajo de esta, comenta que le parece bien la sección ya que cumple con sus espectativas al momento de ver la linea de tiempo de cada sprint, visualize  que le hace facil encontrar lo que busca en una aplicación web para proyectos agiles.
+<br>
+
+**Entrevista 2**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+
+<br>
+
+**Entrevista 3**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+
+
+<br>
+
+**Entrevista 4**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+
+
+
+<br>
+
+**Entrevista 5**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+<br>
+
+
+**Entrevista 6**
+
+--- imagen de la entrevista 
+Link de entrevista: video de entrevista
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+
+
+Descripción: 
+<br>
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
