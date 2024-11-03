@@ -2516,9 +2516,42 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review.
 
-Evidencia del BackEnd
+Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise-backend
 
 ### Backlog Bounded Context
+
+**EpicsController**
+
+|Tag| Http Verbs | Endpoint| Summary| Description| OperationId|
+|-|-|-|-|-|-|
+| Epics | GET| /api/v1/epics| Get all recordings| Retrieve all epics| GetAllEpics|
+| Epics | GET| /api/v1/epics/{id}| Get epics by epic ID  | Get an epic by its id | GetEpicById |
+| Epics | POST| /api/v1/epics| Create a new epic| Create a new epic| CreateEpic|
+| Epics | DELETE| /api/v1/epics/{id}| Delete an epic| Remove an specific epic| DeleteEpic|
+
+<br>
+
+**SprintsController**
+
+|Tag| Http Verbs | Endpoint| Summary| Description| OperationId|
+|-|-|-|-|-|-|
+| Sprints | GET| /api/v1/sprint| Get all sprints| Retrieve all sprints| GetAllSprints|
+| Sprints | GET| /api/v1/sprint/{id}| Get sprint by sprint Id  | Get a sprint by its id | GetSprintById |
+| Sprints | POST| /api/v1/sprint| Create a new sprint| Create a new sprint| CreateSprint|
+| Sprints | DELETE| /api/v1/sprint/{id}| Delete an sprint| Remove an specific sprint| DeleteSprint|
+
+<br>
+
+**UserStoriesController**
+
+| Tag| HTTP Verb | Endpoint| Summary| Description| OperationId|
+|-|-|-|-|-|-|
+| User Stories  | GET| /api/v1/user-stories| Get all user stories| Retrieve all user stories| GetAllUserStories|
+| User Stories  | GET| /api/v1/user-stories/{id}| Get user story by ID| Get a user story by its ID| GetUserStoryById|
+| User Stories  | POST| /api/v1/user-stories| Create a new user story| Create a new user story| CreateUserStory|
+| User Stories  | PUT| /api/v1/user-stories/{id}| Update user story| Update an existing user story| UpdateUserStory|
+| User Stories  | DELETE| /api/v1/user-stories/{id}| Delete user story| Remove a specific user story| DeleteUserStory|
+| User Stories  | POST| /api/v1/user-stories/{id}/task-items/{taskid} | Create a new task| Add a new task to a specific user story | CreateTaskInUserStory |
 
 ![Ejemplo de Imagen](assets/TB2/backlog/swagger1.png)
 
