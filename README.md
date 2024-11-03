@@ -2785,28 +2785,82 @@ Descripción:
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
-Durante las entrevistas se identificaron varios problemas relacionados con las heurísticas de usabilidad y la arquitectura de la información.
+# Evaluación de Heurísticas y Principios de UX para ManageWise
 
-## Escala de severidad
+## Información General
 
-| Nivel | Descripción                                                                                       |
-|-------|---------------------------------------------------------------------------------------------------|
-| 1     | Problema superficial: ----------------------------- |
-| 2     | Problema menor: ----------------------------- |
-| 3     | Problema mayor: ----------------------------- |
-| 4     | Problema muy grave: ----------------------------- |
+- **Carrera:** Ingeniería de Software
+- **Curso:** Desarrollo de Aplicaciones Open Source
+- **Sección:** WS53
+- **Profesor:** Juan Antonio Flores Moroco
+- **Site o App a Evaluar:** ManageWise
 
-## Tabla resumen
+## Tareas a Evaluar
 
-| # | Problema                                                     | Escala de severidad | Heurística/Principio violada(o)                                  |
-|---|-------------------------------------------------------------|---------------------|-------------------------------------------------------------------|
-| 1 | -----------------------------     | 2                   | Usability: -----------------------------    |
-| 2 | -----------------------------| 1                   | Usability: -----------------------------    |
-| 3 | ----------------------------- | 1               | Feedback y visibilidad del sistema (en relación con la usabilidad) |
+### Segmento Encargados
+1. **Navegación entre funcionalidades de la aplicación:**
+   - Evaluar la facilidad para navegar entre las distintas secciones, como estadísticas de barras, línea de tiempo de user stories, y backlog de sprints.
+
+2. **Actualización de datos:**
+   - Evaluar la funcionalidad y facilidad para actualizar información en el backlog, así como los detalles de los issues y las user stories.
+
+3. **Registro de entidades:**
+   - Evaluar la funcionalidad y facilidad para registrar nuevos miembros y sus roles, así como la creación de user stories y epics.
+
+### Segmento Distribuidores
+1. **Visualización de datos:**
+   - Evaluar la facilidad para acceder a las estadísticas de los sprints y los historiales de los issues.
+
+2. **Reuniones y conferencias:**
+   - Evaluar la facilidad para programar reuniones y almacenar la información de las conferencias.
+
+## Escala de Severidad
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente lanzamiento. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## Tabla de Resumen de Problemas
+
+| #  | Problema                                                      | Escala de Severidad | Heurística/Principio violado(a)                      |
+|----|--------------------------------------------------------------|---------------------|-----------------------------------------------------|
+| 1  | Dificultad para navegar entre las secciones (estadísticas, backlog) | 3                   | Usability: Libertad y control del usuario           |
+| 2  | Actualizaciones de datos no se reflejan inmediatamente en la interfaz | 2                   | Usability: Visibilidad del estado del sistema        |
+| 3  | Registro de nuevos miembros es confuso y no tiene validaciones adecuadas | 3                   | Inclusive Design: Proporciona experiencias comparables |
+| 4  | Información de las reuniones no se almacena correctamente | 4                   | Usability: Prevención de errores                     |
+| 5  | Duplicación de user stories en el backlog                   | 1                   | Usability: Libertad y control del usuario           |
+
+## Descripción de Problemas
+
+### Problema #1:
+- **Tarea Evaluada:** Navegación entre funcionalidades de la aplicación.
+- **Recomendación:** Implementar una barra de navegación más clara y accesible, con etiquetas que indiquen el contenido de cada sección.
+
+### Problema #2:
+- **Tarea Evaluada:** Actualización de datos.
+- **Recomendación:** Introducir un sistema de actualización automática o un botón visible de "Actualizar" para reflejar los cambios en tiempo real.
+
+### Problema #3:
+- **Tarea Evaluada:** Registro de entidades.
+- **Recomendación:** Agregar validaciones en los formularios de registro de miembros para evitar la introducción de datos incorrectos o incompletos.
+
+### Problema #4:
+- **Tarea Evaluada:** Reuniones y conferencias.
+- **Recomendación:** Asegurar que la información de las reuniones se almacene correctamente, con opciones para editar y eliminar reuniones previas.
+
+### Problema #5:
+- **Tarea Evaluada:** Registro de user stories.
+- **Recomendación:** Implementar una validación que impida la creación de user stories duplicadas y notifique al usuario cuando una historia ya existe en el backlog.
 
 
 ### 5.4. Video About-the-Product.
 
+Link del FrontEnd: https://acortar.link/0u3YOg
 
 ### Conclusiones
 
