@@ -2455,7 +2455,64 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
 #### 5.2.3.5 Execution Evidence for Sprint Review.
 
+- Acontinuación se entrega el enlace a la landing page desplegada, actualizada y la última version: https://horizon-managewise.github.io/LandingPage/
 
+![Ejemplo de Imagen](assets/TB2/backlog/Landingpage/lan1.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/Landingpage/lan2.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/Landingpage/lan3.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/Landingpage/lan4.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/Landingpage/lan5.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/Landingpage/lan6.jpeg)
+
+- **INICIO DE SESION**
+
+![Ejemplo de Imagen](assets/TB2/backlog/Landingpage/lan7.jpeg)
+
+- **REGISTRO DE USUARIO**
+
+![Ejemplo de Imagen](assets/TB2/backlog/Landingpage/lan8.jpeg)
+
+## FrontEnd
+
+- **Bounded Context: Stadistics**
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es1.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es2.jpeg)
+
+- **Bounded Context: Backlog**
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es3.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es4.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es5.jpeg)
+
+
+- **Bounded Context: Issues**
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es6.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es7.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es8.jpeg)
+
+- **Bounded Context: Meeting**
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es9.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es10.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es11.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es12.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/front/es13.jpeg)
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review.
 
@@ -2464,14 +2521,117 @@ Evidencia del BackEnd
 ### Backlog Bounded Context
 
 ![Ejemplo de Imagen](assets/TB2/backlog/swagger1.png)
+
 ![Ejemplo de Imagen](assets/TB2/backlog/swagger2.png)
+
 ![Ejemplo de Imagen](assets/TB2/backlog/pgadmin.png)
+
+### Meeting Bounded Context
+
+**MeetingController**
+
+| Tag      | Http Verbs | Endpoint                   | Summary                  | Description                | OperationId               |
+|----------|------------|----------------------------|--------------------------|----------------------------|---------------------------|
+| Meetings | POST       | /api/v1/meetings           | Create a new meeting     | Create a new meeting       | CreateMeeting             |
+| Meetings | GET        | /api/v1/meetings           | Get all meetings         | Retrieve all meetings      | GetAllMeetings            |
+| Meetings | GET        | /api/v1/meetings/{meetingId} | Get meeting by id        | Retrieve a meeting by ID   | GetMeetingById            |
+| Meetings | PUT        | /api/v1/meetings/{meetingId} | Update a meeting         | Update an existing meeting  | UpdateMeeting             |
+| Meetings | DELETE     | /api/v1/meetings/{meetingId} | Delete a meeting         | Remove a meeting           | DeleteMeeting             |
+
+**RecordingController**
+
+| Tag        | Http Verbs | Endpoint                              | Summary                        | Description                          | OperationId             |
+|------------|------------|---------------------------------------|--------------------------------|--------------------------------------|-------------------------|
+| Recordings | GET        | /api/recordings                       | Get all recordings             | Retrieve all recordings              | GetAllRecordings        |
+| Recordings | GET        | /api/recordings/meeting/{meetingId}  | Get recordings by meeting ID   | Retrieve recordings for a specific meeting | GetRecordingsByMeetingId |
+| Recordings | GET        | /api/recordings/meeting/name/{meetingTitle} | Get recordings by meeting title | Retrieve recordings for meetings by title | GetRecordingsByMeetingTitle |
+| Recordings | POST       | /api/recordings                       | Create a new recording         | Create a new recording               | CreateRecording         |
+| Recordings | DELETE     | /api/recordings/{recordingId}        | Delete a recording             | Remove a specific recording          | DeleteRecording         |
+
+
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/back1.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/back2.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/backe3.jpeg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/backen4.jpeg)
 
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review.
 
+- Para poder realizar la sección del Sprint Se decidió usar la plataforma de Figma donde se realizaron los mockups, wireframes y demás de manera colaborativa por parte del equipo y, con esta misma plataforma, se realizó el prototipo de la aplicacion.
 
+- Para poder entrar al figma del grupo es necesario contar con una cuenta ya registrada y haber iniciado sesión en la plataforma mencionada.
+
+
+- En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+Landing Page Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+![Ejemplo de Imagen](assets/TB2/backlog/des1.jpeg)
+
+- En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Ejemplo de Imagen](assets/TB2/backlog/des2.jpeg)
+
+- Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Ejemplo de Imagen](assets/TB2/backlog/des3.jpeg)
+
+- Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://horizon-managewise.github.io/LandingPage/
+
+**FRONTEND DESPLEGADO----------------------------------------**
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint.
+
+En esta sección, el equipo detalla el proceso de implementación de las actividades realizadas durante el Sprint, destacando la colaboración y el esfuerzo conjunto en la creación de los productos. Se presentan capturas de pantalla de los analíticos de colaboración y los commits en GitHub, que reflejan la participación activa de cada miembro del equipo.
+
+Participación del Equipo Todos los miembros del equipo han contribuido de manera significativa en la implementación de los siguientes productos:
+
+Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desarrollo de la landing page, asegurando que la interfaz sea atractiva y funcional. En esta ultima versión de la landing page no se realizo ningun gran cambio significativo en las ultimas semanas.
+
+**Landing Page**
+
+![Commits](assets/TB1-new/landingc1.jpeg)
+
+![Commits](assets/TB1-new/landingc2.jpeg)
+
+- Estefano Oscar Jaque Peña: 2
+- John Telesforo Arevalo Meza: 10
+- Valentino Sandoval Paiva: 1
+- Sergio André Gómez Vallejos: 8
+
+**Report:**
+
+
+- Estefano Oscar Jaque Peña: 
+- John Telesforo Arevalo Meza: 
+- Valentino Sandoval Paiva: 
+- Sergio André Gómez Vallejos: 
+
+## Frontend:
+
+![alt text](assets\TB2\backlog\commil1.jpeg)
+
+![alt text](assets\TB2\backlog\commil2.jpeg)
+
+
+
+- Estefano Oscar Jaque Peña: 3
+- John Telesforo Arevalo Meza: 5
+- Valentino Sandoval Paiva: 1
+- Sergio André Gómez Vallejos: 5
+
+**Backend:**
+
+
+- Estefano Oscar Jaque Peña: 
+- John Telesforo Arevalo Meza: 
+- Valentino Sandoval Paiva: 
+- Sergio André Gómez Vallejos: 
 
 ### 5.3 Validation Interviews
 
