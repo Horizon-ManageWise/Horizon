@@ -2647,9 +2647,9 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 
 ## Frontend:
 
-![alt text](assets\TB2\backlog\commil1.jpeg)
+![alt text](assets/TB2/backlog/commil1.jpeg)
 
-![alt text](assets\TB2\backlog\commil2.jpeg)
+![alt text](assets/TB2/backlog/commil2.jpeg)
 
 
 
