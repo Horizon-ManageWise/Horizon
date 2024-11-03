@@ -2787,6 +2787,7 @@ Descripción:
 
 # Evaluación de Heurísticas y Principios de UX para ManageWise
 
+
 ## Información General
 
 - **Carrera:** Ingeniería de Software
