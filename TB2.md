@@ -2412,17 +2412,228 @@ Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f32
 
 Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
-#### 5.2.2.5 Execution Evidence for Sprint Review.
+### 5.2.2.5. Execution Evidence for Sprint Review.
+Durante este segundo sprint los integrantes del equipo desarrollaron los diferentes bounded context del dominio de ManageWise, con ayuda del framework Angular y los componentes de Angular Material.
+
+* John Arevalo 
+<br>
+
+![alt text](assets/images/bounded-context-task.jpg)
+
+<br>
+
+![alt text](assets/images/create-task2.png)
+<br>
+
+Link Video: https://drive.google.com/drive/folders/1rvTZbtVs2qm98oGLgsAnPNa0LdZUxVGQ?usp=drive_link
+
+* Jose Alejo 
+<br>
+
+![alt text](assets/images/ManageWiseCalendar.png)
+
+<br>
+
+![alt text](assets/images/ManageWiseCalendar2.png)
+<br>
+
+Link Video: https://drive.google.com/file/d/1v8EwJOrF5gchaASTJghXZPNo3dXT1mUW/view?usp=sharing
+
+* Estefano Jaque - bounded context Reportes
+<br>
+
+![alt text](assets/images/exevidencJaque.jpg)
+
+Link Video: https://drive.google.com/file/d/11q8YnRJGMzfx-n6AbBIfxvugxmS4xuVw/view?usp=sharing
+
+* Valentino Sandoval - bounded context Reportes
+<br>
+
+![alt text](assets/images/TP_images/BDTools.jpeg)
+
+Link Video: https://drive.google.com/file/d/1EGZlBOQEw8RfEzKQKlg4hFatObwWQRFM/view?usp=sharing 
+
+- Diego Acuña - bounded context Members
+  <br>
+
+![alt text](assets/images/BC-member/ManageWise-members-1.png)
+
+Link Video: https://drive.google.com/file/d/13PZa8b2W9nk5ZUygtHGwDKG9wxmd99qW/view?usp=sharing
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+**Introducción:**
+Durante este Sprint, se logró la documentación y despliegue de varios Endpoints correspondientes a los diferentes *bounded contexts* implementados por el equipo. Se utilizó OpenAPI para describir de forma estructurada los servicios Web desarrollados. A continuación, se presenta la relación de los Endpoints, las acciones soportadas y la respectiva documentación disponible.
+
+Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, parámetros, ejemplos de respuesta, así como capturas de la interacción con los Web Services utilizando datos de muestra. También se proporciona el URL del repositorio de los Web Services y los *commit IDs* correspondientes al trabajo realizado en la documentación durante este Sprint.
+
+### Tabla de Endpoints Documentados
+
+| Bounded Context   | Endpoint                     | Acción    | Verbo HTTP | Parámetros               | Ejemplo de Respuesta | Documentación/URL     |
+|-------------------|------------------------------|-----------|------------|--------------------------|----------------------|-----------------------|
+| Herramientas      | `/api/tools`                  | Obtener lista de herramientas | GET | `?category={string}`     | `[{"id": 1, "name": "Tool A"}]` |Herramientas: https://managewise-7c633.web.app/tool/tools|
+| Calendar          | `/api/calendar/events`        | Crear evento | POST       | `{"title": string, "date": string}` | `{"id": 1, "title": "Event A"}` | Calendar: https://managewisecalendar.web.app/calendar/activities |
+| Reportes          | `/api/reports`                | Obtener reportes generados | GET  | `?type={string}`          | `[{"id": 1, "type": "weekly"}]` | Reportes: https://managewise-reports.web.app/reports |
+| Tareas            | `/api/tasks/{id}`             | Eliminar tarea | DELETE   | `{id: int}`               | `{"message": "Task deleted"}` | Tareas:https://daos-2402-managewise-tasks.web.app/tasks |
+| Miembros          | `/api/members`                | Listar miembros | GET    | `?role={string}`          | `[{"id": 1, "name": "Member A"}]` | Miembros:https://managewise-si729-team-manage.web.app/member/members |
+
+### Ejemplos de Respuesta y Explicación
+
+#### **GET** `/api/tools`
+**Descripción**: Obtiene una lista de herramientas filtradas por categoría (opcional).
+
+**Parámetros**:
+- `category`: Filtro opcional para la categoría de la herramienta (string).
+
+**Ejemplo de Llamada**:
+
+GET /api/tools?category=software
+
+**Ejemplo de Respuesta**:
+db.json:<br>
+
+ {<br>
+      "id": 2,<br>
+      "projectName": "Proyecto 2",<br>
+      "transmitter": "Desarrollador",<br>
+      "issuerName": "Carlos Ramírez",<br>
+      "title": "Problemas con la base de datos",<br>
+      "Summary": "El servidor de base de datos se ha caído durante varias horas.",<br>
+      "detailedDescription": "El servidor de base de datos ha estado inactivo desde las 8:00 AM, afectando la disponibilidad de la plataforma.",<br>
+      "dateTime": "24 de septiembre-11:15 AM",<br>
+      "assignedTo": "Equipo de Infraestructura",<br>
+      "priority": "Alta",<br>
+      "suggestedActions": "Reiniciar el servidor y revisar la configuración de la base de datos."<br>
+    },<br>
+
+### Capturas de Pantalla
+
+A continuación, se presentan algunas capturas de pantalla que muestran la interacción con los servicios Web, utilizando datos de muestra:
+
+**Captura 1**: Visualización de la lista de reportes `/api/tools`.
+
+![alt text](assets/images/reportes_endpoint.png)
+
+### Repositorio y Commits
+
+- **Repositorio de Web Services**: 
+
+- GitHub - Proyecto Web Services: https://github.com/Horizon-ManageWise/Horizon
+
+- **Commits relacionados con la documentación**:
+  - Managewise-Herramientas: https://github.com/SoyValzzz/Managewise-tools 
+  - Managewise-Calendar https://github.com/Firtness/ManageWiseCalendar
+  - Managewise-Reportes: (https://github.com/estefanojaque/Managewise-reportes)
+  - Managewise-Tareas: https://github.com/JohnArvlo/my-json-server-tareas 
+  
+   Documentación de Tareas
+
+### Resumen de Acciones del Equipo
+
+| Integrante        | Acciones Realizadas                            |
+|-------------------|------------------------------------------------|
+| Valentino Sandoval | Diseño e implementación de bounded context herramientas |
+| Jose Alejo        | Diseño e implementación de bounded context Calendar |
+| Estefano Jaque    | Diseño e implementación de bounded context Reportes |
+| John Arevalo      | Diseño e implementación de bounded context Tareas |
+| Diego Acuña       | Diseño e implementación de bounded context Miembros |
+
+Este Sprint se centró en mejorar la documentación de los Web Services desarrollados para cada uno de los bounded contexts, facilitando su integración y uso en futuras iteraciones.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional y mejorada. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
+
+Link landing page: https://horizon-managewise.github.io/LandingPage/
+
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-4.png)
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-5.png)
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-1.png)
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-2.png)
+![alt text](assets/images/Execution-Evidence-for-Sprint-Review-3.png)
+
+<br>
+
+#### Web Application:
+
+* John Arevalo  
+
+![alt text](assets/images/bounded-context-task.jpg)
+
+Link: https://daos-2402-managewise-tasks.web.app/tasks
+
+* Estefano Oscar Jaque Peña  
+**Internacionalización:**  
+English:
+![alt text](assets/images/TP_images/ENReports.png)
+Español:
+![alt text](assets/images/TP_images/ESReports.png)
+**ADD Reports:**
+![alt text](assets/images/TP_images/ADDReports.png)
+![alt text](assets/images/TP_images/ADDReports2.png)
+
+**EDIT Reports:**
+![alt text](assets/images/TP_images/EDITReports.png)
+
+![alt text](assets/images/TP_images/EDITReports2.png)
+
+**DELETE Reports**  
+Se eliminara el report que tiene todas las partes con PRUEBA EDIT
+
+![alt text](assets/images/TP_images/EDITReports2.png)
+
+![alt text](assets/images/TP_images/DELETEReports.png)
+
+**Link:**  
+https://managewise-reports.web.app
+
+* Jose Alejo  
+
+![alt text](assets/images/ManageWiseCalendar.png)
+
+![alt text](assets/images/ManageWiseCalendar2.png)
+
+Link: https://managewisecalendar.web.app/calendar/activities
+
+
+* Valentino Sandoval
+**ADD Tools:**
+![alt text](assets/images/TP_images/ADDTOOLS1.jpeg)
+![alt text](assets/images/TP_images/ADDTOOLS2.jpeg)
 
 
 
-#### 5.2.2.6 Services Documentation Evidence for Sprint Review.
-
-#### 5.2.2.7 Software Deployment Evidence for Sprint Review.
-
-#### 5.2.2.8 Team Collaboration Insights during Sprint.
+**EDIT Tools:**
+![alt text](assets/images/TP_images/EDIT.jpeg)
 
 
+**DELETE Tools**  
+Se eliminara el report que tiene todas las partes con PRUEBA EDIT
+
+![alt text](assets/images/TP_images/DELETE.jpeg)
+
+Link: 
+
+https://managewise-vsp.web.app
+
+
+- Diego Acuña - bounded context Members
+  <br>
+
+![alt text](assets/images/BC-member/ManageWise-members-1.png)
+
+Link : https://managewise-si729-member.web.app/member/members
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+|Integrante|Acciones realizadas durante el sprint|
+|-|-|
+| Valentino Sandoval|Diseño e implementacion de bounded context herramientas|
+| Jose Alejo|Diseño e implementacion de bounded context Calendar|
+| Estefano Jaque|Diseño e implementacion de bounded context Reportes|
+| John Arevalo| Diseño e implementacion de bounded context Tareas|
+| Diego Acuña|Diseño e implementacion de bounded context Miembros|
+
+![alt text](assets/images/Insigths.jpg)
 
 ### 5.2.3 Sprint 3
 
@@ -2436,7 +2647,7 @@ En este Sprint 2, durante la reunión de planificación, el equipo seleccionará
 | Sprint #| Sprint 3                                                                                                                                                                                                                                                                                   |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
-| **Date**                            | 27/10/2024                                                                                                                                                                                                                                                                                 |
+| **Date**| 27/10/2024                                                                                                                                                                                                                                                                                 |
 | **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                   |
 | **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
 | **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
@@ -2451,20 +2662,20 @@ En este Sprint 2, durante la reunión de planificación, el equipo seleccionará
 
 Para el tercer sprint backlog, recopilamos historias de usuario relacionadas al Backend. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
 
-| Sprint # | Sprint 3                                                   |                                                          |                       |                                           |             |                   |         |
-|----------|-----------------------------------------------------------|----------------------------------------------------------|-----------------------|-------------------------------------------|-------------|-------------------|---------|
-| User Story |                                                      | Work-Item / Task                                         |     |                                |       |                   |         |
+| Sprint # | Sprint 3|||||||
+|--|--|--|--|--|--|--|--|
+| User Story || Work-Item / Task||||||
 |ID |Title|ID|Title|Description|Estimation (Hours)|Assigned To|Status|
-| TS001    | Endpoint para visualizar User Stories en el Timeline     | T01                                                      | Implementar el endpoint "/api/timeline/user-stories" | Crear la lógica para implementar el endpoint que permita visualizar las User Stories en el timeline. | 3 horas     | Sergio Gómez       | Done    |
-|          |                                                         | T02                                                      | Realizar pruebas de respuesta del endpoint         | Probar la respuesta del endpoint con solicitudes GET y verificar que la lista de User Stories se devuelve. | 2 horas     | Sergio Gómez       | Done    |
-|          |                                                         | T03                                                      | Validar manejo de un timeline vacío                 | Implementar la lógica que maneje el caso en que no hay User Stories en el sistema. | 1 hora      | Sergio Gómez       | Done    |
-| TS002    | Endpoint para visualización de estadísticas del rendimiento del equipo | T01                                                      | Implementar el endpoint "/api/stats/team-performance" | Crear la lógica para implementar el endpoint que devuelva las estadísticas del rendimiento del equipo. | 3 horas     | Sergio Gómez       | Done    |
-|          |                                                         | T02                                                      | Probar respuesta del endpoint                       | Probar la respuesta del endpoint con solicitudes GET y verificar que se devuelvan las estadísticas correctamente. | 2 horas     | Sergio Gómez       | Done    |
-|          |                                                         | T03                                                      | Validar estadísticas vacías                          | Implementar la lógica que maneje el caso en que no hay User Stories y devuelva estadísticas adecuadas. | 1 hora      | Sergio Gómez       | Done    |
-| TS003    | Endpoint para gestión de videoconferencias              | T01                                                      | Implementar el endpoint "/api/meetings"            | Crear la lógica para implementar el endpoint que permita crear, editar y eliminar videoconferencias. | 3 horas     | Valentino Sandoval | Done    |
-|          |                                                         | T02                                                      | Realizar pruebas de creación de videoconferencias   | Probar la creación de videoconferencias con solicitudes POST y validar la respuesta. | 2 horas     | Valentino Sandoval | Done    |
-|          |                                                         | T03                                                      | Validar eliminación de videoconferencias            | Probar la eliminación de videoconferencias con solicitudes DELETE y validar la respuesta. | 1 hora      | Valentino Sandoval | Done    |
-| TS004    | Endpoint para gestión de grabaciones de videoconferencias | T01                                                      | Implementar el endpoint "/api/meetings/recordings"  | Crear la lógica para implementar el endpoint que gestione las grabaciones de videoconferencias. | 3 horas     | Valentino Sandoval | Done    |
+| TS001| Endpoint para visualizar User Stories en el Timeline     | T01                                                      | Implementar el endpoint "/api/timeline/user-stories" | Crear la lógica para implementar el endpoint que permita visualizar las User Stories en el timeline. | 3 horas     | Sergio Gómez       | Done    |
+||| T02| Realizar pruebas de respuesta del endpoint| Probar la respuesta del endpoint con solicitudes GET y verificar que la lista de User Stories se devuelve. | 2 horas| Sergio Gómez| Done|
+||| T03| Validar manejo de un timeline vacío| Implementar la lógica que maneje el caso en que no hay User Stories en el sistema. | 1 hora| Sergio Gómez| Done|
+| TS002| Endpoint para visualización de estadísticas del rendimiento del equipo | T01| Implementar el endpoint "/api/stats/team-performance" | Crear la lógica para implementar el endpoint que devuelva las estadísticas del rendimiento del equipo. |3 horas| Sergio Gómez| Done    |
+||| T02| Probar respuesta del endpoint|Probar la respuesta del endpoint con solicitudes GET y verificar que se devuelvan las estadísticas correctamente.| 2 horas| Sergio Gómez       | Done    |
+||| T03| Validar estadísticas vacías| Implementar la lógica que maneje el caso en que no hay User Stories y devuelva estadísticas adecuadas.| 1 hora| Sergio Gómez| Done|
+| TS003| Endpoint para gestión de videoconferencias| T01| Implementar el endpoint "/api/meetings"            | Crear la lógica para implementar el endpoint que permita crear, editar y eliminar videoconferencias. | 3 horas| Valentino Sandoval | Done|
+||| T02| Realizar pruebas de creación de videoconferencias| Probar la creación de videoconferencias con solicitudes POST y validar la respuesta. | 2 horas| Valentino Sandoval | Done|
+||| T03| Validar eliminación de videoconferencias| Probar la eliminación de videoconferencias con solicitudes DELETE y validar la respuesta. | 1 hora| Valentino Sandoval | Done|
+| TS004| Endpoint para gestión de grabaciones de videoconferencias | T01| Implementar el endpoint "/api/meetings/recordings"  | Crear la lógica para implementar el endpoint que gestione las grabaciones de videoconferencias. | 3 horas     | Valentino Sandoval | Done    |
 |          |                                                         | T02                                                      | Probar filtrado de grabaciones                      | Probar la funcionalidad de filtrado de grabaciones con parámetros válidos y verificar la respuesta. | 2 horas     | Valentino Sandoval | Done    |
 |          |                                                         | T03                                                      | Validar edición de enlaces de grabación             | Probar la edición de enlaces de grabación y validar la respuesta del sistema. | 1 hora      | Valentino Sandoval | Done    |
 | TS005    | Endpoint para creación de User Stories en el Backlog    | T01                                                      | Implementar el endpoint "/api/backlog/user-stories" | Crear la lógica para implementar el endpoint que permita crear User Stories en el backlog. | 3 horas     | Jhon Arevalo      | Done    |
@@ -2492,11 +2703,6 @@ Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f32
 | Backend-Web-Applications | dev   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 27/09/2024   |
 | Backend-Web-Applications | dev   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 27/09/2024  |
 | Backend-Web-Applications | dev   | 47d2070                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       |27/09/2024   |
-
-
-
-
-
 
 #### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 
@@ -2713,15 +2919,12 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 
 ![alt text](assets/TB2/backlog/commil2.jpeg)
 
-
-
 - Estefano Oscar Jaque Peña: 3
 - John Telesforo Arevalo Meza: 5
 - Valentino Sandoval Paiva: 1
 - Sergio André Gómez Vallejos: 5
 
 **Backend:**
-
 
 - Estefano Oscar Jaque Peña: 
 - John Telesforo Arevalo Meza: 
@@ -2730,32 +2933,30 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 
 ### 5.3 Validation Interviews
 
+### 5.3.1. Diseño de Entrevistas. 
+
 #### 5.3.2. Registro de Entrevistas.
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
 ### 5.4. Video About-the-Product.
 
-
 ### Conclusiones
 
-- Valentino Sandoval:
-  Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
+- Valentino Sandoval:<br>
+  Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.<br>
 
 - Estefano Oscar Jaque Peña:<br>
-  En el desarrollo del proyecto , se utilizaron varias metodologías y herramientas de gestión de proyectos, incluido Lean UX, a lo largo del proyecto, lo que permitió definir claramente los problemas y las hipótesis a validar. Para garantizar que los requerimientos del usuario se alinearan con las soluciones propuestas, se debieron desarrollar User Stories, Product Backlog y Sprints. Los diagramas de clases y las bases de datos también brindaron una base sólida para la implementación del sistema. Este proceso permitió optimizar la organización y el flujo de trabajo dentro del equipo, lo que permitió la entrega de un producto eficiente y adaptable a las necesidades del mercado.
+  En el desarrollo del proyecto , se utilizaron varias metodologías y herramientas de gestión de proyectos, incluido Lean UX, a lo largo del proyecto, lo que permitió definir claramente los problemas y las hipótesis a validar. Para garantizar que los requerimientos del usuario se alinearan con las soluciones propuestas, se debieron desarrollar User Stories, Product Backlog y Sprints. Los diagramas de clases y las bases de datos también brindaron una base sólida para la implementación del sistema. Este proceso permitió optimizar la organización y el flujo de trabajo dentro del equipo, lo que permitió la entrega de un producto eficiente y adaptable a las necesidades del mercado.<br>
 
 - John Arévalo:<br>
-  El desarrollo de Horizon nos enseñó la importancia de crear sistemas bien estructurados como el Navigation System, Labeling System, y Searching System para garantizar una experiencia de usuario fluida. A lo largo del proyecto, aprendimos cómo la integración de tecnologías avanzadas puede no solo optimizar la gestión de proyectos, sino también facilitar la colaboración y la toma de decisiones informadas. De esta manera se promovió una cultura de innovación y a su vez, se logró profundizar en nuevas áreas.
-  <br>
+  El desarrollo de Horizon nos enseñó la importancia de crear sistemas bien estructurados como el Navigation System, Labeling System, y Searching System para garantizar una experiencia de usuario fluida. A lo largo del proyecto, aprendimos cómo la integración de tecnologías avanzadas puede no solo optimizar la gestión de proyectos, sino también facilitar la colaboración y la toma de decisiones informadas. De esta manera se promovió una cultura de innovación y a su vez, se logró profundizar en nuevas áreas.<br>
 
 - Sergio Gómez: <br>
-  En el desarrollo del proyecto Horizon, aprendimos la importancia de la visualización interactiva y su impacto en la planificación y seguimiento de tareas en un equipo ágil. Al integrar un timeline que permite gestionar User Stories y Sprints, así como descargar gráficos de rendimiento, Horizon nos mostró cómo la organización clara y visual del trabajo puede mejorar significativamente la colaboración y la toma de decisiones. Este proyecto también nos enseñó la relevancia de contar con herramientas que faciliten la comunicación entre roles clave, como el Scrum Master y el Product Owner, lo que contribuye al éxito general del equipo.
-
-  <br>
+  En el desarrollo del proyecto Horizon, aprendimos la importancia de la visualización interactiva y su impacto en la planificación y seguimiento de tareas en un equipo ágil. Al integrar un timeline que permite gestionar User Stories y Sprints, así como descargar gráficos de rendimiento, Horizon nos mostró cómo la organización clara y visual del trabajo puede mejorar significativamente la colaboración y la toma de decisiones. Este proyecto también nos enseñó la relevancia de contar con herramientas que faciliten la comunicación entre roles clave, como el Scrum Master y el Product Owner, lo que contribuye al éxito general del equipo.<br>
   
 - Diego Acuña<br>
-  La creación y diseño de ManageWise han sido un esfuerzo integral enfocado en optimizar la gestión de proyectos para startups de desarrollo de software. A través de una serie de sistemas bien estructurados, como el Navigation System, Labeling System, y Searching System, se ha buscado proporcionar una experiencia fluida y centrada en las necesidades de los usuarios, tanto para líderes o gerentes de empresas como para equipos de desarrollo.
+  La creación y diseño de ManageWise han sido un esfuerzo integral enfocado en optimizar la gestión de proyectos para startups de desarrollo de software. A través de una serie de sistemas bien estructurados, como el Navigation System, Labeling System, y Searching System, se ha buscado proporcionar una experiencia fluida y centrada en las necesidades de los usuarios, tanto para líderes o gerentes de empresas como para equipos de desarrollo.<br>
 
 ### Bibliografia
 
