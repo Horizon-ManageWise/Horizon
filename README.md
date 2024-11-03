@@ -2461,6 +2461,12 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
 Evidencia del BackEnd
 
+### Backlog Bounded Context
+
+![Ejemplo de Imagen](assets/TB2/backlog/swagger1.png)
+![Ejemplo de Imagen](assets/TB2/backlog/swagger2.png)
+![Ejemplo de Imagen](assets/TB2/backlog/pgadmin.png)
+
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review.
 
 
