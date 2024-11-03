@@ -2520,6 +2520,19 @@ Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise
 
 ### Backlog Bounded Context
 
+**MembersController**
+
+|Tag| Http Verbs | Endpoint| Summary| Description| OperationId|
+|-|-|-|-|-|-|
+| Epics | GET| /api/v1/members| Get all members| Retrieve all embers| GetAllMembers|
+| Epics | GET| /api/v1/members/{id}| Get members by members ID  | Get an epic by its id | GetMembersById |
+| Epics | POST | /api/v1/members/| Create a new Member| Create a new Member| CreateMember|
+| Epics | DELETE| /api/v1/members/{id}| Delete an Member| Remove an specific Member| DeleteMember|
+| Epics | PUT| /api/v1/members/{id}| Update an Member| Update an specific Member| UpdateMember|
+
+![Ejemplo de Imagen](assets/TB2/backlog/members/swagger3.png)
+![Ejemplo de Imagen](assets/TB2/backlog/members/pgadmin.png)
+
 **EpicsController**
 
 |Tag| Http Verbs | Endpoint| Summary| Description| OperationId|
@@ -2553,11 +2566,15 @@ Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise
 | User Stories  | DELETE| /api/v1/user-stories/{id}| Delete user story| Remove a specific user story| DeleteUserStory|
 | User Stories  | POST| /api/v1/user-stories/{id}/task-items/{taskid} | Create a new task| Add a new task to a specific user story | CreateTaskInUserStory |
 
+
+
 ![Ejemplo de Imagen](assets/TB2/backlog/swagger1.png)
 
 ![Ejemplo de Imagen](assets/TB2/backlog/swagger2.png)
 
 ![Ejemplo de Imagen](assets/TB2/backlog/pgadmin.png)
+
+
 
 ### Meeting Bounded Context
 
@@ -2668,9 +2685,25 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 
 ### 5.3 Validation Interviews
 
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
+
+Preguntas principales: ¿Se te hace facil encontrar lo que buscas? ¿Siente que es facil de usar? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
 #### 5.3.2. Registro de Entrevistas.
 
+**Entrevista 1**
+
+![Ejemplo de Imagen](assets/TB2/backlog/members/entrevista.jpg)
+Link de entrevista: https://acortar.link/uRvayO
+
+
+| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
+|-------------|------------------|------|------------|--------|----------|
+| Daniel  | Mamani | 19   | Lima, Lima | 0:00   | 4:07     |
+
+
 #### 5.3.3. Evaluaciones según heurísticas.
+
 
 ### 5.4. Video About-the-Product.
 
