@@ -2942,7 +2942,18 @@ Landing Page Para la Landing Page se ha implementado utilizando GitHub Pages, lo
 
 Finalmente nos dará un link directo a la Landing page desplegada: https://horizon-managewise.github.io/LandingPage/
 
+Link del FrontEnd: https://acortar.link/0u3YOg
+
 **FRONTEND DESPLEGADO----------------------------------------**
+
+Para el backend, optamos por genrar un .jar del proyecto, con ayuda del comando mvn clean package, para posteriormente subir este proyecto a un repositorio y conectarlo con microsoft azure mediate github.
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/azure1.jpg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/azure2.png)
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/github.png)
+
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint.
 
@@ -3022,7 +3033,9 @@ Preguntas para los dos segmentos objetivos:
 **Entrevista 1**
 
 ![Ejemplo de Imagen](assets/TB2/backlog/members/entrevista.jpg)
+
 <br>
+
 Link de entrevista: https://acortar.link/uRvayO
 
 
@@ -3034,14 +3047,17 @@ Descripción: Daniel, trabajador de Interbank de proyectos agiles, comenta que l
 
 **Entrevista 2**
 
---- imagen de la entrevista 
-Link de entrevista: video de entrevista
+![Ejemplo de Imagen](assets\TB2\backlog\image.png)
 
-| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
-|--|--|--|--|--|--|
-| ----- -----  | ----- ----- | -----   | ----- -----,----- | 0:00   | 0:00   |
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a962_upc_edu_pe/ETp--oNNCMFJrlkuaOLrETcBhNihuWwdEYy-9cwQN_QZLw?e=MnJYup&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Descripción: 
+| Nombres | Apellidos | Edad | Distrito         | Inicio | Duración |
+|---------|-----------|------|------------------|--------|----------|
+| Verónica  | Paredes     | 29   | Miraflores, Lima | 0:00   | 7:30     |
+
+
+
+Descripción: Verónica Paredes, gerente de proyectos en una empresa de desarrollo de software (Grupo JPSP), considera que la aplicación facilita la navegación gracias a su organización, aunque sugiere etiquetas más intuitivas y jerarquías claras en secciones de alto uso. Valora el feedback visual en cada acción, especialmente en procesos de carga y guardado, y ve útil añadir notificaciones adicionales. Recomienda mejorar la accesibilidad con opciones para ajustar el tamaño de texto y contraste, además de una función para deshacer en pasos clave. Sugiere filtros personalizados, consistencia en botones, y un diseño móvil más adaptativo, así como opciones de personalización según el rol, lo que aumentaría la satisfacción y productividad del equipo.
 
 <br>
 
@@ -3064,16 +3080,17 @@ La entrevistada, quien trabaja en BCP en el desarrollo de aplicaciones bancarias
 
 **Entrevista 4**
 
---- imagen de la entrevista 
-Link de entrevista: video de entrevista
+![Ejemplo de Imagen](assets/TB2/backlog/entrevista4.png)
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/Eag6qkayGchJg_ZbkkIuD8YB-xIlWf2UnIK2Q0bHAWHG4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ck5ywT
 
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
 |-------------|------------------|------|------------|--------|----------|
-| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+| Rodrigo  | Acosta |  21  | San Borja, Lima | 0:00   | 07:41     |
 
 
 Descripción: 
+Rodrigo Acosta,miembro de un equipo de desarrollo de software, considera que la aplicación ayuda a mejorar el flujo de trabajo y la organización, sugiere una mejor distribución del contenido la misma. Tiene en gran consideración el hecho de contar una interfáz sencilla y amigable, aunque recomienda cuidar mas la estética. Sugiere agregar más opciones que faciliten la comunicación entre secciones, lo que aumentaría el flujo entre estas.
 
 
 
@@ -3081,16 +3098,17 @@ Descripción:
 
 **Entrevista 5**
 
---- imagen de la entrevista 
-Link de entrevista: video de entrevista
-
+![Ejemplo de Imagen](assets/TB2/backlog/entrevista5.png)
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/EVEYapnve1VIioPVnF-sbf8BUjm5g79MM0cykRFXY7nEyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsp8dA
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
 |-------------|------------------|------|------------|--------|----------|
-| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+| Nora  | Castro | 38   | Lince, Lima | 0:00   | 5:53     |
 
 
 Descripción: 
+Nora Castro, ex lider de un equipo de desarrollo de software, aprecia cómo la aplicación facilita la colaboración y organización. Destaca la simplicidad de la interfaz, la cual facilita la navegación. Sin embargo, algunas secciones se muestran confusas, lo que afectan la comprensión e interés por el uso de las mismas. Recomienda tener en cuenta la usabilidad, sugeriendo optimizar el diseño visual para clarificar la información y mejorar la experiencia del usuario.
+
 <br>
 
 
@@ -3219,6 +3237,8 @@ Tarea Evaluada: Consistencia en la interfaz.
 Recomendación: Realizar revisiones periódicas de la interfaz para asegurar que todos los elementos sean consistentes en diseño y funcionalidad, evitando confusiones y mejorando la experiencia general del usuario.
 
 ### 5.4. Video About-the-Product.
+
+Link del video de FrontEnd: [Video About-the-product](https://acortar.link/0u3YOg)
 
 
 ### Conclusiones
