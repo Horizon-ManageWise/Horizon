@@ -73,10 +73,9 @@ Product: ManageWise
 | :-----------------------------------: | :-----------------------------------------------: | 
 | https://github.com/Horizon-ManageWise | https://github.com/Horizon-ManageWise/Horizon.git |
 
-| URL del repositorio del backend                   | URL del repositorio del Frontend| URL del repositorio de la landing page |
+| URL del repositorio del backend | URL del repositorio del Frontend| URL del repositorio de la landing page |
 |  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
 | https://github.com/Horizon-ManageWise/managewise-backend | https://github.com/Horizon-ManageWise/Frontend-Web-Application | https://github.com/Horizon-ManageWise/LandingPage |
-
 
 TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes al integrarse un nuevo miembro al equipo y aportar con ideas nuevas para la landing page. Por ende, se muestran capturas de los commits del mes pasado y de este mes.
 
