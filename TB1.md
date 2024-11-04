@@ -2134,20 +2134,39 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 
 Para el primer sprint backlog, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
 
-![alt text](assets/TB1-new/saff.jpeg)
+![alt text](assets/TB1-new/trello1.png)
 
 | sprint #| Sprint 1|||||||
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | User<br>Story |                                               | Work-Item /Task |                                                   |                                                                                                                            |                       |                              |                                                           |
 | ID            | Title                                         | ID              | Title                                             | Description                                                                                                                | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
-| US01          | Vista General de Beneficios y Funcionalidades | TA001           | Implementación de Sección de Beneficios           | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.                      | 6 horas                | Arevalo Meza, John Telesforo | Done                                                      |
-| US02          | Enlaces Directos a Redes Sociales             | TA001           | Implementación de Enlaces a Redes Sociales        | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                        | 6 horas                | Sandoval Paiva, Valentino    | Done                                                      |
-| US03          | Registro Rápido y Simple                      | TA001           | Diseño e Implementación del Registro de Usuario   | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                        | 6 horas                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| US04          | Iniciar Sesión Rápido y Visible               | TA001           | Implementación de Enlace de Inicio de Sesión      | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                         | 6 horas                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| US05          | Resumen de la Empresa, Misión y Visión        | TA001           | Creación de Sección "Acerca de Nosotros"          | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                 | 6 horas                | Arevalo Meza, John Telesforo | Done                                                      |
-| US06          | Navegación Clara y Directa en la Página       | TA001           | Diseño del Menú de Navegación                     | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.  | 6 horas                | Acuña Tomas, Diego Rolin     | Done                                                      |
-| US07          | Acceder a Preguntas Frecuentes                | TA001           | Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | 6 horas                | Sergio André Gómez Vallejos  | Done                                                      |
-| US08          | Contactar via correo                          | TA001           | Implementación de Sección de Contacto             | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas.          | 6 horas                | Sergio André Gómez Vallejos  | Done                                                      |
+| US01          | Vista General de Beneficios y Funcionalidades | TA001           | Implementación de Sección de Beneficios           | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.| 6 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA002|crear componente angular|| 5 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA003|Integración con el repositorio        |     | 5 horas                | Arevalo Meza, John Telesforo | Done|
+| US02          | Enlaces Directos a Redes Sociales             | TA003           | Implementación de Enlaces a Redes Sociales        | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                        | 6 horas                | Sandoval Paiva, Valentino    | Done|
+| | | TA004|crear componente angular|| 5 horas| Sandoval Paiva, Valentino | Done|
+| | | TA005|Integración con el repositorio        |     | 5 horas                | Sandoval Paiva, Valentino | Done|
+| US03          | Registro Rápido y Simple                      | TA006          | Diseño e Implementación del Registro de Usuario   | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                        | 6 horas                | Jaque Peña, Estefano Oscar   | Done                                                      |
+| | | TA007|crear componente angular|| 5 horas| Jaque Peña, Estefano Oscar | Done|
+| | | TA008|Integración con el repositorio        |     | 5 horas                | Jaque Peña, Estefano Oscar| Done|
+| US04          | Iniciar Sesión Rápido y Visible               | TA004           | Implementación de Enlace de Inicio de Sesión      | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                         | 6 horas                | Jaque Peña, Estefano Oscar   | Done                                                      |
+| | | TA007|crear componente angular|| 5 horas| Jaque Peña, Estefano Oscar | Done|
+| | | TA008|Integración con el repositorio        |     | 5 horas                | Jaque Peña, Estefano Oscar | Done|
+| US05          | Resumen de la Empresa, Misión y Visión        | TA009           | Creación de Sección "Acerca de Nosotros"          | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                 | 6 horas                | Arevalo Meza, John Telesforo | Done                                                      |
+| | | TA010|crear componente angular|| 5 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA011|Integración con el repositorio        |     | 5 horas                | Arevalo Meza, John Telesforo | Done|
+| US06          | Navegación Clara y Directa en la Página       | TA012           | Diseño del Menú de Navegación                     | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.  | 6 horas                | Jaque Peña, Estefano Oscar    | Done                                                      |
+| | | TA013|crear componente angular|| 5 horas| Jaque Peña, Estefano Oscar | Done|
+| | | TA014|Integración con el repositorio        |     | 5 horas                | Jaque Peña, Estefano Oscar | Done|
+| US07          | Acceder a Preguntas Frecuentes                | TA015          | Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | 6 horas                | Sergio André Gómez Vallejos  | Done                                                      |
+| | | TA016|crear componente angular|| 5 horas|Sergio André Gómez Vallejos | Done|
+| | | TA017|Añadir funcionalidad de desplazo al toolbar con respecto a las preguntas (FAQ)  || 5 horas| Sergio André Gómez Vallejos | Done|
+| | | TA018|Verificar si al darle click se ve la respuesta|| 5 horas| Sergio André Gómez Vallejos | Done|
+| | | TA019|Implementar el diseño a las preguntas|| 5 horas| Sergio André Gómez Vallejos | Done|
+| US08          | Contactar via correo                          | TA020          | Implementación de Sección de Contacto             | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas.          | 6 horas                | Arevalo Meza, John Telesforo  | Done                                                      |
+| | | TA021|crear componente angular|| 5 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA022|Integración con el repositorio        |     | 5 horas                | Arevalo Meza, John Telesforo | Done|
+
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
 
