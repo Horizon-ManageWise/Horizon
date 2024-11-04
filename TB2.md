@@ -2895,6 +2895,8 @@ Landing Page Para la Landing Page se ha implementado utilizando GitHub Pages, lo
 
 Finalmente nos dará un link directo a la Landing page desplegada: https://horizon-managewise.github.io/LandingPage/
 
+Link del FrontEnd: https://acortar.link/0u3YOg
+
 **FRONTEND DESPLEGADO----------------------------------------**
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint.
