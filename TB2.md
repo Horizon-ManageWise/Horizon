@@ -2899,6 +2899,15 @@ Link del FrontEnd: https://acortar.link/0u3YOg
 
 **FRONTEND DESPLEGADO----------------------------------------**
 
+Para el backend, optamos por genrar un .jar del proyecto, con ayuda del comando mvn clean package, para posteriormente subir este proyecto a un repositorio y conectarlo con microsoft azure mediate github.
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/azure1.jpg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/azure2.png)
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/github.png)
+
+
 #### 5.2.3.8 Team Collaboration Insights during Sprint.
 
 En esta sección, el equipo detalla el proceso de implementación de las actividades realizadas durante el Sprint, destacando la colaboración y el esfuerzo conjunto en la creación de los productos. Se presentan capturas de pantalla de los analíticos de colaboración y los commits en GitHub, que reflejan la participación activa de cada miembro del equipo.
