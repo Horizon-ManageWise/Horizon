@@ -232,8 +232,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio especifico | Acciones Realizadas| Conclusiones|
 | :-- | :-- | -- |
-| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo.<br>**Sergio André Gómez Vallejos**<br>TB1:Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas.<br>**Estefano Oscar Jaque Peña**<br>TB2: Participé activamente en las reuniones del sprint backlog y discutí las funcionalidades implementadas, como el endpoint de incidencias y el frontend de reportes e historial. En cada reunión, expliqué mis avances y escuché el feedback del equipo, lo cual facilitó la alineación en objetivos.|**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br>**Sergio André Gómez Vallejos**<br>TB1:Durante mi participación desarrollé de manera puntual y clara con algunas secciones del documento, como los Mockoups, testing, etc. Me asegure de cumplir y transmitir los avances del documento del TB1.<br>**Valentino Sandoval Paiva**<br>TB1:En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.<br>**Estefano Oscar Jaque Peña**<br>TB2:Mi habilidad para comunicar claramente los detalles técnicos y funcionales del sistema contribuyó a una mejor comprensión y colaboración. La retroalimentación que recibí me ayudó a realizar ajustes en las funcionalidades, mejorando la precisión y efectividad del trabajo en equipo.|
-| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Sergio André Gómez Vallejos**<br>TB1:Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.<br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.<br>**Estefano Oscar Jaque Peña**<br>TB2: Documenté el proceso de implementación de endpoints, pruebas y manejo de errores en el sistema de incidencias. Redacté documentación detallada para la funcionalidad de filtro en incidencias, explicando tanto la lógica como los resultados esperados. Esta documentación se integró en el repositorio para consulta del equipo.| <br> **Valentino Sandoval Paiva**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br>**Sergio André Gómez Vallejos**<br>TB1:Durante el proyecto coloque y redacté documentación de manera clara y efectiva, como el testing, landing page, entre muchas otras secciones. Con el fin de mejorar y asegurar al documento para un proceso garantizado del proyecto. <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br><br>**Estefano Oscar Jaque Peña**<br>La documentación en TB2 fue clara y efectiva, adaptada tanto para desarrolladores como para otros miembros del equipo. Esto facilitó el flujo de trabajo y la comprensión de cada componente de manera detallada. Mi habilidad para escribir de manera clara y precisa impulsó una mejor alineación en el proyecto.|
+| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo.<br>**Sergio André Gómez Vallejos**<br>TB1:Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas.<br>**Estefano Oscar Jaque Peñaa**<br>TB2: Participé activamente en las reuniones del sprint backlog y discutí las funcionalidades implementadas, como el endpoint de incidencias y el frontend de reportes e historial. En cada reunión, expliqué mis avances y escuché el feedback del equipo, lo cual facilitó la alineación en objetivos.<br>**John Arévalo Meza**<br>TB2: Durante este sprint, implementé el endpoint "/api/backlog/user-stories" para la creación de User Stories y el endpoint "/api/backlog/user-stories/{id}" para su modificación. También colaboré en la integración de funcionalidades en el frontend para la modificación y eliminación de tareas, y apoyé en la gestión de sprints y asignación de items a cada sprint. Mi participación en reuniones de equipo fue clave para coordinar la planificación y resolver dudas técnicas.<br>**Valentino Sandoval Paiva**<br>TB2: Durante este sprint, desarrollé los endpoints para la gestión de videoconferencias y grabaciones, incluyendo pruebas para la creación, eliminación y filtrado de grabaciones en el sistema. Participé en reuniones del equipo de desarrollo donde aporté soluciones y expliqué el proceso de prueba y las validaciones necesarias para el manejo de grabaciones en el backend.|**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br>**Sergio André Gómez Vallejos**<br>TB1:Durante mi participación desarrollé de manera puntual y clara con algunas secciones del documento, como los Mockoups, testing, etc. Me asegure de cumplir y transmitir los avances del documento del TB1.<br>**Valentino Sandoval Paiva**<br>TB1:En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.<br>**Estefano Oscar Jaque Peñaa**<br>TB2:Mi habilidad para comunicar claramente los detalles técnicos y funcionales del sistema contribuyó a una mejor comprensión y colaboración. La retroalimentación que recibí me ayudó a realizar ajustes en las funcionalidades, mejorando la precisión y efectividad del trabajo en equipo.<br>**Jhon Telesforo Arevalo Meza** <br> TB2: Documenté los endpoints que desarrollé para la creación y modificación de User Stories en el backlog, describiendo de manera detallada la lógica de respuesta ante casos de datos inválidos o faltantes. También documenté las pruebas realizadas para validar que el sistema respondiera adecuadamente bajo diversas condiciones de prueba. Además, apoyé en la creación de documentación para la funcionalidad de gestión y asignación de tareas en el frontend.<br>**Valentino Sandoval Paiva**<br> TB2: Creé documentación detallada para los endpoints de videoconferencias y grabaciones. Especificando la estructura de las solicitudes y respuestas del sistema, así como los parámetros de filtrado y validación implementados en la API. También documenté los casos de prueba y condiciones específicas para el manejo de grabaciones vacías o datos inválidos.|
+| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Sergio André Gómez Vallejos**<br>TB1:Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.<br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.<br>**Estefano Oscar Jaque Peña**<br>TB2: Documenté el proceso de implementación de endpoints, pruebas y manejo de errores en el sistema de incidencias. Redacté documentación detallada para la funcionalidad de filtro en incidencias, explicando tanto la lógica como los resultados esperados. Esta documentación se integró en el repositorio para consulta del equipo.<br>**Jhon Arevalo Meza** <br> TB2: Me aseguré de comunicar claramente las especificaciones técnicas y los detalles funcionales de los endpoints que desarrollé, adaptando el lenguaje técnico para que todos en el equipo pudieran comprenderlo. Esto ayudó a alinear nuestras tareas de desarrollo y facilitó la resolución de dudas durante las sesiones de planificación. <br>**Valentino Sandoval Paiva** <br> TB2: Me esforcé en asegurar que todos comprendieran la lógica detrás de los endpoints y el manejo de grabaciones en el sistema. Mi explicación fue detallada y ajustada al nivel técnico de cada miembro, logrando un entendimiento común que facilitó la implementación y las pruebas.| <br> **Valentino Sandoval Paiva**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br>**Sergio André Gómez Vallejos**<br>TB1:Durante el proyecto coloque y redacté documentación de manera clara y efectiva, como el testing, landing page, entre muchas otras secciones. Con el fin de mejorar y asegurar al documento para un proceso garantizado del proyecto. <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br><br>**Estefano Oscar Jaque Peña**<br>La documentación en TB2 fue clara y efectiva, adaptada tanto para desarrolladores como para otros miembros del equipo. Esto facilitó el flujo de trabajo y la comprensión de cada componente de manera detallada. Mi habilidad para escribir de manera clara y precisa impulsó una mejor alineación en el proyecto. <br>**Jhon Arevalo Meza** <br> Mi documentación fue precisa y organizada, facilitando la comprensión de las funcionalidades implementadas y de las pruebas realizadas para validar su correcto funcionamiento. Al detallar la lógica de respuesta y pruebas para casos de datos faltantes, ayudé al equipo a comprender el funcionamiento del sistema, permitiéndoles realizar ajustes de manera autónoma en etapas posteriores. <br> **Valentino Sandoval Paiva**<br> TB2: La documentación fue clara y detallada, facilitando a los miembros del equipo la implementación y las pruebas del sistema de videoconferencias. Esto permitió una rápida integración con otras funcionalidades del proyecto, reduciendo dudas y mejorando la eficiencia en pruebas e implementación.|
 
 ## Capítulo I: Introducción
 
@@ -2697,10 +2697,10 @@ Para el tercer sprint backlog, recopilamos historias de usuario relacionadas al 
 | User Story || Work-Item / Task||||||
 |ID |Title|ID|Title|Description|Estimation (Hours)|Assigned To|Status|
 | TS001| Endpoint para visualizar User Stories en el Timeline    | TA001| Implementar el endpoint "/api/timeline/user-stories" | Crear la lógica para implementar el endpoint que permita visualizar las User Stories en el timeline. | 5 horas     | Sergio Gómez       | Done    |
-||| TA002| Realizar pruebas de respuesta del endpoint| Probar la respuesta del endpoint con solicitudes GET y verificar que la lista de User Stories se devuelve. | 2 horas| Sergio Gómez| Done|
+||| TA002| Realizar pruebas de respuesta del endpoint| Probar la respuesta del endpoint con solicitudes GET y verificar que la lista de User Stories se devuelve. | 6 horas| Sergio Gómez| Done|
 ||| TA003| Validar manejo de un timeline vacío| Implementar la lógica que maneje el caso en que no hay User Stories en el sistema. | 5 hora| Sergio Gómez| Done|
 | TS002| Endpoint para visualización de estadísticas del rendimiento del equipo | TA004| Implementar el endpoint "/api/stats/team-performance" | Crear la lógica para implementar el endpoint que devuelva las estadísticas del rendimiento del equipo. |5 horas| Sergio Gómez| Done    |
-||| TA005| Probar respuesta del endpoint|Probar la respuesta del endpoint con solicitudes GET y verificar que se devuelvan las estadísticas correctamente.| 2 horas| Sergio Gómez       | Done    |
+||| TA005| Probar respuesta del endpoint|Probar la respuesta del endpoint con solicitudes GET y verificar que se devuelvan las estadísticas correctamente.| 6 horas| Sergio Gómez       | Done    |
 ||| TA006| Validar estadísticas vacías| Implementar la lógica que maneje el caso en que no hay User Stories y devuelva estadísticas adecuadas.| 5 hora| Sergio Gómez| Done|
 | TS003| Endpoint para gestión de videoconferencias| TA007| Implementar el endpoint "/api/meetings"            | Crear la lógica para implementar el endpoint que permita crear, editar y eliminar videoconferencias. | 5 horas| Valentino Sandoval | Done|
 ||| TA008| Realizar pruebas de creación de videoconferencias| Probar la creación de videoconferencias con solicitudes POST y validar la respuesta. | 5 horas| Valentino Sandoval | Done|
@@ -2755,6 +2755,7 @@ Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f32
 Para el backend, optamos por genrar un .jar del proyecto, con ayuda del comando mvn clean package, para posteriormente subir este proyecto a un repositorio y conectarlo con microsoft azure mediate github.
 
 String connector para ingresar a la base de datos de postgress
+
 ![Ejemplo de Imagen](assets/TB2/backlog/backend/azure1.jpg)
 
 Dominio del servicio, asi como el repositorio del mismo
@@ -2790,9 +2791,30 @@ Repositorio con los comandos en workflows.yml
 | https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Valentino  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US13 gherkin | Se añade el db Timeline | 27/10/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US14 gherkin | Se añade el db Statistic | 27/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 19/09/2024              || https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US13 gherkin | Se añade el db Timeline | 27/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US14 gherkin | Se añade el db Statistic | 27/10/2024              || https://github.com/Horizon-ManageWise/Testing                         | feature/tb2-Sergio | [Commit ID for TS01]                    | feat/us                  | TS01.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS02]                    | feat/us                  | TS02.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS03]                    | feat/us                  | TS03.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS04]                    | feat/us                  | TS04.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS05]                    | feat/us                  | TS05.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS06]                    | feat/us                  | TS06.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for TS07]                    | feat/us                  | TS07.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS08]                    | feat/us                  | TS08.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US.feature]              | feat/us                  | US.feature                                   | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US16]                    | feat/us                  | US16.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US17]                    | feat/us                  | US17.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US18]                    | feat/us                  | US18.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US19]                    | feat/us                  | US19.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US20]                    | feat/us                  | US20.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US21]                    | feat/us                  | US21.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US32]                    | feat/us                  | US32.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US34]                    | feat/us                  | US34.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US39]                    | feat/us                  | US39.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Estefano | [Commit ID for US40]                    | feat/us                  | US40.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US41]                    | feat/us                  | US41.feature                                 | 04/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US42]                    | feat/us                  | US42.feature                                 | 04/11/2024              |
+
+![Ejemplo de Imagen](assets/TB2/test.png)
 
 Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
@@ -2837,6 +2859,9 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es5.jpeg)
 
 
+link deploy: https://backlog-managewise.web.app/backlog
+
+
 - **Bounded Context: Issues**
 
 Alumno: Estefano Oscar Jaque Peña - U202225466
@@ -2847,8 +2872,7 @@ Alumno: Estefano Oscar Jaque Peña - U202225466
 
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es8.jpeg)
 
-video explicativo: En el About the product 
-https://drive.google.com/drive/folders/11fY4sH9mdNNPkHBJyJAXibVjLx6tnq7-?usp=sharing
+
 
 Link repositorio Issues: https://github.com/estefanojaque/Managewise-FrontEnd-issues 
 
@@ -2866,11 +2890,18 @@ link deploy: https://managewise-reports-f0302.web.app/issues
 
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es13.jpeg)
 
+
+
+link deploy: https://me-mg-eca75.web.app
+
+video explicativo: En el About the product 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202225466_upc_edu_pe/EbMbbZYwuT5NmGD4beIUF7IB0CnEA-j5H2PGmbY2SC2zHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JJ2wzC
+
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review.
 
 Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise-backend
 
-<h3>Backlog Bounded Context</h3>
+<h3>Members Bounded Context - Valentino</h3>
 
 **MembersController**
 
@@ -2883,7 +2914,10 @@ Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise
 | Epics | PUT| /api/v1/members/{id}| Update an Member| Update an specific Member| UpdateMember|
 
 ![Ejemplo de Imagen](assets/TB2/backlog/members/swagger3.png)
+
 ![Ejemplo de Imagen](assets/TB2/backlog/members/pgadmin.png)
+
+<h3>Backlog Bounded Context</h3>
 
 **EpicsController**
 
@@ -2924,7 +2958,7 @@ Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise
 
 ![Ejemplo de Imagen](assets/TB2/backlog/pgadmin.png)
 
-<h3> Meeting Bounded Context</h3>
+<h3> Meeting Bounded Context -Valentino</h3>
 
 **MeetingController**
 
@@ -3013,6 +3047,14 @@ Para el backend, optamos por genrar un .jar del proyecto, con ayuda del comando 
 
 ![Ejemplo de Imagen](assets/TB2/backlog/backend/github.png)
 
+**FRONTEND DEPLOY**
+
+- Issues Bounded Context: https://managewise-reports-f0302.web.app/issues
+
+- Meeting Bounded Context:  https://me-mg-eca75.web.app
+
+- Backlog Bounded Context:  https://backlog-managewise.web.app/backlog
+
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint.
 
@@ -3033,13 +3075,18 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 - Valentino Sandoval Paiva: 1
 - Sergio André Gómez Vallejos: 8
 
-**Report:**
+## **Report:**
 
+![alt text](assets/TB2/backlog/collaboraton/commits.png)
 
-- Estefano Oscar Jaque Peña: 
-- John Telesforo Arevalo Meza: 
-- Valentino Sandoval Paiva: 
-- Sergio André Gómez Vallejos: 
+![alt text](assets/TB2/backlog/collaboraton/contri.png)
+
+![alt text](assets/TB2/backlog/collaboraton/nose.png)
+
+- Estefano Oscar Jaque Peña: 65
+- John Telesforo Arevalo Meza: 50
+- Valentino Sandoval Paiva: 68
+- Sergio André Gómez Vallejos: 32
 
 ## Frontend:
 
@@ -3052,12 +3099,16 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 - Valentino Sandoval Paiva: 1
 - Sergio André Gómez Vallejos: 5
 
-**Backend:**
+## **Backend:**
 
-- Estefano Oscar Jaque Peña: 
-- John Telesforo Arevalo Meza: 
-- Valentino Sandoval Paiva: 
-- Sergio André Gómez Vallejos: 
+![alt text](assets/TB2/neto1.png)
+
+![alt text](assets/TB2/neto2.png)
+
+- Estefano Oscar Jaque Peña: 1
+- John Telesforo Arevalo Meza: 16 
+- Valentino Sandoval Paiva: 1
+- Sergio André Gómez Vallejos: 2 
 
 ### 5.3 Validation Interviews
 
@@ -3121,6 +3172,7 @@ Descripción: Verónica Paredes, gerente de proyectos en una empresa de desarrol
 **Entrevista 3**
 
 ![Ejemplo de Imagen](assets/TB2/backlog/entrevista4.png)
+
 Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/Eag6qkayGchJg_ZbkkIuD8YB-xIlWf2UnIK2Q0bHAWHG4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ck5ywT
 
 
@@ -3136,6 +3188,7 @@ Rodrigo Acosta,miembro de un equipo de desarrollo de software, considera que la 
 **Entrevista 4**
 
 ![Ejemplo de Imagen](assets/TB2/backlog/entrevista5.png)
+
 Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/EVEYapnve1VIioPVnF-sbf8BUjm5g79MM0cykRFXY7nEyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsp8dA
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
@@ -3275,7 +3328,7 @@ Recomendación: Realizar revisiones periódicas de la interfaz para asegurar que
 
 ### 5.4. Video About-the-Product.
 
-Link del video de FrontEnd: https://drive.google.com/drive/folders/11fY4sH9mdNNPkHBJyJAXibVjLx6tnq7-?usp=sharing 
+Link del video de FrontEnd: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202225466_upc_edu_pe/EbMbbZYwuT5NmGD4beIUF7IB0CnEA-j5H2PGmbY2SC2zHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JJ2wzC
 
 
 ### Conclusiones
