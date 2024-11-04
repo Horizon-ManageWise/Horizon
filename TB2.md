@@ -2720,6 +2720,18 @@ Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f32
 
 #### 5.2.3.3 Development Evidence for Sprint Review.
 
+Para el backend, optamos por genrar un .jar del proyecto, con ayuda del comando mvn clean package, para posteriormente subir este proyecto a un repositorio y conectarlo con microsoft azure mediate github.
+
+String connector para ingresar a la base de datos de postgress
+![Ejemplo de Imagen](assets/TB2/backlog/backend/azure1.jpg)
+
+Dominio del servicio, asi como el repositorio del mismo
+![Ejemplo de Imagen](assets/TB2/backlog/backend/azure2.png)
+
+Repositorio con los comandos en workflows.yml
+![Ejemplo de Imagen](assets/TB2/backlog/backend/github.png)
+
+
 
 | Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
 | ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
@@ -2728,6 +2740,12 @@ Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f32
 | Backend-Web-Applications | dev   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 27/09/2024   |
 | Backend-Web-Applications | dev   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 27/09/2024  |
 | Backend-Web-Applications | dev   | 47d2070                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       |27/09/2024   |
+| managewise-backend       | dev   | 922ad0f| feat: add members bd backend  |feat: add members bd backend   | 02/11/2024  |
+|  managewise-backend | dev   | 3cd1ffc| feat: add meetingController| feat: add meetingController.| 02/11/2024   |
+|  managewise-backend | dev   | f48083d| feat: Add issues bounded context| feat: Add issues bounded context| 02/11/2024|
+|  managewise-backend | dev   | 00a082d| feat: added task list controller| feat: added task list controller| 02/11/2024  |
+|  managewise-backend | dev   | 90d1dfa| feat: added backlog items entities and lists| feat: added backlog items entities and lists|01/11/2024   |
+
 
 #### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 
@@ -2952,7 +2970,7 @@ Finalmente nos dará un link directo a la Landing page desplegada: https://horiz
 
 Link del FrontEnd: https://acortar.link/0u3YOg
 
-**FRONTEND DESPLEGADO----------------------------------------**
+Link 
 
 Para el backend, optamos por genrar un .jar del proyecto, con ayuda del comando mvn clean package, para posteriormente subir este proyecto a un repositorio y conectarlo con microsoft azure mediate github.
 
