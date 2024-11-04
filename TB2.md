@@ -3007,15 +3007,13 @@ Preguntas para los dos segmentos objetivos:
 
 4. ¿Notas algún paso donde podrías cometer un error fácilmente al introducir datos? ¿Te gustaría que hubiera más opciones para deshacer acciones?
 
-5. ¿Qué tan sencillo te resulta usar los filtros de búsqueda para encontrar un inmueble específico? ¿Agregarías alguna opción o filtro adicional?
+5. ¿Qué tan sencillo te resulta usar los filtros de búsqueda para encontrar un apartado específico, en este caso issues? ¿Agregarías alguna opción o filtro adicional?
 
 6. ¿Percibes consistencia en los elementos de interfaz y acciones en todas las pantallas? ¿Hay algún aspecto que te resulta confuso o que cambia entre secciones?
 
 7. ¿Sientes que el contenido más importante es fácil de ver y está bien destacado en cada pantalla? ¿Cambiarías la disposición de alguna información para que sea más visible?
 
 8. ¿Encuentras útiles los mensajes de error y las confirmaciones que recibes al interactuar con el sistema? ¿Qué detalles te gustaría que se agregaran o mejoraran en estos mensajes?
-
-9. ¿Has probado el sistema en diferentes dispositivos (móvil, tablet, desktop)? ¿Cómo calificarías su consistencia y adaptabilidad entre ellos?
 
 #### 5.3.2. Registro de Entrevistas.
 
@@ -3041,7 +3039,7 @@ Link de entrevista: video de entrevista
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
 |--|--|--|--|--|--|
-| Estefano Liz  | Jaque Peña | 28   | Los Olivos,Lima | 0:00   | 0:00   |
+| ----- -----  | ----- ----- | -----   | ----- -----,----- | 0:00   | 0:00   |
 
 Descripción: 
 
@@ -3049,19 +3047,18 @@ Descripción:
 
 **Entrevista 3**
 
---- imagen de la entrevista 
-Link de entrevista: video de entrevista
+![alt text](assets/TB2/backlog/issues/entrevistapamelavela.png)
+ 
+Link de entrevista: https://drive.google.com/drive/folders/1p2jdkr7SQGiYPJ_uFR3mbG-xpH33JxCm?usp=sharing 
 
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
 |-------------|------------------|------|------------|--------|----------|
-| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+| Pamela  | Vela | 21   | Lima, Callao | 0:00   | 15:20 |
 
 
-Descripción: 
-
-
-<br>
+Descripción:   
+La entrevistada, quien trabaja en BCP en el desarrollo de aplicaciones bancarias internas y externas, evaluó la usabilidad y arquitectura de información de la plataforma ManageWise. Destacó que la estructura de secciones es clara e intuitiva, facilitando la navegación en áreas clave como issues y backlog. Aunque la interfaz es accesible y consistente, señaló áreas de mejora en la retroalimentación del sistema y la claridad de los mensajes de error. También sugirió opciones adicionales de filtro y la posibilidad de deshacer ciertas acciones, lo que podría optimizar la experiencia de usuario en el manejo de datos.<br>
 
 **Segmento objetivo 2: Equipo de Desarrollo de Software**
 
@@ -3115,7 +3112,6 @@ Descripción:
 
 # Evaluación de Heurísticas y Principios de UX para ManageWise
 
-
 ## Información General
 
 - *Carrera:* Ingeniería de Software
@@ -3163,6 +3159,14 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 3  | Registro de nuevos miembros es confuso y no tiene validaciones adecuadas | 3                   | Inclusive Design: Proporciona experiencias comparables |
 | 4  | Información de las reuniones no se almacena correctamente | 4                   | Usability: Prevención de errores                     |
 | 5  | Duplicación de user stories en el backlog                   | 1                   | Usability: Libertad y control del usuario           |
+| 6  | Falta de confirmación visible al cargar o guardar datos      | 3                   | Usability: Visibilidad del estado del sistema        |
+| 7  | Opción de deshacer acciones irreversibles no disponible      | 4                   | Usability: Prevención de errores                     |
+| 8  | Mensajes de error no son claros ni orientan a la solución    | 2                   | Usability: Reconocimiento y diagnóstico de errores   |
+| 9  | Navegación entre secciones es intuitiva pero puede mejorarse | 2                   | Usability: Libertad y control del usuario           |
+| 10  | Filtros de búsqueda efectivos pero carecen de opciones avanzadas | 2                   | Usability: Flexibilidad y eficiencia de uso         |
+| 11  | Jerarquía visual adecuada, pero requiere pruebas de usuario   | 1                   | Usability: Visibilidad del contenido clave           |
+| 12  | Consistencia en la interfaz es sólida, pero necesita revisión | 1                   | Usability: Consistencia y estándares                 |
+
 
 ## Descripción de Problemas
 
@@ -3185,13 +3189,42 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ### Problema #5:
 - *Tarea Evaluada:* Registro de user stories.
 - *Recomendación:* Implementar una validación que impida la creación de user stories duplicadas y notifique al usuario cuando una historia ya existe en el backlog.
+
+### Problema #6:
+Tarea Evaluada: Confirmación al cargar o guardar datos.
+Recomendación: Incorporar un mensaje de confirmación visible y claro tras cargar o guardar datos, para que los usuarios tengan seguridad de que sus acciones han sido exitosas.
+
+### Problema #7:
+Tarea Evaluada: Posibilidad de deshacer acciones.
+Recomendación: Introducir una funcionalidad que permita deshacer acciones irreversibles, como la eliminación de eventos o registros, brindando a los usuarios un margen de error.
+
+### Problema #8:
+Tarea Evaluada: Mensajes de error y confirmaciones.
+Recomendación: Mejorar la claridad de los mensajes de error para que los usuarios comprendan mejor qué salió mal y cómo solucionarlo, proporcionando sugerencias claras y específicas.
+
+### Problema #9:
+Tarea Evaluada: Navegación intuitiva.
+Recomendación: Realizar pruebas de usuario para identificar áreas en las que la navegación podría mejorarse y ajustar la organización de las secciones según las necesidades de los usuarios.
+
+### Problema #10:
+Tarea Evaluada: Efectividad de los filtros de búsqueda.
+Recomendación: Ampliar las opciones de los filtros de búsqueda para incluir criterios más avanzados, facilitando así la búsqueda de información específica dentro de los issues.
+
+### Problema #11:
+Tarea Evaluada: Jerarquía visual del contenido.
+Recomendación: Evaluar y ajustar la jerarquía visual de los elementos en la interfaz para asegurarse de que los usuarios puedan identificar rápidamente el contenido más relevante, quizás mediante pruebas de usabilidad.
+
+### Problema #12:
+Tarea Evaluada: Consistencia en la interfaz.
+Recomendación: Realizar revisiones periódicas de la interfaz para asegurar que todos los elementos sean consistentes en diseño y funcionalidad, evitando confusiones y mejorando la experiencia general del usuario.
+
 ### 5.4. Video About-the-Product.
 
 
 ### Conclusiones
 
-- Valentino Sandoval:
-  Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.
+- Valentino Sandoval:<br>
+  Horizon se presenta como una solución innovadora para las startups de desarrollo de software, abordando la carencia de herramientas especializadas en la gestión de proyectos. Al integrar tecnologías avanzadas y ofrecer características personalizables, nuestra plataforma no solo optimiza la eficiencia y calidad en la gestión de iniciativas, sino que también fomenta una cultura de innovación y adaptabilidad. Con un enfoque en mejorar la colaboración y la toma de decisiones basadas en datos, Horizon está bien posicionada para ayudar a las startups a superar sus desafíos, aumentar su competitividad y alcanzar un crecimiento sostenido en un mercado cada vez más exigente.<br>
 
 - Estefano Oscar Jaque Peña:<br>
   En el desarrollo del proyecto , se utilizaron varias metodologías y herramientas de gestión de proyectos, incluido Lean UX, a lo largo del proyecto, lo que permitió definir claramente los problemas y las hipótesis a validar. Para garantizar que los requerimientos del usuario se alinearan con las soluciones propuestas, se debieron desarrollar User Stories, Product Backlog y Sprints. Los diagramas de clases y las bases de datos también brindaron una base sólida para la implementación del sistema. Este proceso permitió optimizar la organización y el flujo de trabajo dentro del equipo, lo que permitió la entrega de un producto eficiente y adaptable a las necesidades del mercado.
