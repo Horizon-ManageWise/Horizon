@@ -2797,7 +2797,7 @@ Alumno: Estefano Oscar Jaque Peña - U202225466
 
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es8.jpeg)
 
-video explicativo: En el Abour the product 
+video explicativo: En el About the product 
 
 Link repositorio Issues: https://github.com/estefanojaque/Managewise-FrontEnd-issues 
 
