@@ -3201,7 +3201,7 @@ Nora Castro, ex lider de un equipo de desarrollo de software, aprecia cómo la a
 
 ![alt text](assets/TB2/backlog/issues/entrevistapamelavela.png)
  
-Link de entrevista: https://drive.google.com/drive/folders/1p2jdkr7SQGiYPJ_uFR3mbG-xpH33JxCm?usp=sharing 
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202225466_upc_edu_pe/EbMbbZYwuT5NmGD4beIUF7IB0CnEA-j5H2PGmbY2SC2zHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JJ2wzC
 
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
@@ -3324,8 +3324,8 @@ Recomendación: Realizar revisiones periódicas de la interfaz para asegurar que
 
 ### 5.4. Video About-the-Product.
 
-Link del video de FrontEnd: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202225466_upc_edu_pe/EbMbbZYwuT5NmGD4beIUF7IB0CnEA-j5H2PGmbY2SC2zHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JJ2wzC
-
+Link del video de FrontEnd: 
+https://upcedupe-my.sharepoint.com/personal/u202225466_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202225466%5Fupc%5Fedu%5Fpe%2FDocuments%2FAbouttheproduct%2F2024%2D11%2D03%2023%2D08%2D03%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E43e13c94%2Da2da%2D4caf%2D8dfa%2D5c20362d4d5f
 
 ### Conclusiones
 
