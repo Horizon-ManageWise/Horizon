@@ -2789,11 +2789,19 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
 - **Bounded Context: Issues**
 
+Alumno: Estefano Oscar Jaque Peña - U202225466
+
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es6.jpeg)
 
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es7.jpeg)
 
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es8.jpeg)
+
+video explicativo: En el Abour the product 
+
+Link repositorio Issues: https://github.com/estefanojaque/Managewise-FrontEnd-issues 
+
+link deploy: https://managewise-reports-f0302.web.app/issues
 
 - **Bounded Context: Meeting**
 
@@ -3055,30 +3063,11 @@ Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a962
 |---------|-----------|------|------------------|--------|----------|
 | Verónica  | Paredes     | 29   | Miraflores, Lima | 0:00   | 7:30     |
 
-
-
-Descripción: Verónica Paredes, gerente de proyectos en una empresa de desarrollo de software (Grupo JPSP), considera que la aplicación facilita la navegación gracias a su organización, aunque sugiere etiquetas más intuitivas y jerarquías claras en secciones de alto uso. Valora el feedback visual en cada acción, especialmente en procesos de carga y guardado, y ve útil añadir notificaciones adicionales. Recomienda mejorar la accesibilidad con opciones para ajustar el tamaño de texto y contraste, además de una función para deshacer en pasos clave. Sugiere filtros personalizados, consistencia en botones, y un diseño móvil más adaptativo, así como opciones de personalización según el rol, lo que aumentaría la satisfacción y productividad del equipo.
-
-<br>
-
-**Entrevista 3**
-
-![alt text](assets/TB2/backlog/issues/entrevistapamelavela.png)
- 
-Link de entrevista: https://drive.google.com/drive/folders/1p2jdkr7SQGiYPJ_uFR3mbG-xpH33JxCm?usp=sharing 
-
-
-| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
-|-------------|------------------|------|------------|--------|----------|
-| Pamela  | Vela | 21   | Lima, Callao | 0:00   | 15:20 |
-
-
-Descripción:   
-La entrevistada, quien trabaja en BCP en el desarrollo de aplicaciones bancarias internas y externas, evaluó la usabilidad y arquitectura de información de la plataforma ManageWise. Destacó que la estructura de secciones es clara e intuitiva, facilitando la navegación en áreas clave como issues y backlog. Aunque la interfaz es accesible y consistente, señaló áreas de mejora en la retroalimentación del sistema y la claridad de los mensajes de error. También sugirió opciones adicionales de filtro y la posibilidad de deshacer ciertas acciones, lo que podría optimizar la experiencia de usuario en el manejo de datos.<br>
+Descripción: Verónica Paredes, gerente de proyectos en una empresa de desarrollo de software (Grupo JPSP), considera que la aplicación facilita la navegación gracias a su organización, aunque sugiere etiquetas más intuitivas y jerarquías claras en secciones de alto uso. Valora el feedback visual en cada acción, especialmente en procesos de carga y guardado, y ve útil añadir notificaciones adicionales. Recomienda mejorar la accesibilidad con opciones para ajustar el tamaño de texto y contraste, además de una función para deshacer en pasos clave. Sugiere filtros personalizados, consistencia en botones, y un diseño móvil más adaptativo, así como opciones de personalización según el rol, lo que aumentaría la satisfacción y productividad del equipo.<br>
 
 **Segmento objetivo 2: Equipo de Desarrollo de Software**
 
-**Entrevista 4**
+**Entrevista 3**
 
 ![Ejemplo de Imagen](assets/TB2/backlog/entrevista4.png)
 Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/Eag6qkayGchJg_ZbkkIuD8YB-xIlWf2UnIK2Q0bHAWHG4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ck5ywT
@@ -3090,13 +3079,10 @@ Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377
 
 
 Descripción: 
-Rodrigo Acosta,miembro de un equipo de desarrollo de software, considera que la aplicación ayuda a mejorar el flujo de trabajo y la organización, sugiere una mejor distribución del contenido la misma. Tiene en gran consideración el hecho de contar una interfáz sencilla y amigable, aunque recomienda cuidar mas la estética. Sugiere agregar más opciones que faciliten la comunicación entre secciones, lo que aumentaría el flujo entre estas.
+Rodrigo Acosta,miembro de un equipo de desarrollo de software, considera que la aplicación ayuda a mejorar el flujo de trabajo y la organización, sugiere una mejor distribución del contenido la misma. Tiene en gran consideración el hecho de contar una interfáz sencilla y amigable, aunque recomienda cuidar mas la estética. Sugiere agregar más opciones que faciliten la comunicación entre secciones, lo que aumentaría el flujo entre estas.<br>
 
 
-
-<br>
-
-**Entrevista 5**
+**Entrevista 4**
 
 ![Ejemplo de Imagen](assets/TB2/backlog/entrevista5.png)
 Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/EVEYapnve1VIioPVnF-sbf8BUjm5g79MM0cykRFXY7nEyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsp8dA
@@ -3111,20 +3097,20 @@ Nora Castro, ex lider de un equipo de desarrollo de software, aprecia cómo la a
 
 <br>
 
+**Entrevista 5**
 
-**Entrevista 6**
-
---- imagen de la entrevista 
-Link de entrevista: video de entrevista
+![alt text](assets/TB2/backlog/issues/entrevistapamelavela.png)
+ 
+Link de entrevista: https://drive.google.com/drive/folders/1p2jdkr7SQGiYPJ_uFR3mbG-xpH33JxCm?usp=sharing 
 
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
 |-------------|------------------|------|------------|--------|----------|
-| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+| Pamela  | Vela | 21   | Lima, Callao | 0:00   | 15:20 |
 
 
-Descripción: 
-<br>
+Descripción:   
+La entrevistada, quien trabaja en BCP en el desarrollo de aplicaciones bancarias internas y externas, evaluó la usabilidad y arquitectura de información de la plataforma ManageWise. Destacó que la estructura de secciones es clara e intuitiva, facilitando la navegación en áreas clave como issues y backlog. Aunque la interfaz es accesible y consistente, señaló áreas de mejora en la retroalimentación del sistema y la claridad de los mensajes de error. También sugirió opciones adicionales de filtro y la posibilidad de deshacer ciertas acciones, lo que podría optimizar la experiencia de usuario en el manejo de datos.<br>
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
