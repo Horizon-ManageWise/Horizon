@@ -3201,7 +3201,7 @@ Nora Castro, ex lider de un equipo de desarrollo de software, aprecia cómo la a
 
 ![alt text](assets/TB2/backlog/issues/entrevistapamelavela.png)
  
-Link de entrevista: https://drive.google.com/drive/folders/1p2jdkr7SQGiYPJ_uFR3mbG-xpH33JxCm?usp=sharing 
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202225466_upc_edu_pe/EbMbbZYwuT5NmGD4beIUF7IB0CnEA-j5H2PGmbY2SC2zHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JJ2wzC
 
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
