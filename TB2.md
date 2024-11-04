@@ -2640,7 +2640,7 @@ Durante el Sprint 3, nuestro enfoque principal fue el desarrollo del BackEnd de 
 
 #### 5.2.3.1 Sprint Planning 3.
 
-En este Sprint 2, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
+En este Sprint 3, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
 
 | Sprint #| Sprint 3                                                                                                                                                                                                                                                                                   |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2649,11 +2649,11 @@ En este Sprint 2, durante la reunión de planificación, el equipo seleccionará
 | **Time**                            | 12:00 AM                                                                                                                                                                                                                                                                                   |
 | **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
 | **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
-| **Attendees (to planning meeting)** | Acuña Tomás, Diego Rolin, Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar, Sergio Gómez                                                                                                                                                |
+| **Attendees (to planning meeting)** |  José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar, Sergio Gómez                                                                                                                                                |
 | **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
 | **Sprint 3 Goal**                   | Nuestro enfoque está en finalizar el BackEnd individual, cada uno con su Bounded Context lanzarlo localmente. Creemos que esto, nos ayudara a mejorar y a entender el BackEnd. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 3 Velocity**               | 116 |
-| **Sum of Story Points**             | |
+| **Sprint 3 Velocity**               | 65 |
+| **Sum of Story Points**             | 92 |
 
 #### 5.2.3.2 Sprint Backlog 3.
 Para el tercer sprint backlog, recopilamos historias de usuario relacionadas al Backend. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
@@ -2723,11 +2723,12 @@ Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f32
 
 | Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
 | ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Backend-Web-Applications | dev   | 1b462d3                                  | feat: add dates of timeline  |Se añade los datos para el db timeline  | 27/09/2024  |
-| Backend-Web-Applications | dev   | 3cd1ffc                                  | feat: add dates of statistic              | Se añade los datos para el db statistic  | 27/09/2024   |
-| Backend-Web-Applications | dev   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 27/09/2024   |
-| Backend-Web-Applications | dev   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 27/09/2024  |
-| Backend-Web-Applications | dev   | 47d2070                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       |27/09/2024   |
+
+| Backend-Web-Applications | dev   | 1b462d3                                  | feat: add dates of timeline  |Se añade los datos para el db timeline  |03/11/2024  |
+| Backend-Web-Applications | dev   | 3cd1ffc                                  | feat: add dates of statistic              | Se añade los datos para el db statistic  | 03/11/2024|
+| Backend-Web-Applications | dev   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 03/11/2024   |
+| Backend-Web-Applications | dev   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 03/11/2024  |
+| Backend-Web-Applications | dev   | 47d2070                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       |03/11/2024   |
 
 #### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 
@@ -2798,6 +2799,7 @@ Alumno: Estefano Oscar Jaque Peña - U202225466
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es8.jpeg)
 
 video explicativo: En el About the product 
+https://drive.google.com/drive/folders/11fY4sH9mdNNPkHBJyJAXibVjLx6tnq7-?usp=sharing
 
 Link repositorio Issues: https://github.com/estefanojaque/Managewise-FrontEnd-issues 
 
@@ -2950,7 +2952,7 @@ Landing Page Para la Landing Page se ha implementado utilizando GitHub Pages, lo
 
 Finalmente nos dará un link directo a la Landing page desplegada: https://horizon-managewise.github.io/LandingPage/
 
-Link del FrontEnd: https://acortar.link/0u3YOg
+Link de explicacion del FrontEnd: https://drive.google.com/drive/folders/11fY4sH9mdNNPkHBJyJAXibVjLx6tnq7-?usp=sharing 
 
 **FRONTEND DESPLEGADO----------------------------------------**
 
@@ -3224,7 +3226,7 @@ Recomendación: Realizar revisiones periódicas de la interfaz para asegurar que
 
 ### 5.4. Video About-the-Product.
 
-Link del video de FrontEnd: [Video About-the-product](https://acortar.link/0u3YOg)
+Link del video de FrontEnd: https://drive.google.com/drive/folders/11fY4sH9mdNNPkHBJyJAXibVjLx6tnq7-?usp=sharing 
 
 
 ### Conclusiones
