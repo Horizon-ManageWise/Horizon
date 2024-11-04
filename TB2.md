@@ -3004,16 +3004,17 @@ Descripción:
 
 **Entrevista 4**
 
---- imagen de la entrevista 
-Link de entrevista: video de entrevista
+![Ejemplo de Imagen](assets/TB2/backlog/entrevista4.png)
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/Eag6qkayGchJg_ZbkkIuD8YB-xIlWf2UnIK2Q0bHAWHG4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ck5ywT
 
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
 |-------------|------------------|------|------------|--------|----------|
-| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+| Rodrigo  | Acosta |  21  | San Borja, Lima | 0:00   | 07:41     |
 
 
 Descripción: 
+Rodrigo Acosta,miembro de un equipo de desarrollo de software, considera que la aplicación ayuda a mejorar el flujo de trabajo y la organización, sugiere una mejor distribución del contenido la misma. Tiene en gran consideración el hecho de contar una interfáz sencilla y amigable, aunque recomienda cuidar mas la estética. Sugiere agregar más opciones que faciliten la comunicación entre secciones, lo que aumentaría el flujo entre estas.
 
 
 
@@ -3021,16 +3022,17 @@ Descripción:
 
 **Entrevista 5**
 
---- imagen de la entrevista 
-Link de entrevista: video de entrevista
-
+![Ejemplo de Imagen](assets/TB2/backlog/entrevista5.png)
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/EVEYapnve1VIioPVnF-sbf8BUjm5g79MM0cykRFXY7nEyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsp8dA
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
 |-------------|------------------|------|------------|--------|----------|
-| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+| Nora  | Castro | 38   | Lince, Lima | 0:00   | 5:53     |
 
 
 Descripción: 
+Nora Castro, ex lider de un equipo de desarrollo de software, aprecia cómo la aplicación facilita la colaboración y organización. Destaca la simplicidad de la interfaz, la cual facilita la navegación. Sin embargo, algunas secciones se muestran confusas, lo que afectan la comprensión e interés por el uso de las mismas. Recomienda tener en cuenta la usabilidad, sugeriendo optimizar el diseño visual para clarificar la información y mejorar la experiencia del usuario.
+
 <br>
 
 
