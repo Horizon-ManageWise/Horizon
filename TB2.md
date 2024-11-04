@@ -2957,6 +2957,7 @@ Preguntas principales: ¿Se te hace facil encontrar lo que buscas? ¿Siente que 
 **Entrevista 1**
 
 ![Ejemplo de Imagen](assets/TB2/backlog/members/entrevista.jpg)
+
 Link de entrevista: https://acortar.link/uRvayO
 
 
@@ -2969,16 +2970,19 @@ Descripción: Daniel, trabajador de Interbank de proyectos agiles, comenta que l
 
 **Entrevista 2**
 
---- imagen de la entrevista 
-Link de entrevista: video de entrevista
+
+![Ejemplo de Imagen](assets\TB2\backlog\image.png)
+
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a962_upc_edu_pe/ETp--oNNCMFJrlkuaOLrETcBhNihuWwdEYy-9cwQN_QZLw?e=MnJYup&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
-| Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
-|-------------|------------------|------|------------|--------|----------|
-| -----  | ----- | ---   | ----, ----- | 0:00   | 0:00     |
+| Nombres | Apellidos | Edad | Distrito         | Inicio | Duración |
+|---------|-----------|------|------------------|--------|----------|
+| Verónica  | Paredes     | 29   | Miraflores, Lima | 0:00   | 7:30     |
 
 
-Descripción: 
+
+Descripción: Verónica Paredes, gerente de proyectos en una empresa de desarrollo de software (Grupo JPSP), considera que la aplicación facilita la navegación gracias a su organización, aunque sugiere etiquetas más intuitivas y jerarquías claras en secciones de alto uso. Valora el feedback visual en cada acción, especialmente en procesos de carga y guardado, y ve útil añadir notificaciones adicionales. Recomienda mejorar la accesibilidad con opciones para ajustar el tamaño de texto y contraste, además de una función para deshacer en pasos clave. Sugiere filtros personalizados, consistencia en botones, y un diseño móvil más adaptativo, así como opciones de personalización según el rol, lo que aumentaría la satisfacción y productividad del equipo.
 
 <br>
 
