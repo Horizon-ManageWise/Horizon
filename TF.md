@@ -3061,23 +3061,24 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 
 ## 5.2.4. Sprint 4
 
-Durante el Sprint 4, nuestro enfoque principal fue el desarrollo del BackEnd Y FronEnd de Horizon utilizando java y angular. Este sprint fue fundamental y primordial para implementar las ultimas funcionalidades del BackEnd y FronEnd.
+Durante el Sprint 4, nuestro enfoque principal fue el desarrollo del BackEnd Y FronEnd de Horizon utilizando java y angular. Este sprint fue fundamental y primordial para implementar las ultimas funcionalidades del BackEnd y FronEnd, además de lograr la unión y deploy de la última version de ambos servicios.
 
 ### 5.2.4.1.  Sprint Planning 4
 
+En este Sprint 4, durante la reunión de planificación, el equipo seleccionará las historias de usuario restantes, para convertirlas en resultados concretos. Además, se distribuirán las tareas de manera equitativa para poder culminar con estas en el tiempo establecido. Para ello, se fomentará la colaboración, asegurandonos que todos tengan un nivel similar de conocimiento en las diferentes áreas, teniendo siempre en cuenta los objetivos del trabajo.
 
-| Sprint #| Sprint 4                                                                                                                                                                                                                                                                                   |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
-| **Date**| FECHA |                                                                                                                                                                                                                                                                                |
-| **Time**                            | HORA AM                                                                                                                                                                                                                                                                                   |
-| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
-| **Prepared By**                     | Jaque Peña, Estefano Oscar                                                                                                                                                                                                                                                                 |
-| **Attendees (to planning meeting)** |  José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar, Sergio Gómez                                                                                                                                                |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
-| **Sprint 4 Goal**                   | ----- |
-| **Sprint 4 Velocity**               | ---- |
-| **Sum of Story Points**             | ---- |
+| Sprint # | Sprint 4 |
+|-|-|
+| **Sprint Planning Background**| |
+| **Date**| 13/11/2024 | |
+| **Time**| 3:00 PM |
+| **Location** | Discord (Reunión virtual)|
+| **Prepared By**| Jaque Peña, Estefano Oscar|
+| **Attendees (to planning meeting)** |Arevalo Meza, John, Sandoval Paiva, Valentino, Jaque Peña, Estefano, Sergio Gómez|
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | Nuestro meta culminar detalles en el backlog, para unir todos los bounded contexts con los patrones necesarios y posteriormente hacer el deploy del servicio final, para hacer lo mismo con el frontend y unir ambas partes. Creemos que esto nos ayudará a comprender como se relacionan ambos servicios. Lo mencionado se confirmará cuando todas las tareas del sprint 4 en el trello grupal se encuentren con el tag "Done"|
+| **Sprint 4 Velocity** | X |
+| **Sum of Story Points** | X |
 
 ### 5.2.4.2. Sprint Backlog 4
 
