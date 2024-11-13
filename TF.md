@@ -2697,56 +2697,143 @@ Para el tercer sprint backlog, recopilamos historias de usuario relacionadas al 
 |--|--|--|--|--|--|--|--|
 | User Story || Work-Item / Task||||||
 |ID |Title|ID|Title|Description|Estimation (Hours)|Assigned To|Status|
-| TS001| Endpoint para visualizar User Stories en el Timeline    | TA001| Implementar el endpoint "/api/timeline/user-stories" | Crear la lógica para implementar el endpoint que permita visualizar las User Stories en el timeline. | 3 horas     | Sergio Gómez       | Done    |
-||| TA002| Realizar pruebas de respuesta del endpoint| Probar la respuesta del endpoint con solicitudes GET y verificar que la lista de User Stories se devuelve. | 2 horas| Sergio Gómez| Done|
-||| TA003| Validar manejo de un timeline vacío| Implementar la lógica que maneje el caso en que no hay User Stories en el sistema. | 1 hora| Sergio Gómez| Done|
-| TS002| Endpoint para visualización de estadísticas del rendimiento del equipo | TA004| Implementar el endpoint "/api/stats/team-performance" | Crear la lógica para implementar el endpoint que devuelva las estadísticas del rendimiento del equipo. |3 horas| Sergio Gómez| Done    |
-||| TA005| Probar respuesta del endpoint|Probar la respuesta del endpoint con solicitudes GET y verificar que se devuelvan las estadísticas correctamente.| 2 horas| Sergio Gómez       | Done    |
-||| TA006| Validar estadísticas vacías| Implementar la lógica que maneje el caso en que no hay User Stories y devuelva estadísticas adecuadas.| 1 hora| Sergio Gómez| Done|
-| TS003| Endpoint para gestión de videoconferencias| TA007| Implementar el endpoint "/api/meetings"            | Crear la lógica para implementar el endpoint que permita crear, editar y eliminar videoconferencias. | 3 horas| Valentino Sandoval | Done|
-||| TA008| Realizar pruebas de creación de videoconferencias| Probar la creación de videoconferencias con solicitudes POST y validar la respuesta. | 2 horas| Valentino Sandoval | Done|
-||| TA009| Validar eliminación de videoconferencias| Probar la eliminación de videoconferencias con solicitudes DELETE y validar la respuesta. | 1 hora| Valentino Sandoval | Done|
-| TS004| Endpoint para gestión de grabaciones de videoconferencias | TA010| Implementar el endpoint "/api/meetings/recordings"  | Crear la lógica para implementar el endpoint que gestione las grabaciones de videoconferencias. | 3 horas     | Valentino Sandoval | Done    |
-|          |                                                         | TA011                                                      | Probar filtrado de grabaciones                      | Probar la funcionalidad de filtrado de grabaciones con parámetros válidos y verificar la respuesta. | 2 horas     | Valentino Sandoval | Done    |
-|          |                                                         | TA012                                                      | Validar edición de enlaces de grabación             | Probar la edición de enlaces de grabación y validar la respuesta del sistema. | 1 hora      | Valentino Sandoval | Done    |
-| TS005    | Endpoint para creación de User Stories en el Backlog    | TA013                                                      | Implementar el endpoint "/api/backlog/user-stories" | Crear la lógica para implementar el endpoint que permita crear User Stories en el backlog. | 3 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA014                                                      | Probar creación de User Stories                     | Probar la creación de User Stories con datos válidos y validar la respuesta del sistema. | 2 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA015                                                      | Validar manejo de datos faltantes                   | Probar la respuesta del sistema ante datos faltantes o inválidos al intentar crear User Stories. | 1 hora      | Jhon Arevalo      | Done    |
-| TS006    | Endpoint para modificación de User Stories              | TA016                                                      | Implementar el endpoint "/api/backlog/user-stories/{id}" | Crear la lógica para implementar el endpoint que permita modificar User Stories existentes. | 3 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA017                                                      | Probar modificación de User Stories                  | Probar la modificación de User Stories con datos válidos y validar la respuesta del sistema. | 2 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA018                                                      | Validar manejo de User Stories no encontradas       | Probar la respuesta del sistema al intentar modificar o eliminar User Stories no existentes. | 1 hora      | Jhon Arevalo      | Done    |
-| TS007    | Endpoint para creación de incidencias                   | TA019                                                      | Implementar el endpoint "/api/issues"              | Crear la lógica para implementar el endpoint que permita crear incidencias en el sistema. | 3 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA020                                                      | Probar creación de incidencias                       | Probar la creación de incidencias con datos válidos y validar la respuesta del sistema. | 2 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA021                                                      | Validar manejo de datos de incidencia faltantes     | Probar la respuesta del sistema ante datos de incidencia faltantes o inválidos al intentar crear. | 1 hora      | Estefano Jaque    | Done    |
-| TS008    | Endpoint para actualización de incidencias              | TA022                                                      | Implementar el endpoint "/api/issues/{id}"         | Crear la lógica para implementar el endpoint que permita actualizar incidencias existentes. | 3 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA023                                                      | Probar actualización de incidencias                  | Probar la actualización de incidencias con datos válidos y validar la respuesta del sistema. | 2 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA024                                                      | Validar manejo de incidencias no encontradas        | Probar la respuesta del sistema al intentar actualizar o eliminar incidencias no existentes. | 1 hora      | Estefano Jaque    | Done    |
-| US16| Modificación de tasks| TA025| Implementación en frontend| Crear funcionalidad para modificar tasks en el frontend|5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA026| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de modificación de tasks|1 horas| Arevalo Meza, John Telesforo| Done|
-| US17| Eliminación de tasks| TA027| Implementación en frontend| Crear funcionalidad para eliminar tasks en el frontend| 6 horas| Arevalo Meza, John Telesforo| Done|
-||| TA028| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de tasks| 1 horas| Arevalo Meza, John Telesforo| Done|
-| US18| Vista centrada en backlog items| TA029| Implementación en frontend| Crear funcionalidad de vista centrada en backlog items en el frontend| 1 horas| Arevalo Meza, John Telesforo| Done|
-||| TA030| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de vista centrada en backlog items| 1 horas| Arevalo Meza, John Telesforo| Done|
-| US19| Visualización del product backlog|TA031|Implementación en frontend| Crear funcionalidad para visualizar el backlog en el frontend| 1 horas| Arevalo Meza, John Telesforo| Done|
-||| TA032| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización del backlog|1 horas| Arevalo Meza, John Telesforo| Done|
-| US20|Asignación de backlog items a un sprint| TA033| Implementación en frontend| Crear funcionalidad para asignar items al sprint en el frontend| 1 horas| Arevalo Meza, John Telesforo| Done|
-||| TA034| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de asignación de backlog items a un sprint| 1 horas| Arevalo Meza, John Telesforo| Done|
-| US21| Gestión de sprints| TA035| Implementación en frontend| Crear funcionalidad para gestionar sprints en el frontend| 1 horas| Arevalo Meza, John Telesforo|Done|
-||| TA036| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de gestión de sprints| 5 horas| Arevalo Meza, John Telesforo| Done|
-|US32| Visualización de User Stories en el Timeline | TA037| Implementación en frontend| Crear funcionalidad para visualizar User Stories en el timeline| 7 hora|Sergio André Gómez Vallejos| Done|
-||| TA038| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de User Stories en el timeline| 5 hora| Sergio André Gómez Vallejos   | Done|
-|US33|Estimación de Esfuerzo en User Stories|TA039|Implementación en frontend|Crear funcionalidad para mostrar estimación de esfuerzo en User Stories en el frontend| 6 hora| Sergio André Gómez Vallejos| Done|
-||| TA040| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de estimación de esfuerzo en User Stories| 5 hora| Sergio André Gómez Vallejos| Done|
-| US34|Visualización de estadísticas del rendimiento del equipo |TA041|Implementación en frontend|Crear funcionalidad para ver estadísticas de rendimiento en el frontend| 6 hora|Sergio André Gómez Vallejos| Done|
-||| TA042| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de estadísticas de rendimiento|5 hora| Sergio André Gómez Vallejos| Done|
-| US39|Ver reporte de una incidencia| TA043| Implementación en frontend| Crear funcionalidad para ver reportes de incidencias en el frontend| 7 hora| Jaque Peña, Estefano Oscar| Done|
-||| TA044| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de reportes de incidencias|5 hora| Jaque Peña, Estefano Oscar|Done|
-| US40|Ver historial de una incidencia|TA045|Implementación en frontend| Crear funcionalidad para ver historial de incidencias en el frontend|7 hora|Jaque Peña, Estefano Oscar| Done|
-|||TA046|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de visualización de historial de incidencias|5 hora| Jaque Peña, Estefano Oscar|Done|
-| US41|Creación automática de eventos en issues|TA047|Implementación en frontend|Crear funcionalidad para añadir automáticamente eventos de creación y asignación en el frontend| 7 hora|Jaque Peña, Estefano Oscar|Done|
-||| TA048| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eventos automáticos de issues| 5 hora| Jaque Peña, Estefano Oscar| Done|
-| US42|Filtrar incidencias por Sprint y Prioridad| TA049| Implementación en frontend| Crear funcionalidad para filtrar incidencias en el frontend| 6 hora| Jaque Peña, Estefano Oscar| Done|
-|||TA050|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de filtro de incidencias|5 hora| Jaque Peña, Estefano Oscar| Done|
+| TS001| Endpoint para visualizar Miembros del equipo    | TA001| implementar el endpoint "/api/members"  | implementar el endpoint "/api/members"  | 2 horas     | Sergio Gómez       | Done    |
+||| TA002| realizar pruebas de respuesta del endpoint | realizar pruebas de respuesta del endpoint. | 2 horas| Sergio Gómez| Done|
+||| TA003| creacion de queries | creacion de queries. | 1 hora| Sergio Gómez| Done|
+||| TA004| definir e implementar query service y service impls  | definir e implementar query service y service impls. | 1 hora| Sergio Gómez| Done|
+||| TA005| creacion de aggregates | creacion de aggregates. | 1 hora| Sergio Gómez| Done|
+||| TA006| implementar controller | implementar controller. | 1 hora| Sergio Gómez| Done|
+| TS002| Endpoint para eliminacion de miembro | TA007| implementar el endpoint "/api/members/member-id" | implementar el endpoint "/api/members/member-id"  | 3 horas| Sergio Gómez| Done|
+||| TA008| realizar pruebas de respuesta del endpoint | realizar pruebas de respuesta del endpoint. | 1 hora| Sergio Gómez| Done|
+||| TA009| creacion de queries y aggregates | creacion de queries y aggregates  | 2 hora| Sergio Gómez| Done|
+||| TA010| definir e implementar query service y service impls | definir e implementar query service y service impls. | 1 hora| Sergio Gómez| Done|
+||| TA011| implementar controller | implementar controller | 1 hora| Sergio Gómez| Done|
+| TS003| Endpoint para gestión de videoconferencias | TA012| implementar el endpoint "/api/meeting" | implementar el endpoint "/api/meeting"  | 5 horas| Valentino Sandoval| Done|
+||| TA013| realizar pruebas de respuesta endpoints | realizar pruebas de respuesta endpoints | 3 horas| Valentino Sandoval| Done|
+||| TA014| Crear y definir los aggregates| Crear y definir los aggregates | 1 hora| Valentino Sandoval| Done|
+||| TA015| Crear y definir resources y commands | Crear y definir resources y commands  | 2 horas| Valentino Sandoval| Done|
+||| TA016| crear y definir queryservice | crear y definir queryservice  | 1 hora| Valentino Sandoval| Done|
+||| TA017| crear y definir repositories | crear y definir repositories  | 1 hora| Valentino Sandoval| Done|
+||| TA018| crear e implementar commandserviceimpls | crear e implementar commandserviceimpls | 1 hora| Valentino Sandoval| Done|
+||| TA019| crear e implementar queryserviceimpls  | crear e implementar queryserviceimpls   | 1 hora| Valentino Sandoval| Done|
+||| TA020| crear controller | crear controller  | 1 hora| Valentino Sandoval| Done|
+| TS004| Endpoint para gestión de grabaciones de videoconferencias | TA021| Implementar el endpoint "/api/meetings/recordings" | Implementar el endpoint "/api/meetings/recordings" | 5 horas| Valentino Sandoval| Done|
+||| TA022| Probar filtrado de grabaciones | Probar filtrado de grabaciones | 1 hora| Valentino Sandoval| Done|
+||| TA023| Validar edición de enlaces de grabación | Validar edición de enlaces de grabación  | 1 hora| Valentino Sandoval| Done|
+||| TA024| realizar pruebas de respuesta endpoints | realizar pruebas de respuesta endpoints  |3 horas| Valentino Sandoval| Done|
+||| TA025| Crear y definir los aggregates | Crear y definir los aggregates  | 1 hora| Valentino Sandoval| Done|
+||| TA026| Crear y definir resources y commands | Crear y definir resources y commands  | 2 horas| Valentino Sandoval| Done|
+||| TA027| crear y definir queryservice | crear y definir queryservice | 1 hora| Valentino Sandoval| Done|
+||| TA028| crear y definir repositories | crear y definir repositories | 1 hora| Valentino Sandoval| Done|
+||| TA029| crear e implementar commandserviceimpls | crear e implementar commandserviceimpls | 1 hora| Valentino Sandoval| Done|
+||| TA030| crear e implementar queryserviceimpls | crear e implementar queryserviceimpls  | 1 hora| Valentino Sandoval| Done|
+||| TA031| crear controller | crear controller | 1 hora| Valentino Sandoval| Done|
+| US26| Visualización de detalles de videoconferencias | TA032| Implementacion en frontend | Implementacion en frontend | 3 horas| Valentino Sandoval| Done|
+||| TA033| Itegracion con el repositorio | Itegracion con el repositorio | 2 horas| Valentino Sandoval| Done|
+||| TA034| Crear Componenten angular | Crear Componenten angular  | 1 hora| Valentino Sandoval| Done|
+||| TA035| Verificar la correcta visualizacion de detalles | Verificar la correcta visualizacion de detalles  | 1 hora| Valentino Sandoval| Done|
+| US25| Gestión de grabaciones de videoconferencias | TA036| Implementacion en frontend | Implementacion en frontend | 1 hora| Valentino Sandoval| Done|
+||| TA037| Itegracion con el repositorio | Itegracion con el repositorio  | 1 hora| Valentino Sandoval| Done|
+||| TA038| Crear Componenten angular | Crear Componenten angular  | 1 hora| Valentino Sandoval| Done|
+||| TA039| Verificar lectura de datos | Verificar lectura de datos  | 1 hora| Valentino Sandoval| Done|
+| TS005| Endpoint para creación de User Stories en el Backlog | TA040| Implementar el endpoint "/api/backlog/user-stories/" | Implementar el endpoint "/api/backlog/user-stories/"  | 3 horas| John Arevalo| Done|
+||| TA041| realizar pruebas de respuesta endpoint | realizar pruebas de respuesta endpoint  |2 horas| John Arevalo| Done|
+||| TA042| Crear y definir los aggregates | Crear y definir los aggregates  | 1 hora| John Arevalo| Done|
+||| TA043| Crear y definir commands  | Crear y definir commands |1 horas| John Arevalo| Done|
+||| TA044| crear y definir repositories | crear y definir repositories | 1 hora| John Arevalo| Done|
+||| TA045| crear e implementar commandserviceimpls | crear e implementar commandserviceimpls | 1 hora| John Arevalo| Done|
+||| TA046| crear controller | crear controller  | 1 hora| John Arevalo| Done|
+||| TA047| Crear y definir resources | Crear y definir resources | 1 hora| John Arevalo| Done|
+| TS006| Endpoint para modificación de User Stories | TA048| Implementar el endpoint "/api/backlog/user-stories/{id}" | Implementar el endpoint "/api/backlog/user-stories/{id}" | 3 horas| John Arevalo| Done|
+||| TA049| Crear y definir los aggregates | Crear y definir los aggregates  | 1 hora| John Arevalo| Done|
+||| TA050| Crear y definir commands y resources | Crear y definir commands y resources  |2 horas| John Arevalo| Done|
+||| TA051| Implementacion de CommandService | Implementacion de CommandService  | 1 hora| John Arevalo| Done|
+||| TA052| crear e implementar commandserviceimpls | crear e implementar commandserviceimpls  | 1 hora| John Arevalo| Done|
+||| TA053| crear controller | crear controller  | 1 hora| John Arevalo| Done|
+| TS007| Endpoint para creación de incidencias | TA054| Implementar el endpoint "/api/issues" | Implementar el endpoint "/api/issues"  |2 horas| Estefano Jaque| Done|
+||| TA055| Probar creación de incidencias | Probar creación de incidencias | 1 hora| Estefano Jaque| Done|
+||| TA056| Validar manejo de datos de incidencia faltantes | Validar manejo de datos de incidencia faltantes | 1 hora| Estefano Jaque| Done|
+||| TA057| Crear y definir ValueObjects | Crear y definir ValueObjects  | 1 hora| Estefano Jaque| Done|
+||| TA058| Crear y definir Aggregate | Crear y definir Aggregate. | 1 hora| Estefano Jaque| Done|
+||| TA059| Crear Commands y Resources | Crear Commands y Resources | 1 hora| Estefano Jaque| Done|
+||| TA060| Crear y definir CommandService | Crear y definir CommandService | 1 hora| Estefano Jaque| Done|
+||| TA061| Crear y definir Repository | Crear y definir Repository  | 1 hora| Estefano Jaque| Done|
+||| TA062| Crear e implementar CommandServiceImpls | Crear e implementar CommandServiceImpls  | 1 hora| Estefano Jaque| Done|
+||| TA063| Implementacion en Controller | Implementacion en Controller  |2 horas| Estefano Jaque| Done|
+| TS008| Endpoint para actualización de incidencias | TA064| Implementar el endpoint "/api/issues/{id}" | Implementar el endpoint "/api/issues/{id}" |2 horas| Estefano Jaque| Done|
+||| TA065| Probar actualización de incidencias | Probar actualización de incidencias  | 1 hora| Estefano Jaque| Done|
+||| TA066| Validar manejo de incidencias no encontradas | Validar manejo de incidencias no encontradas  | 1 hora| Estefano Jaque| Done|
+||| TA067| Crear Command | Crear Command  | 1 hora| Estefano Jaque| Done|
+||| TA068| Definir CommandService | Definir CommandService  | 1 hora| Estefano Jaque| Done|
+||| TA069| Implementar CommandSeviceIpmls | Implementar CommandSeviceIpmls | 1 hora| Estefano Jaque| Done|
+||| TA070| Implementar en Controller | Implementar en Controller  | 2 horas| Estefano Jaque| Done|
+| US16| Modificación de tasks | TA071| Implementación en frontend | Implementación en frontend | 2 horas| John Arevalo| Done|
+||| TA072| Integración con el repositorio | Integración con el repositorio | 1 hora| John Arevalo| Done|
+||| TA073| Creacion de component en agular | Creacion de component en agular  | 2 horas| John Arevalo| Done|
+||| TA074| Verificar que se modificara la task mediante confirmacion | Verificar que se modificara la task mediante confirmacion | 1 hora| John Arevalo| Done|
+| US17| Eliminación de tasks | TA075| Implementación en frontend | Implementación en frontend  |2 horas| John Arevalo| Done|
+||| TA076| Integración con el repositorio  Integración con el repositorio | 2 horas| John Arevalo| Done|
+||| TA077| Creacion de component en agular | Creacion de component en agular  | 1 hora| John Arevalo| Done|
+||| TA078| Actualizar el service | Actualizar el service  | 1 hora| John Arevalo| Done|
+| US18| Vista centrada en backlog items | TA079| Implementación en frontend | Implementación en frontend  | 2 horas| John Arevalo| Done|
+||| TA080| Integración con el repositorio | Integración con el repositorio  | 1 hora| John Arevalo| Done|
+||| TA081| Creacion de component en agular | Creacion de component en agular  |2 horas| John Arevalo| Done|
+||| TA082| validar que se muestren los datos de los items correctamente | validar que se muestren los datos de los items correctamente  | 1 hora| John Arevalo| Done|
+||| TA083| agregar secciones para task , epic, user story | agregar secciones para task , epic, user story  | 1 hora| John Arevalo| Done|
+| US19| Visualización del product backlog| TA084| Implementación en frontend | Implementación en frontend  | 2 horas| John Arevalo| Done|
+||| TA085| Integración con el repositorio | Integración con el repositorio  | 1 hora| John Arevalo| Done|
+||| TA086| Creacion de component en agular | Creacion de component en agular | 1 hora| John Arevalo| Done|
+||| TA087| validar que se visualiza en seccion backlog | validar que se visualiza en seccion backlog  | 1 hora| John Arevalo| Done|
+| US20| Asignación de backlog items a un sprint | TA088| Implementación en frontend | Implementación en frontend  | 2 horas| John Arevalo| Done|
+||| TA089| Integración con el repositorio | Integración con el repositorio | 1 hora| John Arevalo| Done|
+||| TA090| Creacion de component en agular | Creacion de component en agular | 1 hora| John Arevalo| Done|
+||| TA091| Implementar logica para asignar spinrt id a user story | Implementar logica para asignar spinrt id a user story  | 1 hora| John Arevalo| Done|
+||| TA092| verificar correcta asignacion a sprint | verificar correcta asignacion a sprint  | 1 hora| John Arevalo| Done|
+| US21| Gestión de sprints | TA093| Implementación en frontend | Implementación en frontend |2 horas| John Arevalo| Done|
+||| TA094| Integración con el repositorio | Integración con el repositorio  | 1 hora| John Arevalo| Done|
+||| TA095| Creacion de component en agular | Creacion de component en agular | 1 hora| John Arevalo| Done|
+||| TA096| Validar gestion | Validar gestion  | 1 hora| John Arevalo| Done|
+| US22| Gestión de nuevas videoconferencias desde la sección de Reuniones | TA097| Implementación en frontend | Implementación en frontend  | 2 horas| Valentino Sandoval| Done|
+||| TA098| Integración con el repositorio | Integración con el repositorio  | 1 hora| Valentino Sandoval| Done|
+||| TA099| Creacion de component en agular | Creacion de component en agular  | 1 hora| Valentino Sandoval| Done|
+||| TA100| Verificar correacta creacion | Verificar correacta creacion  | 1 hora| Valentino Sandoval| Done|
+| US23| Edición de videoconferencias existentes | TA101| Implementación en frontend | Implementación en frontend  | 2 horas| Valentino Sandoval| Done|
+||| TA102| Integración con el repositorio | Integración con el repositorio | 1 hora| Valentino Sandoval| Done|
+||| TA103| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular  | 1 hora| Valentino Sandoval| Done|
+||| TA104| verificar que las videoconferencias se editen correctamente | verificar que las videoconferencias se editen correctamente  | 1 hora| Valentino Sandoval| Done|
+| US24| Eliminación de videoconferencias | TA105| Implementación en frontend | Implementación en frontend  |2 horas| Valentino Sandoval| Done|
+||| TA106| Integración con el repositorio | Integración con el repositorio  | 1 hora| Valentino Sandoval| Done|
+||| TA107| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Valentino Sandoval| Done|
+||| TA108| verificar que la videoconferencia se elimine correctamente | verificar que la videoconferencia se elimine correctamente  | 1 hora| Valentino Sandoval| Done|
+| US32| Visualización de User Stories en el Timeline | TA109| Implementación en frontend | Implementación en frontend | 2 horas| Sergio Gómez| Done|
+||| TA110| Integración con el repositorio | Integración con el repositorio | 1 hora| Sergio Gomez| Done|
+||| TA111| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular  | 1 hora| Sergio Gomez| Done|
+||| TA112| verificar que las user stories se muestren en la timeline | verificar que las user stories se muestren en la timeline | 1 hora| Sergio Gomez| Done|
+| US33| Estimación de Esfuerzo en User Stories | TA113| Implementación en frontend | Implementación en frontend. | 2 horas| Sergio Gómez| Done|
+||| TA114| Integración con el repositorio | Integración con el repositorio | 1 hora| Sergio Gomez| Done|
+||| TA115| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Sergio Gomez| Done|
+||| TA116| Verificar que se visualice correctamente la estimación | Verificar que se visualice correctamente la estimación  | 1 hora| Sergio Gomez| Done|
+| US34| Visualización de Estadísticas del Rendimiento del Equipo | TA117| Implementación en frontend | Implementación en frontend  | 2 horas| Sergio Gómez| Done|
+||| TA118| Integración con el repositorio | Integración con el repositorio  | 1 hora| Sergio Gomez| Done|
+||| TA119| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular  | 1 hora| Sergio Gomez| Done|
+||| TA120| Verificar que se visualicen las user stories completadas y no | Verificar que se visualicen las user stories completadas y no | 1 hora| Sergio Gomez| Done|
+| US39| Ver reporte de una incidencia | TA121| Implementación en frontend | Implementación en frontend | 2 horas| Estefano Jaque| Done|
+||| TA122| Integración con el repositorio | Integración con el repositorio  | 1 hora| Estefano Jaque| Done|
+||| TA123| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Estefano Jaque| Done|
+||| TA124| Verificar que se acceda a informacion detallada del reporte | Verificar que se acceda a informacion detallada del reporte  | 1 hora| Estefano Jaque| Done|
+| US40| Ver historial de una incidencia | TA125| Implementación en frontend | Implementación en frontend | 2 horas| Estefano Jaque| Done|
+||| TA126| Integración con el repositorio | Integración con el repositorio  | 1 hora| Estefano Jaque| Done|
+||| TA127| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular  | 1 hora| Estefano Jaque| Done|
+||| TA128| Verificar que todos los cambios se guarden en el historial | Verificar que todos los cambios se guarden en el historial | 1 hora| Estefano Jaque| Done|
+| US41| Creación automática de los eventos creación y asignación del issue | TA129| Implementación en frontend | Implementación en frontend | 2 horas| Estefano Jaque| Done|
+||| TA130| Integración con el repositorio | Integración con el repositorio | 1 hora| Estefano Jaque| Done|
+||| TA131| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Estefano Jaque| Done|
+||| TA132| Validar creacion automatica | Validar creacion automatica  | 1 hora| Estefano Jaque| Done|
+| US42| Filtrar incidencias por Sprint y Prioridad | TA133| Implementación en frontend | Implementación en frontend. | 2 horas| Estefano Jaque| Done|
+||| TA134| Integración con el repositorio | Integración con el repositorio  | 1 hora| Estefano Jaque| Done|
+||| TA135| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Estefano Jaque| Done|
+||| TA136| Validar filtrado | Validar filtrado  | 1 hora| Estefano Jaque| Done|
+
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
 
