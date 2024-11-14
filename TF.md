@@ -2170,34 +2170,34 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 
 | sprint #| Sprint 1|||||||
 | -- | -- | -- | -- | -- | -- | -- | -- |
-| User<br>Story |                                               | Work-Item /Task |                                                   |                                                                                                                            |                       |                              |                                                           |
-| ID            | Title                                         | ID              | Title                                             | Description                                                                                                                | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
-| US01          | Vista General de Beneficios y Funcionalidades | TA001           | Implementación de Sección de Beneficios           | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.| 6 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA002|crear componente angular|| 5 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA003|Integración con el repositorio        |     | 5 horas                | Arevalo Meza, John Telesforo | Done|
-| US02          | Enlaces Directos a Redes Sociales             | TA003           | Implementación de Enlaces a Redes Sociales        | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                        | 6 horas                | Sandoval Paiva, Valentino    | Done|
-| | | TA004|crear componente angular|| 5 horas| Sandoval Paiva, Valentino | Done|
-| | | TA005|Integración con el repositorio        |     | 5 horas                | Sandoval Paiva, Valentino | Done|
-| US03          | Registro Rápido y Simple                      | TA006          | Diseño e Implementación del Registro de Usuario   | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                        | 6 horas                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| | | TA007|crear componente angular|| 5 horas| Jaque Peña, Estefano Oscar | Done|
-| | | TA008|Integración con el repositorio        |     | 5 horas                | Jaque Peña, Estefano Oscar| Done|
-| US04          | Iniciar Sesión Rápido y Visible               | TA004           | Implementación de Enlace de Inicio de Sesión      | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                         | 6 horas                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| | | TA007|crear componente angular|| 5 horas| Jaque Peña, Estefano Oscar | Done|
-| | | TA008|Integración con el repositorio        |     | 5 horas                | Jaque Peña, Estefano Oscar | Done|
-| US05          | Resumen de la Empresa, Misión y Visión        | TA009           | Creación de Sección "Acerca de Nosotros"          | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                 | 6 horas                | Arevalo Meza, John Telesforo | Done                                                      |
-| | | TA010|crear componente angular|| 5 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA011|Integración con el repositorio        |     | 5 horas                | Arevalo Meza, John Telesforo | Done|
-| US06          | Navegación Clara y Directa en la Página       | TA012           | Diseño del Menú de Navegación                     | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.  | 6 horas                | Jaque Peña, Estefano Oscar    | Done                                                      |
-| | | TA013|crear componente angular|| 5 horas| Jaque Peña, Estefano Oscar | Done|
-| | | TA014|Integración con el repositorio        |     | 5 horas                | Jaque Peña, Estefano Oscar | Done|
-| US07          | Acceder a Preguntas Frecuentes                | TA015          | Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | 6 horas                | Sergio André Gómez Vallejos  | Done                                                      |
-| | | TA016|crear componente angular|| 5 horas|Sergio André Gómez Vallejos | Done|
-| | | TA017|Añadir funcionalidad de desplazo al toolbar con respecto a las preguntas (FAQ)  || 5 horas| Sergio André Gómez Vallejos | Done|
-| | | TA018|Verificar si al darle click se ve la respuesta|| 5 horas| Sergio André Gómez Vallejos | Done|
-| | | TA019|Implementar el diseño a las preguntas|| 5 horas| Sergio André Gómez Vallejos | Done|
-| US08          | Contactar via correo                          | TA020          | Implementación de Sección de Contacto             | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas.          | 6 horas                | Arevalo Meza, John Telesforo  | Done                                                      |
-| | | TA021|crear componente angular|| 5 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA022|Integración con el repositorio        |     | 5 horas                | Arevalo Meza, John Telesforo | Done|
+| User<br>Story || Work-Item /Task ||||||
+| ID| Title| ID| Title| Description| Estimation<br>(Hours) | Assigned<br>To| Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
+| US01| Vista General de Beneficios y Funcionalidades | TA001| Implementación de Sección de Beneficios| Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.| 1 hora| Arevalo Meza, John Telesforo | Done|
+| | | TA002|crear componente angular|| 1 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA003|Integración con el repositorio|| 1 horas| Arevalo Meza, John Telesforo | Done|
+| US02| Enlaces Directos a Redes Sociales| TA003| Implementación de Enlaces a Redes Sociales| Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                        | 1 horas| Sandoval Paiva, Valentino| Done|
+| | | TA004|crear componente angular|| 1 horas| Sandoval Paiva, Valentino | Done|
+| | | TA005|Integración con el repositorio|| 1 horas| Sandoval Paiva, Valentino | Done|
+| US03| Registro Rápido y Simple| TA006| Diseño e Implementación del Registro de Usuario| Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.| 1 horas| Jaque Peña, Estefano Oscar| Done|
+| | | TA007|crear componente angular|| 1 horas| Jaque Peña, Estefano Oscar | Done|
+| | | TA008|Integración con el repositorio|| 1 horas| Jaque Peña, Estefano Oscar| Done|
+| US04| Iniciar Sesión Rápido y Visible| TA004| Implementación de Enlace de Inicio de Sesión| Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                         | 1 horas| Jaque Peña, Estefano Oscar| Done|
+| | | TA007|crear componente angular|| 1 horas| Jaque Peña, Estefano Oscar | Done|
+| | | TA008|Integración con el repositorio|| 1 horas| Jaque Peña, Estefano Oscar | Done|
+| US05| Resumen de la Empresa, Misión y Visión| TA009| Creación de Sección "Acerca de Nosotros"| Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.| 1 horas| Arevalo Meza, John Telesforo | Done |
+| | | TA010|crear componente angular|| 1 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA011|Integración con el repositorio || 1 horas| Arevalo Meza, John Telesforo | Done|
+| US06| Navegación Clara y Directa en la Página| TA012| Diseño del Menú de Navegación| Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.| 1 horas| Jaque Peña, Estefano Oscar| Done|
+| | | TA013|crear componente angular||1 horas| Jaque Peña, Estefano Oscar | Done|
+| | | TA014|Integración con el repositorio|| 1 horas| Jaque Peña, Estefano Oscar | Done|
+| US07| Acceder a Preguntas Frecuentes| TA015| Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | 1 horas| Sergio André Gómez Vallejos  | Done|
+| | | TA016|crear componente angular|| 1 horas|Sergio André Gómez Vallejos | Done|
+| | | TA017|Añadir funcionalidad de desplazo al toolbar con respecto a las preguntas (FAQ)  || 1 horas| Sergio André Gómez Vallejos | Done|
+| | | TA018|Verificar si al darle click se ve la respuesta|| 1 horas| Sergio André Gómez Vallejos | Done|
+| | | TA019|Implementar el diseño a las preguntas|| 1 horas| Sergio André Gómez Vallejos | Done|
+| US08| Contactar via correo| TA020| Implementación de Sección de Contacto| Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas. | 1 horas| Arevalo Meza, John Telesforo  | Done|
+| | | TA021|crear componente angular|| 1 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA022|Integración con el repositorio|| 1 horas| Arevalo Meza, John Telesforo | Done|
 
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
@@ -2373,47 +2373,63 @@ Para el segundo sprint backlog, recopilamos historias de usuario relacionadas a 
 | ID        | Title| ID| Title| Description| Estimation<br>(Hours) | Assigned<br>To| Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
 | US09      | Creación de user stories| TA001| Implementación en frontend| Crear funcionalidad para agregar user stories en el frontend| 6 horas| Arevalo Meza, John Telesforo| Done|
 ||| TA002| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de user stories| 4 horas| Arevalo Meza, John Telesforo   | Done|
-| US10| Modificación de user stories| TA003| Implementación en frontend| Crear funcionalidad para modificar user stories en el frontend| 6 horas| Arevalo Meza, John Telesforo| Done|
-||| TA004| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de modificación de user stories| 6 horas| Arevalo Meza, John Telesforo| Done|
-| US11| Eliminación de user stories| TA005| Implementación en frontend| Crear funcionalidad para eliminar user stories en el frontend| 5 horas| Arevalo Meza, John Telesforo | Done|
-||| TA006| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de user stories| 6 horas| Arevalo Meza, John Telesforo| Done|
-| US12| Creación de user epics| TA007| Implementación en frontend| Crear funcionalidad para agregar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA008| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de epics| 5 horas| Arevalo Meza, John Telesforo   | Done|
-|US13| Modificación de user epics| TA009| Implementación en frontend| Crear funcionalidad para modificar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA010| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de modificación de epics| 6 horas| Arevalo Meza, John Telesforo| Done|
-| US14| Eliminación de user epics| TA011| Implementación en frontend| Crear funcionalidad para eliminar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA012| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de epics| 7 horas| Arevalo Meza, John Telesforo   | Done|
-| US15| Creación de tasks| TA013| Implementación en frontend| Crear funcionalidad para agregar tasks en el frontend| 1 horas| Arevalo Meza, John Telesforo | Done|
-||| TA014| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de tasks| 5 horas| Arevalo Meza, John Telesforo| Done|
-| US22| Gestión de videoconferencias| TA027| Implementación en frontend|Crear funcionalidad para gestionar videoconferencias en el frontend| 7 horas| Sandoval Paiva, Valentino| Done|
-|||TA028|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de gestión de videoconferencias|5 horas| Sandoval Paiva, Valentino| Done|
-| US23|Edición de videoconferencias|TA029|Implementación en frontend|Crear funcionalidad para editar videoconferencias en el frontend|6 horas| Sandoval Paiva, Valentino|Done|
-||| TA030| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de edición de videoconferencias| 5 horas| Sandoval Paiva, Valentino| Done|
-| US24| Eliminación de videoconferencias| TA031|Implementación en frontend| Crear funcionalidad para eliminar videoconferencias en el frontend| 6 hora| Sandoval Paiva, Valentino| Done|
-||| TA032| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de videoconferencias| 5 hora| Sandoval Paiva, Valentino   | Done|
-| US25| Gestión de grabaciones de videoconferencias  | TA033| Implementación en frontend| Crear funcionalidad para gestionar grabaciones de videoconferencias en el frontend| 5 hora| Sandoval Paiva, Valentino| Done|
-|||TA034|Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de gestión de grabaciones| 5 hora| Sandoval Paiva, Valentino|Done|
-| US26|Visualización de detalles de videoconferencias| TA035|Implementación en frontend| Crear funcionalidad para visualizar detalles de videoconferencias en el frontend|1 hora|Sandoval Paiva, Valentino|Done|
-||| TA036| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de detalles de videoconferencias| 5 hora| Sandoval Paiva, Valentino| Done|
-| US27|Editar el acceso de miembros al proyecto| TA037| Implementación en frontend| Crear funcionalidad para editar acceso de miembros en el frontend| 6 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA038| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de edición de acceso de miembros| 5 hora| Acuña Tomas, Diego Rolin| Done|
-| US28| Ver la información de usuario de los miembros | TA039| Implementación en frontend| Crear funcionalidad para ver información de usuario en el frontend| 7 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA040| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de ver información de usuario| 5 hora| Acuña Tomas, Diego Rolin| Done|
-| US29|Asignar roles a los miembros del equipo| TA041| Implementación en frontend| Crear funcionalidad para asignar roles en el frontend| 7 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA042|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de asignación de roles| 5 hora|Acuña Tomas, Diego Rolin| Done|
-| US30| Conocer información del perfil de un miembro | TA043| Implementación en frontend| Crear funcionalidad para ver perfil completo de un miembro en el frontend|8 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA044| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de perfil completo| 5 hora| Acuña Tomas, Diego Rolin| Done|
-| US31|Ver habilidades de cada miembro| TA045| Implementación en frontend| Crear funcionalidad para ver habilidades de miembros en el frontend| 7 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA046| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de habilidades| 3 hora| Acuña Tomas, Diego Rolin| Done|
-|US35| Crear una nueva incidencia|TA053| Implementación en frontend| Crear funcionalidad para crear nuevas incidencias en el frontend|6 hora|Jaque Peña, Estefano Oscar| Done|
-||| TA054| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de incidencias|5 hora| Jaque Peña, Estefano Oscar| Done|
-| US36|Visualizar las incidencias|TA055|Implementación en frontend|Crear funcionalidad para ver incidencias en el frontend|7 hora|Jaque Peña, Estefano Oscar| Done|
-|||TA056|Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de incidencias| 5 hora| Jaque Peña, Estefano Oscar| Done|
-| US37| Editar una incidencia| TA057| Implementación en frontend| Crear funcionalidad para editar incidencias en el frontend| 8 hora| Jaque Peña, Estefano Oscar|Done|
-||| TA058|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de edición de incidencias| 5 hora| Jaque Peña, Estefano Oscar   | Done|
-|US38|Eliminar una incidencia|TA059|Implementación en frontend| Crear funcionalidad para eliminar incidencias en el frontend| 7 hora| Jaque Peña, Estefano Oscar|Done|
-|||TA060|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de incidencias| 5 hora| Jaque Peña, Estefano Oscar|Done|
-
+||| TA003| Crear component en angular| Crear component en angular| 1 hora| Arevalo Meza, John Telesforo   | Done|
+||| TA004| Verificar la correcta creacion mediante un mensaje en consola 1h|Verificar la correcta creacion mediante un mensaje en consola | 1 hora| Arevalo Meza, John Telesforo   | Done|
+| US10| Modificación de user stories| TA005| Implementación en frontend | Crear funcionalidad para modificar user stories en el frontend| 6 horas| Arevalo Meza, John Telesforo| Done|
+||| TA006| Integración con el repositorio | Integración con el repositorio| 1 horas| Arevalo Meza, John Telesforo| Done|
+||| TA007| Crear component en angular | Crear component en angular| 1 hora| Arevalo Meza, John Telesforo| Done|
+||| TA008| Verificar correcta modificacion mediante mensaje en consola |Verificar correcta modificacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo| Done|
+| US11| Eliminación de user stories| TA009| Implementación en frontend| Crear funcionalidad para eliminar user stories en el frontend| 5 horas| Arevalo Meza, John Telesforo | Done|
+||| TA010| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de user stories| 6 horas| Arevalo Meza, John Telesforo| Done|
+||| TA011| Crear component en angular | Crear component en angular | 1 hora| Arevalo Meza, John Telesforo| Done|
+||| TA012| Verificar correcta eliminación mediante mensaje en consola | Verificar correcta eliminación mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo| Done|
+| US12| Creación de user epics| TA013| Implementación en frontend| Crear funcionalidad para agregar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
+||| TA014| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de epics| 5 horas| Arevalo Meza, John Telesforo   | Done|
+||| TA015| Crear component en angular |Crear component en angular | 1 hora| Arevalo Meza, John Telesforo   | Done|
+||| TA016| Verificar correcta creacion mediante mensaje en consola | Verificar correcta creacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo   | Done|
+|US13| Modificación de user epics| TA017| Implementación en frontend| Crear funcionalidad para modificar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
+||| TA018| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de modificación de epics| 6 horas| Arevalo Meza, John Telesforo| Done|
+||| TA019| Verificar correcta modificacion mediante mensaje en consola | Verificar correcta modificacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo| Done|
+||| TA020| Crear component en angular | Crear component en angular | 1 hora| Arevalo Meza, John Telesforo| Done|
+| US14| Eliminación de user epics| TA021| Implementación en frontend| Crear funcionalidad para eliminar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
+||| TA022| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de epics| 7 horas| Arevalo Meza, John Telesforo   | Done|
+||| TA023| Verificar correcta eliminacion mediante mensaje en consola | Verificar correcta eliminacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo   | Done|
+||| TA024| Crear component | Crear component | 1 hora| Arevalo Meza, John Telesforo   | Done|
+| US15| Creación de tasks| TA025| Implementación en frontend| Crear funcionalidad para agregar tasks en el frontend| 1 horas| Arevalo Meza, John Telesforo | Done|
+||| TA026| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de tasks| 5 horas| Arevalo Meza, John Telesforo| Done|
+||| TA027| Creacion de component | Creacion de component | 1 hora| Arevalo Meza, John Telesforo| Done|
+||| TA028| Verificar correcta creacion mediante mensaje en consola | Verificar correcta creacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo| Done|
+|US35| Crear una nueva incidencia|TA0529| Implementación en frontend| Crear funcionalidad para crear nuevas incidencias en el frontend|6 horas|Jaque Peña, Estefano Oscar| Done|
+||| TA031| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de incidencias|5 horas| Jaque Peña, Estefano Oscar| Done|
+||| TA032| Creacion de component | Creacion de component |1 hora| Jaque Peña, Estefano Oscar| Done|
+||| TA033| Verificar correcta creacion mediante mensaje en consola | Verificar correcta creacion mediante mensaje en consola |1 hora| Jaque Peña, Estefano Oscar| Done|
+| US36|Visualizar las incidencias|TA034|Implementación en frontend|Crear funcionalidad para ver incidencias en el frontend|7 hora|Jaque Peña, Estefano Oscar| Done|
+|||TA035|Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de incidencias| 5 hora| Jaque Peña, Estefano Oscar| Done|
+|||TA036|Crear component en angular | Crear component en angular | 1 hora| Jaque Peña, Estefano Oscar| Done|
+| US37| Editar una incidencia| TA037| Implementación en frontend| Crear funcionalidad para editar incidencias en el frontend| 8 hora| Jaque Peña, Estefano Oscar|Done|
+||| TA038|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de edición de incidencias| 5 hora| Jaque Peña, Estefano Oscar   | Done|
+||| TA039|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Estefano Oscar   | Done|
+||| TA040|Verificar correcta modificacion mediante mensaje en consola |Verificar correcta modificacion mediante mensaje en consola | 1 hora| Jaque Peña, Estefano Oscar   | Done|
+|US38|Eliminar una incidencia|TA041|Implementación en frontend| Crear funcionalidad para eliminar incidencias en el frontend| 7 hora| Jaque Peña, Estefano Oscar|Done|
+|||TA042|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de incidencias| 5 hora| Jaque Peña, Estefano Oscar|Done|
+|||TA043|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Estefano Oscar|Done|
+|||TA044|Verificar correcta eliminacion mediante mensaje en consola |Verificar correcta eliminacion mediante mensaje en consola | 1 hora| Jaque Peña, Estefano Oscar|Done|
+|US27|Editar el acceso de miembros al proyecto|TA045|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA046|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA047|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
+|||TA048|Verificar correcta eliminacion mediante mensaje en consola |Verificar correcta eliminacion mediante mensaje en consola | 1 hora| Sergio Gomez|Done|
+|US28|Ver la información de usuario de los miembros|TA049|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA050|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA051|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
+|US29|EdAsignar roles a los miembros del equipo|TA052|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA053|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA054|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
+|US30|Conocer Información del Perfil de un Miembro|TA055|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA056|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA057|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
+|US31|Ver Habilidades de Cada Miembro|TA058|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA059|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA060|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise
 
