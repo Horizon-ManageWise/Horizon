@@ -3272,10 +3272,52 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
 --- EN ESTA SECCION SE ADJUNTARA EVIDENCIA DEL DESARROLLO PARA EL SPRINT-----
 
+## **MEETING BOUNDED CONTEXT**
+
+En este bounded context meeting, se conecta con el bounded context Members al mostrar una lista de todos los miembros agregados en dicho bounded context.
+
+**FRONTEND**
+
+![alt text](assets\TF\meeting1.png)
+
+**BACKEND**
+
+![alt text](assets\TF\meetingB.png)
+
+**FRONTEND**
+
+![alt text](assets\TF\meeting2.png)
+
+**BACKEND**
+
+![alt text](assets\TF\meeting3.png)
+
+**FRONTEND**
+
+![alt text](assets\TF\meeting4.png)
+
+**BACKEND**
+
+![alt text](assets\TF\meeting5.png)
+
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 ---DOCUMENTACION CON IMAGENES DEL SPRINT SOBRE EL BACK---
+
+## **MEETING BOUNDED CONTEXT**
+
+Se muestra la ultima version del Backend del bounded context Meeting, en donde se conecta con el bounded context Members:
+
+**BACKEND**
+
+![alt text](assets\TF\meetingBACK.png)
+
+![alt text](assets\TF\meeting3.png)
+
+![alt text](assets\TF\meeting5.png)
+
+
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
