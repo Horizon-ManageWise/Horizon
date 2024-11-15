@@ -3196,7 +3196,7 @@ En este Sprint 4, durante la reunión de planificación, el equipo seleccionará
 
 ### 5.2.4.2. Sprint Backlog 4
 
-![alt text](assets\TF\trello.png)
+![alt text](assets/TF/trello.png)
 
 
 | Sprint # | Sprint 4 |||||||
