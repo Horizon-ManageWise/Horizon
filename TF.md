@@ -3196,95 +3196,74 @@ En este Sprint 4, durante la reunión de planificación, el equipo seleccionará
 
 ### 5.2.4.2. Sprint Backlog 4
 
+![alt text](assets\TF\trello.png)
 
--- EJEMPLO --- (TEMPLATE) --------
-| Sprint # | Sprint 3|||||||
-|--|--|--|--|--|--|--|--|
-| User Story || Work-Item / Task||||||
-|ID |Title|ID|Title|Description|Estimation (Hours)|Assigned To|Status|
-| TS001| Endpoint para visualizar User Stories en el Timeline    | TA001| Implementar el endpoint "/api/timeline/user-stories" | Crear la lógica para implementar el endpoint que permita visualizar las User Stories en el timeline. | 3 horas     | Sergio Gómez       | Done    |
-||| TA002| Realizar pruebas de respuesta del endpoint| Probar la respuesta del endpoint con solicitudes GET y verificar que la lista de User Stories se devuelve. | 2 horas| Sergio Gómez| Done|
-||| TA003| Validar manejo de un timeline vacío| Implementar la lógica que maneje el caso en que no hay User Stories en el sistema. | 1 hora| Sergio Gómez| Done|
-| TS002| Endpoint para visualización de estadísticas del rendimiento del equipo | TA004| Implementar el endpoint "/api/stats/team-performance" | Crear la lógica para implementar el endpoint que devuelva las estadísticas del rendimiento del equipo. |3 horas| Sergio Gómez| Done    |
-||| TA005| Probar respuesta del endpoint|Probar la respuesta del endpoint con solicitudes GET y verificar que se devuelvan las estadísticas correctamente.| 2 horas| Sergio Gómez       | Done    |
-||| TA006| Validar estadísticas vacías| Implementar la lógica que maneje el caso en que no hay User Stories y devuelva estadísticas adecuadas.| 1 hora| Sergio Gómez| Done|
-| TS003| Endpoint para gestión de videoconferencias| TA007| Implementar el endpoint "/api/meetings"            | Crear la lógica para implementar el endpoint que permita crear, editar y eliminar videoconferencias. | 3 horas| Valentino Sandoval | Done|
-||| TA008| Realizar pruebas de creación de videoconferencias| Probar la creación de videoconferencias con solicitudes POST y validar la respuesta. | 2 horas| Valentino Sandoval | Done|
-||| TA009| Validar eliminación de videoconferencias| Probar la eliminación de videoconferencias con solicitudes DELETE y validar la respuesta. | 1 hora| Valentino Sandoval | Done|
-| TS004| Endpoint para gestión de grabaciones de videoconferencias | TA010| Implementar el endpoint "/api/meetings/recordings"  | Crear la lógica para implementar el endpoint que gestione las grabaciones de videoconferencias. | 3 horas     | Valentino Sandoval | Done    |
-|          |                                                         | TA011                                                      | Probar filtrado de grabaciones                      | Probar la funcionalidad de filtrado de grabaciones con parámetros válidos y verificar la respuesta. | 2 horas     | Valentino Sandoval | Done    |
-|          |                                                         | TA012                                                      | Validar edición de enlaces de grabación             | Probar la edición de enlaces de grabación y validar la respuesta del sistema. | 1 hora      | Valentino Sandoval | Done    |
-| TS005    | Endpoint para creación de User Stories en el Backlog    | TA013                                                      | Implementar el endpoint "/api/backlog/user-stories" | Crear la lógica para implementar el endpoint que permita crear User Stories en el backlog. | 3 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA014                                                      | Probar creación de User Stories                     | Probar la creación de User Stories con datos válidos y validar la respuesta del sistema. | 2 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA015                                                      | Validar manejo de datos faltantes                   | Probar la respuesta del sistema ante datos faltantes o inválidos al intentar crear User Stories. | 1 hora      | Jhon Arevalo      | Done    |
-| TS006    | Endpoint para modificación de User Stories              | TA016                                                      | Implementar el endpoint "/api/backlog/user-stories/{id}" | Crear la lógica para implementar el endpoint que permita modificar User Stories existentes. | 3 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA017                                                      | Probar modificación de User Stories                  | Probar la modificación de User Stories con datos válidos y validar la respuesta del sistema. | 2 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA018                                                      | Validar manejo de User Stories no encontradas       | Probar la respuesta del sistema al intentar modificar o eliminar User Stories no existentes. | 1 hora      | Jhon Arevalo      | Done    |
-| TS007    | Endpoint para creación de incidencias                   | TA019                                                      | Implementar el endpoint "/api/issues"              | Crear la lógica para implementar el endpoint que permita crear incidencias en el sistema. | 3 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA020                                                      | Probar creación de incidencias                       | Probar la creación de incidencias con datos válidos y validar la respuesta del sistema. | 2 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA021                                                      | Validar manejo de datos de incidencia faltantes     | Probar la respuesta del sistema ante datos de incidencia faltantes o inválidos al intentar crear. | 1 hora      | Estefano Jaque    | Done    |
-| TS008    | Endpoint para actualización de incidencias              | TA022                                                      | Implementar el endpoint "/api/issues/{id}"         | Crear la lógica para implementar el endpoint que permita actualizar incidencias existentes. | 3 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA023                                                      | Probar actualización de incidencias                  | Probar la actualización de incidencias con datos válidos y validar la respuesta del sistema. | 2 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA024                                                      | Validar manejo de incidencias no encontradas        | Probar la respuesta del sistema al intentar actualizar o eliminar incidencias no existentes. | 1 hora      | Estefano Jaque    | Done    |
-| US16| Modificación de tasks| TA025| Implementación en frontend| Crear funcionalidad para modificar tasks en el frontend|5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA026| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de modificación de tasks|1 horas| Arevalo Meza, John Telesforo| Done|
-| US17| Eliminación de tasks| TA027| Implementación en frontend| Crear funcionalidad para eliminar tasks en el frontend| 6 horas| Arevalo Meza, John Telesforo| Done|
-||| TA028| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de tasks| 1 horas| Arevalo Meza, John Telesforo| Done|
-| US18| Vista centrada en backlog items| TA029| Implementación en frontend| Crear funcionalidad de vista centrada en backlog items en el frontend| 1 horas| Arevalo Meza, John Telesforo| Done|
-||| TA030| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de vista centrada en backlog items| 1 horas| Arevalo Meza, John Telesforo| Done|
-| US19| Visualización del product backlog|TA031|Implementación en frontend| Crear funcionalidad para visualizar el backlog en el frontend| 1 horas| Arevalo Meza, John Telesforo| Done|
-||| TA032| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización del backlog|1 horas| Arevalo Meza, John Telesforo| Done|
-| US20|Asignación de backlog items a un sprint| TA033| Implementación en frontend| Crear funcionalidad para asignar items al sprint en el frontend| 1 horas| Arevalo Meza, John Telesforo| Done|
-||| TA034| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de asignación de backlog items a un sprint| 1 horas| Arevalo Meza, John Telesforo| Done|
-| US21| Gestión de sprints| TA035| Implementación en frontend| Crear funcionalidad para gestionar sprints en el frontend| 1 horas| Arevalo Meza, John Telesforo|Done|
-||| TA036| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de gestión de sprints| 5 horas| Arevalo Meza, John Telesforo| Done|
-|US32| Visualización de User Stories en el Timeline | TA037| Implementación en frontend| Crear funcionalidad para visualizar User Stories en el timeline| 7 hora|Sergio André Gómez Vallejos| Done|
-||| TA038| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de User Stories en el timeline| 5 hora| Sergio André Gómez Vallejos   | Done|
-|US33|Estimación de Esfuerzo en User Stories|TA039|Implementación en frontend|Crear funcionalidad para mostrar estimación de esfuerzo en User Stories en el frontend| 6 hora| Sergio André Gómez Vallejos| Done|
-||| TA040| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de estimación de esfuerzo en User Stories| 5 hora| Sergio André Gómez Vallejos| Done|
-| US34|Visualización de estadísticas del rendimiento del equipo |TA041|Implementación en frontend|Crear funcionalidad para ver estadísticas de rendimiento en el frontend| 6 hora|Sergio André Gómez Vallejos| Done|
-||| TA042| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de estadísticas de rendimiento|5 hora| Sergio André Gómez Vallejos| Done|
-| US39|Ver reporte de una incidencia| TA043| Implementación en frontend| Crear funcionalidad para ver reportes de incidencias en el frontend| 7 hora| Jaque Peña, Estefano Oscar| Done|
-||| TA044| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de reportes de incidencias|5 hora| Jaque Peña, Estefano Oscar|Done|
-| US40|Ver historial de una incidencia|TA045|Implementación en frontend| Crear funcionalidad para ver historial de incidencias en el frontend|7 hora|Jaque Peña, Estefano Oscar| Done|
-|||TA046|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de visualización de historial de incidencias|5 hora| Jaque Peña, Estefano Oscar|Done|
-| US41|Creación automática de eventos en issues|TA047|Implementación en frontend|Crear funcionalidad para añadir automáticamente eventos de creación y asignación en el frontend| 7 hora|Jaque Peña, Estefano Oscar|Done|
-||| TA048| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eventos automáticos de issues| 5 hora| Jaque Peña, Estefano Oscar| Done|
-| US42|Filtrar incidencias por Sprint y Prioridad| TA049| Implementación en frontend| Crear funcionalidad para filtrar incidencias en el frontend| 6 hora| Jaque Peña, Estefano Oscar| Done|
-|||TA050|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de filtro de incidencias|5 hora| Jaque Peña, Estefano Oscar| Done|
+
+| Sprint # | Sprint 4 |||||||
+|----------|----------|---------|----------------------------|-----------------------------------------------|------------------|------------------|--------|
+| User Story | | Work-Item / Task | |||||||
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US43 | Iniciar sesión (Sign In) | TA001 | Crear componente de inicio de sesión en Angular | Crear el componente en Angular para gestionar el inicio de sesión de los usuarios | 2 horas | Sandoval Paiva, Valentino | Done |
+| US43 | Iniciar sesión (Sign In) | TA002 | Implementar formulario de ingreso de credenciales (usuario y contraseña) | Implementar un formulario en Angular para la entrada de usuario y contraseña | 3 horas | Arevalo Meza, John Telesforo | Done |
+| US43 | Iniciar sesión (Sign In) | TA003 | Implementar lógica de validación de credenciales en el frontend | Validar las credenciales ingresadas en el frontend antes de enviarlas al servidor | 4 horas | Sergio Gomez | Done |
+| US43 | Iniciar sesión (Sign In) | TA004 | Redirigir al usuario a la página principal al iniciar sesión exitosamente | Después de un inicio de sesión exitoso, redirigir al usuario a la página principal | 3 horas | Sandoval Paiva, Valentino | Done |
+| US43 | Iniciar sesión (Sign In) | TA005 | Mostrar mensaje de error si las credenciales son incorrectas | Mostrar un mensaje de error si el usuario ingresa credenciales incorrectas | 2 horas | Arevalo Meza, John Telesforo | Done |
+| US43 | Iniciar sesión (Sign In) | TA006 | Implementar manejo de sesión para persistencia del estado de login | Implementar un sistema de manejo de sesión para mantener al usuario autenticado | 3 horas | Arevalo Meza, John Telesforo | Done |
+| US43 | Iniciar sesión (Sign In) | TA007 | Validar campos de entrada para asegurar que el correo electrónico y la contraseña sean válidos | Asegurar que el correo electrónico y la contraseña ingresados sean válidos antes de enviarlos al servidor | 2 horas | Sandoval Paiva, Valentino | Done |
+| US44 | Registro de usuario (Sign Up) | TA008 | Crear componente de registro en Angular | Crear el componente en Angular para el registro de nuevos usuarios | 2 horas | Arevalo Meza, John Telesforo | Done |
+| US44 | Registro de usuario (Sign Up) | TA009 | Implementar formulario de registro (correo electrónico, contraseña, confirmación de contraseña) | Implementar el formulario para la entrada de datos de registro, incluyendo correo electrónico, contraseña y confirmación de contraseña | 3 horas | Sergio Gomez | Done |
+| US44 | Registro de usuario (Sign Up) | TA010 | Implementar lógica de validación de correo electrónico único | Asegurar que el correo electrónico ingresado no esté ya registrado en la base de datos | 4 horas | Arevalo Meza, John Telesforo | Done |
+| US44 | Registro de usuario (Sign Up) | TA011 | Validar la fortaleza de la contraseña y su coincidencia con la confirmación | Validar que la contraseña tenga la fortaleza adecuada y que coincida con la confirmación | 3 horas | Sandoval Paiva, Valentino | Done |
+| US44 | Registro de usuario (Sign Up) | TA012 | Redirigir al usuario a la página de inicio de sesión después de un registro exitoso | Después de un registro exitoso, redirigir al usuario a la página de inicio de sesión | 3 horas | Arevalo Meza, John Telesforo | Done |
+| US44 | Registro de usuario (Sign Up) | TA013 | Mostrar mensaje de error si el correo electrónico ya está registrado | Mostrar un mensaje de error si el correo electrónico ya está registrado | 2 horas | Arevalo Meza, John Telesforo | Done |
+| US44 | Registro de usuario (Sign Up) | TA014 | Implementar lógica para manejar el registro en la base de datos | Implementar la lógica para registrar un nuevo usuario en la base de datos | 4 horas | Sergio Gomez | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA015 | Implementar el endpoint "/api/auth/signup" | Implementar el endpoint "/api/auth/signup" para el registro de nuevos usuarios | 2 horas | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA016 | Validación de datos de entrada | Validar la solicitud POST con los datos de registro (correo electrónico, contraseña) | 2 horas | Sandoval Paiva, Valentino | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA017 | Validación de correo y contraseña | Asegurar que los datos de entrada sean correctos (validación de correo electrónico único y contraseña válida) | 3 horas | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA018 | Lógica para registrar usuario | Implementar la lógica para registrar un nuevo usuario en la base de datos | 3 horas | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA019 | Respuesta exitosa | Responder con un código 201 Created cuando el registro sea exitoso | 1 hora | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA019 | Manejo de error usuario ya registrado | Implementar manejo de errores para cuando el correo electrónico ya esté registrado, respondiendo con código 409 Conflict | 2 horas | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA020 | Probar registro de usuario | Probar el endpoint de registro de usuario con datos válidos e inválidos | 2 horas | Estefano Jaque | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) "/api/auth/signin" | TA021 | Implementar el endpoint "/api/auth/signin" | Implementar el endpoint "/api/auth/signin" para el inicio de sesión de usuarios | 2 horas | Estefano Jaque | Done |
+| TS010 |Endpoint para inicio de sesión (sign in) | TA022 | Validación de credenciales | Validar la solicitud POST con las credenciales de inicio de sesión (usuario y contraseña) | 2 horas | Estefano Jaque | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA023 | Verificación de usuario y contraseña | Verificar que el usuario exista en la base de datos y que las credenciales sean correctas | 3 horas | Sandoval Paiva, Valentino | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA024 | Generación de token de acceso | Implementar la lógica de autenticación y generación de un token de acceso | 3 horas | Estefano Jaque | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA025 | Respuesta exitosa | Responder con un código 200 OK y el token de acceso cuando el inicio de sesión sea exitoso | 2 horas | Sergio Gomez | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA026 | Manejo de error credenciales incorrectas | Implementar manejo de errores para credenciales incorrectas, respondiendo con código 401 Unauthorized | 2 horas | Estefano Jaque | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA027 | Probar inicio de sesión | Probar el endpoint de inicio de sesión con credenciales correctas e incorrectas | 2 horas | Estefano Jaque | Done |
+
+
+
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
 
 ### 5.2.4.3. Development Evidence for Sprint Review
 
--------- EJEMPLO
+
 | Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
 | ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Backend-Web-Applications | dev   | code                                  | FEAT | FECHA  |
-| Backend-Web-Applications | dev   | code                                  | FEAT |feat: ------------- | FECHA   |
-| Backend-Web-Applications | dev   | code                                  |FEAT  | feat: ----------   | FECHA |
-| Backend-Web-Applications | dev   | code                                  | FEAT | Feat: Add nosotros                                                                                       | FECHA  |
-| Backend-Web-Applications | dev   | code            | FEAT | Feat: -------------------     |FECHA  |
-| managewise-backend       | dev   | code| FEAT  |feat: ------------------------| FECHA |
-|  managewise-backend | dev   | code| FEAT| feat: -----------------| FECHA  |
-|  managewise-backend | dev   | code| FEAT| feat: ------------------| FECHA|
-|  managewise-backend | dev   | code| FEAT| feat: -------------| FECHA |
-|  managewise-backend | dev   | code| FEAT| feat: ------------|FECHA|
+| managewise-backend | dev   | 1b462d3                                  | feat: add dates of timeline  |Se añade los datos para el db timeline  | 10/11/2024  |
+| managewise-backends | dev   | 3cd1ffc                                  | feat: add dates of statistic              | Se añade los datos para el db statistic  | 10/11/2024   |
+| managewise-backend | dev   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 10/11/2024   |
+| managewise-backend | dev   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 10/11/2024  |
+| managewise-backend | dev   | 47d2070                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       |10/1/2024   |
+| managewise-backend       | dev   | 922ad0f| feat: add members bd backend  |feat: add members bd backend   | 14/11/2024  |
+|  managewise-backend | dev   | 3cd1ffc| feat: add meetingController| feat: add meetingController.| 14/11/2024   |
+|  managewise-backend | dev   | f48083d| feat: Add issues bounded context| feat: Add issues bounded context| 14/11/2024|
+|  managewise-backend | dev   | 00a082d| feat: added task list controller| feat: added task list controller| 14/11/2024  |
+|  managewise-backend | dev   | 90d1dfa| feat: added backlog items entities and lists| feat: added backlog items entities and lists|14/11/2024   |
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 
 | Repository                                                            | Branch             | Commit Id                                | Commit Message           | Commit Message Body                         | Committed on (Date)     |
 | --------------------------------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | ------------------------------------------- | ----------------------- |
-| link de la rama                         | rama  | code                                  | Initial commit           | Created the README file.                    | fecha              |
-| link de la rama                         | rama  | code                                  | feat: added numeroUS gherkin | feat: added numeroUS gherkin                    | fecha              |
-| link de la rama                        | rama  | code                                  | feat: added numeroUS gherkin | feat: added numeroUS gherkin                    | fecha              |
-| link de la rama                        | rama  | code                                  | feat: added numeroUS gherkin | feat: added numeroUS gherkin                    | fecha              |
-|link de la rama                         | rama  | code                                  | feat: added numeroUS gherkin | feat: added numeroUS gherkin                    | fecha              |
-| link de la rama                         | rama  | code                                  | feat: added numeroUS gherkin | feat: added numeroUS gherkin                    | fecha              |
-| link de la rama                         | rama  | code                                  | feat: added numeroUS gherkin | feat: added numeroUS gherkin                    | fecha              |
-| link de la rama | rama | code | feat: added numeroUS gherkin | desc | fecha              |
-| link de la rama | rama | code | feat: added numeroUS gherkin | desc | fecha              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                         | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | Initial commit           | Created the README file.                    | 14/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                         | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 14/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                        | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 14/11/2024               |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                        | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | feat: added TS009 gherkin | feat: added TS009 gherkin                    | 14/11/2024               |
+|https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                        | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | feat: added TS010 gherkin | feat: added TS010 gherkin                    | 14/11/2024  |
+
 
 Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
@@ -3304,7 +3283,47 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
---IMAGENES DE LOS INSIGHTS  DE LOS RESPOSITORIOS---
+
+En esta sección, el equipo detalla el proceso de implementación de las actividades realizadas durante el Sprint, destacando la colaboración y el esfuerzo conjunto en la creación de los productos. Se presentan capturas de pantalla de los analíticos de colaboración y los commits en GitHub, que reflejan la participación activa de cada miembro del equipo.
+
+Participación del Equipo Todos los miembros del equipo han contribuido de manera significativa en la implementación de los siguientes productos:
+
+Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desarrollo de la landing page, asegurando que la interfaz sea atractiva y funcional. En esta ultima versión de la landing page no se realizo ningun cambio.
+
+**Landing Page**
+
+![Commits](assets/TB1-new/landingc1.jpeg)
+
+![Commits](assets/TB1-new/landingc2.jpeg)
+
+- Estefano Oscar Jaque Peña: 2
+- John Telesforo Arevalo Meza: 10
+- Valentino Sandoval Paiva: 1
+- Sergio André Gómez Vallejos: 8
+
+
+## Frontend:
+
+![alt text](assets/TB2/backlog/commil1.jpeg)
+
+![alt text](assets/TB2/backlog/commil2.jpeg)
+
+- Estefano Oscar Jaque Peña: 3
+- John Telesforo Arevalo Meza: 5
+- Valentino Sandoval Paiva: 1
+- Sergio André Gómez Vallejos: 5
+
+**Backend:**
+
+![alt text](assets/TB2/backlog/commil1.jpeg)
+
+![alt text](assets/TB2/backlog/commil2.jpeg)
+
+
+- Estefano Oscar Jaque Peña: 
+- John Telesforo Arevalo Meza: 
+- Valentino Sandoval Paiva: 
+- Sergio André Gómez Vallejos: 
 
 
 
