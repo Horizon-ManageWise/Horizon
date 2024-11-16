@@ -3343,6 +3343,16 @@ En este bounded context meeting, se conecta con el bounded context Members al mo
 
 ## **MEMBERS BOUNDED CONTEXT**
 
+Se muestra la ultima version del Backend del bounded context Members, en donde se muestra cada acción del BackEnd de Members:
+
+**BACKEND**
+
+![alt text](assets\TF\membersBACK.png)
+
+![alt text](assets\TF\members8.png)
+
+![alt text](assets\TF\members9.png)
+
 
 ## **MEETING BOUNDED CONTEXT**
 
