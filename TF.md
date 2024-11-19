@@ -27,6 +27,7 @@ Product: ManageWise
 ### **Integrantes:**
 
 - Estefano Oscar Jaque Peña - u202225466
+- Diego Rolin Acuña Tomas - u202221436
 - John Telesforo Arevalo Meza - u202117377
 - Valentino Sandoval Paiva - u20211a962
 - Sergio André Gómez Vallejos - u20221d401
@@ -51,35 +52,19 @@ Product: ManageWise
 | TB1     | 29/08/2024 | John Arévalo             | Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.                                                                                                                                                                                          |
 | TB1     | 6/09/2024  | John Arévalo             | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
 | TB1     | 11/10/2024 | Sergio Gómez             | Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.                                                                                                                                                                                         |
-| TB1     | 8/09/2024  | John Arévalo             | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.|
-|TP|24/09/2024|Valentino Sandoval|Diseño e implementacion de bounded context herramientas.|
-|TP|24/09/2024|Jose Alejo|Diseño e implementacion de bounded context Calendar.|
-|TP|24/09/2024|Estefano Jaque|Diseño e implementacion de bounded context Reportes.|
-|TP|24/09/2024|John Arévalo|Diseño e implementacion de bounded context Tareas.|
-|TP|24/09/2024|Diego Acuña|Diseño e implementacion de bounded context Miembros.|
-|TP|24/09/2024|Estefano Jaque|Sprint Planning 2.|
-|TP|24/09/2024|Estefano Jaque | Sprint Backlog 2.|
-|TP|24/09/2024|Jose Alejo|Development Evidence for Sprint Review.|
-|TP|24/09/2024|Valentino Sandoval|Testing Suite Evidence for Sprint Review.|
-|TP|24/09/2024|Jose Alejo|Execution Evidence for Sprint Review.|
-|TP|24/09/2024|Valentino Sandoval|Services Documentation Evidence for Sprint Review|
-|TP|24/09/2024|John Arévalo|Software Deployment Evidence for Sprint Review|
-|TP|24/09/2024|Diego Acuña|Team Collaboration Insights during Sprint|
-
+| TB1     | 8/09/2024  | John Arévalo             | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
+| TF1     | 16/10/2024 | Sergio Gómez             | Desarrolle el bounded context members del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
+ TF1     | 16/10/2024 | Estefano Jaque             | Desarrolle el bounded context issues del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
+  TF1     | 16/10/2024 | Jhon Arevalo             | Desarrolle el bounded context backlog del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
+  TF1     | 16/10/2024 | Valentino Sandoval             | Desarrolle el bounded context meeting del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
 
 ## Project Report Collaboration Insights
 
 |  URL de la organización del proyecto  |          URL del repositorio del reporte          |
-| :-----------------------------------: | :-----------------------------------------------: | 
+| :-----------------------------------: | :-----------------------------------------------: |
 | https://github.com/Horizon-ManageWise | https://github.com/Horizon-ManageWise/Horizon.git |
 
-| URL del repositorio del backend | URL del repositorio del Frontend| URL del repositorio de la landing page |
-|  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
-| https://github.com/Horizon-ManageWise/managewise-backend | https://github.com/Horizon-ManageWise/Frontend-Web-Application | https://github.com/Horizon-ManageWise/LandingPage |
-
-TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes al integrarse un nuevo miembro al equipo y aportar con ideas nuevas para la landing page. Por ende, se muestran capturas de los commits del mes pasado y de este mes.
-
-TB2: TB2: Se han realizado todas las tareas asignadas para la entrega de la TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que necesitaban mejorar en las anteriores entregas, en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git. En esta entrega se adicionó el repositorio de backend, que es en donde se trabajó y trabajará en las siguientes entregas todo lo relacionado al app web service: https://github.com/Horizon-ManageWise/managewise-backend.
+TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
 
 <br>**Vista de commits: Landing page:**  
 ![alt text](assets/TB1-new/landingc1.jpeg)
@@ -99,16 +84,16 @@ TB2: TB2: Se han realizado todas las tareas asignadas para la entrega de la TB2,
 
 <br>**Report:**
 
-![alt text](assets/TB2/backlog/collaboraton/commits.png)
+![alt text](assets/TB1-new/commitsall2.jpeg)
 
-![alt text](assets/TB2/backlog/collaboraton/contri.png)
+![alt text](assets/TB1-new/commitall1.jpeg)
 
-![alt text](assets/TB2/backlog/collaboraton/nose.png)
+![alt text](assets/TB1-image/commitsreport3.jpeg)
 
-- Estefano Oscar Jaque Peña: 65
-- John Telesforo Arevalo Meza: 50
-- Valentino Sandoval Paiva: 68
-- Sergio André Gómez Vallejos: 32
+- Estefano Oscar Jaque Peña: 55
+- John Telesforo Arevalo Meza: 40
+- Valentino Sandoval Paiva: 59
+- Sergio André Gómez Vallejos: 13
 
 TB1:<br>
 |Integrante|Tarea Asignada|
@@ -118,21 +103,6 @@ TB1:<br>
 | Diego Rolin Acuña Tomas | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
 | Arévalo Meza John | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
 | Sergio André Gómez Vallejos | Student outcome , conclusiones, Landing Page Wireframe, Landing Page Mock-up, Testing Suite Evidence for Sprint Review, landing page mockups, web application wireframes, web application mockups, wSoftware Deployment Evidence for Sprint Review |
-
-**TP:**<br>
-|Integrante|Tarea Asignada|
-|-|-|
-|Jaque Peña, Estefano Oscar|Sprint Planning 2: Planificación de las tareas y objetivos para el segundo sprint, asegurando que el equipo tenga claro qué se debe priorizar.<br> Sprint Backlog 2: Organización y refinamiento del backlog del sprint, detallando las historias de usuario que se trabajarán en este ciclo.|
-|Sandoval Paiva Valentino|Testing Suite Evidence for Sprint Review: Crear y documentar los resultados de las pruebas realizadas durante el sprint, mostrando la cobertura de tests y validación del software.<br>Services Documentation Evidence for Sprint Review: Documentar los servicios implementados o modificados, proporcionando evidencia clara de su funcionamiento y detalles técnicos.|
-| Arévalo Meza John | Team Collaboration Insights during Sprint: Recopilar y presentar información sobre la colaboración del equipo durante el sprint, destacando los procesos de comunicación, desafíos y cómo se superaron. |
-
-TB2:<br>
-|Integrante|Tarea Asignada|
-|-|-|
-|Jaque Peña, Estefano Oscar| Desarrollo del bounded context en backend, desarrollo de nueva versión de bounded context issues en frontend, registro de entrevistas, execution evidence for sprint review, sprint planning 3, sprint backlog 3, video about the product|
-|Sandoval Paiva Valentino| Desarrollo de backend para meeting bounded context, desarrollo de nueva version para meeting bounded context forntend, Sprint backlog 3, diseño de entrevistas, registro de entrevistas, testing evidence for sprint, execution evidence for sprint review, descripción de problemas|
-| Arévalo Meza John | Desarrollo de backend para backlog bounded context, desarrollo de nueva version de frontend para backlog bounded context, Execution evidence for sprint review, software deployment evidence for sprint review, deploy de backend, team collaboration insights, registro de entrevistas|
-| Sergio André Gómez Vallejos | Desarrollo de backend para statistics boudned context, desarrollo de nueva version para statistics boudned context, registro de entrevistas, execution evidence for sprint review, evaluación de heurísticas y principios de ux, escala de severidad, tabla de resumen de problemas |
 
 ## Contenido
 
@@ -217,8 +187,41 @@ TB2:<br>
       - [5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
       - [5.2.1.4 Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
       - [5.2.1.5 Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6 Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7 Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8 Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2 . Sprint 2](#522--sprint-2)
+      - [5.2.2.1 Sprint Planning 2.](#5221-sprint-planning-2)
+      - [5.2.2.2 Sprint Backlog 2.](#5222-sprint-backlog-2)
+      - [5.2.2.3 Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4 Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5 Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6 Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7 Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8 Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3 . Sprint 3](#523--sprint-3)
+      - [5.2.3.1 Sprint Planning 3.](#5231-sprint-planning-3)
+      - [5.2.3.2 Sprint Backlog 3.](#5232-sprint-backlog-3)
+      - [5.2.3.3 Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4 Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5 Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6 Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7 Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8 Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4 . Sprint 4](#524--sprint-4)
+      - [5.2.4.1 Sprint Planning 4.](#5241-sprint-planning-4)
+      - [5.2.4.2 Sprint Backlog 4.](#5242-sprint-backlog-4)
+      - [5.2.4.3 Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4 Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5 Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6 Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7 Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8 Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
+    - [5.3 Validation Interviews](#53-validation-interviews)
+      - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+      - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3 Evaluaciones según Heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4 Video About-the-Product](#54-video-about-the-product)
     - [Conclusiones](#conclusiones)
     - [Bibliografia](#bibliografia)
     - [Anexos](#anexos)
@@ -232,8 +235,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio especifico | Acciones Realizadas| Conclusiones|
 | :-- | :-- | -- |
-| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo.<br>**Sergio André Gómez Vallejos**<br>TB1:Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas.<br>**Estefano Oscar Jaque Peñaa**<br>TB2: Participé activamente en las reuniones del sprint backlog y discutí las funcionalidades implementadas, como el endpoint de incidencias y el frontend de reportes e historial. En cada reunión, expliqué mis avances y escuché el feedback del equipo, lo cual facilitó la alineación en objetivos.<br>**John Arévalo Meza**<br>TB2: Durante este sprint, implementé el endpoint "/api/backlog/user-stories" para la creación de User Stories y el endpoint "/api/backlog/user-stories/{id}" para su modificación. También colaboré en la integración de funcionalidades en el frontend para la modificación y eliminación de tareas, y apoyé en la gestión de sprints y asignación de items a cada sprint. Mi participación en reuniones de equipo fue clave para coordinar la planificación y resolver dudas técnicas.<br>**Valentino Sandoval Paiva**<br>TB2: Durante este sprint, desarrollé los endpoints para la gestión de videoconferencias y grabaciones, incluyendo pruebas para la creación, eliminación y filtrado de grabaciones en el sistema. Participé en reuniones del equipo de desarrollo donde aporté soluciones y expliqué el proceso de prueba y las validaciones necesarias para el manejo de grabaciones en el backend.|**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br>**Sergio André Gómez Vallejos**<br>TB1:Durante mi participación desarrollé de manera puntual y clara con algunas secciones del documento, como los Mockoups, testing, etc. Me asegure de cumplir y transmitir los avances del documento del TB1.<br>**Valentino Sandoval Paiva**<br>TB1:En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.<br>**Estefano Oscar Jaque Peñaa**<br>TB2:Mi habilidad para comunicar claramente los detalles técnicos y funcionales del sistema contribuyó a una mejor comprensión y colaboración. La retroalimentación que recibí me ayudó a realizar ajustes en las funcionalidades, mejorando la precisión y efectividad del trabajo en equipo.<br>**Jhon Telesforo Arevalo Meza** <br> TB2: Documenté los endpoints que desarrollé para la creación y modificación de User Stories en el backlog, describiendo de manera detallada la lógica de respuesta ante casos de datos inválidos o faltantes. También documenté las pruebas realizadas para validar que el sistema respondiera adecuadamente bajo diversas condiciones de prueba. Además, apoyé en la creación de documentación para la funcionalidad de gestión y asignación de tareas en el frontend.<br>**Valentino Sandoval Paiva**<br> TB2: Creé documentación detallada para los endpoints de videoconferencias y grabaciones. Especificando la estructura de las solicitudes y respuestas del sistema, así como los parámetros de filtrado y validación implementados en la API. También documenté los casos de prueba y condiciones específicas para el manejo de grabaciones vacías o datos inválidos.|
-| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Sergio André Gómez Vallejos**<br>TB1:Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.<br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.<br>**Estefano Oscar Jaque Peña**<br>TB2: Documenté el proceso de implementación de endpoints, pruebas y manejo de errores en el sistema de incidencias. Redacté documentación detallada para la funcionalidad de filtro en incidencias, explicando tanto la lógica como los resultados esperados. Esta documentación se integró en el repositorio para consulta del equipo.<br>**Jhon Arevalo Meza** <br> TB2: Me aseguré de comunicar claramente las especificaciones técnicas y los detalles funcionales de los endpoints que desarrollé, adaptando el lenguaje técnico para que todos en el equipo pudieran comprenderlo. Esto ayudó a alinear nuestras tareas de desarrollo y facilitó la resolución de dudas durante las sesiones de planificación. <br>**Valentino Sandoval Paiva** <br> TB2: Me esforcé en asegurar que todos comprendieran la lógica detrás de los endpoints y el manejo de grabaciones en el sistema. Mi explicación fue detallada y ajustada al nivel técnico de cada miembro, logrando un entendimiento común que facilitó la implementación y las pruebas.| <br> **Valentino Sandoval Paiva**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br>**Sergio André Gómez Vallejos**<br>TB1:Durante el proyecto coloque y redacté documentación de manera clara y efectiva, como el testing, landing page, entre muchas otras secciones. Con el fin de mejorar y asegurar al documento para un proceso garantizado del proyecto. <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br><br>**Estefano Oscar Jaque Peña**<br>La documentación en TB2 fue clara y efectiva, adaptada tanto para desarrolladores como para otros miembros del equipo. Esto facilitó el flujo de trabajo y la comprensión de cada componente de manera detallada. Mi habilidad para escribir de manera clara y precisa impulsó una mejor alineación en el proyecto. <br>**Jhon Arevalo Meza** <br> Mi documentación fue precisa y organizada, facilitando la comprensión de las funcionalidades implementadas y de las pruebas realizadas para validar su correcto funcionamiento. Al detallar la lógica de respuesta y pruebas para casos de datos faltantes, ayudé al equipo a comprender el funcionamiento del sistema, permitiéndoles realizar ajustes de manera autónoma en etapas posteriores. <br> **Valentino Sandoval Paiva**<br> TB2: La documentación fue clara y detallada, facilitando a los miembros del equipo la implementación y las pruebas del sistema de videoconferencias. Esto permitió una rápida integración con otras funcionalidades del proyecto, reduciendo dudas y mejorando la eficiencia en pruebas e implementación.|
+| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia   | TB1:<br>**Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.**Valentino Sandoval Paiva** <br>TB1: Para esta entrega, realicé una matriz de tareas de usuario para entender mejor las necesidades y prioridades de nuestros usuarios. También desarrollé un mapa de empatía para identificar sus emociones y comportamientos clave. Establecí directrices de estilo generales y específicas para la web para garantizar una presentación coherente y efectiva. Configuré el entorno de desarrollo, gestioné el código fuente y definí normas para su estilo y convenciones. Finalmente, preparé la configuración para el despliegue del software, asegurando una implementación fluida y exitosa. <br>**John Arévalo Meza** <br>TB1: Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo.<br>**Sergio André Gómez Vallejos**<br>TB1:Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas.<br>**Sergio André Gómez Vallejos**<br>TF: Durante la fase final del proyecto, me aseguré de comunicar de manera clara y técnica las actualizaciones realizadas en el backend, explicando cómo las optimizaciones en el código y la integración de servicios mejoraron el rendimiento del sistema. Además, expuse los ajustes finales necesarios para alinear el producto con los requerimientos establecidos, facilitando la validación por parte del equipo y asegurando su comprensión incluso para quienes no estaban familiarizados con los detalles técnicos.|**Estefano Oscar Jaque Peña**<br>TB1:Durante mi participación, comuniqué de manera clara los aspectos técnicos y estratégicos en reuniones y planificación. Presenté los diagramas y el Sprint Backlog adaptando mi lenguaje a audiencias con diferentes niveles de experiencia, asegurando que todos comprendieran la lógica del proyecto. <br>**John Telesforo Arevalo Meza**<br> TB1:<br> A lo largo de la TB1, la comnunicación oral fue de suma importancia, ya que gracias a esta pudimos empatizar con los segmentos objetivos, así como dar a conocer de manera correcta nuestras ideas, además logramos compenetrar mejor como equipo y así realizar un trabajo exitoso.<br>**Sergio André Gómez Vallejos**<br>TB1:Durante mi participación desarrollé de manera puntual y clara con algunas secciones del documento, como los Mockoups, testing, etc. Me asegure de cumplir y transmitir los avances del documento del TB1.<br>**Valentino Sandoval Paiva**<br>TB1:En esta TB1, durante la exposición de los resultados del desarrollo de Lean UX Hypothesis Statements, Lean UX Canvas, y el análisis de entrevistas, se demostró una habilidad sólida para comunicar oralmente con efectividad a diferentes audiencias. Para los líderes, se presentó el impacto estratégico del To-Be Scenario Mapping y el Impact Mapping, destacando cómo estos instrumentos contribuyen al éxito del proyecto. Con el equipo de desarrollo, se hizo énfasis en las User Stories y la Information Architecture, explicando su relevancia en términos técnicos y prácticos para la ejecución del proyecto.<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación en la creación del TB1, tuvimos muchas reuniones por Dioscord para separar tareas, elegir los user stories que implementaremos, además de elegir que herramientas usaremos en la jornada. Tuve que hablar claro y demostrar mis ideas. Además de practicar la comunicación para ayudar en la exposición del trabajo.|
+| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:<br> **Estefano Oscar Jaque Peña**<br>TB1: Realice el Lean UX Prolem statements y los assumptions luego de ello apoye con el diseño de la pregunta para las entrevistas .Para los siguientes capitulos realice el diagrama de base de dato y de diagrama de clase, asi como el database dictionary.Para finalizar con mi aporte en el grupo realice el Sprint planning y el Sprint Backlog<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Sergio André Gómez Vallejos**<br>TB1:Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.<br>**John Telesforo Arevalo Meza**<br> Para esta entrega realicé los segmentos objetivos, asis scenario mapping, tobe scenario mapping, landing page wireframes y mockups, web application wireframes, mockups, wireflow and user flow diagrams y el registro de 1 entrevista por cada segmento objetivo. Además de la creación de la landgin page en base a el us asignado<br>**Valentino Sandoval Paiva** <br>TB1: "Al abordar esta entrega, analicé las tareas y necesidades de los usuarios para optimizar la experiencia del software. Desarrollé directrices de estilo para asegurar una presentación coherente, configuré el entorno de desarrollo y gestioné el código fuente. Además, preparé la configuración necesaria para un despliegue exitoso del software.| <br> **Valentino Sandoval Paiva**<br> TB1:<br> En esta TB1, la comunicación escrita ha sido clave para asegurar que todas las partes involucradas, desde líderes hasta miembros del equipo, comprendan claramente los objetivos, estrategias y decisiones tomadas. Se utilizó un lenguaje claro y conciso en la planificación y documentación, ajustando el nivel de detalle según la audiencia: proporcionando explicaciones estratégicas para los líderes y directrices más técnicas para el equipo de desarrollo. Esto garantizó una alineación efectiva entre todos los participantes, fomentando la colaboración y facilitando la toma de decisiones informadas basadas en datos compartidos y análisis grupales.<br>**Estefano Oscar Jaque Peña**<br>TB1:A lo largo del proyecto, redacté documentación clara y precisa, como los problem statements, assumptions, y el database dictionary, ajustando el nivel de detalle según la audiencia. Esto garantizó la comprensión y alineación de todo el equipo para una ejecución eficiente del proyecto. <br>**Sergio André Gómez Vallejos**<br>TB1:Durante el proyecto coloque y redacté documentación de manera clara y efectiva, como el testing, landing page, entre muchas otras secciones. Con el fin de mejorar y asegurar al documento para un proceso garantizado del proyecto. <br> **John Telesforo Arevalo Meza**<br> TB1:<br> Durante la Tb1, la comunicación escrita ha se de suma importancia, puesto que gracias a esta pudimos reconocer las necesidades de nuestros segmentos objetivos ,además de mejorar el trabajo en grupo y la organización en general<br>**Diego Rolin Acuña Tomas**<br> TB1: Durante mi participación comprendí la importancia de dejar un documento con las pruebas de tu trabajo en el primer sprint, también aprendí a usar herramienta para crear los modelos C4. Escribirlo para mis compañeros ayudara a una comunicación menos repetitiva, pues podrán conocer sin necesidad de esperar a las reuniones.<br>**Sergio André Gómez Vallejos**<br> TF: Elaboré documentación técnica detallada sobre las funcionalidades implementadas en el backend, incluyendo diagramas y explicaciones claras que facilitaron su comprensión por parte del equipo técnico. Además, preparé reportes ejecutivos y resúmenes adaptados para audiencias no técnicas, destacando los impactos clave y las mejoras realizadas en el sistema, garantizando que cada grupo recibiera la información necesaria de manera precisa y comprensible.<br>|
 
 ## Capítulo I: Introducción
 
@@ -945,21 +948,24 @@ EPICS:
 | US40 | Ver historial de una incidencia | Como miembro del equipo, quiero ver un historial completo de una incidencia, incluyendo todos los cambios, comentarios y archivos adjuntos, para entender su evolución y resolución. | Escenario 1: Visualización del Historial de Eventos del Issue.<br>Dado que soy un miembro del equipo con acceso a un issue, cuando visualizo el detalle del issue, entonces puedo ver un historial de todos los eventos asociados, incluyendo quién los creó, la fecha y una descripción. | EP07 |
 | US41 | Creación automática de los eventos creación y asignación del issue | Como miembro del equipo, quiero que automáticamente al llenar el reporte del issue que quiero agregar, automáticamente se añadan los eventos creación y asignación del issue. | Escenario 1: Creación automática del evento de creación del issue.<br>Dado que soy un miembro del equipo, cuando creo un nuevo issue, entonces se genera automáticamente un evento de creación, registrando la fecha, el creador y una descripción.<br>Escenario 2: Creación automática del evento de asignación del issue.<br>Dado que soy un miembro del equipo, cuando asigno el issue a otro miembro, entonces se genera automáticamente un evento de asignación, registrando la fecha, el miembro asignado y una descripción. | EP07 |
 | US42 | Filtrar incidencias por Sprint y Prioridad | Como miembro del equipo, quiero poder filtrar las incidencias por el Sprint al que están asociadas y por su Prioridad, para poder visualizar solo aquellas que son relevantes para mi trabajo. | Escenario 1: Filtro por Sprint.<br>Dado que estoy en la sección de Issues, cuando selecciono un Sprint en el filtro de búsqueda, entonces solo se muestran las incidencias que están asociadas a ese Sprint en la lista de incidencias.<br>Escenario 2: Filtro por Prioridad.<br>Dado que estoy en la sección de Issues, cuando selecciono un nivel de Prioridad en el filtro de búsqueda (Alta, Media, Baja), entonces solo se muestran las incidencias con esa prioridad en la lista de incidencias.<br>Escenario 3: Filtro combinado.<br>Dado que estoy en la sección de Issues, cuando selecciono tanto un Sprint como un nivel de Prioridad en el filtro de búsqueda, entonces solo se muestran las incidencias que cumplen ambos criterios en la lista de incidencias. | EP07 || TS-43   | Configurar Entorno de Desarrollo para ManageWise Horizon   | Como desarrollador, quiero configurar un entorno de desarrollo para ManageWise Horizon, para asegurar que todos los miembros del equipo tengan un ambiente consistente y funcional para trabajar en el proyecto.                                                        | Given que se dispone de la documentación del entorno, when se realiza la configuración, then todos los miembros del equipo deben poder clonar el repositorio y ejecutar la aplicación sin errores. Además, se debe verificar la instalación de las dependencias necesarias y la configuración correcta del sistema.               | EP-08     |
+| US43 | Iniciar sesión (Sign In) | Como miembro del equipo, quiero poder iniciar sesión en la aplicación con una cuenta ya creada, para así tener acceso a todos los recursos. | **Escenario 1: Inicio de sesión exitoso**<br> - **Dado** que estoy en la pantalla de inicio de sesión<br> - **Cuando** ingreso una cuenta ya creada con credenciales válidas y hago clic en "Iniciar sesión"<br> - **Entonces** debo ser redirigido a la página principal con acceso a los recursos disponibles en la plataforma.<br>**Escenario 2: Credenciales incorrectas**<br> - **Dado** que estoy en la pantalla de inicio de sesión<br> - **Cuando** ingreso credenciales incorrectas y hago clic en "Iniciar sesión"<br> - **Entonces** debo recibir un mensaje de error indicando que las credenciales son inválidas. | EP-05 |
+| US44 | Registro de usuario (Sign Up) | Como miembro del equipo, quiero poder crear una cuenta en la plataforma, para así poder guardar datos importantes y acceder al inicio de sesión. | **Escenario 1: Registro exitoso**<br> - **Dado** que estoy en la pantalla de registro<br> - **Cuando** ingreso un correo electrónico único y una contraseña válida y hago clic en "Registrarse"<br> - **Entonces** debo recibir una confirmación de registro y ser redirigido a la página de inicio de sesión.<br>**Escenario 2: Correo ya registrado**<br> - **Dado** que estoy en la pantalla de registro<br> - **Cuando** ingreso un correo electrónico que ya está registrado en la plataforma<br> - **Entonces** debo recibir un mensaje de error indicando que el correo ya está en uso. | EP-05 |
 
 
 ### Technical Stories
 
 | Story ID | Título | Descripción | Criterios de Aceptación con Escenarios | EPIC |
 |----------|--------|-------------|----------------------------------------|-----------------|
-| TS001    | Endpoint para visualizar User Stories en el Timeline | Como Developer, quiero implementar un endpoint para mostrar las User Stories en el timeline, facilitando el seguimiento del progreso del equipo. | **E01: Visualización exitosa de User Stories**  <br> - **Dado** que el Developer implementa el endpoint "/api/timeline/user-stories" <br> - **Cuando** un usuario envía una solicitud GET para obtener las User Stories <br> - **Entonces** la respuesta debe ser 200 OK con una lista de User Stories agrupadas por Sprint.  <br> **Escenario 2: Timeline vacío**  <br> - **Dado** que el Developer implementa el endpoint "/api/timeline/user-stories" <br> - **Cuando** no hay User Stories en el sistema <br> - **Entonces** la respuesta debe ser 200 OK con una lista vacía. | EP-08 |
-| TS002    | Endpoint para visualización de estadísticas del rendimiento del equipo | Como Product Owner, quiero ver estadísticas del rendimiento del equipo para evaluar el progreso del proyecto. | **E01: Visualización exitosa de estadísticas**  <br> - **Dado** que el Developer implementa el endpoint "/api/stats/team-performance" <br> - **Cuando** un usuario envía una solicitud GET <br> - **Entonces** la respuesta debe ser 200 OK con las estadísticas de User Stories completadas y pendientes.  <br> **Escenario 2: Estadísticas vacías**  <br> - **Dado** que el Developer implementa el endpoint "/api/stats/team-performance" <br> - **Cuando** no hay User Stories en el sistema <br> - **Entonces** la respuesta debe ser 200 OK con una estadística indicando cero historias completadas y pendientes. | EP-08 |
+| TS001    | Endpoint para visualizar Miembros del equipo | Como Developer, quiero implementar un endpoint para mostrar los miembros de un proyecto, facilitando el seguimiento del equipo. | **E01: Visualización exitosa de miembros**  <br> - **Dado** que el Developer implementa el endpoint "/api/team/members"  <br> - **Cuando** un usuario envía una solicitud GET para obtener los miembros del equipo  <br> - **Entonces** la respuesta debe ser 200 OK con una lista de miembros del equipo. <br> **Escenario 2: Equipo vacío **  <br> - **Dado** que el Developer implementa el endpoint "/api/team/members"  <br> - **Cuando** no hay miembros en el equipo  <br> - **Entonces** la respuesta debe ser 200 OK con una lista vacía. | EP-08 |
+| TS002    | Endpoint para eliminación de miembro | Como Admin, quiero poder eliminar a un miembro del equipo para mantener actualizado el equipo en el sistema. | **E01: Eliminación exitosa de miembro **  <br> - **Dado** que el Admin implementa el endpoint "/api/team/members/{id}"  <br> - **Cuando** un usuario envía una solicitud DELETE para eliminar un miembro por su ID  <br> - **Entonces** la respuesta debe ser 200 OK con un mensaje confirmando la eliminación <br> **Escenario 2: Miembro no encontrado  **  <br> - **Dado** que el Admin implementa el endpoint "/api/team/members/{id}"   <br> - **Cuando** el ID del miembro no existe   <br> - **Entonces** la respuesta debe ser 404 Not Found con un mensaje indicando que el miembro no fue encontrado. | EP-08 |
 | TS003    | Endpoint para gestión de videoconferencias | Como Developer, quiero implementar un endpoint para gestionar videoconferencias, permitiendo crear, editar y eliminar videoconferencias del equipo. | **E01: Creación exitosa de videoconferencia**  <br> - **Dado** que el Developer implementa el endpoint "/api/meetings" <br> - **Cuando** un usuario envía una solicitud POST con datos válidos de videoconferencia (título, fecha, hora y enlace) <br> - **Entonces** la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/api/meetings/{id}" <br> - Y la videoconferencia debe ser registrada en el sistema.  <br> **Escenario 2: Eliminación de videoconferencia**  <br> - **Dado** el endpoint "/api/meetings/{id}" <br> - **Cuando** un usuario envía una solicitud DELETE con un ID de videoconferencia válido <br> - **Entonces** la respuesta debe ser 204 No Content <br> - Y la videoconferencia debe ser eliminada del sistema. | EP-08 |
 | TS004    | Endpoint para gestión de grabaciones de videoconferencias | Como Developer, quiero implementar un endpoint para gestionar las grabaciones de las videoconferencias, facilitando el acceso y edición de enlaces de grabaciones. | **E01: Filtrado exitoso de grabaciones**  <br> - **Dado** que el Developer implementa el endpoint "/api/meetings/recordings" <br> - **Cuando** un usuario envía una solicitud GET con parámetros de filtro válidos (nombre, rango de fechas) <br> - **Entonces** la respuesta debe ser 200 OK con una lista de grabaciones que coinciden con los filtros aplicados.  <br> **Escenario 2: Edición de enlaces de grabación**  <br> - **Dado** el endpoint "/api/meetings/recordings/{recordingId}" <br> - **Cuando** un usuario envía una solicitud PUT con datos válidos para actualizar el enlace de una grabación <br> - **Entonces** la respuesta debe ser 200 OK y el enlace de grabación debe reflejar los cambios realizados. | EP-08 |
 | TS005    | Endpoint para creación de User Stories en el Backlog | Como Developer, quiero implementar un endpoint para crear User Stories en el backlog, organizando las funcionalidades específicas del proyecto. | **E01: Creación exitosa de User Story**  <br> - **Dado** que el Developer implementa el endpoint "/api/backlog/user-stories" <br> - **Cuando** un usuario envía una solicitud POST con datos válidos de la User Story (título, descripción, prioridad) <br> - **Entonces** la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/api/backlog/user-stories/{id}" <br> - Y la User Story debe estar registrada en el sistema.  <br> **Escenario 2: Datos de User Story faltantes o inválidos**  <br> - **Dado** que el Developer implementa el endpoint "/api/backlog/user-stories" <br> - **Cuando** un usuario envía una solicitud POST con datos de User Story faltantes o inválidos <br> - **Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto. | EP-08 |
 | TS006    | Endpoint para modificación de User Stories | Como Developer, quiero implementar un endpoint para modificar User Stories en el backlog, ajustando la información según los cambios del proyecto. | **E01: Modificación exitosa de User Story**  <br> - **Dado** el endpoint "/api/backlog/user-stories/{id}" <br> - **Cuando** un usuario envía una solicitud PUT con datos válidos para modificar la User Story <br> - **Entonces** la respuesta debe ser 200 OK y la User Story debe reflejar las actualizaciones realizadas.  <br> **Escenario 2: User Story no encontrada**  <br> - **Dado** el endpoint "/api/backlog/user-stories/{id}" <br> - **Cuando** un usuario envía una solicitud PUT o DELETE con un ID de User Story que no existe <br> - **Entonces** la respuesta debe ser 404 Not Found indicando que la User Story no fue encontrada. | EP-08 |
 | TS007    | Endpoint para creación de incidencias | Como Developer, quiero implementar un endpoint para crear incidencias en el sistema, permitiendo reportar problemas o sugerencias de mejora. | **E01: Creación exitosa de incidencia**  <br> - **Dado** que el Developer implementa el endpoint "/api/issues" <br> - **Cuando** un usuario envía una solicitud POST con datos válidos de incidencia <br> - **Entonces** la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/api/issues/{id}" <br> - Y la incidencia debe estar registrada en el sistema.  <br> **Escenario 2: Datos de incidencia faltantes o inválidos**  <br> - **Dado** que el Developer implementa el endpoint "/api/issues" <br> - **Cuando** un usuario envía una solicitud POST con datos de incidencia faltantes o inválidos <br> - **Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto. | EP-08 |
 | TS008    | Endpoint para actualización de incidencias | Como Developer, quiero implementar un endpoint para actualizar incidencias existentes en el sistema, facilitando su seguimiento y resolución. | **E01: Actualización exitosa de incidencia**  <br> - **Dado** el endpoint "/api/issues/{id}" <br> - **Cuando** un usuario envía una solicitud PUT con datos válidos para modificar la incidencia <br> - **Entonces** la respuesta debe ser 200 OK y la incidencia debe reflejar los cambios realizados.  <br> **Escenario 2: Incidencia no encontrada**  <br> - **Dado** el endpoint "/api/issues/{id}" <br> - **Cuando** un usuario envía una solicitud PUT o DELETE con un ID de incidencia que no existe <br> - **Entonces** la respuesta debe ser 404 Not Found indicando que la incidencia no fue encontrada. | EP-08 |
-
+| TS009    | Endpoint para registro de usuarios (sign up) | Como Developer, quiero implementar un endpoint para registrar nuevos usuarios en el sistema, permitiendo la creación de una cuenta. | **E01: Registro exitoso**  <br> - **Dado** el endpoint "/api/auth/signup" <br> - **Cuando** un usuario envía una solicitud POST con datos válidos para crear una nueva cuenta <br> - **Entonces** la respuesta debe ser 201 Created y el usuario debe ser registrado correctamente.  <br> **Escenario 2: Usuario ya existe**  <br> - **Dado** el endpoint "/api/auth/signup" <br> - **Cuando** un usuario envía una solicitud POST con un correo electrónico ya registrado <br> - **Entonces** la respuesta debe ser 409 Conflict indicando que el usuario ya existe. | EP-09 |
+| TS010    | Endpoint para inicio de sesión (sign in) | Como Developer, quiero implementar un endpoint para iniciar sesión, validando si la cuenta ingresada existe en el sistema y autenticando al usuario. | **E01: Inicio de sesión exitoso**  <br> - **Dado** el endpoint "/api/auth/signin" <br> - **Cuando** un usuario envía una solicitud POST con credenciales válidas <br> - **Entonces** la respuesta debe ser 200 OK y se debe proporcionar un token de acceso al usuario.  <br> **Escenario 2: Credenciales incorrectas**  <br> - **Dado** el endpoint "/api/auth/signin" <br> - **Cuando** un usuario envía una solicitud POST con credenciales incorrectas o inexistentes <br> - **Entonces** la respuesta debe ser 401 Unauthorized indicando que las credenciales son incorrectas. | EP-10 |
 
 
 # Epic 01: Experiencia del Usuario en la Landing Page
@@ -1016,6 +1022,8 @@ EPICS:
 | US-28    | Asignar Roles a los Miembros del Equipo   |
 | US-29    | Conocer Información del Perfil de un Miembro |
 | US-30    | Ver Habilidades de Cada Miembro           |
+| US-42    | Sign In |
+| US-43    | Sign Up |
 
 # Epic 06: Gestión de User Stories y Sprints en el Timeline
 
@@ -1043,14 +1051,16 @@ EPICS:
 
 | Story ID | Título                                                                                           |
 |----------|--------------------------------------------------------------------------------------------------|
-| TS001    | Endpoint para visualizar User Stories en el Timeline                                             |
-| TS002    | Endpoint para visualización de estadísticas del rendimiento del equipo                           |
+| TS001    | Endpoint para visualizar Miembros del equipo                                             |
+| TS002    | Endpoint para eliminacion de miembro                           |
 | TS003    | Endpoint para gestión de videoconferencias                                                       |
 | TS004    | Endpoint para gestión de grabaciones de videoconferencias                                        |
 | TS005    | Endpoint para creación de User Stories en el Backlog                                             |
 | TS006    | Endpoint para modificación de User Stories                                                       |
 | TS007    | Endpoint para creación de incidencias                                                            |
 | TS008    | Endpoint para actualización de incidencias                                                       |
+| TS009    | Endpoint para sign up                                                       |
+| TS010    | Endpoint para sign in                                                       |
 
 
 ### 3.3. Impact Mapping
@@ -1104,14 +1114,18 @@ Anexo E
 | 40 | US40|Ver historial de una incidencia | Como miembro del equipo, quiero ver un historial completo de una incidencia, incluyendo todos los cambios, comentarios y archivos adjuntos, para entender su evolución y resolución. | 3 |
 | 41 | US41|Creación automática de los eventos creación y asignación del issue | Como miembro del equipo, quiero que automáticamente al llenar el reporte del issue que quiero agregar, automáticamente se añadan los eventos creación y asignación del issue. | 3 |
 | 42 | US42|Filtrar incidencias por Sprint y Prioridad | Como miembro del equipo, quiero poder filtrar las incidencias por el Sprint al que están asociadas y por su Prioridad, para poder visualizar solo aquellas que son relevantes para mi trabajo. | 2 |
-| 43     | TS001          | Endpoint para visualizar User Stories en el Timeline | Crear un endpoint que permita obtener todas las User Stories en el Timeline.    | 3                               |
-| 44     | TS002          | Endpoint para visualización de estadísticas del rendimiento del equipo | Crear un endpoint que permita obtener estadísticas del rendimiento del equipo.  | 5                               |
-| 45     | TS003          | Endpoint para gestión de videoconferencias         | Crear un endpoint para crear, editar y eliminar videoconferencias.             | 5                               |
-| 46     | TS004          | Endpoint para gestión de grabaciones de videoconferencias | Crear un endpoint para gestionar grabaciones de videoconferencias.             | 5                               |
-| 47     | TS005          | Endpoint para creación de User Stories en el Backlog | Crear un endpoint para permitir la creación de nuevas User Stories.            | 3                               |
-| 48     | TS006          | Endpoint para modificación de User Stories         | Crear un endpoint que permita modificar User Stories existentes.                | 3                               |
-| 49     | TS007          | Endpoint para creación de incidencias              | Crear un endpoint que permita crear nuevas incidencias.                        | 3                               |
-| 50     | TS008          | Endpoint para actualización de incidencias         | Crear un endpoint que permita actualizar incidencias existentes.                | 2                               |
+| 43 | US42|Sign In | Como miembro del equipo, quiero poder iniciar sesion en la aplicacion con una cuenta ya creada, para asi tener acceso a todos los recursos. | 3 |
+| 44 | US42|Sign up | Como miembro del equipo, quiero poder crear una cuenta en la plataforma, para de esta forma poder guardar datos importante y acceder al inicio de sesión. | 3 |
+| 45     | TS001          | Endpoint para visualizar Miembros del equipo | Crear un endpoint que permita visualizar todos los miembros.    | 3                               |
+| 46     | TS002          | Endpoint para eliminacion de miembro | Crear un endpoint que permita eliminar a un miembro especifico.  | 5                               |
+| 47     | TS003          | Endpoint para gestión de videoconferencias         | Crear un endpoint para crear, editar y eliminar videoconferencias.             | 5                               |
+| 48     | TS004          | Endpoint para gestión de grabaciones de videoconferencias | Crear un endpoint para gestionar grabaciones de videoconferencias.             | 5                               |
+| 49     | TS005          | Endpoint para creación de User Stories en el Backlog | Crear un endpoint para permitir la creación de nuevas User Stories.            | 3                               |
+| 50     | TS006          | Endpoint para modificación de User Stories         | Crear un endpoint que permita modificar User Stories existentes.                | 3                               |
+| 51     | TS007          | Endpoint para creación de incidencias              | Crear un endpoint que permita crear nuevas incidencias.                        | 3                               |
+| 52     | TS008          | Endpoint para actualización de incidencias         | Crear un endpoint que permita actualizar incidencias existentes.                | 2                               |
+| 53     | TS009          | Endpoint para sign up         | Crear un endpoint que permita crear una nueva cuenta.                | 5                               |
+| 54     | TS010          | Endpoint para sign in         | Crear un endpoint que permita iniciar sesión validando si existe la cuenta ingresada.                | 5                               |
 
 
 LINK PIVOTAL TRACKER : https://www.pivotaltracker.com/projects/2716327
@@ -2165,34 +2179,34 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 
 | sprint #| Sprint 1|||||||
 | -- | -- | -- | -- | -- | -- | -- | -- |
-| User<br>Story |                                               | Work-Item /Task |                                                   |                                                                                                                            |                       |                              |                                                           |
-| ID            | Title                                         | ID              | Title                                             | Description                                                                                                                | Estimation<br>(Hours) | Assigned<br>To               | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
-| US01          | Vista General de Beneficios y Funcionalidades | TA001           | Implementación de Sección de Beneficios           | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.| 6 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA002|crear componente angular|| 5 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA003|Integración con el repositorio        |     | 5 horas                | Arevalo Meza, John Telesforo | Done|
-| US02          | Enlaces Directos a Redes Sociales             | TA003           | Implementación de Enlaces a Redes Sociales        | Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                        | 6 horas                | Sandoval Paiva, Valentino    | Done|
-| | | TA004|crear componente angular|| 5 horas| Sandoval Paiva, Valentino | Done|
-| | | TA005|Integración con el repositorio        |     | 5 horas                | Sandoval Paiva, Valentino | Done|
-| US03          | Registro Rápido y Simple                      | TA006          | Diseño e Implementación del Registro de Usuario   | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.                        | 6 horas                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| | | TA007|crear componente angular|| 5 horas| Jaque Peña, Estefano Oscar | Done|
-| | | TA008|Integración con el repositorio        |     | 5 horas                | Jaque Peña, Estefano Oscar| Done|
-| US04          | Iniciar Sesión Rápido y Visible               | TA004           | Implementación de Enlace de Inicio de Sesión      | Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                         | 6 horas                | Jaque Peña, Estefano Oscar   | Done                                                      |
-| | | TA007|crear componente angular|| 5 horas| Jaque Peña, Estefano Oscar | Done|
-| | | TA008|Integración con el repositorio        |     | 5 horas                | Jaque Peña, Estefano Oscar | Done|
-| US05          | Resumen de la Empresa, Misión y Visión        | TA009           | Creación de Sección "Acerca de Nosotros"          | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.                                 | 6 horas                | Arevalo Meza, John Telesforo | Done                                                      |
-| | | TA010|crear componente angular|| 5 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA011|Integración con el repositorio        |     | 5 horas                | Arevalo Meza, John Telesforo | Done|
-| US06          | Navegación Clara y Directa en la Página       | TA012           | Diseño del Menú de Navegación                     | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.  | 6 horas                | Jaque Peña, Estefano Oscar    | Done                                                      |
-| | | TA013|crear componente angular|| 5 horas| Jaque Peña, Estefano Oscar | Done|
-| | | TA014|Integración con el repositorio        |     | 5 horas                | Jaque Peña, Estefano Oscar | Done|
-| US07          | Acceder a Preguntas Frecuentes                | TA015          | Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | 6 horas                | Sergio André Gómez Vallejos  | Done                                                      |
-| | | TA016|crear componente angular|| 5 horas|Sergio André Gómez Vallejos | Done|
-| | | TA017|Añadir funcionalidad de desplazo al toolbar con respecto a las preguntas (FAQ)  || 5 horas| Sergio André Gómez Vallejos | Done|
-| | | TA018|Verificar si al darle click se ve la respuesta|| 5 horas| Sergio André Gómez Vallejos | Done|
-| | | TA019|Implementar el diseño a las preguntas|| 5 horas| Sergio André Gómez Vallejos | Done|
-| US08          | Contactar via correo                          | TA020          | Implementación de Sección de Contacto             | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas.          | 6 horas                | Arevalo Meza, John Telesforo  | Done                                                      |
-| | | TA021|crear componente angular|| 5 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA022|Integración con el repositorio        |     | 5 horas                | Arevalo Meza, John Telesforo | Done|
+| User<br>Story || Work-Item /Task ||||||
+| ID| Title| ID| Title| Description| Estimation<br>(Hours) | Assigned<br>To| Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
+| US01| Vista General de Beneficios y Funcionalidades | TA001| Implementación de Sección de Beneficios| Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.| 1 hora| Arevalo Meza, John Telesforo | Done|
+| | | TA002|crear componente angular|| 1 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA003|Integración con el repositorio|| 1 horas| Arevalo Meza, John Telesforo | Done|
+| US02| Enlaces Directos a Redes Sociales| TA003| Implementación de Enlaces a Redes Sociales| Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                        | 1 horas| Sandoval Paiva, Valentino| Done|
+| | | TA004|crear componente angular|| 1 horas| Sandoval Paiva, Valentino | Done|
+| | | TA005|Integración con el repositorio|| 1 horas| Sandoval Paiva, Valentino | Done|
+| US03| Registro Rápido y Simple| TA006| Diseño e Implementación del Registro de Usuario| Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.| 1 horas| Jaque Peña, Estefano Oscar| Done|
+| | | TA007|crear componente angular|| 1 horas| Jaque Peña, Estefano Oscar | Done|
+| | | TA008|Integración con el repositorio|| 1 horas| Jaque Peña, Estefano Oscar| Done|
+| US04| Iniciar Sesión Rápido y Visible| TA004| Implementación de Enlace de Inicio de Sesión| Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                         | 1 horas| Jaque Peña, Estefano Oscar| Done|
+| | | TA007|crear componente angular|| 1 horas| Jaque Peña, Estefano Oscar | Done|
+| | | TA008|Integración con el repositorio|| 1 horas| Jaque Peña, Estefano Oscar | Done|
+| US05| Resumen de la Empresa, Misión y Visión| TA009| Creación de Sección "Acerca de Nosotros"| Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.| 1 horas| Arevalo Meza, John Telesforo | Done |
+| | | TA010|crear componente angular|| 1 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA011|Integración con el repositorio || 1 horas| Arevalo Meza, John Telesforo | Done|
+| US06| Navegación Clara y Directa en la Página| TA012| Diseño del Menú de Navegación| Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.| 1 horas| Jaque Peña, Estefano Oscar| Done|
+| | | TA013|crear componente angular||1 horas| Jaque Peña, Estefano Oscar | Done|
+| | | TA014|Integración con el repositorio|| 1 horas| Jaque Peña, Estefano Oscar | Done|
+| US07| Acceder a Preguntas Frecuentes| TA015| Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | 1 horas| Sergio André Gómez Vallejos  | Done|
+| | | TA016|crear componente angular|| 1 horas|Sergio André Gómez Vallejos | Done|
+| | | TA017|Añadir funcionalidad de desplazo al toolbar con respecto a las preguntas (FAQ)  || 1 horas| Sergio André Gómez Vallejos | Done|
+| | | TA018|Verificar si al darle click se ve la respuesta|| 1 horas| Sergio André Gómez Vallejos | Done|
+| | | TA019|Implementar el diseño a las preguntas|| 1 horas| Sergio André Gómez Vallejos | Done|
+| US08| Contactar via correo| TA020| Implementación de Sección de Contacto| Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas. | 1 horas| Arevalo Meza, John Telesforo  | Done|
+| | | TA021|crear componente angular|| 1 horas| Arevalo Meza, John Telesforo | Done|
+| | | TA022|Integración con el repositorio|| 1 horas| Arevalo Meza, John Telesforo | Done|
 
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
@@ -2368,47 +2382,63 @@ Para el segundo sprint backlog, recopilamos historias de usuario relacionadas a 
 | ID        | Title| ID| Title| Description| Estimation<br>(Hours) | Assigned<br>To| Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
 | US09      | Creación de user stories| TA001| Implementación en frontend| Crear funcionalidad para agregar user stories en el frontend| 6 horas| Arevalo Meza, John Telesforo| Done|
 ||| TA002| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de user stories| 4 horas| Arevalo Meza, John Telesforo   | Done|
-| US10| Modificación de user stories| TA003| Implementación en frontend| Crear funcionalidad para modificar user stories en el frontend| 6 horas| Arevalo Meza, John Telesforo| Done|
-||| TA004| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de modificación de user stories| 6 horas| Arevalo Meza, John Telesforo| Done|
-| US11| Eliminación de user stories| TA005| Implementación en frontend| Crear funcionalidad para eliminar user stories en el frontend| 5 horas| Arevalo Meza, John Telesforo | Done|
-||| TA006| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de user stories| 6 horas| Arevalo Meza, John Telesforo| Done|
-| US12| Creación de user epics| TA007| Implementación en frontend| Crear funcionalidad para agregar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA008| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de epics| 5 horas| Arevalo Meza, John Telesforo   | Done|
-|US13| Modificación de user epics| TA009| Implementación en frontend| Crear funcionalidad para modificar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA010| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de modificación de epics| 6 horas| Arevalo Meza, John Telesforo| Done|
-| US14| Eliminación de user epics| TA011| Implementación en frontend| Crear funcionalidad para eliminar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA012| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de epics| 7 horas| Arevalo Meza, John Telesforo   | Done|
-| US15| Creación de tasks| TA013| Implementación en frontend| Crear funcionalidad para agregar tasks en el frontend| 1 horas| Arevalo Meza, John Telesforo | Done|
-||| TA014| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de tasks| 5 horas| Arevalo Meza, John Telesforo| Done|
-| US22| Gestión de videoconferencias| TA027| Implementación en frontend|Crear funcionalidad para gestionar videoconferencias en el frontend| 7 horas| Sandoval Paiva, Valentino| Done|
-|||TA028|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de gestión de videoconferencias|5 horas| Sandoval Paiva, Valentino| Done|
-| US23|Edición de videoconferencias|TA029|Implementación en frontend|Crear funcionalidad para editar videoconferencias en el frontend|6 horas| Sandoval Paiva, Valentino|Done|
-||| TA030| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de edición de videoconferencias| 5 horas| Sandoval Paiva, Valentino| Done|
-| US24| Eliminación de videoconferencias| TA031|Implementación en frontend| Crear funcionalidad para eliminar videoconferencias en el frontend| 6 hora| Sandoval Paiva, Valentino| Done|
-||| TA032| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de videoconferencias| 5 hora| Sandoval Paiva, Valentino   | Done|
-| US25| Gestión de grabaciones de videoconferencias  | TA033| Implementación en frontend| Crear funcionalidad para gestionar grabaciones de videoconferencias en el frontend| 5 hora| Sandoval Paiva, Valentino| Done|
-|||TA034|Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de gestión de grabaciones| 5 hora| Sandoval Paiva, Valentino|Done|
-| US26|Visualización de detalles de videoconferencias| TA035|Implementación en frontend| Crear funcionalidad para visualizar detalles de videoconferencias en el frontend|1 hora|Sandoval Paiva, Valentino|Done|
-||| TA036| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de detalles de videoconferencias| 5 hora| Sandoval Paiva, Valentino| Done|
-| US27|Editar el acceso de miembros al proyecto| TA037| Implementación en frontend| Crear funcionalidad para editar acceso de miembros en el frontend| 6 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA038| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de edición de acceso de miembros| 5 hora| Acuña Tomas, Diego Rolin| Done|
-| US28| Ver la información de usuario de los miembros | TA039| Implementación en frontend| Crear funcionalidad para ver información de usuario en el frontend| 7 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA040| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de ver información de usuario| 5 hora| Acuña Tomas, Diego Rolin| Done|
-| US29|Asignar roles a los miembros del equipo| TA041| Implementación en frontend| Crear funcionalidad para asignar roles en el frontend| 7 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA042|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de asignación de roles| 5 hora|Acuña Tomas, Diego Rolin| Done|
-| US30| Conocer información del perfil de un miembro | TA043| Implementación en frontend| Crear funcionalidad para ver perfil completo de un miembro en el frontend|8 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA044| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de perfil completo| 5 hora| Acuña Tomas, Diego Rolin| Done|
-| US31|Ver habilidades de cada miembro| TA045| Implementación en frontend| Crear funcionalidad para ver habilidades de miembros en el frontend| 7 hora| Acuña Tomas, Diego Rolin| Done|
-||| TA046| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de habilidades| 3 hora| Acuña Tomas, Diego Rolin| Done|
-|US35| Crear una nueva incidencia|TA053| Implementación en frontend| Crear funcionalidad para crear nuevas incidencias en el frontend|6 hora|Jaque Peña, Estefano Oscar| Done|
-||| TA054| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de incidencias|5 hora| Jaque Peña, Estefano Oscar| Done|
-| US36|Visualizar las incidencias|TA055|Implementación en frontend|Crear funcionalidad para ver incidencias en el frontend|7 hora|Jaque Peña, Estefano Oscar| Done|
-|||TA056|Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de incidencias| 5 hora| Jaque Peña, Estefano Oscar| Done|
-| US37| Editar una incidencia| TA057| Implementación en frontend| Crear funcionalidad para editar incidencias en el frontend| 8 hora| Jaque Peña, Estefano Oscar|Done|
-||| TA058|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de edición de incidencias| 5 hora| Jaque Peña, Estefano Oscar   | Done|
-|US38|Eliminar una incidencia|TA059|Implementación en frontend| Crear funcionalidad para eliminar incidencias en el frontend| 7 hora| Jaque Peña, Estefano Oscar|Done|
-|||TA060|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de incidencias| 5 hora| Jaque Peña, Estefano Oscar|Done|
-
+||| TA003| Crear component en angular| Crear component en angular| 1 hora| Arevalo Meza, John Telesforo   | Done|
+||| TA004| Verificar la correcta creacion mediante un mensaje en consola 1h|Verificar la correcta creacion mediante un mensaje en consola | 1 hora| Arevalo Meza, John Telesforo   | Done|
+| US10| Modificación de user stories| TA005| Implementación en frontend | Crear funcionalidad para modificar user stories en el frontend| 6 horas| Arevalo Meza, John Telesforo| Done|
+||| TA006| Integración con el repositorio | Integración con el repositorio| 1 horas| Arevalo Meza, John Telesforo| Done|
+||| TA007| Crear component en angular | Crear component en angular| 1 hora| Arevalo Meza, John Telesforo| Done|
+||| TA008| Verificar correcta modificacion mediante mensaje en consola |Verificar correcta modificacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo| Done|
+| US11| Eliminación de user stories| TA009| Implementación en frontend| Crear funcionalidad para eliminar user stories en el frontend| 5 horas| Arevalo Meza, John Telesforo | Done|
+||| TA010| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de user stories| 6 horas| Arevalo Meza, John Telesforo| Done|
+||| TA011| Crear component en angular | Crear component en angular | 1 hora| Arevalo Meza, John Telesforo| Done|
+||| TA012| Verificar correcta eliminación mediante mensaje en consola | Verificar correcta eliminación mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo| Done|
+| US12| Creación de user epics| TA013| Implementación en frontend| Crear funcionalidad para agregar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
+||| TA014| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de epics| 5 horas| Arevalo Meza, John Telesforo   | Done|
+||| TA015| Crear component en angular |Crear component en angular | 1 hora| Arevalo Meza, John Telesforo   | Done|
+||| TA016| Verificar correcta creacion mediante mensaje en consola | Verificar correcta creacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo   | Done|
+|US13| Modificación de user epics| TA017| Implementación en frontend| Crear funcionalidad para modificar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
+||| TA018| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de modificación de epics| 6 horas| Arevalo Meza, John Telesforo| Done|
+||| TA019| Verificar correcta modificacion mediante mensaje en consola | Verificar correcta modificacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo| Done|
+||| TA020| Crear component en angular | Crear component en angular | 1 hora| Arevalo Meza, John Telesforo| Done|
+| US14| Eliminación de user epics| TA021| Implementación en frontend| Crear funcionalidad para eliminar epics en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
+||| TA022| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de epics| 7 horas| Arevalo Meza, John Telesforo   | Done|
+||| TA023| Verificar correcta eliminacion mediante mensaje en consola | Verificar correcta eliminacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo   | Done|
+||| TA024| Crear component | Crear component | 1 hora| Arevalo Meza, John Telesforo   | Done|
+| US15| Creación de tasks| TA025| Implementación en frontend| Crear funcionalidad para agregar tasks en el frontend| 1 horas| Arevalo Meza, John Telesforo | Done|
+||| TA026| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de tasks| 5 horas| Arevalo Meza, John Telesforo| Done|
+||| TA027| Creacion de component | Creacion de component | 1 hora| Arevalo Meza, John Telesforo| Done|
+||| TA028| Verificar correcta creacion mediante mensaje en consola | Verificar correcta creacion mediante mensaje en consola | 1 hora| Arevalo Meza, John Telesforo| Done|
+|US35| Crear una nueva incidencia|TA0529| Implementación en frontend| Crear funcionalidad para crear nuevas incidencias en el frontend|6 horas|Jaque Peña, Estefano Oscar| Done|
+||| TA031| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de creación de incidencias|5 horas| Jaque Peña, Estefano Oscar| Done|
+||| TA032| Creacion de component | Creacion de component |1 hora| Jaque Peña, Estefano Oscar| Done|
+||| TA033| Verificar correcta creacion mediante mensaje en consola | Verificar correcta creacion mediante mensaje en consola |1 hora| Jaque Peña, Estefano Oscar| Done|
+| US36|Visualizar las incidencias|TA034|Implementación en frontend|Crear funcionalidad para ver incidencias en el frontend|7 hora|Jaque Peña, Estefano Oscar| Done|
+|||TA035|Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de incidencias| 5 hora| Jaque Peña, Estefano Oscar| Done|
+|||TA036|Crear component en angular | Crear component en angular | 1 hora| Jaque Peña, Estefano Oscar| Done|
+| US37| Editar una incidencia| TA037| Implementación en frontend| Crear funcionalidad para editar incidencias en el frontend| 8 hora| Jaque Peña, Estefano Oscar|Done|
+||| TA038|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de edición de incidencias| 5 hora| Jaque Peña, Estefano Oscar   | Done|
+||| TA039|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Estefano Oscar   | Done|
+||| TA040|Verificar correcta modificacion mediante mensaje en consola |Verificar correcta modificacion mediante mensaje en consola | 1 hora| Jaque Peña, Estefano Oscar   | Done|
+|US38|Eliminar una incidencia|TA041|Implementación en frontend| Crear funcionalidad para eliminar incidencias en el frontend| 7 hora| Jaque Peña, Estefano Oscar|Done|
+|||TA042|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de incidencias| 5 hora| Jaque Peña, Estefano Oscar|Done|
+|||TA043|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Estefano Oscar|Done|
+|||TA044|Verificar correcta eliminacion mediante mensaje en consola |Verificar correcta eliminacion mediante mensaje en consola | 1 hora| Jaque Peña, Estefano Oscar|Done|
+|US27|Editar el acceso de miembros al proyecto|TA045|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA046|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA047|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
+|||TA048|Verificar correcta eliminacion mediante mensaje en consola |Verificar correcta eliminacion mediante mensaje en consola | 1 hora| Sergio Gomez|Done|
+|US28|Ver la información de usuario de los miembros|TA049|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA050|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA051|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
+|US29|EdAsignar roles a los miembros del equipo|TA052|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA053|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA054|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
+|US30|Conocer Información del Perfil de un Miembro|TA055|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA056|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA057|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
+|US31|Ver Habilidades de Cada Miembro|TA058|Implementación en frontend| Implementación en frontend| 3 hora| Sergio Gomez|Done|
+|||TA059|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad| 1 hora| Sergio Gomez|Done|
+|||TA060|Crear component en angular |Crear component en angular | 1 hora| Jaque Peña, Sergio Gomez|Done|
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise
 
@@ -2692,56 +2722,143 @@ Para el tercer sprint backlog, recopilamos historias de usuario relacionadas al 
 |--|--|--|--|--|--|--|--|
 | User Story || Work-Item / Task||||||
 |ID |Title|ID|Title|Description|Estimation (Hours)|Assigned To|Status|
-| TS001| Endpoint para visualizar User Stories en el Timeline    | TA001| Implementar el endpoint "/api/timeline/user-stories" | Crear la lógica para implementar el endpoint que permita visualizar las User Stories en el timeline. | 5 horas     | Sergio Gómez       | Done    |
-||| TA002| Realizar pruebas de respuesta del endpoint| Probar la respuesta del endpoint con solicitudes GET y verificar que la lista de User Stories se devuelve. | 6 horas| Sergio Gómez| Done|
-||| TA003| Validar manejo de un timeline vacío| Implementar la lógica que maneje el caso en que no hay User Stories en el sistema. | 5 hora| Sergio Gómez| Done|
-| TS002| Endpoint para visualización de estadísticas del rendimiento del equipo | TA004| Implementar el endpoint "/api/stats/team-performance" | Crear la lógica para implementar el endpoint que devuelva las estadísticas del rendimiento del equipo. |5 horas| Sergio Gómez| Done    |
-||| TA005| Probar respuesta del endpoint|Probar la respuesta del endpoint con solicitudes GET y verificar que se devuelvan las estadísticas correctamente.| 6 horas| Sergio Gómez       | Done    |
-||| TA006| Validar estadísticas vacías| Implementar la lógica que maneje el caso en que no hay User Stories y devuelva estadísticas adecuadas.| 5 hora| Sergio Gómez| Done|
-| TS003| Endpoint para gestión de videoconferencias| TA007| Implementar el endpoint "/api/meetings"            | Crear la lógica para implementar el endpoint que permita crear, editar y eliminar videoconferencias. | 5 horas| Valentino Sandoval | Done|
-||| TA008| Realizar pruebas de creación de videoconferencias| Probar la creación de videoconferencias con solicitudes POST y validar la respuesta. | 5 horas| Valentino Sandoval | Done|
-||| TA009| Validar eliminación de videoconferencias| Probar la eliminación de videoconferencias con solicitudes DELETE y validar la respuesta. | 5 hora| Valentino Sandoval | Done|
-| TS004| Endpoint para gestión de grabaciones de videoconferencias | TA010| Implementar el endpoint "/api/meetings/recordings"  | Crear la lógica para implementar el endpoint que gestione las grabaciones de videoconferencias. | 3 horas     | Valentino Sandoval | Done    |
-|          |                                                         | TA011                                                      | Probar filtrado de grabaciones                      | Probar la funcionalidad de filtrado de grabaciones con parámetros válidos y verificar la respuesta. | 5 horas     | Valentino Sandoval | Done    |
-|          |                                                         | TA012                                                      | Validar edición de enlaces de grabación             | Probar la edición de enlaces de grabación y validar la respuesta del sistema. | 5 hora      | Valentino Sandoval | Done    |
-| TS005    | Endpoint para creación de User Stories en el Backlog    | TA013                                                      | Implementar el endpoint "/api/backlog/user-stories" | Crear la lógica para implementar el endpoint que permita crear User Stories en el backlog. | 5 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA014                                                      | Probar creación de User Stories                     | Probar la creación de User Stories con datos válidos y validar la respuesta del sistema. | 5 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA015                                                      | Validar manejo de datos faltantes                   | Probar la respuesta del sistema ante datos faltantes o inválidos al intentar crear User Stories. | 5 hora      | Jhon Arevalo      | Done    |
-| TS006    | Endpoint para modificación de User Stories              | TA016                                                      | Implementar el endpoint "/api/backlog/user-stories/{id}" | Crear la lógica para implementar el endpoint que permita modificar User Stories existentes. | 5 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA017                                                      | Probar modificación de User Stories                  | Probar la modificación de User Stories con datos válidos y validar la respuesta del sistema. | 5 horas     | Jhon Arevalo      | Done    |
-|          |                                                         | TA018                                                      | Validar manejo de User Stories no encontradas       | Probar la respuesta del sistema al intentar modificar o eliminar User Stories no existentes. | 5 hora      | Jhon Arevalo      | Done    |
-| TS007    | Endpoint para creación de incidencias                   | TA019                                                      | Implementar el endpoint "/api/issues"              | Crear la lógica para implementar el endpoint que permita crear incidencias en el sistema. | 5 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA020                                                      | Probar creación de incidencias                       | Probar la creación de incidencias con datos válidos y validar la respuesta del sistema. | 5 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA021                                                      | Validar manejo de datos de incidencia faltantes     | Probar la respuesta del sistema ante datos de incidencia faltantes o inválidos al intentar crear. | 5 hora      | Estefano Jaque    | Done    |
-| TS008    | Endpoint para actualización de incidencias              | TA022                                                      | Implementar el endpoint "/api/issues/{id}"         | Crear la lógica para implementar el endpoint que permita actualizar incidencias existentes. | 5 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA023                                                      | Probar actualización de incidencias                  | Probar la actualización de incidencias con datos válidos y validar la respuesta del sistema. | 5 horas     | Estefano Jaque    | Done    |
-|          |                                                         | TA024                                                      | Validar manejo de incidencias no encontradas        | Probar la respuesta del sistema al intentar actualizar o eliminar incidencias no existentes. | 5 hora      | Estefano Jaque    | Done    |
-| US16| Modificación de tasks| TA025| Implementación en frontend| Crear funcionalidad para modificar tasks en el frontend|5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA026| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de modificación de tasks|5 horas| Arevalo Meza, John Telesforo| Done|
-| US17| Eliminación de tasks| TA027| Implementación en frontend| Crear funcionalidad para eliminar tasks en el frontend| 6 horas| Arevalo Meza, John Telesforo| Done|
-||| TA028| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eliminación de tasks| 5 horas| Arevalo Meza, John Telesforo| Done|
-| US18| Vista centrada en backlog items| TA029| Implementación en frontend| Crear funcionalidad de vista centrada en backlog items en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA030| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de vista centrada en backlog items| 5 horas| Arevalo Meza, John Telesforo| Done|
-| US19| Visualización del product backlog|TA031|Implementación en frontend| Crear funcionalidad para visualizar el backlog en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA032| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización del backlog|5 horas| Arevalo Meza, John Telesforo| Done|
-| US20|Asignación de backlog items a un sprint| TA033| Implementación en frontend| Crear funcionalidad para asignar items al sprint en el frontend| 5 horas| Arevalo Meza, John Telesforo| Done|
-||| TA034| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de asignación de backlog items a un sprint| 5 horas| Arevalo Meza, John Telesforo| Done|
-| US21| Gestión de sprints| TA035| Implementación en frontend| Crear funcionalidad para gestionar sprints en el frontend| 5 horas| Arevalo Meza, John Telesforo|Done|
-||| TA036| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de gestión de sprints| 5 horas| Arevalo Meza, John Telesforo| Done|
-|US32| Visualización de User Stories en el Timeline | TA037| Implementación en frontend| Crear funcionalidad para visualizar User Stories en el timeline| 7 hora|Sergio André Gómez Vallejos| Done|
-||| TA038| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de User Stories en el timeline| 5 hora| Sergio André Gómez Vallejos   | Done|
-|US33|Estimación de Esfuerzo en User Stories|TA039|Implementación en frontend|Crear funcionalidad para mostrar estimación de esfuerzo en User Stories en el frontend| 6 hora| Sergio André Gómez Vallejos| Done|
-||| TA040| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de estimación de esfuerzo en User Stories| 5 hora| Sergio André Gómez Vallejos| Done|
-| US34|Visualización de estadísticas del rendimiento del equipo |TA041|Implementación en frontend|Crear funcionalidad para ver estadísticas de rendimiento en el frontend| 6 hora|Sergio André Gómez Vallejos| Done|
-||| TA042| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de estadísticas de rendimiento|5 hora| Sergio André Gómez Vallejos| Done|
-| US39|Ver reporte de una incidencia| TA043| Implementación en frontend| Crear funcionalidad para ver reportes de incidencias en el frontend| 7 hora| Jaque Peña, Estefano Oscar| Done|
-||| TA044| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de visualización de reportes de incidencias|5 hora| Jaque Peña, Estefano Oscar|Done|
-| US40|Ver historial de una incidencia|TA045|Implementación en frontend| Crear funcionalidad para ver historial de incidencias en el frontend|7 hora|Jaque Peña, Estefano Oscar| Done|
-|||TA046|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de visualización de historial de incidencias|5 hora| Jaque Peña, Estefano Oscar|Done|
-| US41|Creación automática de eventos en issues|TA047|Implementación en frontend|Crear funcionalidad para añadir automáticamente eventos de creación y asignación en el frontend| 7 hora|Jaque Peña, Estefano Oscar|Done|
-||| TA048| Integración con el repositorio| Subir cambios al repositorio en GitHub para la funcionalidad de eventos automáticos de issues| 5 hora| Jaque Peña, Estefano Oscar| Done|
-| US42|Filtrar incidencias por Sprint y Prioridad| TA049| Implementación en frontend| Crear funcionalidad para filtrar incidencias en el frontend| 6 hora| Jaque Peña, Estefano Oscar| Done|
-|||TA050|Integración con el repositorio|Subir cambios al repositorio en GitHub para la funcionalidad de filtro de incidencias|5 hora| Jaque Peña, Estefano Oscar| Done|
+| TS001| Endpoint para visualizar Miembros del equipo    | TA001| implementar el endpoint "/api/members"  | implementar el endpoint "/api/members"  | 2 horas     | Sergio Gómez       | Done    |
+||| TA002| realizar pruebas de respuesta del endpoint | realizar pruebas de respuesta del endpoint. | 2 horas| Sergio Gómez| Done|
+||| TA003| creacion de queries | creacion de queries. | 1 hora| Sergio Gómez| Done|
+||| TA004| definir e implementar query service y service impls  | definir e implementar query service y service impls. | 1 hora| Sergio Gómez| Done|
+||| TA005| creacion de aggregates | creacion de aggregates. | 1 hora| Sergio Gómez| Done|
+||| TA006| implementar controller | implementar controller. | 1 hora| Sergio Gómez| Done|
+| TS002| Endpoint para eliminacion de miembro | TA007| implementar el endpoint "/api/members/member-id" | implementar el endpoint "/api/members/member-id"  | 3 horas| Sergio Gómez| Done|
+||| TA008| realizar pruebas de respuesta del endpoint | realizar pruebas de respuesta del endpoint. | 1 hora| Sergio Gómez| Done|
+||| TA009| creacion de queries y aggregates | creacion de queries y aggregates  | 2 hora| Sergio Gómez| Done|
+||| TA010| definir e implementar query service y service impls | definir e implementar query service y service impls. | 1 hora| Sergio Gómez| Done|
+||| TA011| implementar controller | implementar controller | 1 hora| Sergio Gómez| Done|
+| TS003| Endpoint para gestión de videoconferencias | TA012| implementar el endpoint "/api/meeting" | implementar el endpoint "/api/meeting"  | 5 horas| Valentino Sandoval| Done|
+||| TA013| realizar pruebas de respuesta endpoints | realizar pruebas de respuesta endpoints | 3 horas| Valentino Sandoval| Done|
+||| TA014| Crear y definir los aggregates| Crear y definir los aggregates | 1 hora| Valentino Sandoval| Done|
+||| TA015| Crear y definir resources y commands | Crear y definir resources y commands  | 2 horas| Valentino Sandoval| Done|
+||| TA016| crear y definir queryservice | crear y definir queryservice  | 1 hora| Valentino Sandoval| Done|
+||| TA017| crear y definir repositories | crear y definir repositories  | 1 hora| Valentino Sandoval| Done|
+||| TA018| crear e implementar commandserviceimpls | crear e implementar commandserviceimpls | 1 hora| Valentino Sandoval| Done|
+||| TA019| crear e implementar queryserviceimpls  | crear e implementar queryserviceimpls   | 1 hora| Valentino Sandoval| Done|
+||| TA020| crear controller | crear controller  | 1 hora| Valentino Sandoval| Done|
+| TS004| Endpoint para gestión de grabaciones de videoconferencias | TA021| Implementar el endpoint "/api/meetings/recordings" | Implementar el endpoint "/api/meetings/recordings" | 5 horas| Valentino Sandoval| Done|
+||| TA022| Probar filtrado de grabaciones | Probar filtrado de grabaciones | 1 hora| Valentino Sandoval| Done|
+||| TA023| Validar edición de enlaces de grabación | Validar edición de enlaces de grabación  | 1 hora| Valentino Sandoval| Done|
+||| TA024| realizar pruebas de respuesta endpoints | realizar pruebas de respuesta endpoints  |3 horas| Valentino Sandoval| Done|
+||| TA025| Crear y definir los aggregates | Crear y definir los aggregates  | 1 hora| Valentino Sandoval| Done|
+||| TA026| Crear y definir resources y commands | Crear y definir resources y commands  | 2 horas| Valentino Sandoval| Done|
+||| TA027| crear y definir queryservice | crear y definir queryservice | 1 hora| Valentino Sandoval| Done|
+||| TA028| crear y definir repositories | crear y definir repositories | 1 hora| Valentino Sandoval| Done|
+||| TA029| crear e implementar commandserviceimpls | crear e implementar commandserviceimpls | 1 hora| Valentino Sandoval| Done|
+||| TA030| crear e implementar queryserviceimpls | crear e implementar queryserviceimpls  | 1 hora| Valentino Sandoval| Done|
+||| TA031| crear controller | crear controller | 1 hora| Valentino Sandoval| Done|
+| US26| Visualización de detalles de videoconferencias | TA032| Implementacion en frontend | Implementacion en frontend | 3 horas| Valentino Sandoval| Done|
+||| TA033| Itegracion con el repositorio | Itegracion con el repositorio | 2 horas| Valentino Sandoval| Done|
+||| TA034| Crear Componenten angular | Crear Componenten angular  | 1 hora| Valentino Sandoval| Done|
+||| TA035| Verificar la correcta visualizacion de detalles | Verificar la correcta visualizacion de detalles  | 1 hora| Valentino Sandoval| Done|
+| US25| Gestión de grabaciones de videoconferencias | TA036| Implementacion en frontend | Implementacion en frontend | 1 hora| Valentino Sandoval| Done|
+||| TA037| Itegracion con el repositorio | Itegracion con el repositorio  | 1 hora| Valentino Sandoval| Done|
+||| TA038| Crear Componenten angular | Crear Componenten angular  | 1 hora| Valentino Sandoval| Done|
+||| TA039| Verificar lectura de datos | Verificar lectura de datos  | 1 hora| Valentino Sandoval| Done|
+| TS005| Endpoint para creación de User Stories en el Backlog | TA040| Implementar el endpoint "/api/backlog/user-stories/" | Implementar el endpoint "/api/backlog/user-stories/"  | 3 horas| John Arevalo| Done|
+||| TA041| realizar pruebas de respuesta endpoint | realizar pruebas de respuesta endpoint  |2 horas| John Arevalo| Done|
+||| TA042| Crear y definir los aggregates | Crear y definir los aggregates  | 1 hora| John Arevalo| Done|
+||| TA043| Crear y definir commands  | Crear y definir commands |1 horas| John Arevalo| Done|
+||| TA044| crear y definir repositories | crear y definir repositories | 1 hora| John Arevalo| Done|
+||| TA045| crear e implementar commandserviceimpls | crear e implementar commandserviceimpls | 1 hora| John Arevalo| Done|
+||| TA046| crear controller | crear controller  | 1 hora| John Arevalo| Done|
+||| TA047| Crear y definir resources | Crear y definir resources | 1 hora| John Arevalo| Done|
+| TS006| Endpoint para modificación de User Stories | TA048| Implementar el endpoint "/api/backlog/user-stories/{id}" | Implementar el endpoint "/api/backlog/user-stories/{id}" | 3 horas| John Arevalo| Done|
+||| TA049| Crear y definir los aggregates | Crear y definir los aggregates  | 1 hora| John Arevalo| Done|
+||| TA050| Crear y definir commands y resources | Crear y definir commands y resources  |2 horas| John Arevalo| Done|
+||| TA051| Implementacion de CommandService | Implementacion de CommandService  | 1 hora| John Arevalo| Done|
+||| TA052| crear e implementar commandserviceimpls | crear e implementar commandserviceimpls  | 1 hora| John Arevalo| Done|
+||| TA053| crear controller | crear controller  | 1 hora| John Arevalo| Done|
+| TS007| Endpoint para creación de incidencias | TA054| Implementar el endpoint "/api/issues" | Implementar el endpoint "/api/issues"  |2 horas| Estefano Jaque| Done|
+||| TA055| Probar creación de incidencias | Probar creación de incidencias | 1 hora| Estefano Jaque| Done|
+||| TA056| Validar manejo de datos de incidencia faltantes | Validar manejo de datos de incidencia faltantes | 1 hora| Estefano Jaque| Done|
+||| TA057| Crear y definir ValueObjects | Crear y definir ValueObjects  | 1 hora| Estefano Jaque| Done|
+||| TA058| Crear y definir Aggregate | Crear y definir Aggregate. | 1 hora| Estefano Jaque| Done|
+||| TA059| Crear Commands y Resources | Crear Commands y Resources | 1 hora| Estefano Jaque| Done|
+||| TA060| Crear y definir CommandService | Crear y definir CommandService | 1 hora| Estefano Jaque| Done|
+||| TA061| Crear y definir Repository | Crear y definir Repository  | 1 hora| Estefano Jaque| Done|
+||| TA062| Crear e implementar CommandServiceImpls | Crear e implementar CommandServiceImpls  | 1 hora| Estefano Jaque| Done|
+||| TA063| Implementacion en Controller | Implementacion en Controller  |2 horas| Estefano Jaque| Done|
+| TS008| Endpoint para actualización de incidencias | TA064| Implementar el endpoint "/api/issues/{id}" | Implementar el endpoint "/api/issues/{id}" |2 horas| Estefano Jaque| Done|
+||| TA065| Probar actualización de incidencias | Probar actualización de incidencias  | 1 hora| Estefano Jaque| Done|
+||| TA066| Validar manejo de incidencias no encontradas | Validar manejo de incidencias no encontradas  | 1 hora| Estefano Jaque| Done|
+||| TA067| Crear Command | Crear Command  | 1 hora| Estefano Jaque| Done|
+||| TA068| Definir CommandService | Definir CommandService  | 1 hora| Estefano Jaque| Done|
+||| TA069| Implementar CommandSeviceIpmls | Implementar CommandSeviceIpmls | 1 hora| Estefano Jaque| Done|
+||| TA070| Implementar en Controller | Implementar en Controller  | 2 horas| Estefano Jaque| Done|
+| US16| Modificación de tasks | TA071| Implementación en frontend | Implementación en frontend | 2 horas| John Arevalo| Done|
+||| TA072| Integración con el repositorio | Integración con el repositorio | 1 hora| John Arevalo| Done|
+||| TA073| Creacion de component en agular | Creacion de component en agular  | 2 horas| John Arevalo| Done|
+||| TA074| Verificar que se modificara la task mediante confirmacion | Verificar que se modificara la task mediante confirmacion | 1 hora| John Arevalo| Done|
+| US17| Eliminación de tasks | TA075| Implementación en frontend | Implementación en frontend  |2 horas| John Arevalo| Done|
+||| TA076| Integración con el repositorio  Integración con el repositorio | 2 horas| John Arevalo| Done|
+||| TA077| Creacion de component en agular | Creacion de component en agular  | 1 hora| John Arevalo| Done|
+||| TA078| Actualizar el service | Actualizar el service  | 1 hora| John Arevalo| Done|
+| US18| Vista centrada en backlog items | TA079| Implementación en frontend | Implementación en frontend  | 2 horas| John Arevalo| Done|
+||| TA080| Integración con el repositorio | Integración con el repositorio  | 1 hora| John Arevalo| Done|
+||| TA081| Creacion de component en agular | Creacion de component en agular  |2 horas| John Arevalo| Done|
+||| TA082| validar que se muestren los datos de los items correctamente | validar que se muestren los datos de los items correctamente  | 1 hora| John Arevalo| Done|
+||| TA083| agregar secciones para task , epic, user story | agregar secciones para task , epic, user story  | 1 hora| John Arevalo| Done|
+| US19| Visualización del product backlog| TA084| Implementación en frontend | Implementación en frontend  | 2 horas| John Arevalo| Done|
+||| TA085| Integración con el repositorio | Integración con el repositorio  | 1 hora| John Arevalo| Done|
+||| TA086| Creacion de component en agular | Creacion de component en agular | 1 hora| John Arevalo| Done|
+||| TA087| validar que se visualiza en seccion backlog | validar que se visualiza en seccion backlog  | 1 hora| John Arevalo| Done|
+| US20| Asignación de backlog items a un sprint | TA088| Implementación en frontend | Implementación en frontend  | 2 horas| John Arevalo| Done|
+||| TA089| Integración con el repositorio | Integración con el repositorio | 1 hora| John Arevalo| Done|
+||| TA090| Creacion de component en agular | Creacion de component en agular | 1 hora| John Arevalo| Done|
+||| TA091| Implementar logica para asignar spinrt id a user story | Implementar logica para asignar spinrt id a user story  | 1 hora| John Arevalo| Done|
+||| TA092| verificar correcta asignacion a sprint | verificar correcta asignacion a sprint  | 1 hora| John Arevalo| Done|
+| US21| Gestión de sprints | TA093| Implementación en frontend | Implementación en frontend |2 horas| John Arevalo| Done|
+||| TA094| Integración con el repositorio | Integración con el repositorio  | 1 hora| John Arevalo| Done|
+||| TA095| Creacion de component en agular | Creacion de component en agular | 1 hora| John Arevalo| Done|
+||| TA096| Validar gestion | Validar gestion  | 1 hora| John Arevalo| Done|
+| US22| Gestión de nuevas videoconferencias desde la sección de Reuniones | TA097| Implementación en frontend | Implementación en frontend  | 2 horas| Valentino Sandoval| Done|
+||| TA098| Integración con el repositorio | Integración con el repositorio  | 1 hora| Valentino Sandoval| Done|
+||| TA099| Creacion de component en agular | Creacion de component en agular  | 1 hora| Valentino Sandoval| Done|
+||| TA100| Verificar correacta creacion | Verificar correacta creacion  | 1 hora| Valentino Sandoval| Done|
+| US23| Edición de videoconferencias existentes | TA101| Implementación en frontend | Implementación en frontend  | 2 horas| Valentino Sandoval| Done|
+||| TA102| Integración con el repositorio | Integración con el repositorio | 1 hora| Valentino Sandoval| Done|
+||| TA103| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular  | 1 hora| Valentino Sandoval| Done|
+||| TA104| verificar que las videoconferencias se editen correctamente | verificar que las videoconferencias se editen correctamente  | 1 hora| Valentino Sandoval| Done|
+| US24| Eliminación de videoconferencias | TA105| Implementación en frontend | Implementación en frontend  |2 horas| Valentino Sandoval| Done|
+||| TA106| Integración con el repositorio | Integración con el repositorio  | 1 hora| Valentino Sandoval| Done|
+||| TA107| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Valentino Sandoval| Done|
+||| TA108| verificar que la videoconferencia se elimine correctamente | verificar que la videoconferencia se elimine correctamente  | 1 hora| Valentino Sandoval| Done|
+| US32| Visualización de User Stories en el Timeline | TA109| Implementación en frontend | Implementación en frontend | 2 horas| Sergio Gómez| Done|
+||| TA110| Integración con el repositorio | Integración con el repositorio | 1 hora| Sergio Gomez| Done|
+||| TA111| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular  | 1 hora| Sergio Gomez| Done|
+||| TA112| verificar que las user stories se muestren en la timeline | verificar que las user stories se muestren en la timeline | 1 hora| Sergio Gomez| Done|
+| US33| Estimación de Esfuerzo en User Stories | TA113| Implementación en frontend | Implementación en frontend. | 2 horas| Sergio Gómez| Done|
+||| TA114| Integración con el repositorio | Integración con el repositorio | 1 hora| Sergio Gomez| Done|
+||| TA115| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Sergio Gomez| Done|
+||| TA116| Verificar que se visualice correctamente la estimación | Verificar que se visualice correctamente la estimación  | 1 hora| Sergio Gomez| Done|
+| US34| Visualización de Estadísticas del Rendimiento del Equipo | TA117| Implementación en frontend | Implementación en frontend  | 2 horas| Sergio Gómez| Done|
+||| TA118| Integración con el repositorio | Integración con el repositorio  | 1 hora| Sergio Gomez| Done|
+||| TA119| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular  | 1 hora| Sergio Gomez| Done|
+||| TA120| Verificar que se visualicen las user stories completadas y no | Verificar que se visualicen las user stories completadas y no | 1 hora| Sergio Gomez| Done|
+| US39| Ver reporte de una incidencia | TA121| Implementación en frontend | Implementación en frontend | 2 horas| Estefano Jaque| Done|
+||| TA122| Integración con el repositorio | Integración con el repositorio  | 1 hora| Estefano Jaque| Done|
+||| TA123| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Estefano Jaque| Done|
+||| TA124| Verificar que se acceda a informacion detallada del reporte | Verificar que se acceda a informacion detallada del reporte  | 1 hora| Estefano Jaque| Done|
+| US40| Ver historial de una incidencia | TA125| Implementación en frontend | Implementación en frontend | 2 horas| Estefano Jaque| Done|
+||| TA126| Integración con el repositorio | Integración con el repositorio  | 1 hora| Estefano Jaque| Done|
+||| TA127| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular  | 1 hora| Estefano Jaque| Done|
+||| TA128| Verificar que todos los cambios se guarden en el historial | Verificar que todos los cambios se guarden en el historial | 1 hora| Estefano Jaque| Done|
+| US41| Creación automática de los eventos creación y asignación del issue | TA129| Implementación en frontend | Implementación en frontend | 2 horas| Estefano Jaque| Done|
+||| TA130| Integración con el repositorio | Integración con el repositorio | 1 hora| Estefano Jaque| Done|
+||| TA131| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Estefano Jaque| Done|
+||| TA132| Validar creacion automatica | Validar creacion automatica  | 1 hora| Estefano Jaque| Done|
+| US42| Filtrar incidencias por Sprint y Prioridad | TA133| Implementación en frontend | Implementación en frontend. | 2 horas| Estefano Jaque| Done|
+||| TA134| Integración con el repositorio | Integración con el repositorio  | 1 hora| Estefano Jaque| Done|
+||| TA135| Creacion e implementacion de component en agular | Creacion e implementacion de component en agular | 1 hora| Estefano Jaque| Done|
+||| TA136| Validar filtrado | Validar filtrado  | 1 hora| Estefano Jaque| Done|
+
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
 
@@ -2751,7 +2868,6 @@ Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f32
 Para el backend, optamos por genrar un .jar del proyecto, con ayuda del comando mvn clean package, para posteriormente subir este proyecto a un repositorio y conectarlo con microsoft azure mediate github.
 
 String connector para ingresar a la base de datos de postgress
-
 ![Ejemplo de Imagen](assets/TB2/backlog/backend/azure1.jpg)
 
 Dominio del servicio, asi como el repositorio del mismo
@@ -2775,7 +2891,6 @@ Repositorio con los comandos en workflows.yml
 |  managewise-backend | dev   | 00a082d| feat: added task list controller| feat: added task list controller| 02/11/2024  |
 |  managewise-backend | dev   | 90d1dfa| feat: added backlog items entities and lists| feat: added backlog items entities and lists|01/11/2024   |
 
-
 #### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 
 
@@ -2787,30 +2902,9 @@ Repositorio con los comandos en workflows.yml
 | https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Valentino  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 19/09/2024              |
 | https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Jhon  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 19/09/2024              |
-| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 19/09/2024              || https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US13 gherkin | Se añade el db Timeline | 27/10/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US14 gherkin | Se añade el db Statistic | 27/10/2024              || https://github.com/Horizon-ManageWise/Testing                         | feature/tb2-Sergio | [Commit ID for TS01]                    | feat/us                  | TS01.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS02]                    | feat/us                  | TS02.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS03]                    | feat/us                  | TS03.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS04]                    | feat/us                  | TS04.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS05]                    | feat/us                  | TS05.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS06]                    | feat/us                  | TS06.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for TS07]                    | feat/us                  | TS07.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for TS08]                    | feat/us                  | TS08.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US.feature]              | feat/us                  | US.feature                                   | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US16]                    | feat/us                  | US16.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US17]                    | feat/us                  | US17.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US18]                    | feat/us                  | US18.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US19]                    | feat/us                  | US19.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US20]                    | feat/us                  | US20.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US21]                    | feat/us                  | US21.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US32]                    | feat/us                  | US32.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US34]                    | feat/us                  | US34.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US39]                    | feat/us                  | US39.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Estefano | [Commit ID for US40]                    | feat/us                  | US40.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                        | feature/tb2-Sergio | [Commit ID for US41]                    | feat/us                  | US41.feature                                 | 04/11/2024              |
-| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio                         | feature/tb2-Sergio | [Commit ID for US42]                    | feat/us                  | US42.feature                                 | 04/11/2024              |
-
-![Ejemplo de Imagen](assets/TB2/test.png)
+| https://github.com/Horizon-ManageWise/Testing                         | feature/tb1-Diego  | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 19/09/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US13 gherkin | Se añade el db Timeline | 27/10/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/tb2-Sergio | feature/tb2-Sergio | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US14 gherkin | Se añade el db Statistic | 27/10/2024              |
 
 Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
@@ -2855,9 +2949,6 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es5.jpeg)
 
 
-link deploy: https://backlog-managewise.web.app/backlog
-
-
 - **Bounded Context: Issues**
 
 Alumno: Estefano Oscar Jaque Peña - U202225466
@@ -2868,7 +2959,8 @@ Alumno: Estefano Oscar Jaque Peña - U202225466
 
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es8.jpeg)
 
-
+video explicativo: En el About the product 
+https://drive.google.com/drive/folders/11fY4sH9mdNNPkHBJyJAXibVjLx6tnq7-?usp=sharing
 
 Link repositorio Issues: https://github.com/estefanojaque/Managewise-FrontEnd-issues 
 
@@ -2886,18 +2978,11 @@ link deploy: https://managewise-reports-f0302.web.app/issues
 
 ![Ejemplo de Imagen](assets/TB2/backlog/front/es13.jpeg)
 
-
-
-link deploy: https://me-mg-eca75.web.app
-
-video explicativo: En el About the product 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202225466_upc_edu_pe/EbMbbZYwuT5NmGD4beIUF7IB0CnEA-j5H2PGmbY2SC2zHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JJ2wzC
-
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review.
 
 Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise-backend
 
-<h3>Members Bounded Context - Valentino</h3>
+<h3>Backlog Bounded Context</h3>
 
 **MembersController**
 
@@ -2910,10 +2995,7 @@ Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise
 | Epics | PUT| /api/v1/members/{id}| Update an Member| Update an specific Member| UpdateMember|
 
 ![Ejemplo de Imagen](assets/TB2/backlog/members/swagger3.png)
-
 ![Ejemplo de Imagen](assets/TB2/backlog/members/pgadmin.png)
-
-<h3>Backlog Bounded Context</h3>
 
 **EpicsController**
 
@@ -2954,7 +3036,7 @@ Link al repositorio de backend: https://github.com/Horizon-ManageWise/managewise
 
 ![Ejemplo de Imagen](assets/TB2/backlog/pgadmin.png)
 
-<h3> Meeting Bounded Context -Valentino</h3>
+<h3> Meeting Bounded Context</h3>
 
 **MeetingController**
 
@@ -3043,14 +3125,6 @@ Para el backend, optamos por genrar un .jar del proyecto, con ayuda del comando 
 
 ![Ejemplo de Imagen](assets/TB2/backlog/backend/github.png)
 
-**FRONTEND DEPLOY**
-
-- Issues Bounded Context: https://managewise-reports-f0302.web.app/issues
-
-- Meeting Bounded Context:  https://me-mg-eca75.web.app
-
-- Backlog Bounded Context:  https://backlog-managewise.web.app/backlog
-
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint.
 
@@ -3071,18 +3145,13 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 - Valentino Sandoval Paiva: 1
 - Sergio André Gómez Vallejos: 8
 
-## **Report:**
+**Report:**
 
-![alt text](assets/TB2/backlog/collaboraton/commits.png)
 
-![alt text](assets/TB2/backlog/collaboraton/contri.png)
-
-![alt text](assets/TB2/backlog/collaboraton/nose.png)
-
-- Estefano Oscar Jaque Peña: 65
-- John Telesforo Arevalo Meza: 50
-- Valentino Sandoval Paiva: 68
-- Sergio André Gómez Vallejos: 32
+- Estefano Oscar Jaque Peña: 
+- John Telesforo Arevalo Meza: 
+- Valentino Sandoval Paiva: 
+- Sergio André Gómez Vallejos: 
 
 ## Frontend:
 
@@ -3095,16 +3164,293 @@ Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desar
 - Valentino Sandoval Paiva: 1
 - Sergio André Gómez Vallejos: 5
 
-## **Backend:**
+**Backend:**
 
-![alt text](assets/TB2/neto1.png)
+- Estefano Oscar Jaque Peña: 
+- John Telesforo Arevalo Meza: 
+- Valentino Sandoval Paiva: 
+- Sergio André Gómez Vallejos: 
 
-![alt text](assets/TB2/neto2.png)
+## 5.2.4. Sprint 4
 
-- Estefano Oscar Jaque Peña: 1
-- John Telesforo Arevalo Meza: 16 
+Durante el Sprint 4, nuestro enfoque principal fue el desarrollo del BackEnd Y FronEnd de Horizon utilizando java y angular. Este sprint fue fundamental y primordial para implementar las ultimas funcionalidades del BackEnd y FronEnd, además de lograr la unión y deploy de la última version de ambos servicios.
+
+### 5.2.4.1.  Sprint Planning 4
+
+En este Sprint 4, durante la reunión de planificación, el equipo seleccionará las historias de usuario restantes, para convertirlas en resultados concretos. Además, se distribuirán las tareas de manera equitativa para poder culminar con estas en el tiempo establecido. Para ello, se fomentará la colaboración, asegurandonos que todos tengan un nivel similar de conocimiento en las diferentes áreas, teniendo siempre en cuenta los objetivos del trabajo.
+
+| Sprint # | Sprint 4 |
+|-|-|
+| **Sprint Planning Background**| |
+| **Date**| 13/11/2024 | |
+| **Time**| 3:00 PM |
+| **Location** | Discord (Reunión virtual)|
+| **Prepared By**| Jaque Peña, Estefano Oscar|
+| **Attendees (to planning meeting)** |Arevalo Meza, John, Sandoval Paiva, Valentino, Jaque Peña, Estefano, Sergio Gómez|
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | Nuestro meta culminar detalles en el backlog, para unir todos los bounded contexts con los patrones necesarios y posteriormente hacer el deploy del servicio final, para hacer lo mismo con el frontend y unir ambas partes. Creemos que esto nos ayudará a comprender como se relacionan ambos servicios. Lo mencionado se confirmará cuando todas las tareas del sprint 4 en el trello grupal se encuentren con el tag "Done"|
+| **Sprint 4 Velocity** | X |
+| **Sum of Story Points** | X |
+
+### 5.2.4.2. Sprint Backlog 4
+
+![alt text](assets/TF/trello.png)
+
+
+| Sprint # | Sprint 4 |||||||
+|----------|----------|---------|----------------------------|-----------------------------------------------|------------------|------------------|--------|
+| User Story | | Work-Item / Task | |||||||
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US43 | Iniciar sesión (Sign In) | TA001 | Crear componente de inicio de sesión en Angular | Crear el componente en Angular para gestionar el inicio de sesión de los usuarios | 2 horas | Sandoval Paiva, Valentino | Done |
+| US43 | Iniciar sesión (Sign In) | TA002 | Implementar formulario de ingreso de credenciales (usuario y contraseña) | Implementar un formulario en Angular para la entrada de usuario y contraseña | 3 horas | Arevalo Meza, John Telesforo | Done |
+| US43 | Iniciar sesión (Sign In) | TA003 | Implementar lógica de validación de credenciales en el frontend | Validar las credenciales ingresadas en el frontend antes de enviarlas al servidor | 4 horas | Sergio Gomez | Done |
+| US43 | Iniciar sesión (Sign In) | TA004 | Redirigir al usuario a la página principal al iniciar sesión exitosamente | Después de un inicio de sesión exitoso, redirigir al usuario a la página principal | 3 horas | Sandoval Paiva, Valentino | Done |
+| US43 | Iniciar sesión (Sign In) | TA005 | Mostrar mensaje de error si las credenciales son incorrectas | Mostrar un mensaje de error si el usuario ingresa credenciales incorrectas | 2 horas | Arevalo Meza, John Telesforo | Done |
+| US43 | Iniciar sesión (Sign In) | TA006 | Implementar manejo de sesión para persistencia del estado de login | Implementar un sistema de manejo de sesión para mantener al usuario autenticado | 3 horas | Arevalo Meza, John Telesforo | Done |
+| US43 | Iniciar sesión (Sign In) | TA007 | Validar campos de entrada para asegurar que el correo electrónico y la contraseña sean válidos | Asegurar que el correo electrónico y la contraseña ingresados sean válidos antes de enviarlos al servidor | 2 horas | Sandoval Paiva, Valentino | Done |
+| US44 | Registro de usuario (Sign Up) | TA008 | Crear componente de registro en Angular | Crear el componente en Angular para el registro de nuevos usuarios | 2 horas | Arevalo Meza, John Telesforo | Done |
+| US44 | Registro de usuario (Sign Up) | TA009 | Implementar formulario de registro (correo electrónico, contraseña, confirmación de contraseña) | Implementar el formulario para la entrada de datos de registro, incluyendo correo electrónico, contraseña y confirmación de contraseña | 3 horas | Sergio Gomez | Done |
+| US44 | Registro de usuario (Sign Up) | TA010 | Implementar lógica de validación de correo electrónico único | Asegurar que el correo electrónico ingresado no esté ya registrado en la base de datos | 4 horas | Arevalo Meza, John Telesforo | Done |
+| US44 | Registro de usuario (Sign Up) | TA011 | Validar la fortaleza de la contraseña y su coincidencia con la confirmación | Validar que la contraseña tenga la fortaleza adecuada y que coincida con la confirmación | 3 horas | Sandoval Paiva, Valentino | Done |
+| US44 | Registro de usuario (Sign Up) | TA012 | Redirigir al usuario a la página de inicio de sesión después de un registro exitoso | Después de un registro exitoso, redirigir al usuario a la página de inicio de sesión | 3 horas | Arevalo Meza, John Telesforo | Done |
+| US44 | Registro de usuario (Sign Up) | TA013 | Mostrar mensaje de error si el correo electrónico ya está registrado | Mostrar un mensaje de error si el correo electrónico ya está registrado | 2 horas | Arevalo Meza, John Telesforo | Done |
+| US44 | Registro de usuario (Sign Up) | TA014 | Implementar lógica para manejar el registro en la base de datos | Implementar la lógica para registrar un nuevo usuario en la base de datos | 4 horas | Sergio Gomez | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA015 | Implementar el endpoint "/api/auth/signup" | Implementar el endpoint "/api/auth/signup" para el registro de nuevos usuarios | 2 horas | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA016 | Validación de datos de entrada | Validar la solicitud POST con los datos de registro (correo electrónico, contraseña) | 2 horas | Sandoval Paiva, Valentino | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA017 | Validación de correo y contraseña | Asegurar que los datos de entrada sean correctos (validación de correo electrónico único y contraseña válida) | 3 horas | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA018 | Lógica para registrar usuario | Implementar la lógica para registrar un nuevo usuario en la base de datos | 3 horas | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA019 | Respuesta exitosa | Responder con un código 201 Created cuando el registro sea exitoso | 1 hora | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA019 | Manejo de error usuario ya registrado | Implementar manejo de errores para cuando el correo electrónico ya esté registrado, respondiendo con código 409 Conflict | 2 horas | Estefano Jaque | Done |
+| TS009 | Endpoint para registro de usuarios (sign up) | TA020 | Probar registro de usuario | Probar el endpoint de registro de usuario con datos válidos e inválidos | 2 horas | Estefano Jaque | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) "/api/auth/signin" | TA021 | Implementar el endpoint "/api/auth/signin" | Implementar el endpoint "/api/auth/signin" para el inicio de sesión de usuarios | 2 horas | Estefano Jaque | Done |
+| TS010 |Endpoint para inicio de sesión (sign in) | TA022 | Validación de credenciales | Validar la solicitud POST con las credenciales de inicio de sesión (usuario y contraseña) | 2 horas | Estefano Jaque | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA023 | Verificación de usuario y contraseña | Verificar que el usuario exista en la base de datos y que las credenciales sean correctas | 3 horas | Sandoval Paiva, Valentino | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA024 | Generación de token de acceso | Implementar la lógica de autenticación y generación de un token de acceso | 3 horas | Estefano Jaque | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA025 | Respuesta exitosa | Responder con un código 200 OK y el token de acceso cuando el inicio de sesión sea exitoso | 2 horas | Sergio Gomez | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA026 | Manejo de error credenciales incorrectas | Implementar manejo de errores para credenciales incorrectas, respondiendo con código 401 Unauthorized | 2 horas | Estefano Jaque | Done |
+| TS010 | Endpoint para inicio de sesión (sign in) | TA027 | Probar inicio de sesión | Probar el endpoint de inicio de sesión con credenciales correctas e incorrectas | 2 horas | Estefano Jaque | Done |
+
+
+
+
+Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+
+| Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
+| ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| managewise-backend | dev   | 1b462d3                                  | feat: add dates of timeline  |Se añade los datos para el db timeline  | 10/11/2024  |
+| managewise-backends | dev   | 3cd1ffc                                  | feat: add dates of statistic              | Se añade los datos para el db statistic  | 10/11/2024   |
+| managewise-backend | dev   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 10/11/2024   |
+| managewise-backend | dev   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 10/11/2024  |
+| managewise-backend | dev   | 47d2070                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       |10/1/2024   |
+| managewise-backend       | dev   | 922ad0f| feat: add members bd backend  |feat: add members bd backend   | 14/11/2024  |
+|  managewise-backend | dev   | 3cd1ffc| feat: add meetingController| feat: add meetingController.| 14/11/2024   |
+|  managewise-backend | dev   | f48083d| feat: Add issues bounded context| feat: Add issues bounded context| 14/11/2024|
+|  managewise-backend | dev   | 00a082d| feat: added task list controller| feat: added task list controller| 14/11/2024  |
+|  managewise-backend | dev   | 90d1dfa| feat: added backlog items entities and lists| feat: added backlog items entities and lists|14/11/2024   |
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+
+| Repository                                                            | Branch             | Commit Id                                | Commit Message           | Commit Message Body                         | Committed on (Date)     |
+| --------------------------------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | ------------------------------------------- | ----------------------- |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                         | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | Initial commit           | Created the README file.                    | 14/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                         | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 14/11/2024              |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                        | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 14/11/2024               |
+| https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                        | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | feat: added TS009 gherkin | feat: added TS009 gherkin                    | 14/11/2024               |
+|https://github.com/Horizon-ManageWise/Testing/tree/feature/TF                        | feature/TF  | 1ffda47a4cd0b4bbb26ea2b3e94dae52c554c12d                                  | feat: added TS010 gherkin | feat: added TS010 gherkin                    | 14/11/2024  |
+
+
+Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+## **MEMBERS BOUNDED CONTEXT**
+
+En este bounded context members se muestra una lista donde se puede editar o eliminar, incluso agregar un nuevo miembro con su rol correspondiente.
+
+**FRONTEND**
+
+![alt text](assets/TF/members1.jpg)
+
+**BACKEND**
+
+![alt text](assetsTF/members2.jpg)
+
+**FRONTEND**
+
+![alt text](assets/TF/members3.jpg)
+
+**BACKEND**
+
+![alt text](assets/TF/members4.jpg)
+
+**FRONTEND**
+
+![alt text](assets/TF/members5.jpg)
+
+**BACKEND**
+
+![alt text](assets/TF/members6.jpg)
+
+**BACKEND**
+
+![alt text](assets/TF/members7.jpg)
+
+
+
+
+## **MEETING BOUNDED CONTEXT**
+
+En este bounded context meeting, se conecta con el bounded context Members al mostrar una lista de todos los miembros agregados en dicho bounded context donde se pueden editar los miembros que van a pertenecer a dicha reunion.
+
+**FRONTEND**
+
+![alt text](assets/TF/meeting1.png)
+
+**BACKEND**
+
+![alt text](assets/TF/meetingB.png)
+
+**FRONTEND**
+
+![alt text](assets/TF/meeting2.png)
+
+**BACKEND**
+
+![alt text](assets/TF/meeting3.png)
+
+**FRONTEND**
+
+![alt text](assets/TF/meeting4.png)
+
+**BACKEND**
+
+![alt text](assets/TF/meeting5.png)
+
+
+## **ISSUES BOUNDED CONTEXT**
+
+En este bounded context Issues, se conecta con el bounded context Members y con backlog. Donde valida que los miembors existentes sean parte del issues, ya que si no hay ningun miembro existente no se pueden crear los issues.
+
+**FRONTEND**
+
+![alt text](assets/TF/is1.png)
+
+![alt text](assets/TF/is2.png)
+
+**BACKEND**
+
+![alt text](assets/TF/is3.png)
+
+**FRONTEND**
+
+![alt text](assets/TF/is4.png)
+
+![alt text](assets/TF/is5.png)
+
+**INTERNALIZACIÓN**
+
+![alt text](assets/TF/is6.png)
+
+![alt text](assets/TF/is7.png)
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+## **MEMBERS BOUNDED CONTEXT**
+
+Se muestra la ultima version del Backend del bounded context Members, en donde se muestra cada acción del BackEnd de Members:
+
+**BACKEND**
+
+![alt text](assets/TF/membersBACK.jpg)
+
+![alt text](assets/TF/members8.jpg)
+
+![alt text](assets/TF/members9.jpg)
+
+
+## **MEETING BOUNDED CONTEXT**
+
+Se muestra la ultima version del Backend del bounded context Meeting, en donde se conecta con el bounded context Members:
+
+**BACKEND**
+
+![alt text](assets/TF/meetingBACK.png)
+
+![alt text](assets/TF/meeting3.png)
+
+![alt text](assets/TF/meeting5.png)
+
+
+## **ISSUES BOUNDED CONTEXT**
+
+Se muestra la ultima version del Backend del bounded context Issues, en donde se conecta con el bounded context Members:
+
+**BACKEND**
+
+![alt text](assets/TF/is8.png)
+
+![alt text](assets/TF/is9.png)
+
+
+![alt text](assets/TF/is10.png)
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+En esta sección, el equipo detalla el proceso de implementación de las actividades realizadas durante el Sprint, destacando la colaboración y el esfuerzo conjunto en la creación de los productos. Se presentan capturas de pantalla de los analíticos de colaboración y los commits en GitHub, que reflejan la participación activa de cada miembro del equipo.
+
+Participación del Equipo Todos los miembros del equipo han contribuido de manera significativa en la implementación de los siguientes productos:
+
+Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desarrollo de la landing page, asegurando que la interfaz sea atractiva y funcional. En esta ultima versión de la landing page no se realizo ningun cambio, por lo que los commits no cambian.
+
+**Landing Page**
+
+![Commits](assets/TB1-new/landingc1.jpeg)
+
+![Commits](assets/TB1-new/landingc2.jpeg)
+
+- Estefano Oscar Jaque Peña: 2
+- John Telesforo Arevalo Meza: 10
 - Valentino Sandoval Paiva: 1
-- Sergio André Gómez Vallejos: 2 
+- Sergio André Gómez Vallejos: 8
+
+
+## Frontend:
+
+![alt text](assets/TB2/backlog/commil1.jpeg)
+
+![alt text](assets/TB2/backlog/commil2.jpeg)
+
+- Estefano Oscar Jaque Peña: 3
+- John Telesforo Arevalo Meza: 5
+- Valentino Sandoval Paiva: 1
+- Sergio André Gómez Vallejos: 5
+
+**Backend:**
+
+![alt text](assets/TB2/backlog/commil1.jpeg)
+
+![alt text](assets/TB2/backlog/commil2.jpeg)
+
+
+- Estefano Oscar Jaque Peña: 
+- John Telesforo Arevalo Meza: 
+- Valentino Sandoval Paiva: 
+- Sergio André Gómez Vallejos: 
+
+
 
 ### 5.3 Validation Interviews
 
@@ -3168,7 +3514,6 @@ Descripción: Verónica Paredes, gerente de proyectos en una empresa de desarrol
 **Entrevista 3**
 
 ![Ejemplo de Imagen](assets/TB2/backlog/entrevista4.png)
-
 Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/Eag6qkayGchJg_ZbkkIuD8YB-xIlWf2UnIK2Q0bHAWHG4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ck5ywT
 
 
@@ -3184,7 +3529,6 @@ Rodrigo Acosta,miembro de un equipo de desarrollo de software, considera que la 
 **Entrevista 4**
 
 ![Ejemplo de Imagen](assets/TB2/backlog/entrevista5.png)
-
 Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117377_upc_edu_pe/EVEYapnve1VIioPVnF-sbf8BUjm5g79MM0cykRFXY7nEyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsp8dA
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
@@ -3201,7 +3545,7 @@ Nora Castro, ex lider de un equipo de desarrollo de software, aprecia cómo la a
 
 ![alt text](assets/TB2/backlog/issues/entrevistapamelavela.png)
  
-Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202225466_upc_edu_pe/EbMbbZYwuT5NmGD4beIUF7IB0CnEA-j5H2PGmbY2SC2zHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JJ2wzC
+Link de entrevista: https://drive.google.com/drive/folders/1p2jdkr7SQGiYPJ_uFR3mbG-xpH33JxCm?usp=sharing 
 
 
 | Nombres     | Apellidos       | Edad | Distrito   | Inicio | Duración |
@@ -3322,10 +3666,11 @@ Recomendación: Evaluar y ajustar la jerarquía visual de los elementos en la in
 Tarea Evaluada: Consistencia en la interfaz.
 Recomendación: Realizar revisiones periódicas de la interfaz para asegurar que todos los elementos sean consistentes en diseño y funcionalidad, evitando confusiones y mejorando la experiencia general del usuario.
 
+
 ### 5.4. Video About-the-Product.
 
-Link del video de FrontEnd: 
-https://upcedupe-my.sharepoint.com/personal/u202225466_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202225466%5Fupc%5Fedu%5Fpe%2FDocuments%2FAbouttheproduct%2F2024%2D11%2D03%2023%2D08%2D03%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E43e13c94%2Da2da%2D4caf%2D8dfa%2D5c20362d4d5f
+Link del video de FrontEnd: https://drive.google.com/drive/folders/11fY4sH9mdNNPkHBJyJAXibVjLx6tnq7-?usp=sharing 
+
 
 ### Conclusiones
 
@@ -3342,6 +3687,9 @@ https://upcedupe-my.sharepoint.com/personal/u202225466_upc_edu_pe/_layouts/15/st
 - Sergio Gómez: <br>
   En el desarrollo del proyecto Horizon, aprendimos la importancia de la visualización interactiva y su impacto en la planificación y seguimiento de tareas en un equipo ágil. Al integrar un timeline que permite gestionar User Stories y Sprints, así como descargar gráficos de rendimiento, Horizon nos mostró cómo la organización clara y visual del trabajo puede mejorar significativamente la colaboración y la toma de decisiones. Este proyecto también nos enseñó la relevancia de contar con herramientas que faciliten la comunicación entre roles clave, como el Scrum Master y el Product Owner, lo que contribuye al éxito general del equipo.
  <br>
+- Sergio Gómez: <br>
+  Durante la fase final del proyecto Horizon, consolidé la funcionalidad del backend, garantizando la correcta integración entre los módulos clave, como la gestión de User Stories y Sprints. Este proceso permitió optimizar el rendimiento del sistema y asegurar la fiabilidad de las operaciones críticas. Además, se implementaron ajustes finales para mejorar la experiencia de usuario, como la generación de reportes personalizables y la optimización de consultas para datos complejos. Este proyecto reforzó la importancia de la colaboración efectiva entre el equipo técnico y la visión estratégica, asegurando la entrega de una solución robusta y adaptada a las necesidades del mercado.
+
 
 ### Bibliografia
 
