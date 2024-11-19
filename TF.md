@@ -3368,6 +3368,22 @@ se pued ver en español ahora, en la anteriores fotos se encontraba en ingles.
 Se puede filtrar la busqueda tanto por Nombre de sprints como por prioridad ded Issue
 ![alt text](assets/TF/is7.png)
 
+**BACKLOG BOUNDED CONTEXT**
+
+Se muestra la ultima version del Backend del bounded context BACKLOG. Donde se pueden añadir User stories, con sus epics correspondiente.
+
+**FRONTEND**
+
+![alt text](assets/TF/ep1.png)
+
+![alt text](assets/TF/ep2.png)
+
+![alt text](assets/TF/ep3.png)
+
+**BACKEND**
+
+![alt text](assets/TF/ep5.png)
+
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -3432,9 +3448,56 @@ Se puede obtener el evento generado y se puede visualizar segun el id que insert
 post event:
 Se puede añadir el evento en base al id del issue que ya fue creado, para la creacion de este evento tambien se usa la validacion con fetch que viene 
 ![alt text](assets/TF/eventpsot.jpg)
+
+**BACKLOG BOUNDED CONTEXT**
+
+**BACKEND**
+
+![alt text](assets/TF/ep5.png)
+
+![alt text](assets/TF/ep6.png)
+
+![alt text](assets/TF/ep7.png)
+
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+- En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
 
+Landing Page Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+![Ejemplo de Imagen](assets/TB2/backlog/des1.jpeg)
+
+- En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Ejemplo de Imagen](assets/TB2/backlog/des2.jpeg)
+
+- Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Ejemplo de Imagen](assets/TB2/backlog/des3.jpeg)
+
+- Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://horizon-managewise.github.io/LandingPage/
+
+Link de explicacion del FrontEnd: https://drive.google.com/drive/folders/11fY4sH9mdNNPkHBJyJAXibVjLx6tnq7-?usp=sharing 
+
+Link 
+
+Para el backend, optamos por genrar un .jar del proyecto, con ayuda del comando mvn clean package, para posteriormente subir este proyecto a un repositorio y conectarlo con microsoft azure mediate github.
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/azure1.jpg)
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/azure2.png)
+
+![Ejemplo de Imagen](assets/TB2/backlog/backend/github.png)
+
+
+**Frontend**
+A continuación, se mostrara como se desplego el frontend.
+
+![Ejemplo de Imagen](resources/deployFrontend.png)
+
+![Ejemplo de Imagen](resources/deployFrontend1.png)
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
