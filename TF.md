@@ -2730,8 +2730,7 @@ En este Sprint 3, durante la reunión de planificación, el equipo seleccionará
 
 #### 5.2.3.2 Sprint Backlog 3.
 Para el tercer sprint backlog, recopilamos historias de usuario relacionadas al Backend. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
-
-![alt text](assets/TB1-new/trello1.png)
+![alt text](assets/TB1-image/Trelloo1.png)
 
 | Sprint # | Sprint 3|||||||
 |--|--|--|--|--|--|--|--|
@@ -3204,12 +3203,12 @@ En este Sprint 4, durante la reunión de planificación, el equipo seleccionará
 | **Attendees (to planning meeting)** |Arevalo Meza, John, Sandoval Paiva, Valentino, Jaque Peña, Estefano, Sergio Gómez|
 | **Sprint Goal & User Stories** | |
 | **Sprint 4 Goal** | Nuestro meta culminar detalles en el backlog, para unir todos los bounded contexts con los patrones necesarios y posteriormente hacer el deploy del servicio final, para hacer lo mismo con el frontend y unir ambas partes. Creemos que esto nos ayudará a comprender como se relacionan ambos servicios. Lo mencionado se confirmará cuando todas las tareas del sprint 4 en el trello grupal se encuentren con el tag "Done"|
-| **Sprint 4 Velocity** | X |
-| **Sum of Story Points** | X |
+| **Sprint 4 Velocity** | 92 |
+| **Sum of Story Points** | 18 |
 
 ### 5.2.4.2. Sprint Backlog 4
 
-![alt text](assets/TF/trello.png)
+![alt text](assets/TB1-image/Trelloo1.png)
 
 
 | Sprint # | Sprint 4 |||||||
@@ -3245,9 +3244,6 @@ En este Sprint 4, durante la reunión de planificación, el equipo seleccionará
 | TS010 | Endpoint para inicio de sesión (sign in) | TA026 | Manejo de error credenciales incorrectas | Implementar manejo de errores para credenciales incorrectas, respondiendo con código 401 Unauthorized | 2 horas | Estefano Jaque | Done |
 | TS010 | Endpoint para inicio de sesión (sign in) | TA027 | Probar inicio de sesión | Probar el endpoint de inicio de sesión con credenciales correctas e incorrectas | 2 horas | Estefano Jaque | Done |
 
-
-
-
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
 
 ### 5.2.4.3. Development Evidence for Sprint Review
@@ -3282,7 +3278,6 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
-
 ## **MEMBERS BOUNDED CONTEXT**
 
 En este bounded context members se muestra una lista donde se puede editar o eliminar, incluso agregar un nuevo miembro con su rol correspondiente.
@@ -3316,8 +3311,6 @@ En este bounded context members se muestra una lista donde se puede editar o eli
 ![alt text](assets/TF/members7.jpg)
 
 
-
-
 ## **MEETING BOUNDED CONTEXT**
 
 En este bounded context meeting, se conecta con el bounded context Members al mostrar una lista de todos los miembros agregados en dicho bounded context donde se pueden editar los miembros que van a pertenecer a dicha reunion.
@@ -3349,34 +3342,34 @@ En este bounded context meeting, se conecta con el bounded context Members al mo
 
 ## **ISSUES BOUNDED CONTEXT**
 
-En este bounded context Issues, se conecta con el bounded context Members y con backlog. Donde valida que los miembors existentes sean parte del issues, ya que si no hay ningun miembro existente no se pueden crear los issues.
+En este bounded context Issues, se realiza , siguiendo el PATRON ACL, la validación de existencia de el miembro que insertaré en mis atributos de mi issues como madeBy y AssignedTo ,ademaas de la validacion de la existencia de un nombre de Sprint creado , para poder asignarle este issues por crear.Todo esto debido a que para publicar una incidencia deberemos escribir el creador de esta incidencia y a quien le asigna solucionar el problema y para ello deben existir estos miembros en el proyecto , y se debe asociar a un Sprint por lo que se debe validar que este Sprint existe. De la misma manera, se debe poner solo los valores
+HIGH,LOW,MEDIUM para el priority del issues y TO_DO, IN_PROGRESS y DONE para el status , por ultimo se debe poner las fechas de creacion(createdIn) y resolutionDate que es una estimación en si de la fecha limite para la resolucion del problema como un Date DD-MM-YYYY.
 
-**FRONTEND**
-
+Aca se observa como se crea un issues desde el front:
 ![alt text](assets/TF/is1.png)
 
 ![alt text](assets/TF/is2.png)
 
 **BACKEND**
-
+Get de Issues:
 ![alt text](assets/TF/is3.png)
 
 **FRONTEND**
-
+Para añadir un evento, le damos click a añadir evento y ponemos los datos , luego de ello cuando se valide que es usuario que lo crea existe entonces se crea el evento , se puede ver la viosualizacion en back y front.
 ![alt text](assets/TF/is4.png)
 
 ![alt text](assets/TF/is5.png)
 
 **INTERNALIZACIÓN**
-
+se pued ver en español ahora, en la anteriores fotos se encontraba en ingles.
 ![alt text](assets/TF/is6.png)
 
+**FILTROS DE BUSQUEDA**
+Se puede filtrar la busqueda tanto por Nombre de sprints como por prioridad ded Issue
 ![alt text](assets/TF/is7.png)
 
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
-
-
 
 ## **MEMBERS BOUNDED CONTEXT**
 
@@ -3406,17 +3399,39 @@ Se muestra la ultima version del Backend del bounded context Meeting, en donde s
 
 ## **ISSUES BOUNDED CONTEXT**
 
-Se muestra la ultima version del Backend del bounded context Issues, en donde se conecta con el bounded context Members:
+Se muestra la ultima version del Backend del bounded context Issues, en donde se conecta con el bounded context Members y Sprint para validacion en el momento de su creacion como de la actualizacion de un issue, ademas tambien se genera la misma validacion de member existente para la creacion del evento dedl issue:
 
 **BACKEND**
 
 ![alt text](assets/TF/is8.png)
 
+Post:
+Se puede añadir y dentro de esto se genera las validaciones del existsBy para que no se cree un mismo issue asignado a un mismo SPRINT 
+y la validacion del PATRON ACL fetchMemberIdByFullName para que no se genere un Issue el Sprint asociado no ha sido creado,de la misma manera con Member que debe ser creado previamente para poder nombrar al creador del issue y al que se le asigna el Issue(fetchMemberIdByFullName) ademas que no se puede crear un Issue si
+no se ha puesto el estado y prioridad de manera correcta , por ele LOW o TO_DO
+
+![alt text](assets/TF/fetchissue.png)
+
 ![alt text](assets/TF/is9.png)
 
-
+Get:
+Se puede obtener todos los issues
 ![alt text](assets/TF/is10.png)
 
+Put:
+Se puede actualizar y se valida los existBy ademas de el uso del patron ACL para la validacion del member existente 
+
+![alt text](assets/TF/updissu.png)
+
+![alt text](assets/TF/putissue.jpg)
+
+geteventbyIssuId:
+Se puede obtener el evento generado y se puede visualizar segun el id que insertes.
+![alt text](assets/TF/getevent.jpg)
+
+post event:
+Se puede añadir el evento en base al id del issue que ya fue creado, para la creacion de este evento tambien se usa la validacion con fetch que viene 
+![alt text](assets/TF/eventpsot.jpg)
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 
