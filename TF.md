@@ -3370,7 +3370,7 @@ Se muestra la ultima version del Backend del bounded context Meeting, en donde s
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
---LANDING PAGE EVIDENCE DEPLOY---
+--LANDING PAGE EVIDENCE DEPLOY------
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
