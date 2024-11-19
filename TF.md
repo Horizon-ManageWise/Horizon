@@ -58,11 +58,23 @@ Product: ManageWise
   TF1     | 16/10/2024 | Jhon Arevalo             | Desarrolle el bounded context backlog del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
   TF1     | 16/10/2024 | Valentino Sandoval             | Desarrolle el bounded context meeting del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
 
+
 ## Project Report Collaboration Insights
 
 |  URL de la organización del proyecto  |          URL del repositorio del reporte          |
-| :-----------------------------------: | :-----------------------------------------------: |
+| :-----------------------------------: | :-----------------------------------------------: | 
 | https://github.com/Horizon-ManageWise | https://github.com/Horizon-ManageWise/Horizon.git |
+
+| URL del repositorio del backend | URL del repositorio del Frontend| URL del repositorio de la landing page |
+|  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
+| https://github.com/Horizon-ManageWise/managewise-backend | https://github.com/Horizon-ManageWise/Frontend-Web-Application | https://github.com/Horizon-ManageWise/LandingPage |
+
+**URL FRONTEND Y BACKEND DESPLEGADO**: https://frontend-test-managewise.vercel.app/sign-in
+
+**URL FRONTEND**: https://frontend-test-managewise.vercel.app
+
+**URL BACKEND**: https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/
+
 
 TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
 
@@ -3284,6 +3296,12 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
+**URL FRONTEND Y BACKEND DESPLEGADO**: https://frontend-test-managewise.vercel.app/sign-in
+
+**URL FRONTEND**: https://frontend-test-managewise.vercel.app
+
+**URL BACKEND**: https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/
+
 ## **MEMBERS BOUNDED CONTEXT**
 
 En este bounded context members se muestra una lista donde se puede editar o eliminar, incluso agregar un nuevo miembro con su rol correspondiente.
@@ -3392,6 +3410,12 @@ Se muestra la ultima version del Backend del bounded context BACKLOG. Donde se p
 
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+**URL FRONTEND Y BACKEND DESPLEGADO**: https://frontend-test-managewise.vercel.app/sign-in
+
+**URL FRONTEND**: https://frontend-test-managewise.vercel.app
+
+**URL BACKEND**: https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/
 
 ## **MEMBERS BOUNDED CONTEXT**
 
@@ -3801,6 +3825,12 @@ Link del video de FrontEnd: https://drive.google.com/drive/folders/11fY4sH9mdNNP
 - Structurizr. (2024). https://www.structurizr.com/
 
 ### Anexos
+
+**ANEXO FRONTEND Y BACKEND DESPLEGADO**: https://frontend-test-managewise.vercel.app/sign-in
+
+**ANEXO FRONTEND**: https://frontend-test-managewise.vercel.app
+
+**ANEXO BACKEND**: https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/
 
 Anexo A:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371
 
