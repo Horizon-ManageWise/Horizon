@@ -3279,31 +3279,31 @@ En este bounded context members se muestra una lista donde se puede editar o eli
 
 **FRONTEND**
 
-![alt text](assets\TF\members1.jpg)
+![alt text](assets/TF/members1.jpg)
 
 **BACKEND**
 
-![alt text](assets\TF\members2.jpg)
+![alt text](assetsTF/members2.jpg)
 
 **FRONTEND**
 
-![alt text](assets\TF\members3.jpg)
+![alt text](assets/TF/members3.jpg)
 
 **BACKEND**
 
-![alt text](assets\TF\members4.jpg)
+![alt text](assets/TF/members4.jpg)
 
 **FRONTEND**
 
-![alt text](assets\TF\members5.jpg)
+![alt text](assets/TF/members5.jpg)
 
 **BACKEND**
 
-![alt text](assets\TF\members6.jpg)
+![alt text](assets/TF/members6.jpg)
 
 **BACKEND**
 
-![alt text](assets\TF\members7.jpg)
+![alt text](assets/TF/members7.jpg)
 
 
 
@@ -3314,27 +3314,27 @@ En este bounded context meeting, se conecta con el bounded context Members al mo
 
 **FRONTEND**
 
-![alt text](assets\TF\meeting1.png)
+![alt text](assets/TF/meeting1.png)
 
 **BACKEND**
 
-![alt text](assets\TF\meetingB.png)
+![alt text](assets/TF/meetingB.png)
 
 **FRONTEND**
 
-![alt text](assets\TF\meeting2.png)
+![alt text](assets/TF/meeting2.png)
 
 **BACKEND**
 
-![alt text](assets\TF\meeting3.png)
+![alt text](assets/TF/meeting3.png)
 
 **FRONTEND**
 
-![alt text](assets\TF\meeting4.png)
+![alt text](assets/TF/meeting4.png)
 
 **BACKEND**
 
-![alt text](assets\TF\meeting5.png)
+![alt text](assets/TF/meeting5.png)
 
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
@@ -3347,11 +3347,11 @@ Se muestra la ultima version del Backend del bounded context Members, en donde s
 
 **BACKEND**
 
-![alt text](assets\TF\membersBACK.jpg)
+![alt text](assets/TF/membersBACK.jpg)
 
-![alt text](assets\TF\members8.jpg)
+![alt text](assets/TF/members8.jpg)
 
-![alt text](assets\TF\members9.jpg)
+![alt text](assets/TF/members9.jpg)
 
 
 ## **MEETING BOUNDED CONTEXT**
@@ -3360,11 +3360,11 @@ Se muestra la ultima version del Backend del bounded context Meeting, en donde s
 
 **BACKEND**
 
-![alt text](assets\TF\meetingBACK.png)
+![alt text](assets/TF/meetingBACK.png)
 
-![alt text](assets\TF\meeting3.png)
+![alt text](assets/TF/meeting3.png)
 
-![alt text](assets\TF\meeting5.png)
+![alt text](assets/TF/meeting5.png)
 
 
 
