@@ -54,6 +54,9 @@ Product: ManageWise
 | TB1     | 11/10/2024 | Sergio Gómez             | Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.                                                                                                                                                                                         |
 | TB1     | 8/09/2024  | John Arévalo             | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
 | TF1     | 16/10/2024 | Sergio Gómez             | Desarrolle el bounded context members del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
+ TF1     | 16/10/2024 | Estefano Jaque             | Desarrolle el bounded context issues del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
+  TF1     | 16/10/2024 | Jhon Arevalo             | Desarrolle el bounded context backlog del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
+  TF1     | 16/10/2024 | Valentino Sandoval             | Desarrolle el bounded context meeting del Backend, Landing Page Wireframe, Execution Evidence for Sprint Review , Student Ourtcome.                                                                                                                                                                                         |
 
 ## Project Report Collaboration Insights
 
@@ -61,7 +64,7 @@ Product: ManageWise
 | :-----------------------------------: | :-----------------------------------------------: |
 | https://github.com/Horizon-ManageWise | https://github.com/Horizon-ManageWise/Horizon.git |
 
-TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes al integrarse un nuevo miembro al equipo y aportar con ideas nuevas para la landing page. Por ende, se muestran capturas de los commits del mes pasado y de este mes.
+TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
 
 <br>**Vista de commits: Landing page:**  
 ![alt text](assets/TB1-new/landingc1.jpeg)
@@ -71,7 +74,6 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 ![alt text](assets/TB1-image/commitslandingnet.jpeg)
 
 - Estefano Oscar Jaque Peña: 1
-- Diego Rolin Acuña Tomas: 1
 - John Telesforo Arevalo Meza: 10
 - Valentino Sandoval Paiva: 1
 - Sergio André Gómez Vallejos: 8
@@ -89,7 +91,6 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
 
 - Estefano Oscar Jaque Peña: 55
-- Diego Rolin Acuña Tomas: 52
 - John Telesforo Arevalo Meza: 40
 - Valentino Sandoval Paiva: 59
 - Sergio André Gómez Vallejos: 13
@@ -264,10 +265,6 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 | <p align="center"><img width="180" height="180" src="assets/images/Estefano_profile.jpg"></p> | Soy Estefano Oscar Jaque Peña, tengo 23 años y soy estudiante de la carrera de Ingeniería de Software,<br> una disciplina enfocada en el diseño, desarrollo y gestión de software para solucionar problemas <br>complejos. Desde temprana edad, he sentido fascinación por la tecnología y he buscado aprender <br>constantemente sobre las últimas tendencias en programación. He ampliado mis conocimientos a <br>través de cursos en Python, SQL, y C++, así como también explorando otros lenguajes de programación <br>por mi cuenta. Además, tengo habilidades en el uso avanzado de Excel para análisis de datos y gestión<br> de información. Mi experiencia trabajando en equipos me ha brindado habilidades de comunicación y <br>colaboración que considero fundamentales para contribuir de manera efectiva a proyectos innovadores<br> en el área de la Ingeniería de Software. |
 | --------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-- Diego Rolin Acuña Tomas - U202221436
-
-| <p align="center"><img width="600" height="180" src="assets/images/perfil-Diego.png"></p> | Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han facinado las computadoras y como se mostraban en las peliculas los expertos en informatica. Hoy en dia entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profecional. Tambien conosco los tipos de base de datos, aprendi sql server para la bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos. |
-| ----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Valentino Sandoval Paiva - U20211A962
 
@@ -3271,8 +3268,6 @@ Link del repositorio del testing: https://github.com/Horizon-ManageWise/Testing
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
 
---- EN ESTA SECCION SE ADJUNTARA EVIDENCIA DEL DESARROLLO PARA EL SPRINT-----
-
 ## **MEMBERS BOUNDED CONTEXT**
 
 En este bounded context members se muestra una lista donde se puede editar o eliminar, incluso agregar un nuevo miembro con su rol correspondiente.
@@ -3310,7 +3305,7 @@ En este bounded context members se muestra una lista donde se puede editar o eli
 
 ## **MEETING BOUNDED CONTEXT**
 
-En este bounded context meeting, se conecta con el bounded context Members al mostrar una lista de todos los miembros agregados en dicho bounded context.
+En este bounded context meeting, se conecta con el bounded context Members al mostrar una lista de todos los miembros agregados en dicho bounded context donde se pueden editar los miembros que van a pertenecer a dicha reunion.
 
 **FRONTEND**
 
@@ -3337,9 +3332,36 @@ En este bounded context meeting, se conecta con el bounded context Members al mo
 ![alt text](assets/TF/meeting5.png)
 
 
+## **ISSUES BOUNDED CONTEXT**
+
+En este bounded context Issues, se conecta con el bounded context Members y con backlog. Donde valida que los miembors existentes sean parte del issues, ya que si no hay ningun miembro existente no se pueden crear los issues.
+
+**FRONTEND**
+
+![alt text](assets/TF/is1.png)
+
+![alt text](assets/TF/is2.png)
+
+**BACKEND**
+
+![alt text](assets/TF/is3.png)
+
+**FRONTEND**
+
+![alt text](assets/TF/is4.png)
+
+![alt text](assets/TF/is5.png)
+
+**INTERNALIZACIÓN**
+
+![alt text](assets/TF/is6.png)
+
+![alt text](assets/TF/is7.png)
+
+
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
----DOCUMENTACION CON IMAGENES DEL SPRINT SOBRE EL BACK---
+
 
 ## **MEMBERS BOUNDED CONTEXT**
 
@@ -3367,10 +3389,22 @@ Se muestra la ultima version del Backend del bounded context Meeting, en donde s
 ![alt text](assets/TF/meeting5.png)
 
 
+## **ISSUES BOUNDED CONTEXT**
+
+Se muestra la ultima version del Backend del bounded context Issues, en donde se conecta con el bounded context Members:
+
+**BACKEND**
+
+![alt text](assets/TF/is8.png)
+
+![alt text](assets/TF/is9.png)
+
+
+![alt text](assets/TF/is10.png)
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
---LANDING PAGE EVIDENCE DEPLOY------
+
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
@@ -3379,7 +3413,7 @@ En esta sección, el equipo detalla el proceso de implementación de las activid
 
 Participación del Equipo Todos los miembros del equipo han contribuido de manera significativa en la implementación de los siguientes productos:
 
-Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desarrollo de la landing page, asegurando que la interfaz sea atractiva y funcional. En esta ultima versión de la landing page no se realizo ningun cambio.
+Landing Page: Cada integrante aportó en diferentes aspectos del diseño y desarrollo de la landing page, asegurando que la interfaz sea atractiva y funcional. En esta ultima versión de la landing page no se realizo ningun cambio, por lo que los commits no cambian.
 
 **Landing Page**
 
