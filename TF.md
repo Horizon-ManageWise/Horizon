@@ -3279,31 +3279,31 @@ En este bounded context members se muestra una lista donde se puede editar o eli
 
 **FRONTEND**
 
-![alt text](assets\TF\members1.png)
+![alt text](assets\TF\members1.jpg)
 
 **BACKEND**
 
-![alt text](assets\TF\members2.png)
+![alt text](assets\TF\members2.jpg)
 
 **FRONTEND**
 
-![alt text](assets\TF\members3.png)
+![alt text](assets\TF\members3.jpg)
 
 **BACKEND**
 
-![alt text](assets\TF\members4.png)
+![alt text](assets\TF\members4.jpg)
 
 **FRONTEND**
 
-![alt text](assets\TF\members5.png)
+![alt text](assets\TF\members5.jpg)
 
 **BACKEND**
 
-![alt text](assets\TF\members6.png)
+![alt text](assets\TF\members6.jpg)
 
 **BACKEND**
 
-![alt text](assets\TF\members7.png)
+![alt text](assets\TF\members7.jpg)
 
 
 
@@ -3347,11 +3347,11 @@ Se muestra la ultima version del Backend del bounded context Members, en donde s
 
 **BACKEND**
 
-![alt text](assets\TF\membersBACK.png)
+![alt text](assets\TF\membersBACK.jpg)
 
-![alt text](assets\TF\members8.png)
+![alt text](assets\TF\members8.jpg)
 
-![alt text](assets\TF\members9.png)
+![alt text](assets\TF\members9.jpg)
 
 
 ## **MEETING BOUNDED CONTEXT**
