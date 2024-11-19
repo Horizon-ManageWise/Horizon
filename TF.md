@@ -2169,7 +2169,7 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Sprint Goal & User Stories**||
 | **Sprint 1 Goal**| Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
 | **Sprint 1 Velocity**| ------ |
-| **Sum of Story Points**| 18 |
+| **Sum of Story Points**| 19 |
 
 #### 5.2.1.2 Sprint Backlog 1.
 
@@ -2383,8 +2383,8 @@ En este Sprint 2, durante la reunión de planificación, el equipo seleccionará
 | **Attendees (to planning meeting)** | Alejo Cárdenas, José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar, Sergio Gómez                                                                                                                                                |
 | **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
 | **Sprint 2 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Aplicación Web desde firebase. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 2 Velocity**               | 8 |
-| **Sum of Story Points**             | 18 |
+| **Sprint 2 Velocity**               | 19 |
+| **Sum of Story Points**             | 63 |
 
 #### 5.2.2.2 Sprint Backlog 2.
 
@@ -2462,6 +2462,12 @@ Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f32
 
 | Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
 | ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| https://github.com/Horizon-ManageWise/Horizon/pull/60 |feature/Sprint2-sprintBacklog-services_Documentation_Evidence|75c0c75| Se realizo la agregacion de los videos y paginas| Created the README file.|25/09/2024|
+| https://github.com/Horizon-ManageWise/Horizon/pull/59 | development | 6548432   | feat:Testing Suite Evidence for Sprint Review  | feat:Testing Suite Evidence for Sprint Review  | 25/09/2024|
+| https://github.com/Horizon-ManageWise/Horizon/pull/58 |development|a19b6ac |feature:Sprint Backlog 2 update|Se realizo una actualizacion del product backlog | 25/09/2024|
+| https://github.com/Horizon-ManageWise/Horizon/pull/57 | development | 29ca9f3 i   | feature/execution-evidence-from-sprint-review|feature/execution-evidence-from-sprint-review | 24/09/2024              |
+| https://github.com/Horizon-ManageWise/Horizon/pull/56 | docs/landingpage-deployment-evidence | 7fe8f1f   | feature: added landing page deployment evidence | feature: added landing page deployment evidence | 24/09/2024              |
+| https://github.com/Horizon-ManageWise/Horizon/pull/50 | fix/diagrama-clases | 6e41532 | feature: Add bounded context Reports images and Information | feature: Add bounded context Reports images and Information | 24/09/2024              |
 | Frontend-Web-Application| tp1/Sergio-Gómez   | 4414741cd8540f7c729a524faf2f27e85e011fb2                | feat: add files   |Se añade los archivos al github | 27/09/2024  |
 | Frontend-Web-Application| tp1/Sergio-Gómez   | f742ac5c292376710b9fe719260090f7e3d31efd         | feat: fix a error  | Se arregla un error  | 27/09/2024   |
 | Frontend-Web-Application | tp1/Sergio-Gómez   | 341fced91af0e0632ad2bd4b5249e075c1e12faf          | fead: add section Timeline  | Se añade la sección Timeline con cada detaller y historias de usuario    | 27/09/2024   |
@@ -2725,8 +2731,8 @@ En este Sprint 3, durante la reunión de planificación, el equipo seleccionará
 | **Attendees (to planning meeting)** |  José Antonio, Arevalo Meza, John Telesforo, Sandoval Paiva, Valentino, Jaque Peña, Estefano Oscar, Sergio Gómez                                                                                                                                                |
 | **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
 | **Sprint 3 Goal**                   | Nuestro enfoque está en finalizar el BackEnd individual, cada uno con su Bounded Context lanzarlo localmente. Creemos que esto, nos ayudara a mejorar y a entender el BackEnd. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 3 Velocity**               | 65 |
-| **Sum of Story Points**             | 92 |
+| **Sprint 3 Velocity**               | 63 |
+| **Sum of Story Points**             | 316 |
 
 #### 5.2.3.2 Sprint Backlog 3.
 Para el tercer sprint backlog, recopilamos historias de usuario relacionadas al Backend. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
