@@ -2174,40 +2174,56 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 #### 5.2.1.2 Sprint Backlog 1.
 
 Para el primer sprint backlog, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
-
-![alt text](assets/TB1-new/trello1.png)
+![alt text](assets/TB1-image/Trelloo1.png)
 
 | sprint #| Sprint 1|||||||
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | User<br>Story || Work-Item /Task ||||||
 | ID| Title| ID| Title| Description| Estimation<br>(Hours) | Assigned<br>To| Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
-| US01| Vista General de Beneficios y Funcionalidades | TA001| Implementación de Sección de Beneficios| Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma.| 1 hora| Arevalo Meza, John Telesforo | Done|
-| | | TA002|crear componente angular|| 1 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA003|Integración con el repositorio|| 1 horas| Arevalo Meza, John Telesforo | Done|
-| US02| Enlaces Directos a Redes Sociales| TA003| Implementación de Enlaces a Redes Sociales| Agregar enlaces visuales y funcionales a las redes sociales en la página principal.                                        | 1 horas| Sandoval Paiva, Valentino| Done|
-| | | TA004|crear componente angular|| 1 horas| Sandoval Paiva, Valentino | Done|
-| | | TA005|Integración con el repositorio|| 1 horas| Sandoval Paiva, Valentino | Done|
-| US03| Registro Rápido y Simple| TA006| Diseño e Implementación del Registro de Usuario| Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario.| 1 horas| Jaque Peña, Estefano Oscar| Done|
-| | | TA007|crear componente angular|| 1 horas| Jaque Peña, Estefano Oscar | Done|
-| | | TA008|Integración con el repositorio|| 1 horas| Jaque Peña, Estefano Oscar| Done|
-| US04| Iniciar Sesión Rápido y Visible| TA004| Implementación de Enlace de Inicio de Sesión| Agregar un enlace visible para iniciar sesión en la esquina superior de la página.                                         | 1 horas| Jaque Peña, Estefano Oscar| Done|
-| | | TA007|crear componente angular|| 1 horas| Jaque Peña, Estefano Oscar | Done|
-| | | TA008|Integración con el repositorio|| 1 horas| Jaque Peña, Estefano Oscar | Done|
-| US05| Resumen de la Empresa, Misión y Visión| TA009| Creación de Sección "Acerca de Nosotros"| Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa.| 1 horas| Arevalo Meza, John Telesforo | Done |
-| | | TA010|crear componente angular|| 1 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA011|Integración con el repositorio || 1 horas| Arevalo Meza, John Telesforo | Done|
-| US06| Navegación Clara y Directa en la Página| TA012| Diseño del Menú de Navegación| Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página.| 1 horas| Jaque Peña, Estefano Oscar| Done|
-| | | TA013|crear componente angular||1 horas| Jaque Peña, Estefano Oscar | Done|
-| | | TA014|Integración con el repositorio|| 1 horas| Jaque Peña, Estefano Oscar | Done|
-| US07| Acceder a Preguntas Frecuentes| TA015| Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | 1 horas| Sergio André Gómez Vallejos  | Done|
-| | | TA016|crear componente angular|| 1 horas|Sergio André Gómez Vallejos | Done|
-| | | TA017|Añadir funcionalidad de desplazo al toolbar con respecto a las preguntas (FAQ)  || 1 horas| Sergio André Gómez Vallejos | Done|
-| | | TA018|Verificar si al darle click se ve la respuesta|| 1 horas| Sergio André Gómez Vallejos | Done|
-| | | TA019|Implementar el diseño a las preguntas|| 1 horas| Sergio André Gómez Vallejos | Done|
-| US08| Contactar via correo| TA020| Implementación de Sección de Contacto| Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas. | 1 horas| Arevalo Meza, John Telesforo  | Done|
-| | | TA021|crear componente angular|| 1 horas| Arevalo Meza, John Telesforo | Done|
-| | | TA022|Integración con el repositorio|| 1 horas| Arevalo Meza, John Telesforo | Done|
-
+| Sprint #| Sprint 1|||||||
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| User<br>Story || Work-Item / Task ||||||
+| ID | Title | ID | Title | Description | Estimation<br>(Hours) | Assigned<br>To | Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done) |
+| US01 | Vista General de Beneficios y Funcionalidades | TA001 | Implementación de Sección de Beneficios | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA002 | Ajuste de diseño en CSS | Mejorar la presentación visual de la sección con estilos personalizados y diseño responsivo. | 2 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA003 | Optimización de JavaScript para interactividad | Añadir efectos básicos como hover o transiciones animadas a los elementos. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA004 | Prueba de compatibilidad con navegadores | Verificar que la sección de beneficios funcione correctamente en navegadores modernos. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA005 | Subir los archivos al repositorio | Cargar HTML, CSS, y JS relacionados con la sección de beneficios al repositorio y realizar pruebas. | 2 hora | Arevalo Meza, John Telesforo | Done |
+| US02 | Enlaces Directos a Redes Sociales | TA006 | Implementación de Enlaces a Redes Sociales | Agregar enlaces visuales y funcionales a las redes sociales en la página principal. | 1 hora | Sandoval Paiva, Valentino | Done |
+|  |  | TA007 | Diseño de iconos personalizados | Crear o adaptar iconos visuales para cada red social con estilos en CSS. | 2 hora | Sandoval Paiva, Valentino | Done |
+|  |  | TA008 | Validación de enlaces y funcionalidad | Comprobar que los enlaces redirigen correctamente a las páginas correspondientes. | 1 hora | Sandoval Paiva, Valentino | Done |
+|  |  | TA009 | Implementación de efectos de hover | Añadir animaciones o cambios de color cuando los usuarios pasen el ratón sobre los iconos. | 2 hora | Sandoval Paiva, Valentino | Done |
+|  |  | TA010 | Subir cambios al repositorio | Actualizar los archivos HTML, CSS, y JS relacionados con esta tarea en el repositorio. | 2 hora | Sandoval Paiva, Valentino | Done |
+| US03 | Registro Rápido y Simple | TA011 | Diseño e Implementación del Registro de Usuario | Crear el formulario de registro optimizado para facilitar la creación de nuevas cuentas de usuario. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA012 | Diseño de estilos personalizados para el formulario | Añadir clases y estilos en CSS para destacar campos y botones del formulario. | 2 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA013 | Validación básica en JavaScript | Implementar validación de campos obligatorios, como nombre y correo electrónico. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA014 | Pruebas de funcionalidad del formulario | Probar el formulario con diferentes casos de uso para verificar que funcione correctamente. | 2 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA015 | Subir los archivos al repositorio | Cargar el formulario junto con sus estilos y scripts al repositorio. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+| US04 | Iniciar Sesión Rápido y Visible | TA016 | Implementación de Enlace de Inicio de Sesión | Agregar un enlace visible para iniciar sesión en la esquina superior de la página. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA017 | Mejora de estilos del enlace de inicio de sesión | Personalizar el enlace para que sea visible y accesible desde dispositivos móviles. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA018 | Agregar animación al hacer clic | Implementar una animación al hacer clic en el enlace de inicio de sesión. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA019 | Pruebas en diferentes dispositivos | Verificar la visibilidad y funcionalidad del enlace en móviles y pantallas grandes. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA020 | Subir los cambios al repositorio | Subir el HTML, CSS, y JS relacionados con el enlace de inicio de sesión. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+| US05 | Resumen de la Empresa, Misión y Visión | TA021 | Creación de Sección "Acerca de Nosotros" | Desarrollar la sección "Acerca de Nosotros" con la misión, visión y valores de la empresa. | 2 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA022 | Ajuste de diseño en CSS para textos y layout | Mejorar el diseño de la sección con tipografías, colores y espaciado adecuado. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA023 | Añadir imagen representativa | Incluir una imagen o ícono que refuerce la misión y visión de la empresa. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA024 | Pruebas de diseño responsivo | Verificar que la sección se ajuste bien a diferentes tamaños de pantalla. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA025 | Subir los archivos al repositorio | Cargar HTML, CSS, y JS de esta sección al repositorio y realizar pruebas. | 1 hora | Arevalo Meza, John Telesforo | Done |
+| US06 | Navegación Clara y Directa en la Página | TA026 | Diseño del Menú de Navegación | Implementar un menú de navegación intuitivo que permita a los usuarios moverse fácilmente por las secciones de la página. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA027 | Diseño de estilos personalizados para el menú | Usar CSS para resaltar la sección activa y mejorar la visibilidad del menú. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA028 | Implementación de funcionalidad de scroll | Añadir JavaScript para desplazarse suavemente entre secciones al hacer clic en los enlaces. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA029 | Pruebas de accesibilidad | Comprobar que el menú sea navegable con teclado y compatible con lectores de pantalla. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+|  |  | TA030 | Subir cambios al repositorio | Subir el menú junto con los estilos y scripts al repositorio. | 1 hora | Jaque Peña, Estefano Oscar | Done |
+| US07 | Acceder a Preguntas Frecuentes | TA031 | Implementación de Sección de Preguntas Frecuentes | Crear y diseñar la sección de preguntas frecuentes en la página principal para ayudar a los usuarios a resolver sus dudas. | 1 hora | Sergio André Gómez Vallejos | Done |
+|  |  | TA032 | Diseño de estilos personalizados para FAQ | Personalizar el diseño para que las preguntas y respuestas sean fáciles de leer. | 1 hora | Sergio André Gómez Vallejos | Done |
+|  |  | TA033 | Añadir funcionalidad de colapsar/expandir | Usar JavaScript para que las respuestas se muestren o escondan al hacer clic en una pregunta. | 1 hora | Sergio André Gómez Vallejos | Done |
+|  |  | TA034 | Probar funcionalidad de FAQ | Asegurar que todas las preguntas se desplieguen correctamente en diferentes navegadores. | 1 hora | Sergio André Gómez Vallejos | Done |
+|  |  | TA035 | Subir cambios al repositorio | Subir los archivos de HTML, CSS, y JS relacionados con las FAQ al repositorio. | 1 hora | Sergio André Gómez Vallejos | Done |
+| US08 | Contactar vía correo | TA036 | Implementación de Sección de Contacto | Crear y diseñar la sección "Contáctanos" para que los usuarios puedan contactar rápidamente en caso de problemas. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA037 | Crear diseño de formulario de contacto | Añadir campos básicos como nombre, correo electrónico, y mensaje con diseño en CSS. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA038 | Añadir validación básica en JavaScript | Implementar validaciones para asegurar que los campos requeridos estén completos antes de enviar el formulario. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA039 | Pruebas de funcionalidad del formulario | Verificar que el formulario sea funcional y se envíe correctamente. | 1 hora | Arevalo Meza, John Telesforo | Done |
+|  |  | TA040 | Subir los cambios al repositorio | Subir la sección al repositorio y probar la integración con el resto de la página. | 1 hora | Arevalo Meza, John Telesforo | Done |
 
 Link Trello: https://trello.com/invite/b/66ddd34a3a8f75b32fbdaa52/ATTI22d7710f322c2ce38799efbb188aa9556839E153/si729-2402-ws53-grupo-4-horizon-managewise 
 
@@ -2373,8 +2389,7 @@ En este Sprint 2, durante la reunión de planificación, el equipo seleccionará
 #### 5.2.2.2 Sprint Backlog 2.
 
 Para el segundo sprint backlog, recopilamos historias de usuario relacionadas a la aplicación web. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una aplicación web mas concreta y completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
-
-![alt text](assets/TB1-new/trello1.png)
+![alt text](assets/TB1-image/Trelloo1.png)
 
 | Sprint #  | Sprint 2|||||||
 |--|--|--|--|--|--|--|--|
