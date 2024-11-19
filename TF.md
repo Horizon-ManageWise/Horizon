@@ -3293,7 +3293,7 @@ En este bounded context members se muestra una lista donde se puede editar o eli
 
 **BACKEND**
 
-![alt text](assetsTF/members2.jpg)
+![alt text](assets/TF/members2.jpg)
 
 **FRONTEND**
 
