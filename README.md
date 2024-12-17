@@ -46,6 +46,6 @@ Frontend y backend desplegado:
     Dploy: https://frontend-test-managewise.vercel.app/sign-in (usuario: user, password: user, puede crear su user y password en sign-up)  
 
 Backend:  
-    Repositorio: GitHub - Horizon-ManageWise/managewise-backend  
+    Repositorio: https://github.com/Horizon-ManageWise/managewise-backend  
 
 
