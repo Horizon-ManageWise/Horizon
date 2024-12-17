@@ -34,16 +34,16 @@ Resultados:
 •	Optimización del flujo de trabajo ágil, mejorando la asignación de tareas y la productividad del equipo.
 ---
 Repositorios y despliegues:  
-    Organización: https://github.com/Horizon-ManageWise   
-    Landing page:   
-        Repositorio: https://github.com/Horizon-ManageWise/LandingPage  
-        Deploy: https://horizon-managewise.github.io/LandingPage/   
-      
-    Frontend y backend desplegado:   
-        Repositorio: https://github.com/Horizon-ManageWise/Frontend-Web-Application   
-        Dploy: https://frontend-test-managewise.vercel.app/sign-in (usuario: user, password: user, puede crear su user y password en sign-up)  
-    
-    Backend:  
-        Repositorio: GitHub - Horizon-ManageWise/managewise-backend   
-    
-    Reporte del proecto: https://github.com/Horizon-ManageWise/Horizon.git  
+Organización: https://github.com/Horizon-ManageWise   
+Landing page:   
+    Repositorio: https://github.com/Horizon-ManageWise/LandingPage  
+    Deploy: https://horizon-managewise.github.io/LandingPage/   
+  
+Frontend y backend desplegado:   
+    Repositorio: https://github.com/Horizon-ManageWise/Frontend-Web-Application   
+    Dploy: https://frontend-test-managewise.vercel.app/sign-in (usuario: user, password: user, puede crear su user y password en sign-up)  
+
+Backend:  
+    Repositorio: GitHub - Horizon-ManageWise/managewise-backend   
+
+Reporte del proecto: https://github.com/Horizon-ManageWise/Horizon.git  
