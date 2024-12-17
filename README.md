@@ -1,21 +1,16 @@
-Plataforma de Gestión Ágil para Startups – ManageWise
+Plataforma de Gestión Ágil para Startups – ManageWise  
 
-Integrantes:
+Integrantes:  
 - Estefano Oscar Jaque Peña - u202225466
 - Diego Rolin Acuña Tomas - u202221436
 - John Telesforo Arevalo Meza - u202117377
 - Valentino Sandoval Paiva - u20211a962
 - Sergio André Gómez Vallejos - u20221d401
-
-Descripción: Desarrollo de una plataforma web diseñada para startup en la organización de equipos de desarrollo de software y en la gestión de proyectos con metodología ágil Scrum. La herramienta incluye módulos como Statistics, Backlog, Issues, Members y Meetings, proporcionando visibilidad en tiempo real y funcionalidades avanzadas de gestión.
-
-Rol: Líder de equipo.
-•	Coordiné las tareas del equipo, asignando responsabilidades y ofreciendo soporte técnico.
-•	Me encargué del despliegue del frontend ,backend, integrándolos con éxito.
-•	Diseñé y desarrollé el módulo Issues tanto en el backend como en el frontend, implementando operaciones CRUD con una arquitectura robusta y escalable además de lista de eventos para cada issue con su respectivo CRUD .
-•	Implementé la funcionalidad de sign-in y sign-up utilizando IAM (Identity and Access Management) en el backend y frontend, asegurando autenticación y gestión segura de usuarios.
-
-Tecnologías utilizadas:
+---
+Descripción:  
+Desarrollo de una plataforma web diseñada para startup en la organización de equipos de desarrollo de software y en la gestión de proyectos con metodología ágil Scrum. La herramienta incluye módulos como Statistics, Backlog, Issues, Members y Meetings, proporcionando visibilidad en tiempo real y funcionalidades avanzadas de gestión.
+---
+Tecnologías utilizadas:  
 •	Frontend: Node.js, Angular, JavaScript.
 •	Backend: Java, Spring Boot Framework, patrones de diseño (CQRS, Domain-Driven Design, Anticorruption Layer).
 •	Bases de Datos: PostgreSQL/MySQL, gestionadas y visualizadas con PgAdmin 4/MySQL Workbench.
@@ -24,8 +19,8 @@ Tecnologías utilizadas:
 •	Pruebas y documentación: Swagger, Visual Studio Code.
 •	Gestión de proyectos: Trello, utilizado para planificar tareas y administrar sprints bajo la metodología Scrum.
 •	Entornos de desarrollo: IntelliJ IDEA (frontend y backend), Visual Studio Code(landing page).
-
-Características del proyecto:
+---
+Características del proyecto:  
 •	Uso de Programación Orientada a Objetos (POO) para diseñar una arquitectura modular y escalable en backend y frontend.
 •	Módulo Issues: Incluye creación, lectura, actualización y eliminación (CRUD) de tareas con endpoints probados y documentados.
 •	Despliegue:
@@ -34,21 +29,21 @@ Características del proyecto:
 •	Patrones de software: Implementación de CQRS, Domain-Driven Design y ACL para una arquitectura escalable y eficiente.
 •	Colaboración en equipo: Uso de GitHub para versionado y manejo organizado de ramas con Gitflow.
 
-Resultados:
+Resultados:  
 •	Creación de una herramienta funcional que ofrece a startups visibilidad y control sobre sus proyectos.
 •	Optimización del flujo de trabajo ágil, mejorando la asignación de tareas y la productividad del equipo.
 
-Repositorios y despliegues:
-Organización: https://github.com/Horizon-ManageWise 
-Landing page: 
-    Repositorio: https://github.com/Horizon-ManageWise/LandingPage
-    Deploy: https://horizon-managewise.github.io/LandingPage/ 
+Repositorios y despliegues:  
+Organización: https://github.com/Horizon-ManageWise   
+Landing page:   
+    Repositorio: https://github.com/Horizon-ManageWise/LandingPage  
+    Deploy: https://horizon-managewise.github.io/LandingPage/   
+  
+Frontend y backend desplegado:   
+    Repositorio: https://github.com/Horizon-ManageWise/Frontend-Web-Application   
+    Dploy: https://frontend-test-managewise.vercel.app/sign-in (usuario: user, password: user, puede crear su user y password en sign-up)  
 
-Frontend y backend desplegado: 
-    Repositorio: https://github.com/Horizon-ManageWise/Frontend-Web-Application 
-    Dploy: https://frontend-test-managewise.vercel.app/sign-in (usuario: user, password: user, puede crear su user y password en sign-up)
+Backend:  
+    Repositorio: GitHub - Horizon-ManageWise/managewise-backend   
 
-Backend:
-    Repositorio: GitHub - Horizon-ManageWise/managewise-backend 
-
-Reporte del proecto: https://github.com/Horizon-ManageWise/Horizon.git
+Reporte del proecto: https://github.com/Horizon-ManageWise/Horizon.git  
