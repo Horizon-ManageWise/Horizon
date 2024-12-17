@@ -36,6 +36,7 @@ Resultados:
     
 Repositorios y despliegues:  
 Organización: https://github.com/Horizon-ManageWise   
+Reporte del proyecto: https://github.com/Horizon-ManageWise/Horizon.git  
 Landing page:   
     Repositorio: https://github.com/Horizon-ManageWise/LandingPage  
     Deploy: https://horizon-managewise.github.io/LandingPage/   
@@ -47,4 +48,4 @@ Frontend y backend desplegado:
 Backend:  
     Repositorio: GitHub - Horizon-ManageWise/managewise-backend   
 
-Reporte del proecto: https://github.com/Horizon-ManageWise/Horizon.git  
+
