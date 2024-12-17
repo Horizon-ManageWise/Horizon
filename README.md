@@ -8,7 +8,10 @@ Integrantes:
 - Sergio André Gómez Vallejos - u20221d401  
 ---  
 Descripción:  
+
 Desarrollo de una plataforma web diseñada para startup en la organización de equipos de desarrollo de software y en la gestión de proyectos con metodología ágil Scrum. La herramienta incluye módulos como Statistics, Backlog, Issues, Members y Meetings, proporcionando visibilidad en tiempo real y funcionalidades avanzadas de gestión.
+
+Informe del proyecto: <a href="assets/TF/TF.pdf" download="TF.pdf">Descargar PDF</a>
 ---  
 Tecnologías utilizadas:  
 •	Frontend: Node.js, Angular, JavaScript.
