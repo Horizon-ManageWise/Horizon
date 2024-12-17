@@ -9,7 +9,11 @@ Integrantes:
 ---  
 Descripción:  
 Desarrollo de una plataforma web diseñada para startup en la organización de equipos de desarrollo de software y en la gestión de proyectos con metodología ágil Scrum. La herramienta incluye módulos como Statistics, Backlog, Issues, Members y Meetings, proporcionando visibilidad en tiempo real y funcionalidades avanzadas de gestión.
----  
+
+Informe del proyecto: <a href="assets/TF/TF.pdf" download="TF.pdf">Visualizar PDF</a>
+
+---
+
 Tecnologías utilizadas:  
 •	Frontend: Node.js, Angular, JavaScript.
 •	Backend: Java, Spring Boot Framework, patrones de diseño (CQRS, Domain-Driven Design, Anticorruption Layer).  
