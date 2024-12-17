@@ -1,5 +1,5 @@
-Plataforma de Gestión Ágil para Startups – ManageWise  
-
+<h3>Plataforma de Gestión Ágil para Startups – ManageWise</h3>  
+---
 Integrantes:  
 - Estefano Oscar Jaque Peña - u202225466
 - Diego Rolin Acuña Tomas - u202221436
