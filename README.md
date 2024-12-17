@@ -13,16 +13,14 @@ Desarrollo de una plataforma web diseñada para startup en la organización de e
 Informe del proyecto: <a href="assets/TF/TF.pdf" download="TF.pdf">Visualizar PDF</a>
 
 ---
-
 Tecnologías utilizadas:  
-•	Frontend: Node.js, Angular, JavaScript.
-•	Backend: Java, Spring Boot Framework, patrones de diseño (CQRS, Domain-Driven Design, Anticorruption Layer).  
-•	Bases de Datos: PostgreSQL/MySQL, gestionadas y visualizadas con PgAdmin 4/MySQL Workbench.  
-•	Control de versiones: Git y GitHub, siguiendo la metodología Gitflow.  
-•	Autenticación: Integración de IAM para manejo de identidad, con soporte para sign-in y sign-up.  
-•	Pruebas y documentación: Swagger, Visual Studio Code.  
-•	Gestión de proyectos: Trello, utilizado para planificar tareas y administrar sprints bajo la metodología Scrum.  
-•	Entornos de desarrollo: IntelliJ IDEA (frontend y backend), Visual Studio Code(landing page).  
+• Frontend: Node.js, Angular, JavaScript. • Backend: Java, Spring Boot Framework, patrones de diseño (CQRS, Domain-Driven Design, Anticorruption Layer).  
+• Bases de Datos: PostgreSQL/MySQL, gestionadas y visualizadas con PgAdmin 4/MySQL Workbench.  
+• Control de versiones: Git y GitHub, siguiendo la metodología Gitflow.   
+• Autenticación: Integración de IAM para manejo de identidad, con soporte para sign-in y sign-up.  
+• Pruebas y documentación: Swagger, Visual Studio Code.  
+• Gestión de proyectos: Trello, utilizado para planificar tareas y administrar sprints bajo la metodología Scrum.  
+• Entornos de desarrollo: IntelliJ IDEA (frontend y backend), Visual Studio Code(landing page).  
 ---  
 Características del proyecto:  
 •	Uso de Programación Orientada a Objetos (POO) para diseñar una arquitectura modular y escalable en backend y frontend.  
