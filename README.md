@@ -15,6 +15,7 @@ Informe del proyecto: <a href="assets/TF/TF.pdf" download="TF.pdf">Visualizar PD
 ---
 
 Tecnologías utilizadas:  
+
 •	Frontend: Node.js, Angular, JavaScript.
 •	Backend: Java, Spring Boot Framework, patrones de diseño (CQRS, Domain-Driven Design, Anticorruption Layer).  
 •	Bases de Datos: PostgreSQL/MySQL, gestionadas y visualizadas con PgAdmin 4/MySQL Workbench.  
@@ -25,6 +26,7 @@ Tecnologías utilizadas:
 •	Entornos de desarrollo: IntelliJ IDEA (frontend y backend), Visual Studio Code(landing page).  
 ---  
 Características del proyecto:  
+
 •	Uso de Programación Orientada a Objetos (POO) para diseñar una arquitectura modular y escalable en backend y frontend.  
 •	Módulo Issues: Incluye creación, lectura, actualización y eliminación (CRUD) de tareas con endpoints probados y documentados.  
 •	Despliegue:  
@@ -34,10 +36,12 @@ Características del proyecto:
 •	Colaboración en equipo: Uso de GitHub para versionado y manejo organizado de ramas con Gitflow.  
 ---  
 Resultados:  
+
 •	Creación de una herramienta funcional que ofrece a startups visibilidad y control sobre sus proyectos.  
 •	Optimización del flujo de trabajo ágil, mejorando la asignación de tareas y la productividad del equipo.  
 ---  
 Repositorios y despliegues:  
+
 Organización: https://github.com/Horizon-ManageWise   
 Landing page:   
     Repositorio: https://github.com/Horizon-ManageWise/LandingPage  
