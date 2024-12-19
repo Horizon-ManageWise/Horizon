@@ -43,7 +43,7 @@ Landing page:
 
 Frontend y backend desplegado:   
     Repositorio: https://github.com/Horizon-ManageWise/Frontend-Web-Application   
-    Dploy: https://frontend-test-managewise.vercel.app/sign-in (usuario: user, password: user, puede crear su user y password en sign-up)  
+    Deploy: https://frontend-test-managewise.vercel.app/sign-in (usuario: user, password: user, puede crear su user y password en sign-up)  
 
 Backend:  
     Repositorio: https://github.com/Horizon-ManageWise/managewise-backend  
